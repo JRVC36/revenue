@@ -98,6 +98,15 @@ Full asks with "what I need back" in `docs/research-gaps-and-questions.md`; the 
      whatever the mortgage instrument actually looked like there (merchant's bond, bond for title, deed of
      trust). `OPEN` **R-14**.
 
+21. **The epilogue's models (R-12).** Three things, each findable in a day: (i) a **western-NC agent's
+     paragraph** in the Commissioner of Internal Revenue's annual report, 1881 or 1882 — I need the sentence
+     rhythm of a man reporting seizures to men who can dismiss him; (ii) **one real county-history sentence**
+     about enforcing the revenue law in the mountains, with its date wrong, from a county we might pick in
+     Q-12; (iii) the **title and publisher's line** of the 1879–81 Redmond novelty, plus one Beadle title page
+     for the layout (price line, series number, the words "A Ten-Cent Novel" or not). `MINOR` for the story,
+     `MAJOR` for the last ten pages, because the ending is typography and typography is where a forger shows.
+     *What I need back:* quotations or photographs, not summaries. `OPEN` **R-21**.
+
 20. **How a day book became evidence** — see the long version in `docs/research-gaps-and-questions.md`
      (R-20). `MAJOR`: it is the hinge of the trial chapter under R-11, and the fix if unanswered is written
      there (demote exhibit to testimony).

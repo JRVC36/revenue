@@ -27,6 +27,24 @@ transcript, do not cite.
 normalized CRLF→LF and the BOM dropped. Nothing else was touched — no re-wrapping, no spelling fixes, no
 heading syntax added, so line numbers still let the author point at the Drive document.
 
+## 1b. The epilogue's three artifacts (R-12) — what each must be, and where the real one is
+
+The ending is three documents. Each needs a **model** before it needs a draft, because the difference between
+pastiche and period is that pastiche imitates the feeling and period imitates the layout, the stock, and the
+editor's habits.
+
+| Artifact | Must contain | Model to find | Why that one |
+|---|---|---|---|
+| **E1 — the agent's report** | Numbers; "not ordered by me and not prevented"; the returned allowance marked *person unknown*; **Elisha Councill** spelled right; exactly one sentence of belief | The **Annual Report of the Commissioner of Internal Revenue**, 1881 and 1882 — the sections listing seizures/operations by district, and any narrative appendix from a western-NC agent | The Commissioner's reports were printed and bound every year and are digitized (GPO/HAathiTrust); an agent's paragraph is written in the *only* voice that matters here — a man reporting to men who can fire him |
+| **E2 — the county history** | One paragraph; the raid dated **1877**; Caleb named as the leader of nothing in particular; the revenue law "enforced with spirit" | Any one **North Carolina county history of the 1880s–1890s** (the "historical and statistical" pattern, D. L. Barquist-type compilations; Watauga, Caldwell, or Burke if we pick one of those in Q-12) — and specifically its *internal improvements* chapter, which is where a rebellion gets mentioned as a nuisance | Those volumes were subscription enterprises whose entries were bought; the wrong date is not a mistake, it is a purchase. This is the artifact's whole meaning |
+| **E3 — the dime-novel title page** | Title, publisher's line, four chapter titles, the last one a lie | **The 1879–81 Redmond print afterlife**: the novelty about Lewis R. Redmond (the paper found in his pockets in 1881 was itself a piece of campaign fiction), plus any Beadle/DeWitt title page from 1878–82 for the *setting* — rules, brackets, price line, "No. 1,437" | Redmond is the documented case of a North Carolina mountain outlaw being turned into a title page within a year, which is the fact R-12 depends on being possible |
+
+**Do not draft E1–E3 from memory.** If the models cannot be pulled, the artifacts print as `INVENT` with the
+layout described but not imitated, and `docs/period-audit.md` gets a line saying so — because a typeset
+parody that is wrong about the price line is funnier than the book wants it to be.
+
+---
+
 ## 2. Where to go in the archives, by research question
 
 Ordered against the canon §9 list. These are the concrete retrievals — this is the part of the plan

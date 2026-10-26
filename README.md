@@ -24,7 +24,7 @@ canon/
 docs/
   author-style-guide.md           standing craft rules (verbatim from Drive; repo copy wins)
   outline-v1-verbatim.md          the outline as written in Drive, unaltered, with line numbers
-  research-gaps-and-questions.md  the research asks handed back to the author (20 asks, 23 questions)
+  research-gaps-and-questions.md  the research asks handed back to the author (21 asks, 23 questions)
   period-audit.md                 verification ledger: every year, law, and object the book prints
   pitch-and-blurb.md              one line, paragraph, genre promise, blurb
   beta-reader-note.md             the one-page questionnaire sent with partials
@@ -85,6 +85,10 @@ knows what shape the book is in:
    reach — and why the trial is about her knowledge rather than his debt. It also corrected R-6: the barn is
    on her freehold, adjoining Joshua's mortgaged farm, and the government's second move is to argue that
    those two places are one place.
+12. **R-12 — The book ends in typography.** Three documents after the last human scene: the agent's 1882
+   report (with the boy's name spelled right), a county history with the year wrong by two, and the title page
+   of a dime novel about Caleb. No author's note, no apology for accuracy — the verification record stays in
+   this repo, where it does its work.
 11. **R-11 — Hoss Tyler is a creditor, not a Judas, and Harper is the man who said *don't*.** The day book
    is taken, not bought, and Tyler's own protest authenticates it; the barn burned in Act Two belongs to the
    one neighbor who was right in Act One. Being right is not a defense in this book, only a forecast.

@@ -396,6 +396,60 @@ Consequences, binding:
 
 ---
 
+*R-12 `AUTHOR` (2026-10-26) — the ending is diegetic print and nothing else: no author's note, no
+narrator's future tense.** After ch. 26 (which stops in 1881, per R-5), the book carries the reader past the
+date in **three documents only**, each in the voice of the institution that wrote it. This is the ruling that
+makes the epilogue's form the book's argument: the cove has no monument except an agent's filing.
+
+**The three artifacts, in this order, and nothing between them:**
+
+1. **The report.** William Parrish to the Commissioner of Internal Revenue, dated **Washington, D.C., or
+   Asheville?** — see the open item — but signed from the district, **1882**, on the subject of the western
+   district's 1881 operations. In it: the stills seized, the convictions, the burning "not ordered by me and
+   not prevented," the informer's allowance returned uncashed with the notation *person unknown* (R-10),
+   and **Elisha Councill, killed while carrying whiskey he did not make**, spelled right. One sentence of his
+   own, and no more than one: that the people of these mountains are not disaffected so much as
+   unaccounted for, which is the truest thing anybody in the book says and it is said in the language of a
+   man asking for a raise.
+2. **The county history.** A paragraph from an 1880s–1890s county history — the type every western NC county
+   got — that narrates the same affair in the register of improvement: the revenue law "was enforced with
+   spirit," a party of desperadoes, and **one date wrong by exactly two years** (the raid placed at 1877,
+   before the agent arrived). Caleb is named, wrongly, as the leader of nothing in particular. This is where
+   the book's other half lives: the mountain's own story, told by the people who bought the press.
+3. **The title page of a dime novel.** Not an excerpt, not a passage — **a cover and a chapter list**, set
+   as front matter was set: `CALEB BRENNAN, THE BOY BANDIT OF THE BLUE RIDGE; or, The Whiskey War in the
+   Mountains.` Four chapters, no more, and the last title is the lie the whole book was written to make
+   audible: `CHAP. IV.—HOW HE SAVED HIS BROTHER, AND THE GOLD OF THE GOVERNMENT.` Nothing in the cove is
+   named correctly in it, and it sells.
+
+**Why the third artifact is a title page and not prose:** the outline's epilogue options were "titles or
+voiceover," and R-1 translated voiceover into interiority. A title page is the one form that lets the book
+finish in **typography** rather than in a voice — it is the only ending available to a novel whose rule is
+that nobody explains anything. (It also copies the real thing exactly: Redmond's own 1879–81 pamphlet-and-
+dime-novel afterlife is documented, and that is what this is for.)
+
+**Binding handling rules:**
+- **No author's note, no acknowledgement of accuracy, inside the book.** The verification record stays in
+  `docs/period-audit.md`, which is where it does its work. If a reader wants to know what is true, that is a
+  question for the back matter of a *second* printing, and the author can decide that when there is one.
+- **The artifacts are never quoted back.** No character reads the report aloud, no one mentions the county
+  history, and nobody in the cove ever hears of the dime novel. The distance between the three documents and
+  the last human scene **is** the ending.
+- **Aftermath, apportioned:** everything the outline wanted to say in its optional epilogue scenes goes into
+  these three documents and nowhere else — Jacob's 1895 death **does not appear** (the book has no right to
+  it; if it must exist, it belongs in the county history's next sentence, in the past perfect, about a man
+  nobody there remembers the name of), Margaret's fate is a line in the report ("the tract remains in
+  contest"), and Caleb's is the dime novel's existence. Joshua gets nothing. He is the one the documents
+  cannot reach.
+- **`INVENT` register discipline:** the report must not be *literary*. Sentences with subjects like "the
+  operations," verbs like "resulted in," and no adjectives at all. The county history may be literary in the
+  worst way. The dime novel may be the only ecstatic prose in the book, and it is a list.
+- **Title page date stays 1878–1881** (R-5). The epilogue's documents may carry later dates *within*
+  themselves; the frame does not move. This is the rule that makes R-12 legal, so it is written twice on
+  purpose.
+
+---
+
 ## 12. Chapter map v0 — POV-tagged (drafted against R-4)
 
 Twenty outline beats in, twenty-seven chapters out. A beat that needs two chapters gets two; a beat that
@@ -433,7 +487,9 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 24 | The Return | J | Jacob's Release and Return | Two years out; the farm gone or halved (Q-4); the law is not cruel, it is complete. |
 | 25 | The Mill Sold | J | Joshua's End | He sells, he leaves; the only Brennan who dies where the streets have names. Under R-8 this is a father leaving the son he raised as his brother's, and neither says so: no look back at the cove, no message. |
 | 26 | The Far Side of the Ridge | J | (new, R-5) | The mill sold, the walk up, a blast from the wrong side of a ridge — and he does not go and look. The book stops there. No engine, no rails, no lesson. |
-| — | *Print* (optional epilogue) | — | Epilogue (Q-9) | If kept: paper only — a county history, a campaign pamphlet, or a dime-novel chapter titled for Caleb. Under R-5 this is the **only** place a date past 1881 may be printed, and the title page date follows it. `OPEN` |
+| E1 | The Report | — (document) | Epilogue, ruled R-12 | Parrish to the Commissioner, 1882: the numbers, the burning "not ordered by me and not prevented," the uncashed order, and Lish Councill spelled right. One sentence of feeling, in the language of a man asking for a raise. |
+| E2 | The County History | — (document) | Epilogue, ruled R-12 | A paragraph of improvement-prose that gets the year wrong by two and names Caleb as the leader of nothing in particular. |
+| E3 | The Title Page | — (typography) | Epilogue, ruled R-12 | *Caleb Brennan, the Boy Bandit of the Blue Ridge* — four chapter titles, the last a lie. The book ends in typography, the only ending a novel with this rule is allowed. |
 
 **Accounting (26 chapters):** Joshua 22 whole chapters plus the interior of the shared ones; Margaret 4
 whole (8, 10, 20, 23) — about 15% by count, which lands near the ruled ~20% by words only if her chapters
@@ -711,7 +767,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | ✅ RULED 2026-10-26 → **R-9**: the Bureau audits him; the unsigned order becomes an exhibit in his own defense; the complaint closes without finding and he keeps the office |
 | Q-7 | Matthew's motive, concretely — and does he ever get paid? | ✅ RULED 2026-10-26 → **R-10**: the store, the day, the paper — granted, granted, refused; paid months late by an order returned "person unknown." It also pre-decides half of Q-8 (Tyler's day book is the exhibit) |
 | Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | ✅ RULED 2026-10-26 → **R-11**: both promoted; Tyler a creditor, not a Judas — his own protest authenticates the day book; Harper says *don't* in ch. 5 and loses his barn in ch. 13 for having been right |
-| Q-9 | Frame or no frame for the epilogue (author's note / fake print / ironic dime-novel voice)? | Last 10 pages |
+| Q-9 | Frame or no frame for the epilogue? | ✅ RULED 2026-10-26 → **R-12**: diegetic print only, three artifacts (report / county history / dime-novel title page), no author's note, no in-book accuracy apology; title-page date stays 1878–1881 |
 | Q-10 | Which federal court sits where, on what term date, in 1879? | Trial chapter |
 | Q-11 | Is "Whistlers" sourced or invented-and-owned? | Act Two network |
 | Q-12 | Which county is the cove — Watauga, Mitchell, or Caldwell? | Records, deed trail |
@@ -747,6 +803,10 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   mill reserves a right of way for "Caleb, my brother's son" — a phrase that means nothing to the clerk and
   everything to the reader. If a reader assembles it before ch. 23, the planting worked; if the narration
   ever explains it, cut the explanation, not the fact.
+- **The epilogue's three errors are fixed, and they are the only errors allowed to persist** (R-12). The
+  county history's wrong year is **1877**, always, in every draft; the report spells **Elisha Councill**;
+  the dime novel's fourth chapter title is the sentence quoted in §1 and is never varied. If a revision
+  "corrects" the county history, it has stopped being a county history.
 - **The day book (R-11).** Two entries and their dates are fixed for the whole book: **"by order of the
   agent"** (in Tyler's hand, the day it happened, because he is the one who writes) and the **pair of boys'
   shoes** dated to a year Jacob had one child. Either one moving in date or wording shifts Act Three's
@@ -822,3 +882,11 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   ages (`INVENT`: Tyler 63 b. ~1815, widower, one son in Tennessee; Harper 60 b. ~1819, four sons); added the
   day-book and single-quoted-*don't* anchors to §10. New ask **R-20**: how a merchant's day book reached
   evidence in a WDNC revenue matter, 1879–82, and whether NC law let a book speak for itself. | agent |
+
+| 2026-10-26 | **Q-9 ruled → R-12** (diegetic print only: report, county history, dime-novel title page; no
+  author's note). Wrote the three artifacts into §1 as a specification and into §12 as E1–E3, replacing the
+  outline's optional epilogue scenes; assigned the fates (Jacob's 1895 death struck, Margaret one line,
+  Caleb a title page, Joshua nothing); fixed the three deliberate errors in §10; confirmed the subtitle
+  stays 1878–1881. `docs/bibles/related-documents-bible.md` gets a new §1b with the models to find, and
+  period-audit gets ask **R-21** (a real WDNC agent's annual-report paragraph, one western-NC county history's
+  actual sentence about the revenue law, and the 1879 Redmond novelty's title and publisher). | agent |
