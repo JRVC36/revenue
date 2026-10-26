@@ -9,7 +9,7 @@ prose style.** Same sentence architecture for everyone. What changes is what eac
 
 ---
 
-## Jacob Brennan · b. ~1833 · 45 in 1878 · distiller · the younger brother (R-6)
+## Jacob Brennan · b. ~1833 · 45 in 1878 · distiller · the younger brother (R-6) · sitting on his wife's land (R-7)
 
 **Notices:** water, grade, drainage, the sound a fire makes when the wood is wet. Weather as arithmetic,
 not mood. He reads a man by what the man does with his hands when he thinks no one is pricing him.
@@ -18,8 +18,8 @@ not mood. He reads a man by what the man does with his hands when he thinks no o
 independence, he wants the cove's consent.
 **Will not say:** that he knows the still's location is itself the offense, and chose it anyway.
 **Signature action:** fixes something that is not broken before he leaves a room.
-**Engine hook (§canon R-3 + R-6):** he owns nothing the libel can reach, which is why he is calm in
-Act One. The tract in the libel is **his elder brother's**. Every scene of his should still have the ground
+**Engine hook (§canon R-3 + R-6 + R-7):** he owns nothing the libel can reach, which is why he is calm in
+Act One. The tract in the libel is **his wife's** — and the encumbered farm next door is his elder brother's. Every scene of his should still have the ground
 under it — literally — but the ground belongs to Joshua, and that is the fact Jacob never says out loud
 because saying it would mean admitting the cost of his own competence falls on somebody else.
 **Legal fact he cannot use:** he cannot register. Bond approval required an owner in fee *unencumbered*,
@@ -31,13 +31,19 @@ through the mortgage holder's signature. One flat line from the miller in Act On
 
 **Notices:** what a room will cost to put back. Who has eaten. Which jug is already missed.
 **Wants:** the paperwork. She is the only character who reads the notices posted at the courthouse,
-because the notices are about her dower.
-**Will not say:** that she knew before the raid. Whether she knew is `OPEN` and it is the best
-suspense the outline is not currently using.
+because the notices are against her freehold — a woman who has spent her life being the reason a debt could
+not reach a family is suddenly the defendant in a case about her own dirt.
+**Will not say:** that she knew before the raid. Under R-7 this is no longer atmosphere: *Stowell* protects
+an owner who did not know and *Dobbins* does not protect one who merely did not ask, so whether Margaret
+knew is the single fact the trial turns on and she is the only witness who can supply it. Decide what she
+actually knew **before** drafting ch. 8; the answer determines whether Act One is dramatic irony or a
+woman making a calculation with her husband's freedom priced against forty acres.
 **Signature action:** keeps the household's accounts in a book nobody else can read, and it turns out to
 be evidence.
-**Engine hook:** if she holds dower or a joined deed, she can *convey* — the one act no man in the book
-can perform for her. Q-4 in canon §9 decides how much power she is allowed.
+**Engine hook (ruled: canon R-7):** she owns the ground the still stands on — her father's tract, held in
+fee as a married woman's separate estate, beyond her husband's creditors by the 1868 constitution. So she
+can *convey*, which is the one act no man in the book can perform for anyone, and the government's libel is
+against **her** land. Her knowledge, not her loyalty, is the trial's question.
 **Currently in the outline:** 6 mentions against Parrish's 39, and she has one good scene (the nod in
 the courthouse). That scene is the seed.
 **Ruled (canon R-4): she is the ~20% secondary POV.** Her chapters are the ones where *paper* decides

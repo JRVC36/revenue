@@ -156,6 +156,7 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | NOTE | Act [IV]+: THE RECKONING | every act title unique (canon 10) |
 | NOTE | \b\d+\b | numerals only in headings/ledgers/NOTES; spelled out in prose |
 | NOTE | \b1[6789]\d\d\b | every exact year needs a line in docs/period-audit.md |
+| NOTE | \bdower\b\|\bcurtesy\b\|\bprivy examination\b\|\bseparate estate\b\|\bhomestead exemption\b | R-7 legal terms: usable, but each needs its period-audit row and a citation before printing; "dower" in particular must not be used of Margaret |
 | FLAG | \b(locomotive|the engine|whistle|depot|the train|railroad|the cars|railroad track|roundhouse)\b | R-5: the company, the grade and the location may be named; nothing may be *seen* doing it. Every hit is a decision |
 | FLAG | \b(Parrish|Caleb|Matthew|Harper|Jacob|Asa|Eudy|Frank)\b[^.?!"\n]{0,45}\b(thought|knew|felt|realized|understood|wondered|hoped|was afraid|was glad|was sorry|wanted to say)\b | R-4 POV law: only Joshua and Margaret get interiority — put the fact in an object, a report, or a silence |
 | NOTE | \b(Reconstruction|carpetbagger|scalawag|Loyal League|ironclad oath|disenfranchis\w*|the late war)\b | the deleted backstory (canon 7) / Q-13: must exist for a reader without ever becoming the subject |

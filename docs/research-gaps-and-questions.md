@@ -294,6 +294,28 @@ mid-century probate and deed transitions in Watauga (or Mitchell/Caldwell, per Q
 place passing to a named eldest son, and one example of the form of the security a storekeeper took. If it
 is all beyond reach, `INVENT` it and the audit marks it `INVENT` with the date removed from the text.
 
+### R-15 — The deed that made Margaret's land hers (this one is load-bearing now)
+
+**Why it exists now:** Q-4 was ruled as *Margaret holds her father's tract in fee as a married woman's
+separate estate, and the still sits on it* (canon R-7). The whole trial now turns on a document. What I need
+back is the paper, not the doctrine: (i) the instrument by which the father's land reached her — will, deed
+of gift, or sale for debts — and its registration year in the county we pick (Q-12 still open); (ii) one
+**complete sample certificate of private examination** from that clerk's book, so the officer's wording is
+copied rather than invented; and (iii) whether that clerk's book was burned, moved, or reconstructed in the
+war — because if the records were lost, "the certificate is missing" stops being a plot device and becomes
+a fact of life, which is a different and possibly better ending.
+
+**What I will do if it cannot be found:** keep R-7 exactly as ruled (the 1868 constitution is documented)
+and mark the specific deed `INVENT` with no date printed in the text.
+
+### R-16 — The exemption question, asked only so it can be answered and dropped
+
+The NC homestead exemption's dollar amount in 1878–81, and whether it could be pleaded against the United
+States at all (the *Watson v. Merrill* / *Cole v. Berry* line). Under R-7 Margaret does not need it, so the
+only reason to research it is to be certain the book never implies a state exemption stops a federal
+forfeiture. *What I need back:* one citation, or a sentence saying "the exemption was $___ then and did not
+bind the United States." `MINOR`.
+
 ## 3. Questions: direction, characters, style, voice
 
 ### Direction

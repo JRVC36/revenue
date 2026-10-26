@@ -9,27 +9,33 @@ send it to the author now.**
 
 ## 1. The one line
 
-**In the mountains of North Carolina, 1878, a widow's farm is the collateral on a still she never
-agreed to hide — and the law does not care whether she knew.**
+**In the mountains of North Carolina, 1878, the only acreage in the hollow that no creditor can reach
+belongs to a man's wife — and that is exactly where the still stands.**
 
 ## 2. The paragraph (back-cover length)
 
 > The tax is ninety cents on the proof gallon. A bushel of corn makes two and a half gallons and costs
 > a quarter. That is the whole book in arithmetic.
 >
-> Jacob Brennan is the younger brother, and he has no land of his own: the still sits in his elder
-> brother's barn, on acreage mortgaged to the merchant who grinds the corn. A still on land with a lien on
-> it cannot be registered at all — the law required the creditor's written consent — so the only lawful
-> road was shut before anyone chose it. When a revenue agent arrives with a list and a ledger, the cove does
-> what it has always done: it does not know. The trick does not work on Joshua Brennan, because an owner in
-> fee is presumed to know what happens under his own roof, and he is the owner in fee. He came home from the
-> war a farmer and went into the militia an officer; he keeps the peace by keeping the books, and pays off
-> the mortgage in installments he never explains. Matthew, nineteen, wants out — and the government's own
-> informer law has quietly stopped paying informers, which he will learn after he has learned everything.
+> Jacob Brennan is the younger brother and owns no land, so the still sits on the only ground in the cove his
+> debts cannot touch: forty acres his wife holds in her own name, inherited from her father, beyond the reach
+> of any merchant under the state constitution of 1868. It is also why he cannot register. A bond required an
+> owner in fee free of every lien, or the written consent of every lienholder, and the only unencumbered
+> dirt in the hollow belonged to a married woman who never asked for the privilege.
 >
-> By the time a barn burns, the question is not who owed the tax. It is whether the old man at the end
-> of the holler knew and let it happen, and whether a woman with a third of a farm can make the
-> government answer to her.
+> When a revenue agent arrives with a list and a ledger, the cove does what it has always done: it does not
+> know. The trick does not work on Margaret Brennan, because the ground the still stands on is hers, and an
+> owner forfeits her land whether she knew or not. Nor does it work on Joshua, the elder brother who
+> inherited the farm next door and mortgaged it — the government intends to reach his acreage too, by
+> arguing that two places watered by one stream are one place. Joshua came home from the war a farmer and
+> went into the militia an officer; he keeps the peace by keeping the books, and pays off the mortgage in
+> installments he never explains. Matthew, nineteen, wants out, and the government's own informer law
+> quietly stopped paying informers six years before he was asked, which he will learn after he has learned
+> everything.
+>
+> By the time a barn burns, the question is not who owed the tax. It is what Margaret knew, what Joshua
+> permitted, and whether a woman with a deed her husband cannot sign can make the United States answer to
+> her in a courtroom two counties away.
 
 ## 3. Genre promise (Guide §1: "quiet literary realism" is not a promise)
 

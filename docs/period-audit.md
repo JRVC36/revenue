@@ -51,6 +51,10 @@ draft · `NOTE` = already resolved, recorded so it doesn't drift back.
 | Rail head in the book's last year | **Hampton, TN, 22 Aug 1881** is the nearest steel to a Watauga hollow in Oct 1881; Elk Park is not reached until mid-June 1882. Consequence: **no whistle, no engine sound carries into the cove in 1881** — the closing beat must be powder or a local hammer (canon R-5) |
 | Railroad chronology | chartered TN 24 May 1866 (5-ft gauge) → ~5 mi by Apr 1870 → abandoned 1874 → East Tennessee & Western North Carolina Railroad, **3-ft gauge, chartered 6 Mar 1879** → construction from **Sept 1880** → Johnson City–Hampton **22 Aug 1881** → **Elk Park mid-June 1882** → **Cranberry 3 July 1882** → Boone 1919; telegraph along the line 1883 | `LEAD` (ETSU archives corporate entity; American-Rails; local histories). The 3-ft gauge is why the line could be built by hand through that canyon, and why it could reach Elk Park before Boone. |
 | Court calendar | WDNC terms at **Statesville, third Mondays of April and October** | `LEAD` (NC Reports front matter, contemporaneous). Constrains Act Two: the trial is at a sitting, and everyone in the mountains times travel by the term. |
+| A married woman's land was her own | NC Const. 1868, Art. X §6: property owned before marriage "shall be and remain the sole and separate estate and property of such female, and shall not be liable for any debts, obligations, or engagements of her husband," devisable/conveyable "as if she were unmarried" (with the husband's written assent) | `LEAD` — quoted in *Perry v. Stancil*, 237 N.C. 442 (1953), which recites the 1868 text; **pull the constitution itself and the 1868–69 implementing act before printing a line of the clerk's dialogue.** This is the foundation of R-7. |
+| A wife's conveyance required a privy examination | For a homestead deed, "no deed made by the owner of a homestead shall be valid without the voluntary signature and assent of his wife, signified on her private examination according to law" (NC Const. 1868, Art. X, homesteads and exemptions); a married woman's separate examination was the mechanism for barring dower as well | `LEAD` (1868 constitution as printed in the 1868 pamphlet; the rule survived until 1945 — G.S. 47‑14.1 repealed the privy examination for instruments after 7 Feb 1945, which confirms it was live in 1878). **Held in reserve as a plot device: a missing certificate.** |
+| Dower was *restored* in 1868 | North Carolina limited dower to land the husband owned at his death from 1784; the 1868 constitution returned to the common-law measure (land owned at any time during the marriage), which is why relinquishment had to be pleaded and certified again | `LEAD` (secondary legal-genealogy survey; **needs the session-law cite before the word "dower" appears in the manuscript at all**) — R-7 makes dower unnecessary to the plot, so if the cite cannot be found, do not print it |
+| State exemptions vs. the United States | The modern rule is categorical ("No provision of a State law may exempt property… from levy for the collection of any Federal tax"), and the 1880–81 Supreme Court holding behind it is generally cited for the proposition that a state homestead exemption cannot be set up against a federal judgment | `LEAD`/unverified for the 1878–81 form. **Q: does it belong in the book at all?** Under R-7 Margaret does not need an exemption argument — so keep this out of the trial chapter unless the citation is found (ask R-16) |
 | Cask marks | heads and hoops branded "U.S."; "A" stamped on a tierce, "B" on a hogshead; rectifiers' and dealers' bonds $2,000; retail-dealer bond $100 | `LEAD`. Good texture; only print a mark we can say why a character notices it. |
 
 ## 4. `OPEN` — cannot be printed until researched
@@ -69,6 +73,18 @@ Full asks with "what I need back" in `docs/research-gaps-and-questions.md`; the 
     sound that is *also* true. `MINOR` (safe generic available) — **but it is the last sentence of the
     novel.** *What I need back:* Watauga County court minutes 1879–1882 for road overseers/contract
     blasting, and any 1881–82 newspaper notice of ET&WNC work north of Elizabethton. `OPEN` **R-13**.
+
+15. **The deed that made Margaret's forty acres hers.** R-7 rests the book's legal spine on a married
+     woman's separate estate, so the record has to exist in the county we choose: the father's will or deed
+     of 1866–68, the registration, and (if the plot uses it) the *absence* of a privy-examination
+     certificate on any later dealing. `MAJOR` — this is the most load-bearing unverifiable object in the
+     project. *What I need back:* Watauga (or Mitchell/Caldwell per Q-12) deed book index entries 1860–1872
+     for a conveyance to or from a married woman, and one complete sample certificate of private examination
+     so I can copy its wording rather than invent it. `OPEN` **R-15**.
+16. **Whether a North Carolina homestead exemption could be pleaded against the United States in 1879–81,**
+     and the exemption's dollar amount in those years. Now only a *defensive* fact — R-7 gave Margaret a
+     fee, not an exemption — but a reviewer will look it up. `MINOR`. *What I need back:* N.C. Code §§ on
+     exemptions as amended 1873–1879, and Watson v. Merrill / Cole v. Berry for the federal rule. `OPEN` **R-16**.
 
 14. **Inheritance and deed practice in the candidate county, 1820–1865.** R-6 makes Joshua the elder who
      inherited the improved farm and mortgaged it, while the younger brother keeps no land. That pattern

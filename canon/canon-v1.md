@@ -150,9 +150,10 @@ of Jacob's number, because the birth order is load-bearing and the number is not
 
 What the ruling actually bought, and why it is not a cosmetic fix:
 - **The elder inherited and mortgaged.** Joshua holds the farm in fee, encumbered; Jacob has no land of his
-  own to put a still on, so the still goes in **Joshua's** barn, on **Joshua's** acreage. The forfeiture
-  that R-3 aims at now lands on the spine POV's own deed. Joshua is not the man watching the law come for
-  his brother; he is the man the law comes for while it is there.
+  own at all. ~~so the still goes in **Joshua's** barn~~ **corrected by R-7: the still goes in the barn on
+  Margaret's freehold, adjoining Joshua's ground.** The forfeiture now lands partly on the spine POV's deed
+  (via "connected therewith") and partly on Margaret's — and Joshua is not the man watching the law come
+  for his brother; he is the man the law comes for while it is there.
 - **The knowledge question gets a better target.** *Stowell*: the owner's land is forfeit if he "knowingly
   has suffered or permitted" the distilling or connived at it. A neighbor's ignorance is plausible; **an
   owner's is not**, and the owner is the man who keeps every account in the cove. Parrish's sharpest move
@@ -180,6 +181,60 @@ What the ruling actually bought, and why it is not a cosmetic fix:
 
 ---
 
+*R-7 `AUTHOR` (2026-10-26) — Margaret holds her father's tract in fee, as a married woman's separate
+estate, and the still stands on it.** Under the North Carolina Constitution of 1868, Art. X §6, real
+property a woman owned before marriage "shall be and remain the sole and separate estate and property of
+such female, and shall not be liable for any debts, obligations, or engagements of her husband," and she may
+devise or convey it "as if she were unmarried" `LEAD` (quoted in *Perry v. Stancil*, 237 N.C. 442 (1953),
+reciting the 1868 text). Dower, meanwhile, had been *restored* in 1868 to the old common-law measure — land
+the husband owned at any time during the marriage — after being limited to land owned at death since 1784
+`LEAD` (legal-genealogy survey of NC dower statutes; needs the session-law cite).
+
+Why this is the right instrument and not a convenience: **Jacob put the still there on purpose.** It is the
+one piece of ground in the hollow his creditors cannot reach, the one deed no storekeeper's bond touches,
+the only dirt in the cove whose encumbrances are not his. "The water is right" is the reason he gives;
+this is the reason.
+
+Consequences, binding:
+- **R-6's barn moves.** Where R-6 said *the still sits in Joshua's barn*, read: **the still sits in the
+  barn on Margaret's tract**, and Joshua's farm is the adjoining ground — the mill, the corn, the wagon
+  road. (This correction is logged in §11; the two rulings are compatible, and the geography is now
+  explicit rather than assumed.)
+- **The libel names two tracts and the fight is the word "connected."** The 1868 act forfeits the lot or
+  tract of land "connected therewith." Margaret's is the parcel with the still on it. Joshua's is one
+  ridge over, joined to it by a water race, a cart road, and the fact that the mash is ground at his mill —
+  so Parrish's second move, and the one that makes him dangerous rather than merely correct, is to argue
+  **the two places are one premise**. `LEAD` on the statutory phrase; the argument's strength is `INVENT`
+  and must be built out of what an 1878 appraiser could actually walk.
+- **Knowledge is now aimed at the woman, and she is the one character who can answer it.** Under *Stowell*,
+  an owner's land is forfeit where he "knowingly has suffered or permitted" the distilling; under
+  *Dobbins*, **an owner forfeits even when the tenant's fraud was unknown to him**; and under *Two Barrels
+  Whisky*, the interest-holder who genuinely did not know is protected. Margaret is the only Brennan whose
+  innocence is legally *worth something* — and the only one whose admission is legally worth everything.
+  Her Act Three scene is not testimony about her husband. It is the decision of whether to say a sentence
+  that saves her land by damning her family or loses her land by saving nothing.
+- **She can convey.** The separate-estate clause makes her the only person in the book who can sign away
+  ground of her own — and NC required a **privy examination**, the wife's assent taken apart from her
+  husband and certified by the officer, for any such deed to be valid at all `LEAD`. That is the loudest
+  quiet fact in the outline's world: **a married woman had to be examined alone, away from her husband, to
+  give away what was hers, and the certificate of that examination is a document the book can lose, find,
+  or produce.** (Whether to *use* the missing certificate as the plot's Act Three lever is Q-9's neighbor:
+  propose it at ch. 23, do not decide it here.)
+- **Old Councill's and Harper's parcels stay as the outline has them.** The cove's meeting in Act One is at
+  **Joshua's mill** (his barn, his hospitality — the record of his not-knowing is a record of who he fed).
+  The burned barn in Act Two is **Harper's** — storage, not distilling, which is why the burning is a crime
+  against the government's own interest: it destroys the seizure, punishes the one man the forfeiture would
+  have reached hardest, and leaves the United States with less to take. `USER`/outline.
+- **The household goods are hers.** The outline's seizure of "the still, the worm, the tubs, a quantity of
+  corn, the tools, and the barn itself" is now an inventory taken on a woman's freehold, and Style Guide
+  §7.3 already demands the appraisement list of household goods that mean more than their price. That
+  scene belongs to Margaret, in her own POV, item by item. `LEAD` on the appraisal mechanic (§5).
+- **What this costs the marriage, stated once:** Jacob is calm in Act One because he owns nothing the law
+  can take. He has spent twenty years being protected by his wife's inheritance, and the book does not let
+  him say so, and does not let her either.
+
+---
+
 ## 12. Chapter map v0 — POV-tagged (drafted against R-4)
 
 Twenty outline beats in, twenty-seven chapters out. A beat that needs two chapters gets two; a beat that
@@ -191,17 +246,17 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 1 | The Water Is Right | J | The World Before | The cove's economy is established in weights and a jug carried to Tyler's. The still seen from the outside, working. |
 | 2 | Powder on the Ridge | J | (new, R-2) | Grading heard at night; a federal transit on the next ridge. The second chain-and-book front is planted before the first one is. |
 | 3 | The Office | J | The Arrival of the Excise | Parrish opens; he calls on the judge, the sheriff, the leading men — a meeting **Joshua attends and Harper attends** (Q-8). |
-| 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses. Under R-6 the last page is not about principle at all: it is his own mortgage, and the fact that the still sits in *his* barn. |
-| 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know. Shown as a technique with rules, not as a mood. |
+| 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses. Under R-6/R-7 the last page is not about principle: it is his own mortgage, and the cart road that runs from his mill down onto his brother's wife's ground. |
+| 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know, at Joshua's mill, in Joshua's barn, because he is the man who feeds them. Shown as a technique with rules, not as a mood. |
 | 6 | Gauger's Work | J | The Standoff Begins | Parrish measures the farm as legally as the still: a still in a barn makes the *land* the case (R-3). |
 | 7 | The Store Debt | J (Matthew in dialogue only) | The Temptation | Tyler's book, what Matthew owes, and what the informer law now actually promises (Q-7). |
 | 8 | The Notice | **M** ←was J | End of Act One | The libel names the property, not the man — and it is addressed in part to her interest. R-4/R-5 put the paper in Margaret's hands here so that Act Two's dower chapters have a root. Act One ends on the notice, unanswered. |
 | — | **ACT TWO: THE WEIGHT OF IT** · 1879–1880 (retitled; "THE RECKONING" goes to Act Three) | | | |
 | 9 | The Empty Year | J | The Empty Year | Harvest without a distiller; the term list; two years of arithmetic started. |
-| 10 | Margaret's Book | **M** | (new, R-3/R-4) | She reads the posted notices because they name an interest that is hers — under what, Q-4 has to say since R-6 took the dower for granted. Her accounts become evidence. |
+| 10 | Margaret's Book | **M** | (new, R-3/R-4/R-7) | She reads the posted notices because they name **her** freehold: the libel is against the tract, and the tract is hers. Her father's deed is in the same box as her accounts, and both become evidence. |
 | 11 | The Name | J | The Name | The cove learns who informed; Joshua is told; he does not say it. |
 | 12 | Johnson City | J | The Fall's aftermath | Matthew's injuries arrive as objects and a doctor's sentence; no interiority for him, ever. |
-| 13 | The Burning | J | The Burning | A barn the government would have had to litigate for is destroyed. Parrish did not order it. |
+| 13 | The Burning | J | The Burning | **Harper's** barn, the storage ground, not the still ground: the raid destroys property the United States had a claim on. Parrish did not order it. |
 | 14 | The Missing Page | J | The Network Spreads | Joshua reads what is not in the file: Parrish's unsigned order. **Proposed addition, awaiting ruling:** Parrish stops questioning Jacob and puts the knowledge question to *Joshua as owner in fee* — what was your brother doing under your roof — which is R-6's payoff and the book's legal center. `OPEN` |
 | 15 | First Blood | J | The First Blood | A deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
 | 16 | The Letters | J | Jacob's Letters + End of Act Two | Prison correspondence in two hands; Joshua's arrangement closes; the sentence's length is fixed. |
@@ -212,7 +267,7 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 20 | The Search | **M** | The Manhunt | The house is searched. Margaret asserts standing the searchers must answer to. |
 | 21 | The Surrender | J | The Capture | Joshua decides what Caleb is worth to the cove, and says so (he tells the name). |
 | 22 | The Term | J | (new, Q-10) | Statesville, third Monday in April; a rented courtroom; the schedule of a circuit. |
-| 23 | Did He Know? | **M** | The Broader Tragedy / the trial | The government's real question, aimed at Harper: knowledge and permission. Margaret's testimony is the hinge. |
+| 23 | Did She Know? | **M** | The Broader Tragedy / the trial | The government's real question, aimed at **Margaret**: knowledge and permission on her own ground (Stowell; *Dobbins* would not even require knowledge). Joshua's parcel is argued in as "connected." The hinge is what she chooses to say, and whether a privy-examination certificate surfaces. `OPEN` on the certificate lever |
 | 24 | The Return | J | Jacob's Release and Return | Two years out; the farm gone or halved (Q-4); the law is not cruel, it is complete. |
 | 25 | The Mill Sold | J | Joshua's End | He sells, he leaves; the only Brennan who dies where the streets have names. |
 | 26 | The Far Side of the Ridge | J | (new, R-5) | The mill sold, the walk up, a blast from the wrong side of a ridge — and he does not go and look. The book stops there. No engine, no rails, no lesson. |
@@ -275,7 +330,19 @@ Real dates are what the fiction is measured against. Everything in the right col
   **North Fork Hollow**; the store is **Hoss Tyler's** at the junction road; the town below the gap is
   left unnamed in the outline and should be pinned — candidates Newland, Lincolnton, or a renamed
   Lenoir. `OPEN`
-- **Distances (set these now and never vary them).** Still to Margaret's cabin: ___ ; cove to
+- **The three parcels (R-6 + R-7; this is the book's map and it does not change).**
+  1. **Margaret's tract** — hers in fee as a separate estate, inherited from her father: the cabin, the
+     garden, the barn the still stands in. The forfeiture's first target; the only ground in the hollow
+     beyond Jacob's creditors.
+  2. **Joshua's farm** — the elder brother's inheritance, mortgaged to the merchant: the mill, the corn,
+     the wagon road, the barn where the cove meets. His land is what the government tries to reach by
+     arguing *connection*, and what the lien-consent rule made unregistrable.
+  3. **Harper's ground** — old, at the junction, where whiskey is stored before shipment. Burned in Act
+     Two by the raid party, not by the statute.
+  Between them: a water race from Joshua's hill down onto Margaret's flat, and one cart road that serves
+  both. That road is the whole legal argument (R-7).
+- **Distances (set these now and never vary them).** Still to Margaret's cabin: **same place, forty paces**
+  (R-7 — do not separate them again). Cove to
   Tyler's store: ___ ; store to the town with Parrish's office: ___ ; town to the railroad grade at
   its nearest: ___ ; cove to the federal courthouse: ___ days on horse. `OPEN` (audit A-4)
 - **Travel reality.** No railroad in the cove in the 1870s. Wagon over the mountains to Morganton or
@@ -292,15 +359,19 @@ birth order. **Joshua is the elder: b. ~1828, 50 in 1878. Jacob b. ~1833, 45 in 
 **JACOB BRENNAN** — b. ~1833, so **45** in 1878 (R-6). Younger brother. Distiller on his elder brother's
 ground, which is the whole of his legal exposure and none of his self-image. Not a criminal in his own eyes
 and not a political animal. Competence shown only through the still: water, drainage, the placing of a
-garden. Engine consequence: the apparatus and his body are the libel's subject matter; **the land is
-Joshua's**, so the forfeiture falls on the family's oldest bond rather than on a deed in Jacob's name.
+garden. Engine consequence: the apparatus and his body are the libel's subject matter, but **the land is his
+wife's** (R-7) — the forfeiture falls on the one parcel that was always meant to be beyond him, which is
+why his calm in Act One reads, in hindsight, as a man protected by a marriage he never thanks.
 `INVENT` the year of his father's death (see inheritance ask R-14); `INVENT` whether he fought for the
 Union or hid. `OPEN` Q-5.
 
-**MARGARET (Brennan, née ___)** — 40s in 1878. Wife, mother of the informer. **Currently the outline's
-greatest deficiency: 6 mentions against Parrish's 39.** Under R-3 she has an independent legal
-interest (dower/homestead) and therefore independent leverage no man in the book can exercise for
-her. Proposed: she is the only character who can *convey* — sign away, or refuse to. `OPEN` Q-4.
+**MARGARET BRENNAN (née ___)** — 40s in 1878. Wife, mother of the informer, and **owner in fee of the
+tract the still stands on** (R-7): her father's land, her separate estate under NC Const. 1868 Art. X §6,
+not liable for her husband's debts. **RULED Q-4.** She is the only character who can convey, and the only
+one whose knowledge is a legal question with an answer worth money — which makes her the person the trial is
+about. `INVENT` her father's name, the deed's date (suggest 1866–68, so it predates the war's paper
+confusion and postdates nothing that would cloud it), and whether the privy-examination certificate for any
+later dealing exists. `OPEN` whether the missing certificate is used as a plot lever (see §12 ch. 23).
 
 **MATTHEW BRENNAN** — 19 in 1878. Jacob's son. Informs for Parrish; exiled; beaten to broken ribs and
 a broken arm in Johnson City; never returns. Motive is **thin in the outline** ("ambitious,"
@@ -467,7 +538,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-1 | **Whose spine?** | ✅ RULED 2026-10-26 → **R-4**: Joshua ~80%, Margaret ~20%. Chapter map is §12 |
 | Q-2 | Does Act Three extend to June 1882 so the first train is a final **image**, or does it arrive as **coda**? | ✅ RULED 2026-10-26 → **R-5**: neither — ends autumn 1881, train heard about, never seen. Subtitle date 1878–1881 |
 | Q-3 | Ages: is Jacob older than Joshua (b. 1831/1829) or is "older brother" wrong? | ✅ RULED 2026-10-26 → **R-6**: Joshua is the elder (50), Jacob 45; the forfeitable fee is Joshua's; Margaret's standing reopens as Q-4 |
-| Q-4 | Does Margaret hold title, or dower, or nothing? Who can sign away the hollow? | Act Two, Act Three |
+| Q-4 | Does Margaret hold title, or dower, or nothing? Who can sign away the hollow? | ✅ RULED 2026-10-26 → **R-7**: her father's tract, in fee, as a married woman's separate estate — and the still sits on it. Dower and the homestead exemption are off the table; the privy-examination certificate is a device held in reserve |
 | Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | Whole book's engine |
 | Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | Act One recruitment, ending |
 | Q-7 | Matthew's motive, concretely — and does he ever get paid? | Act One turn |
@@ -523,3 +594,12 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   1878–1881). Closed R-2's structural consequence, rewrote map ch. 26, moved ch. 8 to Margaret so the
   dower chapters have an Act One root, tightened §10 (a whistle is now banned outright — acoustic distance
   to the 1881 rail head), and added research ask **R-13**. | agent |
+
+| 2026-10-26 | **Q-4 ruled → R-7** (Margaret owns the parcel the still stands on, as a separate estate).
+  **Corrects R-6's "the still goes in Joshua's barn"** to the adjoining ground; adds the three-parcel map to
+  §3; retitles map ch. 23 "Did She Know?" and reassigns ch. 13's fire to Harper's storage barn; adds the
+  "connection" argument as Parrish's second move; §4 Margaret entry rewritten with the two `INVENT` items
+  she still needs. New research asks R-15 (the deed and privy-examination record in the chosen county) and
+  R-16 (NC homestead exemption amount 1868–1882, and whether a state exemption could be opposed to the
+  United States at all) — the first is now load-bearing, the second is the fact a reviewer will look up. |
+  agent |

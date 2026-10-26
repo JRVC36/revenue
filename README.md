@@ -24,7 +24,7 @@ canon/
 docs/
   author-style-guide.md           standing craft rules (verbatim from Drive; repo copy wins)
   outline-v1-verbatim.md          the outline as written in Drive, unaltered, with line numbers
-  research-gaps-and-questions.md  the research asks handed back to the author (12 asks, 23 questions)
+  research-gaps-and-questions.md  the research asks handed back to the author (16 asks, 23 questions)
   period-audit.md                 verification ledger: every year, law, and object the book prints
   pitch-and-blurb.md              one line, paragraph, genre promise, blurb
   beta-reader-note.md             the one-page questionnaire sent with partials
@@ -78,8 +78,13 @@ knows what shape the book is in:
    far side of a ridge, or a report of a date; a whistle would be an anachronism (Hampton was the rail head
    in October 1881) and a picture would be a symbol, and both are refused on purpose.
 6. **R-6 — Joshua is the elder brother and the owner in fee.** He inherited the farm and mortgaged it, so
-   the still sits in his barn and the forfeiture reaches his deed; an owner in fee is presumed to know, so
+   the forfeiture reaches his deed as well as his brother's wife's; an owner in fee is presumed to know, so
    the man whose whole function is not-knowing is the one man who cannot plead it. Jacob 45, Joshua 50.
+7. **R-7 — Margaret owns the forty acres the still stands on**, as a married woman's separate estate under
+   the 1868 constitution. That is why Jacob put the still there — it is the only ground his creditors cannot
+   reach — and why the trial is about her knowledge rather than his debt. It also corrected R-6: the barn is
+   on her freehold, adjoining Joshua's mortgaged farm, and the government's second move is to argue that
+   those two places are one place.
 
 ## Editing workflow
 
