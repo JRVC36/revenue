@@ -166,7 +166,9 @@ nothing in the book credits it.
 3. Matthew L. Shafer (ed.), *Blood in the Hills* (2018). — violence; and it is the one that will tell
    us whether Act Three is too big or too small.
 4. R. A. Cobb, *True Life of Maj. Lewis R. Redmond* (1881), online at ECU. — voice, print culture.
-5. Dan Pierce, on "blockaders"/"moonshine" etymology and NC still counts. — vocabulary ruling Q-14.
+5. Dan Pierce, on "blockaders"/"moonshine" etymology and NC still counts — **Q-14 RULED → R-17** (`blockader`
+   on the mountain, `moonshiner` in outside print only); Horace Kephart, *Our Southern Highlanders* (1913),
+   ch. VI.
 6. Andrew L. Slap (ed.) or the standard works on **NC Reconstruction and the readjustment fight**;
    and Foner, *Reconstruction* chs. on NC/Kirk-Holden. — Q-13.
 7. *The Watauga County, N.C. Directory, 1883* (reprinted online at New River Notes). — the store, the

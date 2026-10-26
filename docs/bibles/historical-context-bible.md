@@ -256,6 +256,9 @@ Per the Style Guide, verify by exact year. Starting points for `docs/period-audi
   Cranberry before July 1882** (Elk Park PO opens May 1883, town incorporates 1885; Cranberry Forge PO is not
   shortened to Cranberry until 24 Apr 1884; R-15).
 - No "IRS." **Bureau of Internal Revenue**, or "the revenue," or "the Department."
-- No "moonshiner" from a mountaineer's own mouth (see Q-14 and the vocabulary bible).
+- **No "moonshiner" or "moonshine" in narration or from a mountaineer's mouth (RULED Q-14 → R-17):** mountain
+  and county speech says **`blockader` / `blockading` / `blockade whiskey`** (or work-verbs *making*, *running*
+  at the tub); Parrish says *illicit distiller*; *moonshiner* belongs strictly to outside print (*E2*, *E3*,
+  newspapers).
 - No "Reconstruction" as a self-conscious label in mountain speech. They would name the years, not the
   period.

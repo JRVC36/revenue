@@ -1,6 +1,6 @@
 # Vocabulary & Tone Bible — *REVENUE*
 
-**Status: v0.95 — enforceable now; one ruling pending (Q-14).**
+**Status: v1.0 — enforceable now; all §9 rulings locked (R-1 … R-17).**
 The mechanical half of the Style Guide. `tools/check.py` reads its ban list from the `lexicon` fence in §7 below, so **edits here change the linter**. Format: `pattern | severity | note`.
 
 Severity: `BAN` fails the build · `FLAG` warns · `NOTE` is a style reminder for humans only.
@@ -15,7 +15,7 @@ Severity: `BAN` fails the build · `FLAG` warns · `NOTE` is a style reminder fo
 | revenue agent, internal revenue agent, inspector, gauger, deputy collector | ~~tax man, federal agent, officer-in-charge~~ | Titles are the period's own; Parrish is particular about which one is used of him. |
 | revenuer | (only from a mountaineer's mouth, and only with contempt) | Period slang, but a *press* word as much as a mountain one. `NOTE` |
 | "the signal", a whistle blown on the ridge (never explained as the band's name) | the Whistlers (that is the papers' word — R-14) | The cove has no name for its own organization; the institutions supply one, and the dime novel makes it permanent. |
-| blockader; "runs"; "makes"; "the trade" | ~~moonshiner, bootlegger~~ (from a Brennan) | In NC the men were first called blockaders, "blockade whiskey" their product; "moonshiner" only became common in the 1870s. Proposed ruling Q-14: **the cove never names itself; "moonshiner" is always somebody else's word — in print.** `FLAG` until ruled |
+| `blockader`, `blockading`, `blockade whiskey` (mountain/county class-noun); *making*, *running*, *a run*, *the whiskey* (Brennans at the tub); *illicit distiller* (Bureau) | ~~moonshiner, moonshine~~ (in narration or mountain speech — **R-17**); ~~bootlegger~~ (`BAN`) | **RULED Q-14 → R-17:** WNC mountain and county speech says **`blockader`** / **`blockade whiskey`** (wartime blockade carryover, never explained); **"moonshiner" and "moonshine" belong strictly to outside print** (*E2*, *E3*, newspapers). `FLAG` + `NOTE` |
 | still, copper, worm, tub, cooler, thump keg / dunkin' log, mash, beer,ings, run, proof, gallon, jug, case | ~~distillery plant, fermenter, condensate~~ | `thump keg` is `FLAG` pending verification (claimed earliest-in-western-NC, 1870s — if true, it is our book's best object). |
 | whiskey, "the money," corn, rye, buckwheat | ~~bourbon, "shine," hooch, moon liquor~~ | "Bourbon" as a style-label is anachronistic in these mountains; "hooch"/"shine" are 20th-c. |
 | tax stamp, stamp, the paper, the bond, the libel, the information, the appraisal, the seizure, the notice | ~~warrant (unless a U.S. commissioner's warrant), subpoena, case file, docket number~~ | In rem procedure: **the libel names the property, not the man.** See canon R-3. |
@@ -128,24 +128,24 @@ The regex may contain `|`; the parser splits on the outermost pipes. Edit freely
 follows this file (that is the point of keeping the rules here instead of in Python).
 
 ```lexicon
-| BAN | Internal Revenue Service\b|\bIRS\b | post-1913 name; say the Department, the revenue |
-| BAN | \bbootlegger\b | 20th-c. in this sense |
-| BAN | \b(trauma|psycholog\w*|adrenalin\w*|hypothermia|subsonic|\becosystem\b|neurosis|shell shock|\bPTSD\b|self-esteem|\bmotivation\b|\bsynergy\b|infrastructure|dehumaniz\w*|\bdata\b|optimize\w*|socioeconomic|\bheritage\b|\btourism\b|vacationer|civil rights|race relations|\bdemographics\b)\b | modern clinical/business idiom (Guide §5.2) |
+| BAN | Internal Revenue Service\b|\bIRS\b | post-1913 name speaker-check: say the Department, the revenue |
+| BAN | \bbootlegger\b | 20th-c. in this sense speaker-check |
+| BAN | \b(trauma|psycholog\w*|adrenalin\w*|hypothermia|subsonic|\becosystem\b|neurosis|shell shock|\bPTSD\b|self-esteem|\bmotivation\b|\bsynergy\b|infrastructure|dehumaniz\w*|\bdata\b|optimize\w*|socioeconomic|\bheritage\b|\btourism\b|vacationer|civil rights|race relations|\bdemographics\b)\b | modern clinical/business idiom speaker-check (Guide §5.2) |
 | BAN | \bdeadline\b | 1864 Andersonville / 1917 figurative; say the term, the sitting |
 | BAN | \bpercentage\b | say share, proportion |
-| BAN | \b(allergic|newsreel|telegram office|commute|timecard|picket line|\bon the clock\b) | Guide §5.2 anachronism list |
-| BAN | \b(telephone|airmail|stationery)\b | no telephone in these mountains in 1878 |
-| BAN | \bAvery County\b | county exists only from 1911; in 1878-81 the cove is Mitchell County (R-15) |
-| BAN | \bNewland\b | town named 1911-12 for W. C. Newland; in 1878 say Old Fields of Toe (R-15) |
-| BAN | \bWhiskey Rebellion\b | 1791-94 western PA only; 1878-81 was the moonshine war |
-| BAN | \b(OK|okay)\b | 1839 Boston joke; not in 1878 WNC speech |
+| BAN | \b(allergic|newsreel|telegram office|commute|timecard|picket line|\bon the clock\b) | Guide §5.2 anachronism list speaker-check |
+| BAN | \b(telephone|airmail|stationery)\b | no telephone in these mountains in 1878 speaker-check |
+| BAN | \bAvery County\b | county exists only from 1911; speaker-check: in 1878-81 the cove is Mitchell County (R-15) |
+| BAN | \bNewland\b | town named 1911-12 for W. C. Newland; speaker-check: in 1878 say Old Fields of Toe (R-15) |
+| BAN | \bWhiskey Rebellion\b | 1791-94 western PA only; speaker-check: 1878-81 was the moonshine war |
+| BAN | \b(OK|okay)\b | 1839 Boston joke; speaker-check: not in 1878 WNC speech |
 | BAN | \b(?:[A-Za-z]+ing [^,.]{1,60}, ){2}[A-Za-z]+ing\b | stacked participles (Guide §4 Pass 4) — check by eye |
 | BAN | ^[A-Z][a-z]+ly \w+ \w+ (and|but) [A-Z][a-z]+ly  | paired-adverb cadence (Guide §4 Pass 4) |
 | BAN | \b(the situation|the old economy|collective injury|half-life|hollow victory|\blegacy\b|the cost of keeping|the world has changed|things were changing|nothing would be the same)\b | thesis nouns and narrator clichés: Pass 2 deletes (Guide §4 Pass 4/4.4) |
 | BAN | \b(He could (feel|see|hear)|He felt|He saw|He heard|He noticed|He realized|There was a (chill|silence|weight|stillness)|A chill ran|The silence (was|felt)|It felt like|It seemed like|He was aware that)\b | eye-body tells and filter words (Guide §4 Pass 4/Pass 3) |
 | BAN | \b(Mr|Mrs|Ms|Dr|Col|Capt|Lt|Gen|Gov|No|St|vs|etc)\.\s+[A-Z0-9] | modern abbreviation/title forms; spell out Colonel, Captain, Judge, Number |
-| FLAG | \bmoonshiners?\b | until Q-14: the cove has no name for itself; moonshiner is a print word |
-| FLAG | \bmoonshine\b | prefer whiskey, the money, the run, blockade whiskey |
+| FLAG | \bmoonshiners?\b | moonshiner R-17 speaker-check: outside print only (E2, E3, newspapers); say blockader in mountain/county speech, illicit distiller in Bureau paper |
+| FLAG | \bmoonshine\b | moonshine-noun R-17 speaker-check: outside print only; say blockade whiskey, the whiskey, the run, or untaxed spirits |
 | FLAG | \b(thump keg|dunkin'? ?log)\b | verify before use (research R-2); if it holds, the opening scene |
 | FLAG | \b(Winchester|repeater)\b | a purchase in 1878, not a given: who sold it, and when (canon 10) |
 | FLAG | \b(kerosene|coal ?oil)\b | legal in 1878; do not inherit the Bound Tree 1849 ban, just date it |
@@ -162,8 +162,9 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | NOTE | \bdower\b\|\bcurtesy\b\|\bprivy examination\b\|\bseparate estate\b\|\bhomestead exemption\b | R-7 legal terms: usable, but each needs its period-audit row and a citation before printing; "dower" in particular must not be used of Margaret |
 | FLAG | \b(locomotive|the engine|whistle|depot|the train|railroad|the cars|railroad track|roundhouse)\b | R-5: the company, the grade and the location may be named; nothing may be *seen* doing it. Every hit is a decision |
 | FLAG | \b(Parrish|Caleb|Matthew|Harper|Jacob|Asa|Eudy|Frank)\b[^.?!"\n]{0,45}\b(thought|knew|felt|realized|understood|wondered|hoped|was afraid|was glad|was sorry|wanted to say)\b | R-4 POV law: only Joshua and Margaret get interiority — put the fact in an object, a report, or a silence |
-| NOTE | \b(Reconstruction|carpetbagger|scalawag|Loyal League|ironclad oath|disenfranchis\w*|the late war)\b | bone-structure R-16: war and 1868 live in objects and deeds only; zero party speeches, no Klan subplot, and never the noun Reconstruction in a mountain mouth |
-| NOTE | \bWhistlers?\b | R-14: the name is print-only. Check the speaker: reports, the county paper, the dime novel yes; any mountain mouth no. Never in the same sentence as the grade's whistle |
+| NOTE | \b(Reconstruction|carpetbagger|scalawag|Loyal League|ironclad oath|disenfranchis\w*|the late war)\b | bone-structure R-16 speaker-check: war and 1868 live in objects and deeds only; zero party speeches, no Klan subplot, and never the noun Reconstruction in a mountain mouth |
+| NOTE | \bWhistlers?\b | R-14 speaker-check: the name is print-only. Check the speaker: reports, the county paper, the dime novel yes; any mountain mouth no. Never in the same sentence as the grade's whistle |
+| NOTE | \bblockad(?:ers?|ing|e whiskey)\b | blockader-register R-17 speaker-check: mountain/county speech class-noun only (never explained as wartime blockade carryover); Brennans at their own tub use work-verbs, Parrish uses illicit distiller |
 | NOTE | \b(Burke County|Watauga County)\b | county-trail R-15: in 1878-81 Cranberry Forge and Elk Park are Mitchell County (seat Bakersville); Burke (pre-1833) and Watauga (1849-61) belong on older deeds or across the county line only |
 | NOTE | \bElk Park\b | elk-park R-15: in 1878-81 an unincorporated border clearing in Cranberry Twp (no depot until June 1882, no post office until May 1883, no town charter until 1885) |
 ```
@@ -198,9 +199,10 @@ Superseded: every line below now lives in §7 as a machine-readable `lexicon` ru
 ```
 # pattern | severity | note
 whiskey rebellion | BAN | 1791-94 western PA only; say the moonshine war
-\bmoonshiners?\b | FLAG | until Q-14 ruled: the cove has no name for itself; "moonshiner" is a print word
+\bmoonshiners?\b | FLAG | R-17: outside print only; mountain/county speech says blockader
 bootlegger | BAN | late 19th/20th c. in this sense
-\bmoonshine\b | FLAG | use "whiskey," "the money," "the run," "blockade whiskey"
+\bmoonshine\b | FLAG | R-17: outside print only; use "blockade whiskey," "the whiskey," "the run"
+\bblockad(?:ers?|ing|e whiskey)\b | NOTE | R-17: mountain/county speech class-noun; Brennans at the tub use work-verbs
 thump keg|dunkin.? log | FLAG | verify before use; if it holds, put it in the opening scene
 Internal Revenue Service|\bIRS\b | BAN | post-1913
 Avery County | BAN | 1911; the cove is Watauga (or Mitchell/Caldwell) — see Q-12

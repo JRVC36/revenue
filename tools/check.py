@@ -63,7 +63,7 @@ def parse_lexicon(path: Path):
         slug = "-".join(re.findall(r"[A-Za-z0-9]+", note)[:5]).lower() or pat[:16]
         rules.append({"severity": sev, "name": f"lex:{slug}", "pattern": rx,
                       "note": f"{note}  (rule from {src})", "message": note, "starts_with": [],
-                      "in_dialogue": sev != "NOTE"})
+                      "in_dialogue": "speaker-check" in note})
     seen = {}
     for r in rules:
         if r["name"] in seen:
@@ -126,10 +126,10 @@ def is_dialogue(line: str, fmt: str) -> bool:
     return s.startswith(('"', "“"))
 
 
-def narration_lines(text: str, fmt: str):
+def narration_lines(text: str, fmt: str, include_dialogue: bool = False):
     """Yield (lineno, line) for prose only — fenced code (the linter's own lexicon block), headings,
-    tables, stage directions and quoted speech are excluded, per the style guide's split between
-    narration and character voice."""
+    tables, stage directions and quoted speech are excluded by default, per the style guide's split
+    between narration and character voice. Pass include_dialogue=True for speaker-check rules."""
     in_fence = False
     for n, line in enumerate(text.splitlines(), 1):
         st = line.strip()
@@ -145,14 +145,14 @@ def narration_lines(text: str, fmt: str):
         if fmt == "play":
             if re.match(r"^\[.*\]\s*$", st) or st.startswith(("**SETTING", "**TIME", "**STATUS")):
                 continue
-            if is_dialogue(st, fmt):
+            if not include_dialogue and is_dialogue(st, fmt):
                 continue
         else:
             if st.startswith("#"):
                 if "Act" in st:
                     yield n, st
                 continue
-            if '"' in st or "“" in st:
+            if not include_dialogue and ('"' in st or "“" in st):
                 continue
         yield n, line
 
@@ -171,8 +171,12 @@ class Hit:
 
 def lint(relname: str, text: str, fmt: str, rules) -> list:
     hits = []
-    for n, line in narration_lines(text, fmt):
+    narr_line_nums = {n for n, _ in narration_lines(text, fmt, include_dialogue=False)}
+    for n, line in narration_lines(text, fmt, include_dialogue=True):
+        is_narr = n in narr_line_nums
         for r in rules:
+            if not is_narr and not r.get("in_dialogue"):
+                continue
             if r.get("starts_with") and not any(line.lstrip().startswith(p) for p in r["starts_with"]):
                 continue
             m = r["pattern"].search(line)

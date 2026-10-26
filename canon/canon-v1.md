@@ -641,6 +641,46 @@ onstage party politics).
 
 ---
 
+### R-17 · What the trade is called: **`blockader` and `blockade whiskey` on the mountain; `moonshiner` and `moonshine` in outside print only**
+
+`AUTHOR` (2026-10-26), answering **Q-14** ("Blockader"). **Closes the §9 blocking queue (Q-1 … Q-14).**
+
+- **The ruling.** In North Carolina mountain and county-town speech, the noun for an untaxed distiller is
+  **`blockader`**, the verb is **`blockading`**, and the untaxed liquor (when distinguished from stamped store
+  spirits) is **`blockade whiskey`** or simply **`blockade`**. **"Moonshiner" and "moonshine" are barred from
+  narration and from every mountain mouth** — they belong exclusively to **outsiders' print** (northern and
+  Piedmont newspapers, *E2*'s county history, or *E3*'s dime novel), on the exact same principle as **R-14**
+  ("the Whistlers").
+- **Why *blockader* is both period-true and structurally loaded (`LEAD` + R-16).** In western North Carolina and
+  east Tennessee, *blockader* / *blockade whiskey* came straight out of the **1861–65 blockade** (`LEAD`: Horace
+  Kephart, *Our Southern Highlanders*, ch. VI; Dan Pierce, *Corn from a Jar* / *Our State*; the Dec. 1879
+  Montgomery Co., TN raid account): running untaxed jugs past Confederate grain-distilling cordons and then past
+  federal revenue lines took the wartime name of running a port blockade, whereas *moonshiner* arrived in the
+  mountains from national press dispatches during Raum's late-1870s raids. Under **R-16**, that etymology carries
+  the brothers' war split inside one word without a syllable of explanation: Joshua wore the coat of the
+  government that enforced the blockade; Jacob stayed in the laurel running past guard posts and kept the word.
+  **Never explain the word's origin on the page.**
+- **Four-way register split, enforced across the manuscript:**
+  1. **Inside the family and the mill (Brennan to Brennan):** plain verbs and work-nouns first — *making*, *a
+     run*, *running*, *the whiskey*, *the copper*, *the still*. A man standing at his own tub does not call
+     himself a title; he names the chore.
+  2. **Across the counter or the road (mountain/store/courthouse-town speech — Tyler, Harper, county men, local
+     deputies):** **`blockader`**, **`blockading`**, **`blockade whiskey`**. When someone in Bakersville or at
+     Tyler's junction store names the trade as a class of men or distinguishes untaxed jugs from stamped barrel
+     goods, *blockader* is the word.
+  3. **In the Bureau's mouth and paper (Parrish, the U.S. Attorney, *E1*):** statutory and administrative terms
+     only — *illicit distiller*, *unregistered still*, *distilling without bond*, *untaxed spirits*. Parrish
+     does not say *moonshiner* either; he speaks the Revised Statutes.
+  4. **In outside print (*E2*, *E3*, Charlotte/northern newspapers):** **`moonshiner`** and **`moonshine`** —
+     the press's picturesque word, paired with **"the Whistlers"** (R-14) to turn mountain debtors into outlaw
+     copy.
+- **Linter enforcement (`tools/check.py` via `vocabulary-tone-bible.md` §7):** `\bmoonshiners?\b` and
+  `\bmoonshine\b` stay `FLAG` (not `BAN` solely so *E2*/*E3* or a quoted newspaper line can compile after eye
+  check; **zero hits allowed in narration or dialogue**), and `\bblockad(?:ers?|ing|e whiskey)\b` gains a `NOTE`
+  row so every use is checked against the four-way register rule above.
+
+---
+
 ## 12. Chapter map v1 — POV-tagged and dated (R-4, R-5, R-13)
 
 Twenty outline beats in, **28 chapters** out, numbered continuously across the book. Renumbered
@@ -985,17 +1025,19 @@ subplots (historically Rutherford/McDowell, not Cranberry Twp), party stump spee
 4. **Day versus night is the music.** The trade is nocturnal; §3.3's bimodal rhythm maps onto it free.
    Long periodic sentences for the mountain and the wait; 4–12-word declaratives for the run, the
    blast, the fire, the shot. The outline already has four night set pieces — earn them all.
-5. **Do they say "moonshiner"?** In NC these men were earlier **blockaders**, their product **blockade
-   whiskey**; "moonshiner" becomes common in the 1870s `LEAD`. Proposed ruling (Q-14): the cove has no
-   name for itself — they *run*, they *make* — and **"moonshiner" is always somebody else's word**,
-   in print. That makes the naming a theme instead of a glossary. `OPEN`
+5. **Say `blockader` on the mountain, `moonshiner` in outside print only (RULED Q-14 → R-17).** Around their
+   own mill and still the Brennans use work-verbs (*making*, *running*, *a run*, *the whiskey*); when a
+   mountaineer, storekeeper, or county man names the trade or the untaxed liquor as a class, the word is
+   **`blockader` / `blockading` / `blockade whiskey`** (`LEAD`: Kephart; Dan Pierce). Parrish speaks the statute
+   (*illicit distiller*, *untaxed spirits*). **"Moonshiner" and "moonshine" appear only in outside print**
+   (newspapers, *E2*, *E3*), never in narration or dialogue.
 6. **"Revenuer" is the derogatory.** Parrish objects to it once, out loud, and is corrected by a
    subordinate, not by a mountaineer.
 7. **Numbers are spoken, not argued.** No character explains the tax rate. Somebody counts dollars.
 
 ---
 
-## 9. Open questions — one at a time, in this order
+## 9. Open questions — one at a time, in this order (**ALL 14 RULED**)
 
 Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out of the blocking list.
 
@@ -1014,7 +1056,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-11 | Is "Whistlers" sourced or invented-and-owned? | ✅ RULED 2026-10-26 → **R-14**: owned as invention, and print-only — the Bureau, the county paper and the dime novel say it; the hollow never does |
 | Q-12 | Which county is the cove — Watauga, Mitchell, or Caldwell? | ✅ RULED 2026-10-26 → **R-15**: near **Cranberry Forge / Elk Park** = **`Cranberry Township, Mitchell County`** in 1878–81 (seat **Bakersville**; *not* Burke, which lost this ground in 1833, though Burke and Watauga head the older burned-courthouse deeds in the family box) |
 | Q-13 | Reconstruction in or out? | ✅ RULED 2026-10-26 → **R-16**: in as bone structure, objects only — Joshua fought for the Union (1862–65, Knoxville discharge; same summer as the 1862 liquor tax), Jacob stayed on the mountain raising Caleb, and the 1868 Constitution is both the feared tax-roll regime and Margaret's separate-estate shield; zero party speeches, no Klan subplot |
-| Q-14 | "Blockader" vs. "moonshiner" — who says which word? | Vocabulary bible, linter |
+| Q-14 | "Blockader" vs. "moonshiner" — who says which word? | ✅ RULED 2026-10-26 → **R-17**: **`blockader` / `blockade whiskey`** in mountain and county speech (around their own still the Brennans use verbs: *making*, *running*, *a run*); *illicit distiller* in Bureau paper; **`moonshiner` / `moonshine` in outside print only** |
 
 ---
 
@@ -1082,6 +1124,10 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   mountain 1862–65 keeping the farm and Caleb (closing §4's open war item). The 1868 NC Constitution appears
   only through paperwork (`Cranberry Township` rolls, delinquent tax-sale memory, and `Art. X §6` on Margaret's
   deed) — **no Klan subplot, no party speeches, and never the noun "Reconstruction" in a character's mouth.**
+- **Trade register — CLOSED (R-17).** Brennans at work use verbs (*making*, *running*, *a run*, *the whiskey*);
+  mountain and county-town speech says **`blockader` / `blockading` / `blockade whiskey`**; Parrish and Bureau
+  filings say *illicit distiller* / *untaxed spirits*; **`moonshiner` and `moonshine` appear in outside print
+  only** (newspapers, *E2*, *E3* — zero hits in narration or dialogue).
 - **POV ledger (R-4).** Every scene belongs to Joshua or Margaret. A scene that needs a fact only Jacob,
   Caleb, Matthew, Harper or Parrish could supply must get it from an object, a report, or a silence — and
   the linter's `lex:other-heads-interiority` row will flag the draft when the discipline slips.
@@ -1089,7 +1135,8 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   train seen on the page at any date** (R-5 — the earlier rule "no locomotive before mid-1882" is now
   stricter: there is no locomotive, only the powder and the report of it); Avery County before 1911;
   **Newland** before 1911–12 (in 1878 say *Old Fields of Toe*, R-15); any depot, post office, or incorporated
-  boomtown at **Elk Park** before 1882–85, or company-town scrip/hotel at **Cranberry** before July 1882 (R-15).
+  boomtown at **Elk Park** before 1882–85, or company-town scrip/hotel at **Cranberry** before July 1882 (R-15);
+  **"moonshiner" / "moonshine" in narration or any mountain mouth** (outside print only, R-17).
 - **Closing sound (R-5, R-15).** The final beat's noise is a blast off the state-line ridge or a local hammer —
   never a whistle, never an engine, because Hampton (15.5 air / ~19.9 gorge miles down Doe River Gorge) was the
   rail head in October–November 1881. Pending ask R-13.
@@ -1097,6 +1144,13 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 ---
 
 ## 11. Change log
+
+- **2026-10-26 — Q-14 ruled → R-17 (§9 blocking queue CLOSED).** Mountain and county-town speech says
+  **`blockader` / `blockading` / `blockade whiskey`** (`LEAD`: Kephart; Dan Pierce — wartime blockade origin,
+  never explained on the page), while around their own still the Brennans use work-verbs (*making*, *a run*,
+  *the whiskey*); Parrish speaks the statute (*illicit distiller*); and **`moonshiner` / `moonshine` are
+  restricted to outside print** (newspapers, *E2*, *E3*), matching R-14. `vocabulary-tone-bible.md` moves to
+  v1.0 with updated `FLAG` and `NOTE` rows. **All 14 §9 questions are now ruled (`R-1` … `R-17`).**
 
 - **2026-10-26 — Q-13 ruled → R-16.** War and Reconstruction enter **as bone structure in objects and
   paperwork, with zero speeches**: Joshua walked over State Line Gap into the Union army in summer **1862**

@@ -505,7 +505,7 @@ move the barn to something we've been in: Joshua's mill, or Jacob's own winter k
 **Q15. The judge.** Do we see Robert P. Dick (R2) on the page, kindly, in his robes, and does he go
 easy on Jacob, and does that *not help*?
 
-### Style & voice
+### Style & voice — *Q20 RULED 2026-10-26 → R-17 (`blockader` / `blockade whiskey` on the mountain; `moonshiner` in outside print only)*
 **Q16. Register.** Guide §5.3 bans eye dialect and says build voice from cadence and concrete nouns.
 Concretely for this book: is the cove's speech **asyndetic and declarative, short, noun-heavy, no
 subordination** ("He has a rifle. He has a badge."), and Parrish's **periodic, subordinate,

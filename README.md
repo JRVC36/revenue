@@ -131,6 +131,12 @@ knows what shape the book is in:
     Caleb (locking R-8); and the **1868 NC Constitution** sits in the room solely as paperwork — both the
     feared township tax-sale regime and the `Art. X §6` clause that shields Margaret's forty acres (R-7). No
     Klan subplot, no party speeches.
+17. **R-17 — `Blockader` on the mountain, `moonshiner` in outside print only (closes §9 Q-1…Q-14).** Around
+    their own tub the Brennans use work-verbs (*making*, *running*, *a run*, *the whiskey*); when mountain or
+    county-town speakers name the trade as a class, the word is **`blockader` / `blockading` / `blockade
+    whiskey`** (wartime blockade carryover, never explained); Parrish speaks the statute (*illicit distiller*);
+    and **`moonshiner` / `moonshine` belong strictly to outside print** (newspapers, *E2*, *E3*), never to
+    narration or dialogue.
 
 ## Editing workflow
 
