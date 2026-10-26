@@ -23,6 +23,10 @@ transcript, do not cite.
 | 📄⚠️ | `Books/Revenue/What was daily life like in north western NC in 1...` | Farming, foodways, foraging, chestnut mast, work frolics, company town, rail social effects | Same character: chat output, unsourced, and it **opens with a wrong framing** ("Between 1860 and 1890… Avery County was formed later in 1911" is right, but "the rise of Cranberry as a booming industrial company town" is then treated as if it shapes the whole 1860–1890 span). Useful for texture, worthless for dates. |
 | 📄 | `Books/Appalachian Drama/*` | **House precedent.** `period-audit.md` (the format to copy), `appalachian-drama.md` (the finished novel: 20 ch., 3 acts, ~93k words, `## Chapter N: Title`, `---` scene breaks, act dividers) | Also the **overlap risk**: *The Bound Tree* already contains a surveyor's-chain engine, barn burning ("The Scorched Earth"), and salt as motif. Differentiate — see Q-15. |
 
+**Export note (2026-10-26):** `docs/outline-v1-verbatim.md` is the Drive text with line endings
+normalized CRLF→LF and the BOM dropped. Nothing else was touched — no re-wrapping, no spelling fixes, no
+heading syntax added, so line numbers still let the author point at the Drive document.
+
 ## 2. Where to go in the archives, by research question
 
 Ordered against the canon §9 list. These are the concrete retrievals — this is the part of the plan

@@ -156,6 +156,7 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | NOTE | Act [IV]+: THE RECKONING | every act title unique (canon 10) |
 | NOTE | \b\d+\b | numerals only in headings/ledgers/NOTES; spelled out in prose |
 | NOTE | \b1[6789]\d\d\b | every exact year needs a line in docs/period-audit.md |
+| FLAG | \b(Parrish|Caleb|Matthew|Harper|Jacob|Asa|Eudy|Frank)\b[^.?!"\n]{0,45}\b(thought|knew|felt|realized|understood|wondered|hoped|was afraid|was glad|was sorry|wanted to say)\b | R-4 POV law: only Joshua and Margaret get interiority — put the fact in an object, a report, or a silence |
 | NOTE | \b(Reconstruction|carpetbagger|scalawag|Loyal League|ironclad oath|disenfranchis\w*|the late war)\b | the deleted backstory (canon 7) / Q-13: must exist for a reader without ever becoming the subject |
 ```
 

@@ -39,7 +39,7 @@ Not a feud saga; not a moonshine adventure; nobody wins a shoot-out.
   28–32 chapters, 4–7 scenes each.
 - **Timeline:** summer 1878 → June 1882 (the railroad reaches Elk Park three weeks before the book's
   last page; it never sees a train before 1882).
-- **POV:** third person limited, past tense; one spine POV plus one secondary (Q-1).
+- **POV:** third person limited, past tense. **Joshua Brennan carries ~80%; Margaret Brennan ~20%** (canon R-4). Nobody else is ever inside a head — which is why a book about an informer reads like an interrogation of the reader.
 
 ## 4. Shelling out
 
@@ -77,6 +77,6 @@ chapter is wrong, not the line.
 
 ## 7. `OPEN` items this file depends on
 
-Q-1 (whose spine), Q-2 (does the book end at the trial or run to the train), Q-4 (Margaret's exact
+Q-2 (does the book end at the trial or run to the train), Q-4 (Margaret's exact
 estate interest — the blurb commits to "dower" and must be checked against North Carolina real-property
 law in 1878, which is a research ask, R-6 in `docs/research-gaps-and-questions.md`).

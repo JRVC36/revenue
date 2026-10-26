@@ -37,8 +37,11 @@ be evidence.
 **Engine hook:** if she holds dower or a joined deed, she can *convey* — the one act no man in the book
 can perform for her. Q-4 in canon §9 decides how much power she is allowed.
 **Currently in the outline:** 6 mentions against Parrish's 39, and she has one good scene (the nod in
-the courthouse). That scene is the seed. Fix by giving her the second POV (§2.1 of the Style Guide,
-15–20%).
+the courthouse). That scene is the seed.
+**Ruled (canon R-4): she is the ~20% secondary POV.** Her chapters are the ones where *paper* decides
+something — the posted notices, the search of the house, her own standing at the term. She does not get
+the grief chapters and she never gets a scene of her crying alone; her interiority is arithmetic and
+inventory, and it is allowed to include what a room costs to put back.
 
 ## Matthew Brennan · 19 in 1878 · Jacob's son · the informant
 
@@ -82,10 +85,12 @@ the government has guns and paper.
 mortgage is the reason his "no" is expensive and Jacob's is not.
 **Signature action:** measures. He weighs the corn, he measures the toll, he measures how much he can
 carry before he is the man who carried it too far.
-**Why he may be the spine (Q-1):** he can enter both worlds, he is the only one who knows the
+**Spine POV, ~80% (ruled: canon R-4).** He can enter both worlds, he is the only one who knows the
 informant's name and must decide whether to say it, his refusal is the book's thesis, and his
 compromise — sheltering Caleb — is the book's fall. His "gradual education" is the discovery engine the
 Style Guide §2.1 requires, and Jacob's and Caleb's do not have one.
+**What that costs him on the page:** he is the POV, so the book's one unaffordable sentence is his — the
+reader must not be allowed to hear him call what he does *reasonable*.
 **Ends:** sells the mill, leaves, is the only Brennan who dies in a town with a street name.
 
 ## William Parrish · 35–40 in 1878 · federal revenue agent
