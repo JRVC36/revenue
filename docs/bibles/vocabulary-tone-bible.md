@@ -1,6 +1,6 @@
 # Vocabulary & Tone Bible — *REVENUE*
 
-**Status: v0.9 — enforceable now; two rulings pending (Q-13, Q-14).**
+**Status: v0.95 — enforceable now; one ruling pending (Q-14).**
 The mechanical half of the Style Guide. `tools/check.py` reads its ban list from the `lexicon` fence in §7 below, so **edits here change the linter**. Format: `pattern | severity | note`.
 
 Severity: `BAN` fails the build · `FLAG` warns · `NOTE` is a style reminder for humans only.
@@ -162,7 +162,7 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | NOTE | \bdower\b\|\bcurtesy\b\|\bprivy examination\b\|\bseparate estate\b\|\bhomestead exemption\b | R-7 legal terms: usable, but each needs its period-audit row and a citation before printing; "dower" in particular must not be used of Margaret |
 | FLAG | \b(locomotive|the engine|whistle|depot|the train|railroad|the cars|railroad track|roundhouse)\b | R-5: the company, the grade and the location may be named; nothing may be *seen* doing it. Every hit is a decision |
 | FLAG | \b(Parrish|Caleb|Matthew|Harper|Jacob|Asa|Eudy|Frank)\b[^.?!"\n]{0,45}\b(thought|knew|felt|realized|understood|wondered|hoped|was afraid|was glad|was sorry|wanted to say)\b | R-4 POV law: only Joshua and Margaret get interiority — put the fact in an object, a report, or a silence |
-| NOTE | \b(Reconstruction|carpetbagger|scalawag|Loyal League|ironclad oath|disenfranchis\w*|the late war)\b | the deleted backstory (canon 7) / Q-13: must exist for a reader without ever becoming the subject |
+| NOTE | \b(Reconstruction|carpetbagger|scalawag|Loyal League|ironclad oath|disenfranchis\w*|the late war)\b | bone-structure R-16: war and 1868 live in objects and deeds only; zero party speeches, no Klan subplot, and never the noun Reconstruction in a mountain mouth |
 | NOTE | \bWhistlers?\b | R-14: the name is print-only. Check the speaker: reports, the county paper, the dime novel yes; any mountain mouth no. Never in the same sentence as the grade's whistle |
 | NOTE | \b(Burke County|Watauga County)\b | county-trail R-15: in 1878-81 Cranberry Forge and Elk Park are Mitchell County (seat Bakersville); Burke (pre-1833) and Watauga (1849-61) belong on older deeds or across the county line only |
 | NOTE | \bElk Park\b | elk-park R-15: in 1878-81 an unincorporated border clearing in Cranberry Twp (no depot until June 1882, no post office until May 1883, no town charter until 1885) |

@@ -200,7 +200,13 @@ Marshal **Burns, shot in the back from ambush, 13 April 1874, Western District o
 > case — a state officer enforcing a state seizure got the prosecution pulled into federal court — and
 > your Act Two would be far stranger and better if some lawyer in town knows that.
 
-### R9. Reconstruction, which your outline has deleted
+### R9. Reconstruction, which your outline has deleted — **RULED 2026-10-26 → R-16 (bone structure in objects only, zero speeches)**
+
+*Direction closed by R-16:* 1861–1876 enters solely through objects and paperwork — Joshua's 1862–65 Union
+service (Knoxville discharge in the drawer beside his mortgage; unit kept unnamed on the page; same summer as
+the July 1, 1862 spirits tax), Jacob's 1862–65 stay on the mountain dodging Home Guard sweeps and raising
+Caleb, and the 1868 NC Constitution simultaneously governing `Cranberry Township` tax rolls and shielding
+Margaret's separate estate (`Art. X §6`). Klan subplots and party speeches are excluded.
 There is no Black character, no church politics, no party name, and no war memory in this book, and it
 is set in 1878 North Carolina. Your `Rough Research` doc hand-supplies the alibi (near-absent
 slaveholding in the high coves, Unionist mountains, Burke County voting against secession) — and I

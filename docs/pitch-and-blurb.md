@@ -27,8 +27,9 @@ belongs to a man's wife — and that is exactly where the still stands.**
 > know. The trick does not work on Margaret Brennan, because the ground the still stands on is hers, and an
 > owner forfeits her land whether she knew or not. Nor does it work on Joshua, the elder brother who
 > inherited the farm next door and mortgaged it — the government intends to reach his acreage too, by
-> arguing that two places watered by one stream are one place. Joshua came home from the war a farmer and
-> went into the militia an officer; he keeps the peace by keeping the books, and pays off the mortgage in
+> arguing that two places watered by one stream are one place. Joshua walked over the Tennessee line in 1862
+> to fight for the United States — the same summer Congress enacted the liquor tax to pay his army — and came
+> home in 1865 to a mortgaged mill; he keeps the peace by keeping the books, and pays off the note in
 > installments he never explains. Matthew, nineteen, wants out, and the government's own informer law
 > quietly stopped paying informers six years before he was asked, which he will learn after he has learned
 > everything.

@@ -124,6 +124,13 @@ knows what shape the book is in:
     Margaret's folded deeds the only copies left. Putting the hollow at the railroad's exact destination also
     makes the 1880–81 blasting across State Line Gap genuinely audible while Doe River Gorge still blocks any
     whistle from Hampton. `Newland` (1911–12) joins `Avery County` (1911) on the `BAN` list.
+16. **R-16 — 1861–1876 is bone structure, never a speech.** Joshua walked over State Line Gap into the Union
+    army in summer **1862** (the same summer Congress enacted the July 1, 1862 distilled-spirits tax to pay his
+    army) and mustered out at **Knoxville in 1865** (unit kept unnamed on the page), so the government coming
+    for his deed is his own side; Jacob stayed on the mountain 1862–65 dodging Home Guard sweeps and raising
+    Caleb (locking R-8); and the **1868 NC Constitution** sits in the room solely as paperwork — both the
+    feared township tax-sale regime and the `Art. X §6` clause that shields Margaret's forty acres (R-7). No
+    Klan subplot, no party speeches.
 
 ## Editing workflow
 

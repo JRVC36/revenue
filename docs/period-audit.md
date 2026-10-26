@@ -154,11 +154,16 @@ Same house standard as *The Bound Tree*:
 - **Cherokee presence.** The cove's fields were cleared by people who were pushed out generations earlier.
   One line of *fact* — a townsite, a plum tree, a path too straight to be a cow trail — no mysticism, no
   speaking for, no relic-hunting by a white character.
-- **Veteranhood without heroism.** Joshua and Jacob are the outline's veterans (Joshua, Union, 1862–65;
-  the rest of the cove's service record is `OPEN` — do not invent a company name). The book's interest is what
-  the war left in the room, not the war. *(Corrected 2026-10-26: this line previously listed Asa, Eudy and
-  Frank, who are characters in* The Bound Tree*, not in this outline. Nothing in* REVENUE* may inherit a
-  name from the sibling project without a line in §3 saying why.)*
+- **Veteranhood without heroism.** **RULED Q-13 → R-16:** Joshua walked over State Line Gap into the **Union**
+  army in summer **1862** and mustered out at **Knoxville in 1865** (**do not invent a company letter or
+  regiment number** — Mitchell County's 84 Union enlistees served chiefly in the `13th Tennessee Cavalry (U.S.)`
+  and `3rd NC Mounted Infantry (U.S.)`, which formally mustered 1863–64 after 1862 scout crossings `LEAD`);
+  Jacob stayed on the mountain 1862–65 cutting/hauling around Cranberry Forge and lying out from Home Guard
+  sweeps while keeping Caleb (R-8). The book's interest is what the war left in the drawer — a Knoxville
+  discharge paper beside a mortgage receipt and an 1862 liquor tax — never the war itself. *(Corrected
+  2026-10-26: this line previously listed Asa, Eudy and Frank, who are characters in* The Bound Tree*, not in
+  this outline. Nothing in* REVENUE* may inherit a name from the sibling project without a line in §3 saying
+  why.)*
 - **Mountaineer speech without mockery.** No eye dialect, ever (`BAN` at the level of the whole project).
   Rhythm carries it: parataxis, refusal, concrete nouns, understatement.
 - **Violence.** **One death per side, and the government's comes first** (R-10): Lish Councill, 15, shot
@@ -191,3 +196,5 @@ sentinel grep of one distinctive string per file.** Nothing is assumed applied.
 | "twenty-three states had similar laws" (outline) | `UNSOURCED` | Either verified state by state or cut. Not load-bearing. |
 | County jurisdiction for Cranberry / Elk Park (Q-12 → **R-15**) | **RULED → R-15**, `LEAD` | In **1878–1881**, Cranberry and Elk Park sit in **`Cranberry Township, Mitchell County`** (seat **Bakersville**, est. 1868; Mitchell formed **16 Feb 1861** from Yancey, Watauga, Caldwell, Burke, and McDowell; 1880 Cranberry Twp pop. **1,174** incl. Elk Park village). **Not Burke County** on the 1878 docket: this ground was **Burke** 1777–1833 (Morganton; records burned **Apr 1865**), **Yancey** 1833–49 (Burnsville), **Watauga** 1849–16 Feb 1861 (Boone; deed books burned **23 Mar 1873**), **Mitchell** 1861–23 Feb 1911 (Bakersville), and **Avery** from **23 Feb 1911** (`BAN`). Burke and Watauga belong on older grants/deeds in Margaret's box, where the burned courthouses make her paper the sole surviving copy. |
 | Period status of **Cranberry Forge**, **Elk Park**, and **Newland** (R-15) | `LEAD` / `BAN` | Post office is **Cranberry Forge** until **24 Apr 1884** (speech may say "Cranberry" or "the Forge"; **no** company hotel, company housing rows, or scrip before July 1882). **Elk Park** in 1878–81 is an unincorporated border clearing 1 mi north of the Forge (no depot until June 1882, no PO until **May 1883**, no town charter until **1885**). **Newland** is `BAN` (named 1911–12; in 1878 say **Old Fields of Toe**). |
+| War split & muster-date guard (Q-13 → **R-16**) | **RULED → R-16**, `LEAD` | Northern Mitchell County was strongly Unionist (`LEAD`, Hardy/Garren: 84 Union / 771 Confederate countywide, concentrated along the TN line in the `13th TN Cavalry (U.S.)` and `3rd NC Mounted Infantry (U.S.)`, mustered out at **Knoxville, Aug–Sept 1865**). Because formal muster dates for those two regiments fall in 1863–64 after 1862 scout/pilot crossings, **keep Joshua's unit unnamed on the page** ("over the line in sixty-two, discharged at Knoxville in sixty-five"); Jacob stayed on the mountain 1862–65 dodging Home Guard sweeps and raising Caleb. Never state aloud that the July 1, 1862 spirits tax funded Joshua's own army — let the 1865 discharge paper in the drawer do the work. |
+| Reconstruction & 1868 paper in the cove (Q-13 → **R-16**) | **RULED → R-16**, `LEAD` | Admitted **only as paperwork**: the **1868 NC Constitution** is simultaneously the regime of `Cranberry Township` tax rolls / delinquent-land tax sales and the `Art. X §6` clause protecting Margaret's separate estate (R-7). **Excluded:** Klan raids (historically Rutherford/McDowell/Polk, not Cranberry Twp), party stump speeches, and the noun "Reconstruction" in dialogue. Demographic baseline: Mitchell County's 1862 tax list counted **65 enslaved persons** countywide (`LEAD`, Hardy); real freedpeople landowners Peter and Charity Hardin held Mitchell County deeds and kept the Cranberry Forge post office — logged here for accuracy, never voiced or fictionalized. |

@@ -25,6 +25,10 @@ because saying it would mean admitting the cost of his own competence falls on s
 **Legal fact he cannot use:** he cannot register. Bond approval required an owner in fee *unencumbered*,
 and where there was a lien, every lienholder had to consent in writing — so the only lawful road ran
 through the mortgage holder's signature. One flat line from the miller in Act One, then never explained.
+**1862–65 (ruled: canon R-16):** did not enlist on either side; stayed on the mountain cutting and hauling
+around Cranberry Forge enough to stay off early conscript lists and lying out in the laurel when the Home
+Guard swept the creek — keeping the place and five-year-old Caleb for the three years Joshua was in the Union
+army, which is how the boy came to call him "Father" (R-8).
 **Cost he pays:** he is remembered as a man who did nothing.
 
 ## Margaret Brennan · 40s in 1878 · wife; mother of the informer
@@ -119,11 +123,16 @@ refusal to inform, the sheltering of the fugitive, the sale of the mill, the lea
 about that boy, and no sentence in the manuscript is permitted to say so. The three planted facts are in
 canon §10 ("the Caleb audit"); the fourth is Joshua's silence when someone calls Caleb "your brother's boy"
 and does not correct himself.
-**What R-6 did to him:** he inherited the farm and mortgaged it, so the still sits in *his* barn on *his*
-acreage, and the forfeiture R-3 aims at the land lands on the POV character's own deed. He is also the one
-man in the cove who cannot plead not knowing — an owner in fee is presumed to know what his tenant is doing
-under his roof, which is the doctrine, not a metaphor. His whole social function is to hold the hollow's
-secret; his legal position is that the secret is his.
+**What R-6 did to him:** he inherited the farm and mortgaged it, so the still sits in the barn on Margaret's
+adjoining freehold (corrected by R-7), and the forfeiture R-3 aims at the land reaches the POV character's own
+deed via "connected therewith." He is also the one man in the cove who cannot plead not knowing — an owner in
+fee is presumed to know what happens on connected premises, which is the doctrine, not a metaphor. His whole
+social function is to hold the hollow's secret; his legal position is that the secret is his.
+**What R-16 put in his drawer:** in summer **1862**, after Elsie died, he walked over State Line Gap into East
+Tennessee and served three years in the **Union** army, mustering out at **Knoxville in 1865** (unit unnamed on
+the page). Congress enacted the distilled-spirits tax that same summer to pay his army. Seventeen years later
+the United States comes for his deed under the law that fed him, and he never once says so — his folded 1865
+discharge sits beside the mortgage receipt in *What a No Costs* and does all the talking.
 **Spine POV, ~80% (ruled: canon R-4).** He can enter both worlds, he is the only one who knows the
 informant's name and must decide whether to say it, his refusal is the book's thesis, and his
 compromise — sheltering Caleb — is the book's fall. His "gradual education" is the discovery engine the

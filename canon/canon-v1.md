@@ -610,7 +610,7 @@ this table can be reordered without breaking them.**
 | 1 | The Water Is Right | J | The World Before | The cove's economy in weights and a jug carried to Tyler's. The still seen working, from outside. R-4: we open on the corn, not on Jacob's hands. |
 | 2 | Powder on the Ridge | J | (new, R-2) | Grading heard at night; a federal transit on the next ridge. The second chain-and-book front planted before the first one is. |
 | 3 | The Office | J | The Arrival of the Excise | Parrish opens; calls on the judge, the sheriff, the leading men. Joshua and **Harper both attend** (R-11). |
-| 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses; the last page is his own mortgage and the cart road down onto his brother's wife's ground (R-6/R-7). The keeping-money ledger line goes in here, undrawn attention (R-8). |
+| 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses; the last page is his own mortgage and the cart road down onto his brother's wife's ground (R-6/R-7). In the same drawer: the keeping-money ledger line (R-8) and his 1865 Knoxville Union discharge paper (R-16), neither explained. |
 | 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know, at Joshua's mill. **Harper says *don't*** and is outvoted (R-11). |
 | 6 | Gauger's Work | J | The Standoff Begins | A still in a barn makes the *land* the case (R-3). **Tyler's day book is taken**; the written protest is what will make it evidence (R-11). |
 | 7 | The Store Debt | J | The Temptation | **R-10's three asks in one chapter:** the day-book line, the date, the appointment not given. |
@@ -765,8 +765,11 @@ and not a political animal. Competence shown only through the still: water, drai
 garden. Engine consequence: the apparatus and his body are the libel's subject matter, but **the land is his
 wife's** (R-7) — the forfeiture falls on the one parcel that was always meant to be beyond him, which is
 why his calm in Act One reads, in hindsight, as a man protected by a marriage he never thanks.
-`INVENT` the year of his father's death (see inheritance ask R-14); `INVENT` whether he fought for the
-Union or hid. `OPEN` Q-5.
+**RULED Q-13 → R-16 (`INVENT` grounded in `LEAD`):** stayed on the mountain in **1862–65** — cutting and
+hauling around Cranberry Forge to stay off the early conscript lists and lying out in the laurel when the Home
+Guard swept the creek — keeping the place and five-year-old Caleb while Joshua served in the Union army, which
+is how the boy came to call him "Father" (R-8). `INVENT` the year of his father's death (see inheritance ask
+R-14).
 
 **MARGARET BRENNAN (née ___)** — 40s in 1878. Wife, mother of the informer, and **owner in fee of the
 tract the still stands on** (R-7): her father's land, her separate estate under NC Const. 1868 Art. X §6,
@@ -794,8 +797,11 @@ of it: the fee the government can reach is his (R-3 + R-6). Miller and trader. R
 Act One, refuses Caleb's intelligence request in Act Two, tells Caleb the informant's name anyway,
 shelters the fugitive, sells out and leaves. **The only man standing in both worlds and the only
 character who knows the informant's name and must decide whether to say it.** **Spine POV, ~80% — ruled
-Q-1 → R-4.** And, under R-8, the father of the boy in his brother's house — the one fact about Joshua the
-book must make legible without ever once stating it.
+Q-1 → R-4.** Under **R-8**, the father of the boy in his brother's house — the one fact about Joshua the book
+must make legible without ever once stating it. And under **R-16**, a **Union veteran (1862–65)** who walked
+over State Line Gap the summer Elsie died and mustered out at Knoxville (unit unnamed on the page): the United
+States taking his deed is the army he fought for, enforcing the July 1, 1862 war tax enacted the month he put
+on the coat — carried solely by his 1865 discharge paper in the drawer, never spoken.
 
 **WILLIAM PARRISH** — 35–40 in 1878. Federal revenue agent. Rifle, badge, orders, and — from Act Three on,
 a file with his own name in it. Courteous and reasonable within his institution (Style Guide §1.3) —
@@ -819,8 +825,9 @@ required), and the cove cannot answer a man who was right except with fire. He g
 doorway and his sons standing in it.
 
 **THE COVE.** `INVENT` ~12 distilling families; **Lish (Elisha) Councill, 15**, of North Fork, killed in the
-Act One raid (R-10); no Black families in the side hollow itself, though real freedpeople landowners held ground
-at Cranberry Forge (contested — see §7 and Q-13); Baptist and Methodist meeting houses `USER`; extended-family
+Act One raid (R-10); white yeoman households in the side hollow itself (Mitchell County's 1862 tax list counted
+65 enslaved persons countywide, while real freedpeople landowners held deeds three miles down at Cranberry
+Forge — **RULED Q-13 → R-16**, §7); Baptist and Methodist meeting houses `USER`; extended-family
 naming: use attested **Cranberry Township (Mitchell) and Watauga-ridge surnames** (Winters, Buchanan, Wiseman,
 Pritchard, Burleson, Gouge, Dugger, Banner, Avery, Henson, Calloway, Brown, Councill) for the secondary cast so
 the 1880 census reads true `USER`/`LEAD` (R-15).
@@ -904,16 +911,18 @@ ethnography). **The Guide's rule applies: render this step by step and cut every
 
 ---
 
-## 7. What the outline deleted, and must now answer
+## 7. What the outline deleted — **RULED Q-13 → R-16 (bone structure in objects, zero speeches)**
 
-**Reconstruction is absent.** No Black presence, no church politics, no party named, no war memory — in
-1878 North Carolina. `Rough Research` supplies the alibi (near-absent slaveholding in the high coves;
-Burke County voting against secession; Unionist mountains) `USER`, and it is a defensible alibi for
-*that* hollow. But "revenue" was not a neutral word in these counties: the postwar tax sales of
-delinquent farms, the 1868 constitution and its schools, the Kirk–Holden war, and the railroad-debt
-readjustment fight were all revenue fights. **Q-13: is the cove politically naive (unbelievable) or
-politically shaped by what it lived through (a page and a half, and the whole book gets deeper)?**
-`OPEN`
+The source outline had no war allegiance, no 1868 paper trail, and no Reconstruction memory in 1878 North
+Carolina. **R-16** resolves this without adding a single political speech: (i) **Joshua's 1862–65 Union
+service** (over State Line Gap into East Tennessee after Elsie's death, mustered out at Knoxville in 1865; unit
+unnamed on the page) means the United States coming for his mortgaged farm is his own army enforcing the July 1,
+1862 war liquor tax, while **Jacob stayed on the mountain in 1862–65** dodging Home Guard sweeps and raising
+Caleb (locking R-8); (ii) **1868 lives in the room as paper** — the same 1868 NC Constitution whose township
+tax rolls (`Cranberry Township`) and delinquent-land tax sales made clerks' notices feared in the hollows is
+the exact clause (`Art. X §6`) that shields Margaret's separate estate (R-7). **Strictly excluded:** Klan
+subplots (historically Rutherford/McDowell, not Cranberry Twp), party stump speeches, and the noun
+"Reconstruction" in mountain mouths.
 
 ---
 
@@ -958,7 +967,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-10 | Which federal court sits where, on what term date, in 1879? | ✅ RULED 2026-10-26 → **R-13**: the Circuit Court at Statesville, terms the 3rd Monday in April and October — Jacob convicted 21 Apr 1879 (released 21 Apr 1881), Caleb tried 17 Oct 1881; Judge Dick named, seated, never voiced |
 | Q-11 | Is "Whistlers" sourced or invented-and-owned? | ✅ RULED 2026-10-26 → **R-14**: owned as invention, and print-only — the Bureau, the county paper and the dime novel say it; the hollow never does |
 | Q-12 | Which county is the cove — Watauga, Mitchell, or Caldwell? | ✅ RULED 2026-10-26 → **R-15**: near **Cranberry Forge / Elk Park** = **`Cranberry Township, Mitchell County`** in 1878–81 (seat **Bakersville**; *not* Burke, which lost this ground in 1833, though Burke and Watauga head the older burned-courthouse deeds in the family box) |
-| Q-13 | Reconstruction in or out? | Everything under the surface |
+| Q-13 | Reconstruction in or out? | ✅ RULED 2026-10-26 → **R-16**: in as bone structure, objects only — Joshua fought for the Union (1862–65, Knoxville discharge; same summer as the 1862 liquor tax), Jacob stayed on the mountain raising Caleb, and the 1868 Constitution is both the feared tax-roll regime and Margaret's separate-estate shield; zero party speeches, no Klan subplot |
 | Q-14 | "Blockader" vs. "moonshiner" — who says which word? | Vocabulary bible, linter |
 
 ---
@@ -1020,6 +1029,13 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   numbered, never named; the file's error is corrected only if the trade at *The Deposition* is played. One death per
   side in this book — his, then the deputy's — and his comes first, which is what makes Act Two's restraint
   read as restraint rather than as authorial cowardice.
+- **War & 1868 bone structure — CLOSED (R-16).** Joshua enlisted Union in summer **1862** over State Line Gap
+  and mustered out at **Knoxville in 1865** (do **not** invent a company letter or regiment number on the page;
+  the real Mitchell County Unionist units organized 1863–64 after 1862 scout service). His discharge paper sits
+  in the drawer in *What a No Costs*, never explained against the July 1, 1862 liquor tax. Jacob stayed on the
+  mountain 1862–65 keeping the farm and Caleb (closing §4's open war item). The 1868 NC Constitution appears
+  only through paperwork (`Cranberry Township` rolls, delinquent tax-sale memory, and `Art. X §6` on Margaret's
+  deed) — **no Klan subplot, no party speeches, and never the noun "Reconstruction" in a character's mouth.**
 - **POV ledger (R-4).** Every scene belongs to Joshua or Margaret. A scene that needs a fact only Jacob,
   Caleb, Matthew, Harper or Parrish could supply must get it from an object, a report, or a silence — and
   the linter's `lex:other-heads-interiority` row will flag the draft when the discipline slips.
@@ -1035,6 +1051,16 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 ---
 
 ## 11. Change log
+
+- **2026-10-26 — Q-13 ruled → R-16.** War and Reconstruction enter **as bone structure in objects and
+  paperwork, with zero speeches**: Joshua walked over State Line Gap into the Union army in summer **1862**
+  (same summer Congress passed the July 1, 1862 distilled-spirits tax to fund his army) and mustered out at
+  **Knoxville in 1865** (unit kept unnamed on the page so 1863–64 formal regiment muster dates are never
+  violated); Jacob stayed on the mountain 1862–65 dodging Home Guard sweeps and raising Caleb (closing §4's
+  open item and locking R-8); and the **1868 NC Constitution** sits in the room simultaneously as the township
+  tax-sale regime the cove distrusts and as `Art. X §6` shielding Margaret's forty acres (R-7). Excluded: Klan
+  subplots (Rutherford/McDowell, not Cranberry Twp), party speeches, and "Reconstruction" in dialogue. Only
+  **Q-14** remains open in §9.
 
 - **2026-10-26 — Q-12 ruled → R-15.** Setting locked near **Cranberry (`Cranberry Forge`) and Elk Park, NC**,
   and the 1878–81 county corrected from the Drive notes' "Burke" to **`Cranberry Township, Mitchell County`**

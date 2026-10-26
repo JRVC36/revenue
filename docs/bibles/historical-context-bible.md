@@ -124,10 +124,20 @@ promising Matthew a percentage is a lie by omission, and Matthew's payoff — if
 bureaucratic act performed by a man in Washington who has never smelled the hollow. That is the period
 truth and it is a better scene than the outline's "good money."
 
-## 5. Politics in the mountains, 1878–1882 (canon §7's open question)
+## 5. Politics in the mountains, 1878–1882 (**RULED Q-13 → R-16: bone structure in objects, zero speeches**)
 
-What the region is simultaneously living through, any of which the author may admit or deliberately
-exclude:
+**Handling rule (`canon §1 R-16`):** the war and Reconstruction enter *REVENUE* **exclusively as physical paper
+and household facts — never as party stump speeches, Klan subplots, or the period label "Reconstruction."** Two
+historical ironies do the work silently: (i) **Joshua's 1862–65 Union service** (over State Line Gap into East
+Tennessee, discharged at **Knoxville in 1865**; unit unnamed on the page so 1863–64 formal regiment muster dates
+are never tripped) sits in the same drawer as his mortgage receipt, while the federal spirits tax (**Act of July
+1, 1862**) that now ruins him was enacted the summer he put on the coat to pay his own army; meanwhile **Jacob
+stayed on the mountain in 1862–65** dodging Home Guard sweeps and raising five-year-old Caleb (locking R-8); and
+(ii) the **1868 NC Constitution** lives in the room as **paper** — both the township tax-roll / delinquent
+tax-sale regime the cove distrusts and the exact clause (`Art. X §6`) that shields Margaret's separate estate
+(R-7).
+
+Background facts kept on file so the silence stays accurate:
 - **The memory of the liquor tax as Reconstruction.** The Enforcement Acts (1870–71) gave the federal
   government the same tools for the Klan and for the still; in North Carolina that meant the
   **Kirk–Holden war (1870)**, Colonel George Kirk's militia in Alamance and Caswell, Governor Holden's

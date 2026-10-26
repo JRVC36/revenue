@@ -117,9 +117,16 @@ October, Statesville); (b) FJC's *Asheville, North Carolina [Courthouse]* page f
 - **Ario Pardee papers** (Carnegie Library of Pittsburgh / HSP) and the Cranberry Iron & Coal Company
   records for the labor force, pay rates, and the company store.
 
-**Q-13 / R8–R10 (Reconstruction, the Klan-and-revenue entanglement, organized resistance).**
+**Q-13 / R8–R10 (Reconstruction, the Klan-and-revenue entanglement, organized resistance) — Q-13 RULED as R-16 (bone structure in objects only; Klan/party speeches excluded).**
+- **Mitchell County wartime & postbellum baseline (R-16):** Terrell T. Garren, *Mountain Myth: Unionism in
+  Western North Carolina* (84 Union / 771 Confederate enlistees from Mitchell Co., concentrated along the TN
+  line in the `13th Tennessee Cavalry (U.S.)` and `3rd NC Mounted Infantry (U.S.)`, mustered out Knoxville
+  Aug–Sept 1865); Michael C. Hardy, *Mitchell County* / Civil War studies (1862 Mitchell Co. tax list: 65
+  enslaved persons). Keeps Joshua's 1865 Knoxville discharge and Cranberry Township's 1868 paper grounded
+  without inventing a company roll.
 - **Trial of the Ku Klux Klan cases, Caswell and Alamance, 1871–73** (NARA Atlanta; also the published
-  *Report of the Select Committee on the Ku-Klux Klan Trials in North Carolina*, 1872).
+  *Report of the Select Committee on the Ku-Klux Klan Trials in North Carolina*, 1872) — **context only** (under
+  R-16 no Klan subplot enters Cranberry Township).
 - **Kirk–Holden**: Governor Holden's papers, NC Archives; the Senate impeachment trial records.
 - Matthew L. Shafer, *Blood in the Hills: A History of Violence in Appalachia* (2018) — the revenue
   violence chapter (25 agents killed 1876–1880). **Bruce E. Stewart, *Moonshiners and Prohibitionists:
