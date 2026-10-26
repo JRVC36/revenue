@@ -595,6 +595,52 @@ believe them to be part of Burke county").
 
 ---
 
+### R-16 · 1861–1876 in the hollow: **in as bone structure — the Union coat, the 1862 war tax, and the 1868 deed, carried in objects with zero speeches**
+
+`AUTHOR` (2026-10-26), answering **Q-13** (bone structure in objects / 1862–65 war split only / sealed cove /
+onstage party politics).
+
+- **The ruling.** The war and Reconstruction are **in**, never as a speech or a party argument, and carried
+  entirely in **two ironies made of paper and cloth**:
+  1. **The Union coat and the 1862 liquor tax.** Northern Mitchell County along the Tennessee line was strongly
+     Unionist (`LEAD`: 84 Union enlistments from tiny Mitchell Co., chiefly into the `13th Tennessee Cavalry
+     (U.S.)` and `3rd North Carolina Mounted Infantry (U.S.)`, after 1862 scout crossings over State Line Gap).
+     When Elsie died in spring **1862** (R-8), **Joshua walked over the Tennessee line and enlisted for the
+     United States**, mustering out at **Knoxville in late summer 1865**. Congress enacted the federal tax on
+     distilled spirits (**Act of July 1, 1862**) that same summer to pay for the war he fought. Seventeen years
+     later, **the government coming for Joshua's mortgaged deed is his own army, collecting on the statute that
+     fed him.** Nobody in the book ever says this. It sits in one drawer in *What a No Costs*: a folded 1865
+     Knoxville discharge beside the mortgage receipt and the keeping-money ledger. *(Guard: do **not** print an
+     invented company letter or regiment number on the page — because the formal NC/TN Union regiments mustered
+     1863–64 after 1862 pilot/scout service, "went over the line in sixty-two, discharged at Knoxville in
+     sixty-five" is period-proof without risking a muster-roll anachronism.)*
+  2. **1868 lives in the room as paper, not politics.** The **1868 North Carolina Constitution** — the
+     Reconstruction charter that replaced the old county court with townships (`Cranberry Township`), raised
+     property levies, and set off the delinquent-land **tax sales** that taught mountain households to distrust
+     every posted notice — is **the exact instrument (`Art. X §6`) that makes Margaret's forty acres a married
+     woman's separate estate** (R-7). Every Brennan owes their only shield against creditors to the settlement
+     the cove resents. Again, never argued: it is visible in the year `1868` on Margaret's deed and in the
+     courthouse's township books at Bakersville.
+- **Jacob's 1862–65 record is closed, and it locks R-8 shut.** At twenty-nine in 1862, **Jacob stayed on the
+  mountain**: cutting wood and hauling around Cranberry Forge enough to stay off the early conscript lists,
+  lying out in the laurel when the Home Guard swept the creek, and **keeping five-year-old Caleb for the three
+  years Joshua was gone**. That three-year absence — not a family speech — is **how Caleb came to call Jacob
+  "Father,"** and why Joshua rode home from Knoxville in August 1865 to a son who belonged to another table.
+  `INVENT` grounded in `LEAD`.
+- **What stays strictly OUT.**
+  - **No Klan subplot.** Western NC's 1868–72 Klan-and-revenue violence centered down the escarpment in
+    Rutherford, McDowell, and Polk counties, not in Unionist Cranberry Township `LEAD`; importing night-rider
+    oaths would also violate R-14 (the cove's resistance has no banner, oath, or minutes).
+  - **No party stump speeches** — no debates over Vance, Holden, Greenbackers, or "Reconstruction" (which as a
+    period noun never enters mountain speech; characters say *"since sixty-eight"* or *"in the war"*).
+  - **Honest demographic baseline, zero fictionalized real persons.** Mitchell County's 1862 tax list recorded
+    only **65 enslaved people** countywide `LEAD`, so the side hollow's twelve distilling households are white
+    yeoman farmers as outlined — while three miles down at **Cranberry Forge**, real freedpeople held Mitchell
+    County deeds (Peter and Charity Hardin are logged in `docs/period-audit.md` as verification only; per house
+    rule, real persons are never voiced or fictionalized).
+
+---
+
 ## 12. Chapter map v1 — POV-tagged and dated (R-4, R-5, R-13)
 
 Twenty outline beats in, **28 chapters** out, numbered continuously across the book. Renumbered
