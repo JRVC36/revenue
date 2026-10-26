@@ -162,8 +162,9 @@ What the ruling actually bought, and why it is not a cosmetic fix:
 - **The knowledge question gets a better target.** *Stowell*: the owner's land is forfeit if he "knowingly
   has suffered or permitted" the distilling or connived at it. A neighbor's ignorance is plausible; **an
   owner's is not**, and the owner is the man who keeps every account in the cove. Parrish's sharpest move
-  in Act Two is therefore to stop asking Jacob anything and start asking Joshua what his brother was doing
-  on his ground. `LEAD` on the doctrine; the scene is proposed for *The Missing Page*, awaiting the author.
+  in Act Two is therefore to stop chasing stills (Jacob is already in federal prison from the April 1879
+  Statesville term, R-13) and put the *Stowell* / "premises connected therewith" question directly to Joshua
+  over Hoss Tyler's seized day-book exhibit (**RULED → R-18**, *The Missing Page*).
 - **The cove's central technique becomes illegal for exactly one man.** "Not knowing" is what the hollow
   survives on, and it is a legal position — except for an owner in fee with a mortgage, who is *presumed* to
   know what happens in his own barn. R-4 plus R-6 puts the whole book's thesis inside the POV character's
@@ -681,6 +682,38 @@ onstage party politics).
 
 ---
 
+### R-18 · *The Missing Page* (Ch. 15): Parrish puts the *Stowell* "connected premises" trap to Joshua over Tyler's day-book exhibit, and Joshua spots Matthew's omitted folio
+
+`AUTHOR` (2026-10-26), locking Scene Proposal 1 of 3 (`canon §12`, Ch. 15 *The Missing Page*).
+
+- **The scene's legal engine (`R-3` + `R-6` + `R-7` + `R-13`).** By Chapter 15 (after *The Burning* in Ch. 14),
+  Jacob has already been convicted at the April 1879 Statesville term and sent away for his statutory two years
+  (R-13). What remains open on the docket is the **civil *in rem* libel against the real estate**. Having just
+  watched Harper's storage barn burn, Parrish stops chasing copper in the laurel and amends his case toward
+  **Joshua's adjoining mortgaged farm (`Parcel A`)** as *"all that lot or tract of land … and premises
+  connected therewith"* (Act of 20 July 1868, 15 Stat. 125; *Stowell*, "knowingly has suffered or permitted"):
+  the gristmill that ground the meal, the water race, and the cart road running down onto Margaret's forty
+  acres (`Parcel B`). Parrish summons Joshua and puts the knowledge question directly to the owner in fee of
+  `Parcel A`.
+- **Why the chapter is called *The Missing Page* (`R-9` + `R-10` + `R-11`).** Hoss Tyler's bound day book is
+  honest and unaltered (R-11: Tyler wrote `"by order of the agent"` in his own hand the day Parrish settled
+  Matthew's store debt in *The Store Debt*). What sits open on Parrish's desk during Joshua's examination is
+  the clerk's **certified exhibit schedule** copied out of Tyler's seized ledger to prove toll-corn, meal, and
+  jug haulage across Joshua's mill and road. Joshua — who has checked mill-toll balances against Tyler's folio
+  numbers for fifteen years — sees two things at once while measuring every word so he gives Parrish neither an
+  admission nor a perjury trap:
+  1. Parrish is building a paper bridge across the property line from Margaret's barn (`Parcel B`) to Joshua's
+     mortgaged mill (`Parcel A`);
+  2. **One folio number is skipped in Parrish's copied exhibit schedule** — the exact page carrying Matthew's
+     settled store account (`"by order of the agent"`) has been withheld from the public forfeiture transcript
+     so Parrish's pre-allowance settlement with an informant never enters the court file (and never reaches
+     Washington's eyes before R-9's audit).
+- **Silence rule:** Neither Joshua nor Parrish says Matthew's name in the room. Joshua reads the gap in the
+  folio sequence the way a miller reads a short weight, and walks out knowing both what his nephew cost and
+  what the agent is hiding from his own Department.
+
+---
+
 ## 12. Chapter map v1 — POV-tagged and dated (R-4, R-5, R-13)
 
 Twenty outline beats in, **28 chapters** out, numbered continuously across the book. Renumbered
@@ -712,7 +745,7 @@ this table can be reordered without breaking them.**
 | 12 | The Name | J | The Name | The cove learns who informed; Joshua is told; he does not say it. |
 | 13 | Johnson City | J | The Fall's aftermath | Matthew's injuries as objects and a doctor's sentence. The beating was Caleb's work too; Joshua looks at both boys and prices neither (R-8/R-10). |
 | 14 | The Burning | J | The Burning | **Harper's** barn — the storage ground — and the property the United States had a claim on, burned by the cove, over the objection of the man who said *don't*. Parrish did not order it (R-11). |
-| 15 | The Missing Page | J | The Network Spreads | Joshua reads what is not in the file. **Proposed, awaiting ruling:** Parrish stops questioning Jacob and puts the knowledge question to the owner in fee. |
+| 15 | The Missing Page | J | The Network Spreads | **RULED (R-18):** With Jacob in prison from the April 1879 term, Parrish turns the civil *in rem* libel onto Joshua's mortgaged farm (`Parcel A`: mill, water race, cart road) as *"premises connected therewith"* and examines Joshua over a certified exhibit transcript of Tyler's seized day book — where Joshua spots the skipped folio number omitting Matthew's settled store account (`"by order of the agent"`, R-10/R-11). |
 | 16 | First Blood | J | The First Blood | The deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
 | 17 | The Letters | J | Jacob's Letters + end of Act Two | Prison correspondence in two hands; the months counted in the ledger, not in thought. |
 
@@ -745,9 +778,10 @@ because her chapters carry the paperwork and run long. Measured at Pass 4, never
 **Word math for the pitch:** 28 chapters × 3,200–3,500 = 89,600–98,000 words — inside the 85,000–100,000
 target with no filler owed.
 
-**What is still contingent:** *The Missing Page* (the knowledge question aimed at Joshua) and *Did She Know?*
-(the privy certificate) are **proposed, awaiting the author**; *The Term, 1879*, *The Deposition* and
-*The Term, 1881* exist because the rulings required them. Nothing else in this table depends on an
+**What is still contingent:** *The Missing Page* is **RULED (R-18)**; *The Deposition* (Ch. 23, Margaret's
+fire-affidavit trade for Lish's name) and *Did She Know?* (Ch. 26, the missing privy-examination certificate
+behind the burned courthouses) are **the two remaining scene proposals awaiting the author**; *The Term, 1879*
+and *The Term, 1881* exist because the rulings required them. Nothing else in this table depends on an
 unanswered question, so **Act One can be drafted now**.
 
 
@@ -1096,22 +1130,26 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   inquiry (Act Three, arriving offstage in ch. 20), his answer (ch. 22), and the closing note "without
   adverse finding" (1882, the world of the epilogue). The windows follow the term calendar (R-13): the
   inquiry no earlier than the summer of 1881, the answer filed between the April and October sittings.
-- **The Caleb audit (R-8) — three planted facts, one per act, no statement.** (i) Act One, ch. 4: the
-  ledger page with the boy's keeping-money, entered in Joshua's hand under a year that predates the mortgage.
-  (ii) Act Two, *Margaret's Book* (or any chapter that passes through the house): Margaret's household accounts list
-  **two** boys' shoes in a year Jacob had none. (iii) Act Three, *The Mill Sold*: the deed by which Joshua sells the
-  mill reserves a right of way for "Caleb, my brother's son" — a phrase that means nothing to the clerk and
-  everything to the reader. If a reader assembles it before *The Surrender*, the planting worked; if the narration
-  ever explains it, cut the explanation, not the fact.
+- **The Caleb audit (R-8, updated R-11) — three planted facts, one per act, no statement.** (i) Act One, *What
+  a No Costs*: the ledger page with the boy's keeping-money, entered in Joshua's hand under a year that
+  predates the mortgage. (ii) Act Two (via Hoss Tyler's seized day book, R-11): Tyler's bound ledger lists a
+  **pair of boys' shoes** in a year Jacob's house had only one child of his own. (iii) Act Three, *The Mill
+  Sold*: the deed by which Joshua sells the mill reserves a right of way for "Caleb, my brother's son" — a
+  phrase that means nothing to the clerk and everything to the reader. If a reader assembles it before *The
+  Surrender*, the planting worked; if the narration ever explains it, cut the explanation, not the fact.
 - **The epilogue's three errors are fixed, and they are the only errors allowed to persist** (R-12). The
   county history's wrong year is **1877**, always, in every draft; the report spells **Elisha Councill**;
   the dime novel's fourth chapter title is the sentence quoted in §1 and is never varied. If a revision
   "corrects" the county history, it has stopped being a county history.
-- **The day book (R-11).** Two entries and their dates are fixed for the whole book: **"by order of the
-  agent"** (in Tyler's hand, the day it happened, because he is the one who writes) and the **pair of boys'
-  shoes** dated to a year Jacob had one child. Either one moving in date or wording shifts Act Three's
-  exhibit with it. Harper's *don't* is **one sentence, quoted back verbatim exactly once, in *The Burning*** — if a
-  draft quotes it twice, cut the second.
+- **The day book and its exhibit transcript (R-11, R-18).** Two entries in Hoss Tyler's bound day book and
+  their dates are fixed for the whole book: **`"by order of the agent"`** (in Tyler's hand, the day Parrish
+  settled Matthew's store debt in *The Store Debt*) and the **pair of boys' shoes** dated to a year Jacob had
+  one child. In *The Missing Page* (Ch. 15, R-18), Parrish examines Joshua over a clerk's **certified exhibit
+  transcript** copied from Tyler's seized ledger to join `Parcel A` as *"premises connected therewith,"* and
+  Joshua spots the **skipped folio number** where Matthew's `"by order of the agent"` page was withheld from
+  the public exhibit copy. Either entry moving in date, folio order, or wording shifts both Act Two and Act
+  Three with it. Harper's *don't* is **one sentence, quoted back verbatim exactly once, in *The Burning*** —
+  if a draft quotes it twice, cut the second.
 - **Lish Councill (R-10).** Fifteen, of North Fork, shot behind Harper's barn on the day Matthew named.
   Always **Lish** in the cove's mouths, **"a boy"** in the government's paper; the deputy who fired is
   numbered, never named; the file's error is corrected only if the trade at *The Deposition* is played. One death per
@@ -1144,6 +1182,15 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 ---
 
 ## 11. Change log
+
+- **2026-10-26 — Scene Proposal 1 of 3 ruled → R-18 (*The Missing Page*, Ch. 15).** After *The Burning* (Ch.
+  14) — with Jacob already serving his two years from the April 1879 Statesville term (R-13) — Parrish turns
+  the civil *in rem* libel onto Joshua's mortgaged farm (`Parcel A`: mill, water race, cart road) as
+  *"premises connected therewith"* and puts the *Stowell* knowledge question directly to Joshua over a
+  certified exhibit transcript copied from Hoss Tyler's seized day book (R-11). Joshua spots the skipped folio
+  number where Matthew's settled store account (`"by order of the agent"`, R-10) was omitted from the public
+  exhibit copy. Cleaned up the pre-R-11 Caleb-audit shoe-entry cross-reference in §10 and Tyler's hand note in
+  `character-bible.md`.
 
 - **2026-10-26 — Q-14 ruled → R-17 (§9 blocking queue CLOSED).** Mountain and county-town speech says
   **`blockader` / `blockading` / `blockade whiskey`** (`LEAD`: Kephart; Dan Pierce — wartime blockade origin,

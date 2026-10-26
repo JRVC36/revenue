@@ -80,7 +80,8 @@ appointment of any kind. Two are given, the third is declined courteously, and t
 fifteen-year-old shot behind Harper's barn. He is never again the boy who wanted out; he is the man whose
 name appears in three documents and in no conversation.
 **How to write a motive with no interiority (R-4 says he never gets a head):** three objects, no thoughts. A
-line in a day book in a hand that is not Tyler's. A date said once, in the store, and kept exactly. A letter
+line in a day book in Tyler's own hand (`"by order of the agent"`, R-10/R-11 — omitted from Parrish's public
+exhibit transcript in *The Missing Page*, R-18). A date said once, in the store, and kept exactly. A letter
 of appointment that is never written, described by Parrish as a difficulty of the service. If the scene needs
 more than that, the scene is the wrong scene.
 
@@ -123,11 +124,14 @@ refusal to inform, the sheltering of the fugitive, the sale of the mill, the lea
 about that boy, and no sentence in the manuscript is permitted to say so. The three planted facts are in
 canon §10 ("the Caleb audit"); the fourth is Joshua's silence when someone calls Caleb "your brother's boy"
 and does not correct himself.
-**What R-6 did to him:** he inherited the farm and mortgaged it, so the still sits in the barn on Margaret's
-adjoining freehold (corrected by R-7), and the forfeiture R-3 aims at the land reaches the POV character's own
-deed via "connected therewith." He is also the one man in the cove who cannot plead not knowing — an owner in
-fee is presumed to know what happens on connected premises, which is the doctrine, not a metaphor. His whole
-social function is to hold the hollow's secret; his legal position is that the secret is his.
+**What R-6 and R-18 did to him:** he inherited the farm and mortgaged it, so the still sits in the barn on
+Margaret's adjoining freehold (corrected by R-7), and the forfeiture R-3 aims at the land reaches the POV
+character's own deed via "connected therewith." He is also the one man in the cove who cannot plead not
+knowing — an owner in fee is presumed to know what happens on connected premises, which is the doctrine, not a
+metaphor. In *The Missing Page* (Ch. 15, R-18), Parrish puts that exact *Stowell* question to him over a
+certified transcript of Tyler's seized day book, and Joshua spots the skipped folio number where Matthew's
+settled store account (`"by order of the agent"`) was omitted from the public exhibit. His whole social
+function is to hold the hollow's secret; his legal position is that the secret is his.
 **What R-16 put in his drawer:** in summer **1862**, after Elsie died, he walked over State Line Gap into East
 Tennessee and served three years in the **Union** army, mustering out at **Knoxville in 1865** (unit unnamed on
 the page). Congress enacted the distilled-spirits tax that same summer to pay his army. Seventeen years later
@@ -165,6 +169,11 @@ book is shut a file.
 and the only person who can give it is Margaret, which is how he ends up asking the woman he is dispossessing
 to save his career (*The Deposition*, ch. 23). She tells the truth. It helps him, hurts the cove, and neither of them
 calls it a favor.
+**The folio he leaves out (*The Missing Page*, ch. 15, R-18):** when he puts the *Stowell* "connected
+premises" question to Joshua over a certified exhibit transcript of Hoss Tyler's seized day book, he omits the
+single folio carrying Matthew's settled store account (`"by order of the agent"`, R-10/R-11) so an irregular
+pre-allowance payment to an informant never enters the public forfeiture record. Joshua spots the skipped
+folio number in silence.
 **Never:** the killed deputy named Burns — real, 1874, WDNC. He may *cite* Burns once, the way a man cites a
 precedent: *Burns's file was thinner than mine will be.* That is the only interiority he is allowed.
 **Never lets him:** rant. If he is angry, his handwriting gets smaller.

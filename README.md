@@ -137,6 +137,15 @@ knows what shape the book is in:
     whiskey`** (wartime blockade carryover, never explained); Parrish speaks the statute (*illicit distiller*);
     and **`moonshiner` / `moonshine` belong strictly to outside print** (newspapers, *E2*, *E3*), never to
     narration or dialogue.
+18. **R-18 — *The Missing Page* (Ch. 15): Parrish puts the *Stowell* "connected premises" trap to Joshua over
+    Tyler's day-book exhibit, and Joshua spots Matthew's omitted folio.** After Harper's barn burns (Ch. 14) —
+    with Jacob already serving his two years from the April 1879 Statesville term (R-13) — Parrish turns the
+    civil *in rem* libel onto Joshua's mortgaged farm (`Parcel A`: mill, water race, cart road) as *"premises
+    connected therewith"* and examines Joshua over a clerk's certified exhibit schedule copied from Hoss
+    Tyler's seized day book (R-11). While answering carefully enough not to hand Parrish a forfeiture
+    admission, Joshua — who knows Tyler's foliation from fifteen years of settling mill-toll balances — sees
+    the skipped folio number where Matthew's settled store account (`"by order of the agent"`, R-10) was left
+    out of the public exhibit copy. Neither man speaks Matthew's name.
 
 ## Editing workflow
 
