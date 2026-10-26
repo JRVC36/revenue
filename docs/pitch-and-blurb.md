@@ -35,7 +35,7 @@ belongs to a man's wife — and that is exactly where the still stands.**
 >
 > By the time a barn burns, the question is not who owed the tax. It is what Margaret knew, what Joshua
 > permitted, and whether a woman with a deed her husband cannot sign can make the United States answer to
-> her in a courtroom two counties away.
+> her in a courtroom three counties down the mountain.
 
 ## 3. Genre promise (Guide §1: "quiet literary realism" is not a promise)
 
@@ -45,12 +45,13 @@ Not a feud saga; not a moonshine adventure; nobody wins a shoot-out.
 
 - **Length:** 85,000–100,000 words, 4 acts (the outline's 3 acts split at the barn fire), **28 chapters**
   (8 / 9 / 11) plus three printed documents at the end, 4–7 scenes each — `canon/canon-v1.md` §12.
-- **Timeline:** summer 1878 → **November 1881**, on the real court calendar: Jacob is convicted at the term
+- **Timeline:** summer 1878 → **November 1881**, in **`Cranberry Township, Mitchell County`** (above Cranberry
+  Forge and Elk Park, R-15), on the real court calendar (R-13): Jacob is convicted at Statesville at the term
   that opened 21 April 1879 and released on the two years on 21 April 1881; his nephew is tried at the term
-  that opened 17 October 1881, and the book's last page is seven months before the rails reach Elk Park. The railroad is four acts of approach and one withheld
-  picture: powder heard off a ridge at the opening, powder heard off a ridge at the close, and **no train
-  on the page at any date** — in June 1882 the rails reached Elk Park, thirty miles and a year past the
-  last sentence of this book.
+  that opened 17 October 1881, and the book's last page is seven months before the rails reach Elk Park. The
+  railroad is four acts of approach and one withheld picture: powder heard off a ridge at the opening, powder
+  heard off the state-line ridge at the close, and **no train on the page at any date** — in June 1882 the
+  rails reached Elk Park, a mile from the Forge and seven months past the last sentence of this book.
 - **POV:** third person limited, past tense. **Joshua Brennan carries ~80%; Margaret Brennan ~20%** (canon R-4). Nobody else is ever inside a head — which is why a book about an informer reads like an interrogation of the reader.
 
 ## 4. Shelling out
@@ -89,6 +90,7 @@ chapter is wrong, not the line.
 
 ## 7. `OPEN` items this file depends on
 
-Q-4 (Margaret's exact
-estate interest — the blurb commits to "dower" and must be checked against North Carolina real-property
-law in 1878, which is a research ask, R-6 in `docs/research-gaps-and-questions.md`).
+None remaining for the pitch: Margaret's estate is **RULED → R-7** (married woman's separate estate in fee
+under NC Const. 1868 Art. X §6, not dower); court and term calendar **RULED → R-13** (Statesville, 21 Apr 1879
+and 17 Oct 1881); county **RULED → R-15** (`Cranberry Township, Mitchell County`, above Cranberry Forge and
+Elk Park — three county lines down the mountain to Iredell).

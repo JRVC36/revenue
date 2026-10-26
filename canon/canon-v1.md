@@ -107,10 +107,15 @@ chose the one that refuses the picture: **no train on the page, at any point.** 
 Joshua leaving — the mill sold, walking up toward the gap on the far side of which the grade is being
 made — and the book stops on what reaches him from the wrong side of a ridge.
 
-**The acoustic constraint, because it will otherwise be drafted wrong.** In October 1881 the nearest
-steel is at **Hampton, Tennessee**, reached 22 August 1881; the rails do not lie within thirty air miles
-of a Watauga hollow, and a locomotive's whistle does not carry thirty miles over that ground `LEAD`.
-So the closing sound may **not** be an engine. What is legal, and better:
+**The acoustic constraint, because it will otherwise be drafted wrong.** Under **R-15**, the cove sits
+above **Cranberry Forge and Elk Park** (`Cranberry Township, Mitchell County`), which is the exact
+destination Ario Pardee's railroad is blasting toward. In October–November 1881 the nearest laid steel is
+at **Hampton, Tennessee**, reached 22 August 1881 — **15.5 air miles** (~19.9 rail miles) northwest, locked
+behind the 1,500-foot rock walls of **Doe River Gorge** and **State Line Gap**, so a locomotive's whistle
+at Hampton still cannot carry into the cove `LEAD`. Meanwhile the grading and black-powder crews working up
+Doe River Gorge, Roan Mountain (6.7 air miles), and Shell Creek toward State Line Gap in 1880–81 *are*
+within genuine earshot across the state-line ridge. So the closing sound may **not** be an engine. What is
+legal, and better:
 - a **blast** — the powder the grade crews use, which is the same sound the book planted in Act One
   (R-2), now returned to him with its meaning changed; or
 - a **local, ambiguous sound** he can name and refuses to walk to: iron on stone, a hammer at the new
@@ -450,6 +455,146 @@ dime-novel afterlife is documented, and that is what this is for.)
 
 ---
 
+### R-13 · Where and when the cases are heard: **Statesville, on the real term dates, with the real judge named and never voiced**
+
+`AUTHOR` (2026-10-26), answering **Q-10** (Statesville with real term dates / an invented town / Statesville
+but the book skips it / a special commission sitting in the mountains).
+
+- **Statesville, and the book goes there.** The Circuit Court for the Western District of North Carolina sat
+  at Statesville on the **third Monday in April and the third Monday in October**, and it was the only
+  courthouse the district had: the United States did not build one in Asheville until **1892**. So every
+  federal case in these mountains was a trip of three days down the mountain, heard in a rented room, on a
+  day fixed by statute years ahead. `LEAD` (term calendar from the NC Reports front matter; NC History Journal
+  on the district); the term-openers below are computed from that rule, not read off a printed calendar.
+- **The dates, now fixed for the whole book.** The spring term **opened Monday 21 April 1879** — that is
+  Jacob's conviction, two years, which is the statutory maximum for keeping a still without a bond, so his
+  **release is 21 April 1881**. The autumn term **opened Monday 17 October 1881** — Caleb's trial. The closing
+  chapters run to **November 1881** and the epilogue's documents to 1882, which puts the last page about
+  **seven months** before the rails reach Elk Park (mid-June 1882): "come spring" in *The Mill Sold* is
+  exactly right, and the train stays out by a margin small enough to feel like timing rather than authorship.
+- **What the calendar bought, in order.** (i) The term list becomes the cove's almanac: a mountain household
+  plans a wedding, a crop loan and a flight around the days court sits. (ii) The sentencing arithmetic closes
+  to the day, so the outline's "about a year left" can be fixed instead of fudged. (iii) It moved a chapter:
+  because Jacob is out in **April** 1881 and Caleb is tried in **October**, *The Return* now precedes
+  *The Surrender* — he comes home to a house that has become the site of a second case and to a wife who has
+  been running it, and then watches his nephew's trial from the gallery of a man who has already sat in that
+  room. The outline put the release after the capture; the statute said otherwise, and the statute wins.
+- **The one line in the outline to fix.** "He has about a year left in prison" → **"a year and more"** if the
+  chapter sits in the winter of 1879–80, or **"not half a year out"** if it sits in late 1880. Pin the
+  chapter's month first, then write the line. Do not write "about a year" and hope.
+- **Judge Robert Paine Dick is named, seated, and never given an invented word.** He held that bench from 1872
+  to 1898: a Unionist who left the bench when the war came, sat in the Confederates' legislature afterward, was
+  barred from the 1870 general assembly by the ironclad oath, and was put on the federal bench by Grant — the
+  living proof of the claim Act One is about. He is in the book the way the rest of the machinery is: **in the
+  docket heading, in the walk to the hotel, in what the cove says the court will and will not do.** No invented
+  line of dialogue in his mouth; no invented holding on his name. Anything the court rules is attributed to
+  "the court," and the wording is marked `INVENT` in `docs/period-audit.md`.
+- **Why not the alternatives.** An invented town would cost the audit trail and the whole R-4 premise — the
+  reader must be able to check this — and there is no plausible county seat to invent within a day's ride of a
+  Mitchell hollow, because the county seats are all real. Skipping the court would hide the law's face at the
+  moment this book exists to show it, and would leave the sentences unanchored. A commission sitting in the
+  mountains is unconstitutional for a revenue case and reads as alternate history.
+- **The cost of the trip is a fact, not scenery.** Statesville is three days each way, with a hotel and a
+  horse to feed: in a cove that counts in cents, **someone has already priced going to court before anyone is
+  asked to go.** Put that arithmetic in the ledger, not in a speech.
+
+---
+
+### R-14 · **"The Whistlers" is kept, invented and owned — and only outsiders ever say it**
+
+`AUTHOR` (2026-10-26), answering **Q-11** (own it / cut it / swap to "the Regulators" / both layers).
+
+- **The ruling.** The name stays, marked `INVENT`, and it is **never** a name the hollow uses for itself. It
+  exists only in print that is written *about* the cove: Parrish's reports and the libel's marginalia, the
+  Charlotte paper, and finally the dime novel in *E3*. Inside the hollow the company has no name, because
+  naming a meeting is evidence and the men's whole technique is that there was no meeting (R-3's
+  not-knowing, expressed as vocabulary). `tools/check.py` flags every occurrence so the speaker is checked.
+- **The outline already conceded this, and the ruling takes it seriously.** The source line says *"a group
+  called 'the Whistlers' **or some other name**, though historians aren't entirely sure how organized they
+  were."* So the book does not invent a fact; it invents **the record of a fact**, which is the same move the
+  source makes and the same move the Whiskey Ring and the 1878 pardon narrative make in Washington papers.
+  The Bibb County, Alabama "Regulator" revenge killing of February 1879 stays in `docs/period-audit.md` as
+  the *structural* echo — a revenue-war story where the press named the men — not as a citation.
+- **Why not "the Regulators."** In North Carolina it imports 1768–71 and the Tryon County regulators, which is
+  a real mountain precedent for "we correct the officers" and therefore a temptation a reader will read as a
+  thesis. The book already has one argument; it does not need a borrowed name with a two-hundred-year
+  bibliography. (If the author ever wants the precedent, it belongs in Old Councill's speech as a story about
+  somebody else's great-grandfather, not on the band.)
+- **The word does double duty, and the double duty is not explained.** A whistle is the signal on the ridge —
+  which is why the papers call them Whistlers — and a whistle is also the sound the book refuses to give the
+  reader (R-5: no engine, no rails, one blast off a ridge on each side of the novel). The overlap is
+  **allowed to be coincidental**: never annotated, never drawn out, never in the same paragraph as the grade
+  work. If a draft puts the locomotive and the signal in one sentence, cut the sentence; the reader will make
+  the connection alone, which is the only way it is worth anything.
+- **What it changes in the mechanics.** (i) Act Two's organizing chapters have **no banner**: no oath, no
+  title, no minutes — the only "minutes" that exist are the revenue agent's. (ii) The best small scene in Act
+  Three is a clerk writing the word and a man in the room not correcting him. (iii) *E3*'s title page is where
+  the name finally becomes true: by 1882 the invented label is the only thing anybody remembers, which is the
+  epilogue's argument (R-12) in one noun. (iv) `docs/research-gaps-and-questions.md` ask **R10** closes as
+  owned-invention: no archive will settle it and none needs to.
+
+---
+
+### R-15 · Where the hollow sits: **near Cranberry Forge and Elk Park — in Mitchell County (1861–1911), not Burke, with Burke and Watauga in the deed box**
+
+`AUTHOR` (2026-10-26), answering **Q-12** ("The setting is near Cranberry or Elk Park, NC. At this time I
+believe them to be part of Burke county").
+
+- **The place is locked (`AUTHOR`); the county name on the 1878 docket is corrected to the record (`LEAD`).**
+  The cove sits in the high Elk River / Cranberry Creek country (~3,200–3,500 ft) between **Cranberry Forge**
+  and **Elk Park**, under the Tennessee line. In **1878–1881**, both Cranberry and Elk Park lie in
+  **`Cranberry Township, Mitchell County`** (county seat: **Bakersville**, est. 1868; 1880 township pop. 1,174
+  including Elk Park village), *not* Burke County.
+- **Why "Burke County" was in the Drive notes, and why that succession is a gift to the plot.** Without a
+  boundary stone moving in the creek, that single valley sat under **five county names in eighty-five years**:
+  1. **Burke County** (1777–1833; seat **Morganton**) — where the 1780s–1820s state land grants and the 1826
+     Cranberry iron-forge entries were recorded (`Rough Research` collapsed 1833–61 into "Burke," which is how
+     the misimpression arose; Burke ceded its last northern sliver at Linville Falls when Mitchell was created
+     in February 1861).
+  2. **Yancey County** (1833–1849; seat **Burnsville**).
+  3. **Watauga County** (1849–16 Feb 1861; seat **Boone**) — e.g., the 1852 Hardin bill of sale at Cranberry
+     Forge is registered in Watauga; Banner's Elk, 5.4 air miles east over the ridge, *stayed* in Watauga.
+  4. **Mitchell County** (**16 Feb 1861 – 23 Feb 1911**; seat Childsville/Calhoun, then **Bakersville**).
+  5. **Avery County** (**23 Feb 1911–present**; temporary seat **Elk Park** 1911–12, then **Newland** — both
+     `BAN` as county/seat names in 1878–81).
+- **What the four-courthouse trail buys for R-3, R-6, and R-7.** A family holding ground above Cranberry Forge
+  in 1878 carries three courthouses in one cedar box: a grandfather's grant headed **Burke** (whose courthouse
+  records at Morganton were burned in Stoneman's Raid, April **1865**), an antebellum deed or inheritance
+  headed **Watauga** (whose courthouse at Boone **burned 23 March 1873**, five years before Act One opens,
+  destroying the county's deed books), and the postwar instruments — **Margaret's 1866–68 separate-estate
+  deed** and **Joshua's mortgage** — recorded in **Mitchell County** at **Bakersville**. For any pre-1861
+  link in the chain of title, **the clerk's book is ash and the folded sheet in Margaret's box is the only
+  copy in the world.** If *Did She Know?* uses a missing privy-examination certificate, it is no longer an
+  author's contrivance; it is how Toe River titles worked after 1873.
+- **What it changes for R-2 and R-5 (the railroad).** Placing the hollow near Cranberry and Elk Park puts it
+  at **the exact target of the railroad**: Ario Pardee's Cranberry Iron & Coal Company is driving the 3-foot
+  ET&WNC narrow gauge up from Johnson City specifically to haul Cranberry magnetite, crossing State Line Gap
+  to **Elk Park** in mid-June 1882 and terminating one mile south at **Cranberry** on 3 July 1882. That
+  sharpens R-5's acoustic rule: the August 1881 railhead at **Hampton, TN** is **15.5 air miles** (~19.9 rail
+  miles) away behind the 1,500-foot rock canyon of **Doe River Gorge**, so a locomotive whistle still cannot
+  reach the cove, while the 1880–81 black-powder blasting crews in Doe River Gorge, Roan Mountain (6.7 air
+  miles), and Shell Creek are genuinely audible off the state-line ridge, and "at Elk Park come spring" in
+  *The Mill Sold* is news about a clearing three miles from Joshua's wheel.
+- **Period state of the real settlements (anachronism guard):**
+  - **Cranberry Forge** is the official post-office name through **24 April 1884** (est. 1840/1850, reopened
+    Nov 1868; shortened to *Cranberry* in 1884). Speech may say "Cranberry" or "the Forge"; **do not** put
+    Pardee's post-July-1882 company hotel, company housing rows, or mine scrip in 1878–1881 — before the rails,
+    the ore pits and old bloomery are worked intermittently and hauled out by wagon.
+  - **Elk Park** in 1878–1881 is an unincorporated border meadow and crossroads on the Elk River inside
+    Cranberry Township, one mile north of the Forge at the Carter County, TN line. **No post office (May 1883),
+    no town charter (1885), no depot or boarding-house boomtown** until the rails arrive after the book ends.
+  - **Newland** does not exist until **1911–12**; in 1878 that meadow ten miles south is called **Old Fields
+    of Toe** (`BAN` on `Newland` in `tools/check.py`).
+- **Courthouse & travel arithmetic, now fixed across §3 and §10:** local county seat = **Bakersville** (14.1
+  air / ~22 road miles down the North Toe, **one full day on horseback**; sheriff, register of deeds, posted
+  notices, and Parrish's county office days); eastern wagon market = **Morganton** in Burke County (~45 wagon
+  miles down Yellow Mountain Turnpike, two days); western market = **Elizabethton / Johnson City, TN** (~20 /
+  ~34 miles down the Doe River, one day to a day and a half — Matthew's exile and Caleb's ride); federal court
+  = **Statesville** in Iredell County (~90 road miles across Burke and Catawba or Caldwell and Alexander —
+  **three county lines crossed, three days each way on horseback**, matching R-13 to the hour).
+
+---
+
 ## 12. Chapter map v1 — POV-tagged and dated (R-4, R-5, R-13)
 
 Twenty outline beats in, **28 chapters** out, numbered continuously across the book. Renumbered
@@ -557,17 +702,24 @@ Real dates are what the fiction is measured against. Everything in the right col
 
 ## 3. Geography & jurisdiction
 
-- **Country.** High coves of the Blue Ridge, northwestern NC, near the Tennessee line. Banner Elk /
-  Elk Park / Cranberry district. Elevation ~3,200 ft. `USER` (Drive research doc)
-- **County in 1878: WATAUGA.** Seat Boone. Watauga formed 1849 from Ashe, Caldwell, Wilkes, Yancey.
-  **Avery County does not exist until 1911** — it is cut from Watauga, Caldwell, and Mitchell
-  `LEAD`. Cranberry itself lay in **Mitchell** (from 1861) `LEAD`, so any record trail crosses county
-  lines. **Q-12: which county is the cove in — it decides the courthouse, the militia memory, and the
-  deed books.** `OPEN`
-- **Fictional place names.** `INVENT` The cove is called **Elk Cove**; the hollow above the still is
-  **North Fork Hollow**; the store is **Hoss Tyler's** at the junction road; the town below the gap is
-  left unnamed in the outline and should be pinned — candidates Newland, Lincolnton, or a renamed
-  Lenoir. `OPEN`
+- **Country (RULED → R-15).** High coves of the Blue Ridge, northwestern NC, right under the Tennessee line,
+  between **Cranberry Forge** and **Elk Park** in the Elk River / Cranberry Creek drainage (~3,200–3,500 ft).
+  `AUTHOR` / `USER`
+- **County in 1878–1881: MITCHELL (`Cranberry Township`), seat BAKERSVILLE.** **RULED Q-12 → R-15.**
+  Mitchell County was formed **16 Feb 1861** from Yancey, Watauga, Caldwell, Burke, and McDowell; its seat is
+  **Bakersville** (est. 1868; *not* Burnsville, which is Yancey). **Avery County does not exist until 23 Feb
+  1911** (`BAN`). **Burke County** is where the valley's root grants were entered before 1833 (seat Morganton;
+  courthouse records burned April **1865**), and **Watauga County** held Cranberry Forge from 1849 to 1861
+  (seat Boone; courthouse burned **23 March 1873**), while Banner's Elk (5.4 air miles east over the ridge)
+  remained in Watauga `LEAD`. That succession puts three courthouses — two of them burned — in Margaret's
+  deed box (R-7, R-15).
+- **Real & fictional place names.** `INVENT` The cove is **Elk Cove**; the side hollow above it is **North Fork
+  Hollow**; the junction store on the Yellow Mountain Turnpike above the Forge is **Hoss Tyler's**. Real border
+  points: **Cranberry Forge** (official post-office name until 24 Apr 1884; speech says "Cranberry" or "the
+  Forge"; no company hotel or scrip until after July 1882), **Elk Park** (unincorporated border clearing one
+  mile north of the Forge at State Line Gap; no post office until May 1883, no town charter until 1885), and
+  **Bakersville** (county courthouse, sheriff, register of deeds, and Parrish's county office days). **Newland**
+  is `BAN` (named 1911–12; in 1878 say **Old Fields of Toe**).
 - **The three parcels (R-6 + R-7; this is the book's map and it does not change).**
   1. **Margaret's tract** — hers in fee as a separate estate, inherited from her father: the cabin, the
      garden, the barn the still stands in. The forfeiture's first target; the only ground in the hollow
@@ -579,11 +731,24 @@ Real dates are what the fiction is measured against. Everything in the right col
      Two by the raid party, not by the statute.
   Between them: a water race from Joshua's hill down onto Margaret's flat, and one cart road that serves
   both. That road is the whole legal argument (R-7).
-- **Distances (set these now and never vary them).** Still to Margaret's cabin: **same place, forty paces**
-  (R-7 — do not separate them again). Cove to
-  Tyler's store: ___ ; store to the town with Parrish's office: ___ ; town to the railroad grade at
-  its nearest: ___ ; cove to the federal courthouse: ___ days on horse. `OPEN` (audit A-4)
-- **Travel reality.** No railroad in the cove in the 1870s. Wagon over the mountains to Morganton or
+- **Distances (RULED → R-15; fixed and never varied).**
+  - Still to Margaret's cabin: **same place, forty paces** (R-7).
+  - Cove to **Hoss Tyler's** junction store: **two miles** (`INVENT`).
+  - Tyler's store to **Cranberry Forge** (post office, ore pits): **three miles**; **Elk Park** border
+    clearing: **one mile north of the Forge** (`LEAD`).
+  - Cove across the eastern ridge to the **Watauga County** line (toward Banner's Elk): **five to six miles**
+    (`LEAD`).
+  - Cove to **Bakersville** (Mitchell County seat / sheriff / register / Parrish's local office): **~22 road
+    miles (14.1 air) down the North Toe — one full day on horseback** (`LEAD`).
+  - Cove to the **ET&WNC railhead at Hampton, TN** (22 Aug 1881): **15.5 air / ~19.9 rail miles** through
+    **Doe River Gorge**; active 1880–81 black-powder grading on Roan Mountain / Shell Creek / State Line Gap:
+    **4–7 miles across the state-line ridge, audible at night** (`LEAD`, R-2/R-5).
+  - Cove to **Elizabethton / Johnson City, TN**: **~20 / ~34 miles — a day to a day and a half** (`LEAD`).
+  - Cove to **Morganton** (Burke County seat, eastern wagon market): **~45 wagon miles — two days by wagon**
+    (`LEAD`).
+  - Cove to **Statesville** (Iredell County, WDNC federal court): **~90 road miles (65.4 air) across three
+    county lines — three days each way on horseback** (`LEAD`, R-13).
+- **Travel reality.** No railroad in the cove in 1878–1881. Wagon over the mountains to Morganton or
   Elizabethton `USER`. The Yellow Mountain Turnpike is the route through the area `USER`.
 
 ---
@@ -653,10 +818,12 @@ knowledge is the forfeiture's easier case (*Stowell*: suffered and permitted; *D
 required), and the cove cannot answer a man who was right except with fire. He gets no speech. He gets a
 doorway and his sons standing in it.
 
-**THE COVE.** `INVENT` ~12 distilling families; the boy on the ridge (name? — candidate: **Elisha "Lish"
-Councill**, 12); no Black families (contested — see §7 and Q-13); Baptist and Methodist meeting houses
-`USER`; extended-family naming: use real Watauga surnames (Henson, Avery, Banner, Dugger, Calloway,
-Brown) for the secondary cast so the census reads true `USER`.
+**THE COVE.** `INVENT` ~12 distilling families; **Lish (Elisha) Councill, 15**, of North Fork, killed in the
+Act One raid (R-10); no Black families in the side hollow itself, though real freedpeople landowners held ground
+at Cranberry Forge (contested — see §7 and Q-13); Baptist and Methodist meeting houses `USER`; extended-family
+naming: use attested **Cranberry Township (Mitchell) and Watauga-ridge surnames** (Winters, Buchanan, Wiseman,
+Pritchard, Burleson, Gouge, Dugger, Banner, Avery, Henson, Calloway, Brown, Councill) for the secondary cast so
+the 1880 census reads true `USER`/`LEAD` (R-15).
 
 **Honored real persons (do not fictionalize their acts):** Lewis R. Redmond (Transylvania/Swain; killed
 Dep. U.S. Marshal Alfred Duckworth 1 Mar 1876; captured 7 Apr 1881; tried 25 Aug 1881 on **eight
@@ -748,82 +915,6 @@ readjustment fight were all revenue fights. **Q-13: is the cove politically naiv
 politically shaped by what it lived through (a page and a half, and the whole book gets deeper)?**
 `OPEN`
 
-### R-13 · Where and when the cases are heard: **Statesville, on the real term dates, with the real judge named and never voiced**
-
-`AUTHOR` (2026-10-26), answering **Q-10** (Statesville with real term dates / an invented town / Statesville
-but the book skips it / a special commission sitting in the mountains).
-
-- **Statesville, and the book goes there.** The Circuit Court for the Western District of North Carolina sat
-  at Statesville on the **third Monday in April and the third Monday in October**, and it was the only
-  courthouse the district had: the United States did not build one in Asheville until **1892**. So every
-  federal case in these mountains was a trip of two ridges and a day and a half, heard in a rented room, on a
-  day fixed by statute years ahead. `LEAD` (term calendar from the NC Reports front matter; NC History Journal
-  on the district); the term-openers below are computed from that rule, not read off a printed calendar.
-- **The dates, now fixed for the whole book.** The spring term **opened Monday 21 April 1879** — that is
-  Jacob's conviction, two years, which is the statutory maximum for keeping a still without a bond, so his
-  **release is 21 April 1881**. The autumn term **opened Monday 17 October 1881** — Caleb's trial. The closing
-  chapters run to **November 1881** and the epilogue's documents to 1882, which puts the last page about
-  **seven months** before the rails reach Elk Park (mid-June 1882): "come spring" in *The Mill Sold* is
-  exactly right, and the train stays out by a margin small enough to feel like timing rather than authorship.
-- **What the calendar bought, in order.** (i) The term list becomes the cove's almanac: a mountain household
-  plans a wedding, a crop loan and a flight around the days court sits. (ii) The sentencing arithmetic closes
-  to the day, so the outline's "about a year left" can be fixed instead of fudged. (iii) It moved a chapter:
-  because Jacob is out in **April** 1881 and Caleb is tried in **October**, *The Return* now precedes
-  *The Surrender* — he comes home to a house that has become the site of a second case and to a wife who has
-  been running it, and then watches his nephew's trial from the gallery of a man who has already sat in that
-  room. The outline put the release after the capture; the statute said otherwise, and the statute wins.
-- **The one line in the outline to fix.** "He has about a year left in prison" → **"a year and more"** if the
-  chapter sits in the winter of 1879–80, or **"not half a year out"** if it sits in late 1880. Pin the
-  chapter's month first, then write the line. Do not write "about a year" and hope.
-- **Judge Robert Paine Dick is named, seated, and never given an invented word.** He held that bench from 1872
-  to 1898: a Unionist who left the bench when the war came, sat in the Confederates' legislature afterward, was
-  barred from the 1870 general assembly by the ironclad oath, and was put on the federal bench by Grant — the
-  living proof of the claim Act One is about. He is in the book the way the rest of the machinery is: **in the
-  docket heading, in the walk to the hotel, in what the cove says the court will and will not do.** No invented
-  line of dialogue in his mouth; no invented holding on his name. Anything the court rules is attributed to
-  "the court," and the wording is marked `INVENT` in `docs/period-audit.md`.
-- **Why not the alternatives.** An invented town would cost the audit trail and the whole R-4 premise — the
-  reader must be able to check this — and there is no plausible county seat to invent within a day's ride of a
-  Watauga hollow, because the county seats are all real. Skipping the court would hide the law's face at the
-  moment this book exists to show it, and would leave the sentences unanchored. A commission sitting in the
-  mountains is unconstitutional for a revenue case and reads as alternate history.
-- **The cost of the trip is a fact, not scenery.** Statesville is three days each way, with a hotel and a
-  horse to feed: in a cove that counts in cents, **someone has already priced going to court before anyone is
-  asked to go.** Put that arithmetic in the ledger, not in a speech.
-
-### R-14 · **"The Whistlers" is kept, invented and owned — and only outsiders ever say it**
-
-`AUTHOR` (2026-10-26), answering **Q-11** (own it / cut it / swap to "the Regulators" / both layers).
-
-- **The ruling.** The name stays, marked `INVENT`, and it is **never** a name the hollow uses for itself. It
-  exists only in print that is written *about* the cove: Parrish's reports and the libel's marginalia, the
-  Charlotte paper, and finally the dime novel in *E3*. Inside the hollow the company has no name, because
-  naming a meeting is evidence and the men's whole technique is that there was no meeting (R-3's
-  not-knowing, expressed as vocabulary). `tools/check.py` flags every occurrence so the speaker is checked.
-- **The outline already conceded this, and the ruling takes it seriously.** The source line says *"a group
-  called 'the Whistlers' **or some other name**, though historians aren't entirely sure how organized they
-  were."* So the book does not invent a fact; it invents **the record of a fact**, which is the same move the
-  source makes and the same move the Whiskey Ring and the 1878 pardon narrative make in Washington papers.
-  The Bibb County, Alabama "Regulator" revenge killing of February 1879 stays in `docs/period-audit.md` as
-  the *structural* echo — a revenue-war story where the press named the men — not as a citation.
-- **Why not "the Regulators."** In North Carolina it imports 1768–71 and the Tryon County regulators, which is
-  a real mountain precedent for "we correct the officers" and therefore a temptation a reader will read as a
-  thesis. The book already has one argument; it does not need a borrowed name with a two-hundred-year
-  bibliography. (If the author ever wants the precedent, it belongs in Old Councill's speech as a story about
-  somebody else's great-grandfather, not on the band.)
-- **The word does double duty, and the double duty is not explained.** A whistle is the signal on the ridge —
-  which is why the papers call them Whistlers — and a whistle is also the sound the book refuses to give the
-  reader (R-5: no engine, no rails, one blast off a ridge on each side of the novel). The overlap is
-  **allowed to be coincidental**: never annotated, never drawn out, never in the same paragraph as the grade
-  work. If a draft puts the locomotive and the signal in one sentence, cut the sentence; the reader will make
-  the connection alone, which is the only way it is worth anything.
-- **What it changes in the mechanics.** (i) Act Two's organizing chapters have **no banner**: no oath, no
-  title, no minutes — the only "minutes" that exist are the revenue agent's. (ii) The best small scene in Act
-  Three is a clerk writing the word and a man in the room not correcting him. (iii) *E3*'s title page is where
-  the name finally becomes true: by 1882 the invented label is the only thing anybody remembers, which is the
-  epilogue's argument (R-12) in one noun. (iv) `docs/research-gaps-and-questions.md` ask **R10** closes as
-  owned-invention: no archive will settle it and none needs to.
-
 ---
 
 ## 8. Voice rules for *REVENUE* (additions to the Style Guide; the Guide still governs)
@@ -866,7 +957,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-9 | Frame or no frame for the epilogue? | ✅ RULED 2026-10-26 → **R-12**: diegetic print only, three artifacts (report / county history / dime-novel title page), no author's note, no in-book accuracy apology; title-page date stays 1878–1881 |
 | Q-10 | Which federal court sits where, on what term date, in 1879? | ✅ RULED 2026-10-26 → **R-13**: the Circuit Court at Statesville, terms the 3rd Monday in April and October — Jacob convicted 21 Apr 1879 (released 21 Apr 1881), Caleb tried 17 Oct 1881; Judge Dick named, seated, never voiced |
 | Q-11 | Is "Whistlers" sourced or invented-and-owned? | ✅ RULED 2026-10-26 → **R-14**: owned as invention, and print-only — the Bureau, the county paper and the dime novel say it; the hollow never does |
-| Q-12 | Which county is the cove — Watauga, Mitchell, or Caldwell? | Records, deed trail |
+| Q-12 | Which county is the cove — Watauga, Mitchell, or Caldwell? | ✅ RULED 2026-10-26 → **R-15**: near **Cranberry Forge / Elk Park** = **`Cranberry Township, Mitchell County`** in 1878–81 (seat **Bakersville**; *not* Burke, which lost this ground in 1833, though Burke and Watauga head the older burned-courthouse deeds in the family box) |
 | Q-13 | Reconstruction in or out? | Everything under the surface |
 | Q-14 | "Blockader" vs. "moonshiner" — who says which word? | Vocabulary bible, linter |
 
@@ -880,7 +971,16 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 - **Seasons elapsed.** Act One summer 1878 → autumn 1878 → winter 1878–79 → spring 1879. Act Two
   "empty year" 1879–80. Act Three 1880–**1881** (R-5: the present tense stops in autumn 1881; 1882 is
   reachable only by report or by a printed epilogue).
-- **Distances** from §3, once set.
+- **Jurisdiction, deed trail, and distances — CLOSED (R-15).** In 1878–1881 the hollow sits in **`Cranberry
+  Township, Mitchell County`** (seat **Bakersville**, one full day / ~22 road miles down the North Toe), above
+  **Cranberry Forge** (3 mi from Tyler's store; PO named *Cranberry Forge* until 24 Apr 1884) and **Elk Park**
+  (unincorporated border clearing 1 mi north of the Forge; no PO until May 1883, no town charter until 1885).
+  Pre-1861 deeds in the family box carry **Burke** (pre-1833; Morganton records burned Apr 1865) or **Watauga**
+  (1849–61; Boone deed books burned 23 Mar 1873); postwar filings (Margaret's 1866–68 separate-estate deed,
+  Joshua's mortgage) sit at **Bakersville**. Statesville is ~90 road miles across three county lines (**three
+  days each way on horseback**, R-13); Johnson City ~34 miles down the Doe River; Hampton railhead (22 Aug
+  1881) **15.5 air / ~19.9 gorge miles** away, whistle blocked by Doe River Gorge, while 1880–81 black-powder
+  blasting on Roan Mountain / Shell Creek / State Line Gap is 4–7 miles over the ridge.
 - **Sentence arithmetic — CLOSED (R-13).** Convicted at the term that opened **21 April 1879**, two years,
   so released **21 April 1881**. At the end of 1880 he has **four months and ten days** left; in January 1880,
   fifteen. Any line about his time must match the month of its chapter (and see R-13's fix to the outline's
@@ -925,13 +1025,27 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   the linter's `lex:other-heads-interiority` row will flag the draft when the discipline slips.
 - **Banned-from-this-book list:** "Whiskey Rebellion" applied to 1878–81 (belongs to 1791–94); **any
   train seen on the page at any date** (R-5 — the earlier rule "no locomotive before mid-1882" is now
-  stricter: there is no locomotive, only the powder and the report of it); Avery County before 1911.
-- **Closing sound (R-5).** The final beat's noise is a blast or a local hammer — never a whistle, never
-  an engine, because Hampton was the rail head in October 1881. Pending ask R-13.
+  stricter: there is no locomotive, only the powder and the report of it); Avery County before 1911;
+  **Newland** before 1911–12 (in 1878 say *Old Fields of Toe*, R-15); any depot, post office, or incorporated
+  boomtown at **Elk Park** before 1882–85, or company-town scrip/hotel at **Cranberry** before July 1882 (R-15).
+- **Closing sound (R-5, R-15).** The final beat's noise is a blast off the state-line ridge or a local hammer —
+  never a whistle, never an engine, because Hampton (15.5 air / ~19.9 gorge miles down Doe River Gorge) was the
+  rail head in October–November 1881. Pending ask R-13.
 
 ---
 
 ## 11. Change log
+
+- **2026-10-26 — Q-12 ruled → R-15.** Setting locked near **Cranberry (`Cranberry Forge`) and Elk Park, NC**,
+  and the 1878–81 county corrected from the Drive notes' "Burke" to **`Cranberry Township, Mitchell County`**
+  (seat **Bakersville**; Mitchell formed 16 Feb 1861; Burke ended here in 1833, Yancey 1833–49, Watauga
+  1849–61, Avery 1911). Kept Burke and Watauga where history puts them — on the older grants and antebellum
+  deeds in Margaret's cedar box, whose courthouses at Morganton (1865) and Boone (1873) both burned before Act
+  One opens. Closed all §3 distance blanks; tightened R-5's acoustic geometry (Hampton railhead 15.5 air miles
+  behind Doe River Gorge; 1880–81 blasting crews 4–7 miles across State Line Gap); banned `Newland` (1911–12)
+  in the lexicon and guarded `Elk Park` / `Cranberry Forge` against post-1882 boomtown anachronisms; fixed the
+  `Burnsville` → **Bakersville** county-seat slip in `related-documents-bible.md` and
+  `research-gaps-and-questions.md`; and moved R-13/R-14 up into §1 where they belong.
 
 - **2026-10-26 — Q-11 ruled → R-14.** "The Whistlers" survives as **owned invention**, but only in the
   institutions' mouths: the Bureau's papers, the county paper, the dime novel. The hollow never names itself,

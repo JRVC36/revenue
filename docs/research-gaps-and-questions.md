@@ -77,15 +77,22 @@ it (Guide §1.2, "Never hang the stakes of a novel on an abstract or invented te
 
 Ordered by how much of the book each one unblocks. For each: what I need back is at the end.
 
-### R1. Which county are we actually in?
-The outline sets the story near **Banner Elk / Elk Park**, which in 1878 was **Watauga County** (seat:
-Boone), formed 1849 from Ashe, Caldwell, Wilkes, Yancey. **Avery County does not exist until 1911.**
-Your `Rough Research` doc instead runs the jurisdiction history of *Cranberry* (1840–61 Burke;
-1861–1911 **Mitchell**) and then says "Banner Elk, Elk Park" as if they were the same record set. They
+### R1. Which county are we actually in? — **RULED 2026-10-26 → R-15 (`Cranberry Township, Mitchell County`, seat Bakersville)**
+
+*Direction closed by R-15:* the hollow sits near **Cranberry Forge and Elk Park**, which in **1878–1881** both
+lie in **`Cranberry Township, Mitchell County`** (seat **Bakersville** — *not* Burnsville, which is Yancey,
+and *not* Burke County, which lost this valley in 1833; pre-1861 deeds in the family box carry **Burke**
+[1777–1833, Morganton burned Apr 1865] and **Watauga** [1849–61, Boone burned 23 Mar 1873]). Archival pull
+narrows to **Bakersville** 1861–85 deeds + the 1880 Mitchell Co. Cranberry Twp census (pop. 1,174).
+
+The outline sets the story near **Banner Elk / Elk Park**, which in 1878 split along the ridge (Banner's Elk
+in **Watauga**, Elk Park and Cranberry Forge in **Mitchell**). **Avery County does not exist until 1911.**
+Your `Rough Research` doc instead runs the jurisdiction history of *Cranberry* ("1840–61 Burke;
+1861–1911 **Mitchell**" — actually 1777–1833 Burke, 1833–49 Yancey, 1849–61 Watauga, 1861–1911 Mitchell) and then says "Banner Elk, Elk Park" as if they were the same record set. They
 are adjacent but different counties with different courthouses. Since the whole plot turns on records
 — deeds, liens, court terms, the register's book — the county is not scenery.
 > **I need back:** a decision on the exact township/hollow, plus which county's records we're using:
-> Watauga (Boone), Mitchell (Burnsville), or Caldwell (Burkeville)? Do the Brennans hold by recorded
+> Watauga (Boone), Mitchell (Bakersville), or Caldwell (Lenoir)? Do the Brennans hold by recorded
 > deed, unrecorded deed, or parol possession? Any 1870s NC tax-delinquency **tax sales** or "Act to
 > quiet titles" wrinkle in that county?
 

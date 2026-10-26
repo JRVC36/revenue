@@ -202,12 +202,14 @@ one time a man will not nod is the hinge of the book.
 
 ## Naming decisions (recorded here, enforced in canon)
 
-- **Brennan** — `INVENT`. Not a period-typical Watauga name; that is a feature (they came in), but see
-  the surname note in `vocabulary-tone-bible.md`. For the secondary cast, use attested local names —
-  Henson, Avery, Banner, Dugger, Calloway, Brown, Pressley, Coffey, Childress, Blevins — so the
-  census reads true.
-- **Elk Cove / North Fork Hollow** — the outline's candidates. `INVENT`, but note Elk Cove is a real
-  Watauga hollow, which is either a gift or a liability. Flagged in `docs/period-audit.md`.
+- **Brennan** — `INVENT`. Not a period-typical Toe River / Cranberry name; that is a feature (they came in),
+  but see the surname note in `vocabulary-tone-bible.md`. For the secondary cast, use attested **Cranberry
+  Township (Mitchell) and Watauga-ridge names** (R-15) — Winters, Buchanan, Wiseman, Pritchard, Burleson,
+  Gouge, Dugger, Banner, Avery, Henson, Calloway, Brown, Pressley, Coffey, Childress, Blevins, Councill — so
+  the 1880 census reads true.
+- **Elk Cove / North Fork Hollow** — the outline's candidates. `INVENT`, set as side hollows above the Elk
+  River / Cranberry Creek drainage inside **`Cranberry Township, Mitchell County`** (R-15; distinct from the
+  real Elk Park clearing one mile north of Cranberry Forge).
 - **"The Whistlers"** — `RULED (R-14)`: owned invention, **print-only**. The name belongs to the Bureau's
   reports, the county paper, and the dime novel; not one mountain mouth ever says it, because to name the
   meeting is to prove it. Old Councill gets the closest thing the cove says about itself, and it is a story

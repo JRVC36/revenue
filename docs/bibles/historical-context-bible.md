@@ -152,12 +152,18 @@ exclude:
 
 ## 6. The economy, and what the railroad does to it
 
-**Cranberry before the rails** (`USER`, Drive research doc): subsistence yeoman farms; corn, buckwheat,
-rye; hogs, cattle, sheep; log cabins; grist mills; Baptist and Methodist meeting houses; cash scarce,
-trade by barter; everything hauled by wagon to Morganton, NC or Elizabethton, TN over the Yellow
-Mountain Turnpike. Population of the Cranberry district ~200–400; the whole of Burke County 9,000–10,000
-in 1850–60. Slavery minimal; a non-plantation, free-labor society; the mountains largely Whig, then
-Unionist.
+**Cranberry before the rails** (`USER`, Drive research doc; county succession pinned by **R-15**):
+subsistence yeoman farms; corn, buckwheat, rye; hogs, cattle, sheep; log cabins; grist mills; Baptist and
+Methodist meeting houses; cash scarce, trade by barter; everything hauled by wagon to Morganton, NC or
+Elizabethton, TN over the Yellow Mountain Turnpike. In **1878–1881**, Cranberry (`Cranberry Forge` PO until
+24 Apr 1884) and the unincorporated border clearing at **Elk Park** lie in **`Cranberry Township, Mitchell
+County`** (seat **Bakersville**; 1880 township pop. **1,174** including Elk Park village). **Why the Drive
+notes mentioned Burke County:** this exact valley sat under five counties without moving — **Burke**
+(1777–1833; Morganton courthouse burned Apr 1865), **Yancey** (1833–49; Burnsville), **Watauga** (1849–16 Feb
+1861; Boone courthouse burned 23 Mar 1873), **Mitchell** (16 Feb 1861–23 Feb 1911; Bakersville), and **Avery**
+(from 23 Feb 1911; temporary seat Elk Park, then Newland). Slavery minimal; a non-plantation, mostly
+free-labor society (though freedman Peter Hardin and his literate wife Charity held Mitchell County deeds and
+kept the Cranberry Forge post office); the northern Toe / Elk River ridges largely Whig, then Unionist.
 
 **Iron, always the counter-story.** The Cranberry magnetite bed — one of the largest and purest deposits
 in the eastern U.S. (up to 68% iron), known to the Cherokee before removal, a forge on the Elk River by
@@ -230,7 +236,15 @@ Per the Style Guide, verify by exact year. Starting points for `docs/period-audi
   criminal trial). **It belongs in this book only as the reason Washington is serious** — and it should
   appear as a man in a Washington office refusing to be the kind of agent who takes a gift.
 - No locomotive west of the Blue Ridge before June 1882.
-- No Avery County before 1911; no "Avery" in a character's mouth at all.
+- No Avery County before 1911; no "Avery" as a county name in a character's mouth at all.
+- **No "Newland" before 1911–12** (in 1878 that meadow is **Old Fields of Toe**; R-15).
+- **No Burke County or Watauga County as the cove's *current* 1878–81 county** (R-15: Cranberry Forge and Elk
+  Park are in **Mitchell County**, seat **Bakersville**; Burke [pre-1833] and Watauga [1849–61] appear on
+  older burned-courthouse deeds in the family box, or when speaking of neighbors across the eastern ridge in
+  Watauga or the wagon road down to Morganton in Burke).
+- **No boomtown, depot, post office, or mayor at Elk Park in 1878–81**, and **no company hotel or scrip at
+  Cranberry before July 1882** (Elk Park PO opens May 1883, town incorporates 1885; Cranberry Forge PO is not
+  shortened to Cranberry until 24 Apr 1884; R-15).
 - No "IRS." **Bureau of Internal Revenue**, or "the revenue," or "the Department."
 - No "moonshiner" from a mountaineer's own mouth (see Q-14 and the vocabulary bible).
 - No "Reconstruction" as a self-conscious label in mountain speech. They would name the years, not the

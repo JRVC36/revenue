@@ -66,6 +66,8 @@ def parse_lexicon(path: Path):
                       "in_dialogue": sev != "NOTE"})
     seen = {}
     for r in rules:
+        if r["name"] in seen:
+            print(f"  ! duplicate lexicon slug in {src}: {r['name']}", file=sys.stderr)
         seen[r["name"]] = r
     return list(seen.values()), src
 

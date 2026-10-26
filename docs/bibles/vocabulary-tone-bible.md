@@ -1,6 +1,6 @@
 # Vocabulary & Tone Bible — *REVENUE*
 
-**Status: v0.9 — enforceable now; two rulings pending (Q-14, Q-11).**
+**Status: v0.9 — enforceable now; two rulings pending (Q-13, Q-14).**
 The mechanical half of the Style Guide. `tools/check.py` reads its ban list from the `lexicon` fence in §7 below, so **edits here change the linter**. Format: `pattern | severity | note`.
 
 Severity: `BAN` fails the build · `FLAG` warns · `NOTE` is a style reminder for humans only.
@@ -63,7 +63,8 @@ situation ("the situation" is `FLAG`: our outline's favorite abstraction) · "we
 "the world has changed"; let the still being gone say it).
 
 **Modern measuring / naming.** miles-per-hour phrasing; "an hour and a half" is fine, "90 minutes" is
-`FLAG`; "the 1879 term" not "the '79 season"; **no Avery County** (1911); **no "Whiskey Rebellion"**
+`FLAG`; "the 1879 term" not "the '79 season"; **no Avery County** (1911) and **no Newland** (1911–12, then
+*Old Fields of Toe*; R-15); **no "Whiskey Rebellion"**
 for 1878–81 (it is 1791–94, western Pennsylvania) — say **"the moonshine war," "the war on the
 revenue," "the trouble on the liquor tax"**; no "Appalachia" as a self-name (the region's people say
 "the mountains," "this country," "the Ridge"); "Appalachian" is fine in a printed newspaper or a
@@ -134,7 +135,8 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | BAN | \bpercentage\b | say share, proportion |
 | BAN | \b(allergic|newsreel|telegram office|commute|timecard|picket line|\bon the clock\b) | Guide §5.2 anachronism list |
 | BAN | \b(telephone|airmail|stationery)\b | no telephone in these mountains in 1878 |
-| BAN | \bAvery County\b | county exists only from 1911; see Q-12 |
+| BAN | \bAvery County\b | county exists only from 1911; in 1878-81 the cove is Mitchell County (R-15) |
+| BAN | \bNewland\b | town named 1911-12 for W. C. Newland; in 1878 say Old Fields of Toe (R-15) |
 | BAN | \bWhiskey Rebellion\b | 1791-94 western PA only; 1878-81 was the moonshine war |
 | BAN | \b(OK|okay)\b | 1839 Boston joke; not in 1878 WNC speech |
 | BAN | \b(?:[A-Za-z]+ing [^,.]{1,60}, ){2}[A-Za-z]+ing\b | stacked participles (Guide §4 Pass 4) — check by eye |
@@ -162,6 +164,8 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | FLAG | \b(Parrish|Caleb|Matthew|Harper|Jacob|Asa|Eudy|Frank)\b[^.?!"\n]{0,45}\b(thought|knew|felt|realized|understood|wondered|hoped|was afraid|was glad|was sorry|wanted to say)\b | R-4 POV law: only Joshua and Margaret get interiority — put the fact in an object, a report, or a silence |
 | NOTE | \b(Reconstruction|carpetbagger|scalawag|Loyal League|ironclad oath|disenfranchis\w*|the late war)\b | the deleted backstory (canon 7) / Q-13: must exist for a reader without ever becoming the subject |
 | NOTE | \bWhistlers?\b | R-14: the name is print-only. Check the speaker: reports, the county paper, the dime novel yes; any mountain mouth no. Never in the same sentence as the grade's whistle |
+| NOTE | \b(Burke County|Watauga County)\b | county-trail R-15: in 1878-81 Cranberry Forge and Elk Park are Mitchell County (seat Bakersville); Burke (pre-1833) and Watauga (1849-61) belong on older deeds or across the county line only |
+| NOTE | \bElk Park\b | elk-park R-15: in 1878-81 an unincorporated border clearing in Cranberry Twp (no depot until June 1882, no post office until May 1883, no town charter until 1885) |
 ```
 
 ## 8. Diction of the cove (built without eye dialect)

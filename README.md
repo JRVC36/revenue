@@ -75,8 +75,9 @@ knows what shape the book is in:
 4. **R-4 — Joshua is the spine (~80%), Margaret the secondary (~20%).** Two heads in the whole book;
    Parrish is never inside, so his turn has to be legible in what he writes and what he leaves out.
 5. **R-5 — The book ends in autumn 1881 and the train is never seen.** The final sound is powder off the
-   far side of a ridge, or a report of a date; a whistle would be an anachronism (Hampton was the rail head
-   in October 1881) and a picture would be a symbol, and both are refused on purpose.
+   far side of a ridge, or a report of a date; a whistle would be an anachronism (Hampton, 15.5 air miles
+   behind Doe River Gorge, was the rail head in October–November 1881) and a picture would be a symbol, and
+   both are refused on purpose.
 6. **R-6 — Joshua is the elder brother and the owner in fee.** He inherited the farm and mortgaged it, so
    the forfeiture reaches his deed as well as his brother's wife's; an owner in fee is presumed to know, so
    the man whose whole function is not-knowing is the one man who cannot plead it. Jacob 45, Joshua 50.
@@ -85,10 +86,25 @@ knows what shape the book is in:
    reach — and why the trial is about her knowledge rather than his debt. It also corrected R-6: the barn is
    on her freehold, adjoining Joshua's mortgaged farm, and the government's second move is to argue that
    those two places are one place.
+8. **R-8 — Caleb is Joshua's firstborn**, given to Jacob's house in 1862 when Joshua enlisted and the boy's
+   mother died. The informer and the man who comes for him were raised as brothers; nobody in the book says
+   any of it, and three planted facts (`canon §10`, the "Caleb audit") carry the whole arrangement without a
+   single statement.
+9. **R-9 — What Parrish pays is an audit of himself.** The Department asks him why a barn the United States
+   had a claim on was burned; both honest answers end him, he writes the second one in his fair hand, and the
+   complaint closes without adverse finding. Because R-4 keeps us out of his head, his whole cost is carried
+   in paperwork — and the last thing he does in the book is shut a file.
+10. **R-10 — Matthew asks for three things: the store debt, the day of the raid, a written appointment.**
+    Granted, granted, refused — and the day he picked gets a fifteen-year-old shot behind Harper's barn, which
+    is the first of this book's two deaths and the reason the cove's later restraint is restraint. He is "paid"
+    by a Treasury order returned uncashed, marked *person unknown*.
+11. **R-11 — Hoss Tyler is a creditor, not a Judas, and Harper is the man who said *don't*.** The day book
+    is taken, not bought, and Tyler's own protest authenticates it; the barn burned in Act Two belongs to the
+    one neighbor who was right in Act One. Being right is not a defense in this book, only a forecast.
 12. **R-12 — The book ends in typography.** Three documents after the last human scene: the agent's 1882
-   report (with the boy's name spelled right), a county history with the year wrong by two, and the title page
-   of a dime novel about Caleb. No author's note, no apology for accuracy — the verification record stays in
-   this repo, where it does its work.
+    report (with the boy's name spelled right), a county history with the year wrong by two, and the title page
+    of a dime novel about Caleb. No author's note, no apology for accuracy — the verification record stays in
+    this repo, where it does its work.
 13. **R-13 — The court is real, and so are its dates.** The Circuit Court for the Western District of North
     Carolina sat at **Statesville** on the third Monday in April and October, in rented rooms — there was no
     federal courthouse in Asheville until 1892. Jacob is convicted at the term that opened **21 April 1879**
@@ -101,21 +117,13 @@ knows what shape the book is in:
     naming the meeting is the evidence the hollow has spent the whole book not having. It also shares a word
     with the sound the book refuses to describe (R-5), and the overlap is never explained. "The Regulators" was
     rejected: it imports 1768–71 and reads as a borrowed thesis.
-11. **R-11 — Hoss Tyler is a creditor, not a Judas, and Harper is the man who said *don't*.** The day book
-   is taken, not bought, and Tyler's own protest authenticates it; the barn burned in Act Two belongs to the
-   one neighbor who was right in Act One. Being right is not a defense in this book, only a forecast.
-10. **R-10 — Matthew asks for three things: the store debt, the day of the raid, a written appointment.**
-   Granted, granted, refused — and the day he picked gets a fifteen-year-old shot behind Harper's barn, which
-   is the first of this book's two deaths and the reason the cove's later restraint is restraint. He is "paid"
-   by a Treasury order returned uncashed, marked *person unknown*.
-9. **R-9 — What Parrish pays is an audit of himself.** The Department asks him why a barn the United States
-   had a claim on was burned; both honest answers end him, he writes the second one in his fair hand, and the
-   complaint closes without adverse finding. Because R-4 keeps us out of his head, his whole cost is carried
-   in paperwork — and the last thing he does in the book is shut a file.
-8. **R-8 — Caleb is Joshua's firstborn**, given to Jacob's house in 1862 when Joshua enlisted and the boy's
-   mother died. The informer and the man who comes for him were raised as brothers; nobody in the book says
-   any of it, and three planted facts (`canon §10`, the "Caleb audit") carry the whole arrangement without a
-   single statement.
+15. **R-15 — Above Cranberry Forge and Elk Park: Mitchell County on the docket, Burke and Watauga in the deed
+    box.** In 1878–1881 Cranberry and Elk Park sit in **`Cranberry Township, Mitchell County`** (seat
+    **Bakersville**; formed 16 Feb 1861), *not* Burke — though that same ground was Burke before 1833 and
+    Watauga 1849–61, and both older courthouses (Morganton 1865, Boone 1873) burned before Act One opens, making
+    Margaret's folded deeds the only copies left. Putting the hollow at the railroad's exact destination also
+    makes the 1880–81 blasting across State Line Gap genuinely audible while Doe River Gorge still blocks any
+    whistle from Hampton. `Newland` (1911–12) joins `Avery County` (1911) on the `BAN` list.
 
 ## Editing workflow
 

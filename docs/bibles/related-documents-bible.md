@@ -19,7 +19,7 @@ transcript, do not cite.
 | ✅ | `docs/research-gaps-and-questions.md` | The 12 research asks and the questions awaiting Kevin's ruling | |
 | ✅ | `docs/bibles/*` | Character, historical context, vocabulary & tone, this file | |
 | ✅ | `docs/period-audit.md` | Anachronism verification log | Stub; entries A-1…A-13 open. |
-| 📄⚠️ | `Books/Revenue/Rough Research` | Cranberry/Burke/Mitchell/Avery jurisdiction, iron, Civil War politics, census pointers | **An AI chat transcript.** Ends with "Would you like me to do a more in-depth research instead and propose a research plan?" It recommends *moving the book to the 1880s* — canon R-2 rejects that and keeps the train instead. Its county narrative is about **Cranberry (Mitchell)**, not Banner Elk/Elk Park (**Watauga**) — do not transfer its record-trail conclusions to our cove. |
+| 📄⚠️ | `Books/Revenue/Rough Research` | Cranberry/Burke/Mitchell/Avery jurisdiction, iron, Civil War politics, census pointers | **An AI chat transcript.** Ends with "Would you like me to do a more in-depth research instead and propose a research plan?" It recommends *moving the book to the 1880s* — canon R-2 rejects that and keeps the train instead. Under **R-15**, the setting **is** near Cranberry Forge / Elk Park (`Cranberry Township, Mitchell County` in 1878–81, seat **Bakersville**), but `Rough Research` got the pre-1861 county timeline half-wrong ("1840–61 Burke"): Burke ended here in **1833** (→ Yancey 1833–49 → Watauga 1849–61 → Mitchell 1861–1911 → Avery 1911). |
 | 📄⚠️ | `Books/Revenue/What was daily life like in north western NC in 1...` | Farming, foodways, foraging, chestnut mast, work frolics, company town, rail social effects | Same character: chat output, unsourced, and it **opens with a wrong framing** ("Between 1860 and 1890… Avery County was formed later in 1911" is right, but "the rise of Cranberry as a booming industrial company town" is then treated as if it shapes the whole 1860–1890 span). Useful for texture, worthless for dates. |
 | 📄 | `Books/Appalachian Drama/*` | **House precedent.** `period-audit.md` (the format to copy), `appalachian-drama.md` (the finished novel: 20 ch., 3 acts, ~93k words, `## Chapter N: Title`, `---` scene breaks, act dividers) | Also the **overlap risk**: *The Bound Tree* already contains a surveyor's-chain engine, barn burning ("The Scorched Earth"), and salt as motif. Differentiate — see Q-15. |
 
@@ -50,19 +50,22 @@ parody that is wrong about the price line is funnier than the book wants it to b
 Ordered against the canon §9 list. These are the concrete retrievals — this is the part of the plan
 that is *not* a web search.
 
-**Q-12 / R1 (which county; who holds the deed).**
-- Watauga County Register of Deeds, Boone: deeds, mortgages, deeds of trust, **1870–1885**; look for
-  unregistered conveyances and the 1868–72 **tax-sale** entries. Mitchell County Register, Burnsville,
-  for the Cranberry side of the ridge.
-- **1880 U.S. Census, population + agricultural schedules**, Watauga Co. (ED lists at NC State Archives
-  / FamilySearch): household ages, occupation column ("distiller"?), livestock, bushels of corn,
-  value of farm products. This is where a real cove's economics come from — Jacob's neighbors, not
-  Jacob.
-- **1880 Census manufacturing/mortality schedules** for the same county; and the **1850/1860
-  Slave Schedules** for Burke/Caldwell to know what absence means.
-- *A History of Mitchell and Avery Counties*, J. A. Greene; the **Avery County Heritage** volumes;
-  **Watauga County Heritage** publications; the Rowell Bosse North Carolina Room (Wilkesboro) has the
-  Lewis Redmond material.
+**Q-12 / R1 (which county; who holds the deed) — RULED as R-15 (`Cranberry Township, Mitchell County`, seat Bakersville).**
+- **Mitchell County Register of Deeds, Bakersville** (*not* Burnsville, which is Yancey): deeds, mortgages,
+  deeds of trust, **1861–1885** (checking what survived the 1907 courthouse move); look for unregistered
+  conveyances, married-woman separate-estate deeds (R-7), and the 1868–72 **tax-sale** entries. Pre-1861 links
+  in the chain of title sat at **Boone** (Watauga, 1849–61; deed books **burned 23 Mar 1873**), **Burnsville**
+  (Yancey, 1833–49), and **Morganton** (Burke, pre-1833; records **burned Apr 1865**).
+- **1880 U.S. Census, population + agricultural schedules**, **Mitchell Co., `Cranberry Township`** (pop.
+  1,174 including Elk Park village; ED lists at NC State Archives / FamilySearch): household ages, occupation
+  column ("distiller"? "miner"? "bloomer"?), livestock, bushels of corn, value of farm products. This is where
+  a real cove's economics come from — Jacob's neighbors, not Jacob.
+- **1880 Census manufacturing/mortality schedules** for Mitchell Co.; and the **1850/1860 Slave Schedules**
+  for Watauga/Yancey/Burke to know what absence means (and note Peter and Charity Hardin's postbellum deeds at
+  Cranberry Forge).
+- Jason Deyton / J. P. Arthur (*A History of Watauga County*, 1915, and *Western North Carolina: A History*,
+  1914); the **Avery County Heritage** and **Toe River Valley** volumes; the Rowell Bosse North Carolina Room
+  (Wilkesboro) has the Lewis Redmond material.
 
 **Q-10 / R2 (court, term dates, sentences) — RULED as R-13; the archival pull that confirms it:**
 (a) the WDNC term calendar as printed in the NC Reports front matter for 1879 and 1881 (3rd Monday April and
