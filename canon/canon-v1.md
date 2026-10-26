@@ -34,7 +34,8 @@ Consequences:
 - The Style Guide applies in full, including §2 (POV/interiority) and §4 (five-pass revision).
 - Chapter architecture, not scene-blocks, is the drafting unit. `manuscript/NN-slug.md`.
 - "A Three-Act Drama, 1878–1881" on the outline's title page is superseded. Working subtitle for the
-  title page: **A Novel · Western North Carolina · 1878–1882** (end date per R-2).
+  title page: **A Novel · Western North Carolina · 1878–1881** (set by R-5; R-2 had proposed 1882, and the
+  ruling that the train is never seen pulled the date back in).
 
 **R-2 `AUTHOR` (2026-10-26) — the railroad moves into the book.** The ET&WNC narrow gauge is not
 background; it is the second engine and the measure of everything the cove loses. Handling:
@@ -47,9 +48,8 @@ background; it is the second engine and the measure of everything the cove loses
   reader who has read that book will recognize the world. *Deliberate echo, do not over-explain it.*
 - **Do not put a running train in 1878–1881.** Track reaches Hampton, TN, 22 Aug 1881; mid-June 1882
   Elk Park; 3 July 1882 Cranberry `LEAD`. Any earlier locomotive in the cove is an anachronism.
-- **Structural consequence — Q-2.** The book's present-tense action ends before the rails arrive, so
-  either Act Three extends to June 1882 (train as final image, on the page) or the arrival lands as
-  coda. This is the single largest structural question left open by this ruling.
+- **Structural consequence — Q-2.** Closed by **R-5**: the present tense ends in 1881 and the train is
+  never seen by anybody, anywhere, in this book.
 
 **R-3 `AUTHOR` (2026-10-26) — the plot engine is forfeiture of the land, not the tax.** The statute
 forfeits the still, the apparatus, **the lot or tract of land**, and the interest of anyone who
@@ -101,6 +101,49 @@ Consequences, binding:
 
 ---
 
+**R-5 `AUTHOR` (2026-10-26) — the book ends in autumn 1881, and the railroad is heard about, never
+seen.** Of the three ways to close a novel that has spent four acts on an approaching engine, the author
+chose the one that refuses the picture: **no train on the page, at any point.** The last movement is
+Joshua leaving — the mill sold, walking up toward the gap on the far side of which the grade is being
+made — and the book stops on what reaches him from the wrong side of a ridge.
+
+**The acoustic constraint, because it will otherwise be drafted wrong.** In October 1881 the nearest
+steel is at **Hampton, Tennessee**, reached 22 August 1881; the rails do not lie within thirty air miles
+of a Watauga hollow, and a locomotive's whistle does not carry thirty miles over that ground `LEAD`.
+So the closing sound may **not** be an engine. What is legal, and better:
+- a **blast** — the powder the grade crews use, which is the same sound the book planted in Act One
+  (R-2), now returned to him with its meaning changed; or
+- a **local, ambiguous sound** he can name and refuses to walk to: iron on stone, a hammer at the new
+  turnpike work, a saw at the mill that is no longer his — with the sentence being that he knows the
+  difference and does not care to check; and
+- **report** rather than sense: a man who quit the hollow for the grade in Act One comes back for the
+  winter with the news that the rails will be at Elk Park "come spring." Joshua hears the date the way he
+  hears a price.
+
+**What the ruling buys, stated so it is not lost later:** the reward for four acts of approach is
+*withheld*, which keeps the mountain out of the symbol business (vocabulary-tone bible §10.5) and keeps
+Joshua the man who measures everything **declining to measure this** — the one refusal in the book that
+costs him nothing and therefore tells us everything. It also protects R-2 from the temptation to
+"earn" the train.
+
+**Consequences, binding:**
+- Subtitle becomes **A Novel · Western North Carolina · 1878–1881**. If Q-9 adopts a printed epilogue
+  reaching 1882 or later, the date on the title page reverts to 1882 — the fiction ends in 1881 either
+  way, and only a document may cross the date.
+- `tools/check.py` now FLAGs `locomotive|engine|whistle|depot|train|railroad|the cars` in narration for
+  adjudication. The railroad may be *spoken of* (the company, the grade, the location); nothing may be
+  *seen* doing it. Every hit is a decision, not an error.
+- The map (§12) loses its proposed "The Train" chapter and keeps 26 chapters; chapter 26 is now the
+  closing movement.
+- The Act One / Act Three rhyme (powder heard at night, powder heard at the end) is the book's
+  architectural spine. Nothing may explain it.
+- **Research dependency created:** what civil road, bridge, or quarry work was actually under way within
+  hearing of the cove in autumn 1881 (ask **R-13** in `docs/research-gaps-and-questions.md`). Until that
+  is answered the final sound stays generic — "a blast off the ridge" is safe; "the railroad bridge at
+  Watauga Creek" is not.
+
+---
+
 ## 12. Chapter map v0 — POV-tagged (drafted against R-4)
 
 Twenty outline beats in, twenty-seven chapters out. A beat that needs two chapters gets two; a beat that
@@ -116,7 +159,7 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know. Shown as a technique with rules, not as a mood. |
 | 6 | Gauger's Work | J | The Standoff Begins | Parrish measures the farm as legally as the still: a still in a barn makes the *land* the case (R-3). |
 | 7 | The Store Debt | J (Matthew in dialogue only) | The Temptation | Tyler's book, what Matthew owes, and what the informer law now actually promises (Q-7). |
-| 8 | The Notice | J | End of Act One | The libel names the property, not the man. Act One ends on the paper, on a table, unanswered. |
+| 8 | The Notice | **M** ←was J | End of Act One | The libel names the property, not the man — and it is addressed in part to her interest. R-4/R-5 put the paper in Margaret's hands here so that Act Two's dower chapters have a root. Act One ends on the notice, unanswered. |
 | — | **ACT TWO: THE WEIGHT OF IT** · 1879–1880 (retitled; "THE RECKONING" goes to Act Three) | | | |
 | 9 | The Empty Year | J | The Empty Year | Harvest without a distiller; the term list; two years of arithmetic started. |
 | 10 | Margaret's Book | **M** | (new, R-3/R-4) | She reads the posted notices because they are about her dower. Her accounts become evidence (Q-4). |
@@ -126,7 +169,7 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 14 | The Missing Page | J | The Network Spreads | Joshua reads what is not in the file. The institution's silence is the eloquent thing. |
 | 15 | First Blood | J | The First Blood | A deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
 | 16 | The Letters | J | Jacob's Letters + End of Act Two | Prison correspondence in two hands; Joshua's arrangement closes; the sentence's length is fixed. |
-| — | **ACT THREE: THE RECKONING** · 1880–81 (→ June 1882 per Q-2) | | | |
+| — | **ACT THREE: THE RECKONING** · 1880–1881 (ends autumn 1881 per R-5; no train) | | | |
 | 17 | "We End It." | J | The Plan / Caleb's line | Caleb organizes; Joshua watches and does not stop him. |
 | 18 | The Warning | J | The Network Spreads | The nod as policy. Joshua is now complicit in something he can price. |
 | 19 | The Ambush | J | The Ambush (partial) | Parrish is hit. Long sentence for the mountain, then four-word declaratives. Wound and side pinned in §10. |
@@ -136,14 +179,15 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 23 | Did He Know? | **M** | The Broader Tragedy / the trial | The government's real question, aimed at Harper: knowledge and permission. Margaret's testimony is the hinge. |
 | 24 | The Return | J | Jacob's Release and Return | Two years out; the farm gone or halved (Q-4); the law is not cruel, it is complete. |
 | 25 | The Mill Sold | J | Joshua's End | He sells, he leaves; the only Brennan who dies where the streets have names. |
-| 26 | The Train | J or M | (Q-2) | June 1882, Elk Park: the last page is an image, not a moral. `OPEN` whether this is chapter 26 or a coda. |
-| 27 | Print | — | Epilogue (Q-9) | The legend arrives through paper: a county history, a pamphlet, or a dime-novel chapter titled for Caleb. `OPEN` |
+| 26 | The Far Side of the Ridge | J | (new, R-5) | The mill sold, the walk up, a blast from the wrong side of a ridge — and he does not go and look. The book stops there. No engine, no rails, no lesson. |
+| — | *Print* (optional epilogue) | — | Epilogue (Q-9) | If kept: paper only — a county history, a campaign pamphlet, or a dime-novel chapter titled for Caleb. Under R-5 this is the **only** place a date past 1881 may be printed, and the title page date follows it. `OPEN` |
 
-**Accounting:** Joshua 21 chapters + the interior of the two he shares ≈ 80%; Margaret 3 whole chapters +
-two shared ≈ 20%. If the ratio drifts past roughly 75/25 in the draft, the fix is to cut a Joshua chapter,
-not to add a Margaret one (the map is a plan, not a quota).
+**Accounting (26 chapters):** Joshua 22 whole chapters plus the interior of the shared ones; Margaret 4
+whole (8, 10, 20, 23) — about 15% by count, which lands near the ruled ~20% by words only if her chapters
+run long, which they should: hers carry the paperwork. Measured by words at Pass 4, not by count. If it
+reads 85/15, give her the search of the house in Act One; do not take a chapter back from Joshua.
 
-**Movement this map invites:** Q-2 decides 26; Q-4 decides 10 and 23; Q-8 decides whether 3 holds two old
+**Movement this map invites:** ~~Q-2~~ decided 26 (R-5); Q-4 decides 8, 10 and 23; Q-8 decides whether 3 holds two old
 men; Q-9 decides 27; Q-10 decides 22. Nothing else here is contingent on an unanswered question, so Act
 One can be drafted now.
 
@@ -176,7 +220,7 @@ Real dates are what the fiction is measured against. Everything in the right col
 | Aug 25 1881 | Redmond tried in Charlotte (8 liquor counts, 2 conspiracy counts; 10 yrs Auburn; $2,600) `LEAD` | The template for Caleb's case — see §6 |
 | 22 Aug 1881 | Track to Hampton, TN complete `LEAD` | The steel is now a day's walk away |
 | Late 1880–early 1881 | — | Jacob released; returns to a broken cove |
-| Mid-June 1882 | ET&WNC reaches Elk Park `LEAD` | **Coda or final image — Q-2** |
+| Mid-June 1882 | ET&WNC reaches Elk Park `LEAD` | **Outside the fiction's present tense. Under R-5 the train never appears; this date may only be reached by a printed document (Q-9), or spoken of as a rumor of spring.** |
 | 3 Jul 1882 | Line opens to Cranberry; iron moves; company town begins | The world the tax could not reach is reached anyway |
 | 1895 | — | `INVENT` Jacob dies, never having distilled again |
 
@@ -381,7 +425,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | # | Question | Blocks |
 |---|---|---|
 | Q-1 | **Whose spine?** | ✅ RULED 2026-10-26 → **R-4**: Joshua ~80%, Margaret ~20%. Chapter map is §12 |
-| Q-2 | Does Act Three extend to June 1882 so the first train is a final **image**, or does it arrive as **coda**? | Structure, title page |
+| Q-2 | Does Act Three extend to June 1882 so the first train is a final **image**, or does it arrive as **coda**? | ✅ RULED 2026-10-26 → **R-5**: neither — ends autumn 1881, train heard about, never seen. Subtitle date 1878–1881 |
 | Q-3 | Ages: is Jacob older than Joshua (b. 1831/1829) or is "older brother" wrong? | Continuity |
 | Q-4 | Does Margaret hold title, or dower, or nothing? Who can sign away the hollow? | Act Two, Act Three |
 | Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | Whole book's engine |
@@ -401,7 +445,8 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 
 - **Injury sides.** Matthew: broken ribs — *which side*; broken arm — *which*. Once set, never vary.
 - **Seasons elapsed.** Act One summer 1878 → autumn 1878 → winter 1878–79 → spring 1879. Act Two
-  "empty year" 1879–80. Act Three 1880–81 (+1882 per Q-2).
+  "empty year" 1879–80. Act Three 1880–**1881** (R-5: the present tense stops in autumn 1881; 1882 is
+  reachable only by report or by a printed epilogue).
 - **Distances** from §3, once set.
 - **Sentence arithmetic.** Jacob: 2 years from the 1879 term. Any "about a year left in late 1880" must
   reconcile with the actual sentencing month **and** with credit — the outline's arithmetic does not
@@ -412,8 +457,11 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 - **POV ledger (R-4).** Every scene belongs to Joshua or Margaret. A scene that needs a fact only Jacob,
   Caleb, Matthew, Harper or Parrish could supply must get it from an object, a report, or a silence — and
   the linter's `lex:other-heads-interiority` row will flag the draft when the discipline slips.
-- **Banned-from-this-book list:** "Whiskey Rebellion" applied to 1878–81 (belongs to 1791–94); any
-  locomotive west of the Blue Ridge before mid-1882; Avery County before 1911.
+- **Banned-from-this-book list:** "Whiskey Rebellion" applied to 1878–81 (belongs to 1791–94); **any
+  train seen on the page at any date** (R-5 — the earlier rule "no locomotive before mid-1882" is now
+  stricter: there is no locomotive, only the powder and the report of it); Avery County before 1911.
+- **Closing sound (R-5).** The final beat's noise is a blast or a local hammer — never a whistle, never
+  an engine, because Hampton was the rail head in October 1881. Pending ask R-13.
 
 ---
 
@@ -428,3 +476,8 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   v0, the POV-ledger continuity anchor, and the linter row for other heads' interiority. Also normalized
   the line endings of `docs/outline-v1-verbatim.md` (CRLF→LF, content untouched) so the linter's anchored
   patterns behave. | agent |
+
+| 2026-10-26 | **Q-2 ruled → R-5** (ends autumn 1881; the railroad is heard about, never seen; subtitle
+  1878–1881). Closed R-2's structural consequence, rewrote map ch. 26, moved ch. 8 to Margaret so the
+  dower chapters have an Act One root, tightened §10 (a whistle is now banned outright — acoustic distance
+  to the 1881 rail head), and added research ask **R-13**. | agent |

@@ -251,7 +251,11 @@ def load_corpus(args):
         text = f.read_text(encoding="utf-8")
         if re.search(r"^\*\*SETTING:\*\*|^\[[A-Z0-9 .,'\-–—]+\]", text, re.M):
             fmt = "play"
-        out.append((str(f.relative_to(ROOT)), text, fmt))
+        try:
+            label = str(f.relative_to(ROOT))
+        except ValueError:
+            label = f.name
+        out.append((label, text, fmt))
     if not out:
         print("no manuscript/*.md yet — create manuscript/NN-slug.md files to lint.", file=sys.stderr)
     return out

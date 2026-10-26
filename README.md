@@ -1,7 +1,7 @@
 # REVENUE
 
-**A novel. Western North Carolina, 1878–1882.** The whiskey tax at ninety cents on the proof gallon, and
-the law that takes the land underneath the still.
+**A novel. Western North Carolina, 1878–1881.** The whiskey tax at ninety cents on the proof gallon, and
+the law that takes the land underneath the still. A railroad is coming the whole time and never shows up.
 
 Status: **scaffolded, not drafted.** The structure, the canon, the bibles and the tools exist; the
 manuscript does not. Working title `REVENUE` per the author's own outline; the subtitle is working.
@@ -59,7 +59,7 @@ No third-party packages, Python 3.9 standard library only. `compile.py` prints t
 steps it cannot do itself (the Georgia `weightedFontFamily` pass and the reverse-order
 `[[PAGE_BREAK]]` → real page break conversion).
 
-## The three rulings that govern everything
+## The rulings that govern everything
 
 Recorded in `canon/canon-v1.md` §1 and re-derived nowhere else. Summarized here only so a new reader
 knows what shape the book is in:
@@ -67,11 +67,17 @@ knows what shape the book is in:
 1. **R-1 — It is a novel.** The outline's stage idiom is *translated*, not honored: settings become
    weather and labor, exits become bodies, the cast list's ages become debts and calluses.
 2. **R-2 — The railroad is in the book as approach.** Grading powder, a federal transit, men who walk
-   out for the grade. **No rails and no train before mid-1882**, and the book stays in 1878–1882.
+   out for the grade. **No rails and no train before mid-1882** — and, per R-5, none at all: the novel stops in
+   autumn 1881 with the sound of powder off the far side of a ridge.
 3. **R-3 — The engine is forfeiture of the land, not the 90 cents.** The triable question is *did the
    neighbor know and permit*, not *does the distiller owe*. That makes the barn fire a crime against the
    government's own interest, makes the missing written order the eloquent page, and gives Margaret
    standing in her own right.
+4. **R-4 — Joshua is the spine (~80%), Margaret the secondary (~20%).** Two heads in the whole book;
+   Parrish is never inside, so his turn has to be legible in what he writes and what he leaves out.
+5. **R-5 — The book ends in autumn 1881 and the train is never seen.** The final sound is powder off the
+   far side of a ridge, or a report of a date; a whistle would be an anachronism (Hampton was the rail
+   head in October 1881) and a picture would be a symbol, and both are refused on purpose.
 
 ## Editing workflow
 

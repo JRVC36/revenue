@@ -57,7 +57,7 @@ that is *not* a web search.
   1876–1883 with per-district tables of stills seized, gallons of spirits seized, prosecutions;
   correspondence on the "moonshine war"; supervisor correspondence for NC.
 - **Papers of Green B. Raum** (Library of Congress) — the crackdown he ordered.
-- **Session Laws of North Carolina, 1878–1882** (Legislative Papers, NC Archives) — the state's own
+- **Session Laws of North Carolina, 1878–1881** (Legislative Papers, NC Archives) — the state's own
   tax and liquor law, and the **tax-sale** and readjustment acts.
 - **Asheville newspaper run, 1877–1883**: the *Asheville Express*, the *North Carolina Journalist*, the
   *Asheville Citizen* (first published 1883 — the 1883 letter "so wrote an anonymous mountain resident

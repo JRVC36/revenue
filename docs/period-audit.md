@@ -1,7 +1,7 @@
 # Period Audit — *REVENUE*
 
 **Status: v1 — audit of the OUTLINE, plus the ledger for every year the book will print.**
-**Verdict: the 1878–1882 frame is sound and better than the author thought; the failures are not
+**Verdict: the 1878–1881 frame is sound and better than the author thought; the failures are not
 anachronisms, they are an unlabeled war, one misnamed agency, a legal mechanism nobody wrote down, and
 a railroad that has not arrived yet.**
 
@@ -15,7 +15,7 @@ draft · `NOTE` = already resolved, recorded so it doesn't drift back.
 
 | # | Finding | Severity | Resolution |
 |---|---|---|---|
-| A-1 | The outline is a stage outline (SETTING/TIME/cast-with-ages), the author's standing ruling is prose. | MAJOR | **R-1.** Novel. Stage idiom is *translated*, not preserved: setting → weather, ground, labor; "they exit" → what the body does on the way out; the age list → facts shown through work and debt. Working subtitle: *A Novel · Western North Carolina · 1878–1882*. |
+| A-1 | The outline is a stage outline (SETTING/TIME/cast-with-ages), the author's standing ruling is prose. | MAJOR | **R-1.** Novel. Stage idiom is *translated*, not preserved: setting → weather, ground, labor; "they exit" → what the body does on the way out; the age list → facts shown through work and debt. Working subtitle: *A Novel · Western North Carolina · 1878–1881* (1878–1882 was proposed at R-2 and pulled back in by R-5). |
 | A-2 | Zero railroading in a western-NC 1880s novel, and the author's instinct to add it. | MAJOR | **R-2.** ET&WNC is present as approach: grading powder, a federal surveyor's transit, men who leave for the grade. **No rails, no whistle, no train on the page before mid-1882.** Elk Park is not reached until June 1882; Boone not until 1919. |
 | A-3 | The engine of the plot is "90 cents a gallon" treated as a moral abstraction. | MAJOR | **R-3.** The engine is **forfeiture of the land**. The triable question is not "does Jacob owe" but **did Harper know and permit**. Every downstream decision (POV, Margaret's standing, the barn fire, the trial, the pardon) is now driven by this. |
 
@@ -47,6 +47,7 @@ draft · `NOTE` = already resolved, recorded so it doesn't drift back.
 | Violence scale | WDNC: **Deputy Marshal W. Burns shot in the back from ambush, 13 Apr 1874**; **C. B. Brockus killed 14 Feb 1893** in a prison rescue — that is the district's toll in a decade and a half. Nationally ~**25 agents killed 1876–80** (~6/yr) against ~20/yr deputy marshals dying in the West. | `LEAD` (US Marshals Service history; counts via secondary). **Used to deflate Act Three, not inflate it:** our book's murder is the *unusual* event, and the marshal's response is paperwork because paperwork is what the Bureau had. |
 | Redmond | b. 1854 (so **24** at his killing of Dep. Marshal Alfred Duckworth, 1 Mar 1876, **Transylvania County**, not McDowell); captured 7 Apr 1881; tried from **25 Aug 1881 on eight counts of selling liquor and two of conspiracy — not for the killing**; sentenced to **10 years at Auburn and $2,600**; pardoned by Arthur, 1884; d. 1906 | `LEAD` (NC Dept. of Natural and Cultural Resources; ECU on the 1881 Cobb campaign pamphlet; *NC History* on the 1879 dime novel). Epilogue correction for Caleb: **the mountain's own outlaw celebrity is a print product** — the 1879–81 dime novel and campaign pamphlet exist; the cove's legend of Caleb must arrive the same way, through paper. |
 | Moonshine vocabulary in NC | The men were first called **blockaders**, their product **blockade whiskey**; "moonshiner" only became common in the 1870s | `LEAD` (Dan Pierce, *Our State*). Basis for Q-14. |
+| Rail head in the book's last year | **Hampton, TN, 22 Aug 1881** is the nearest steel to a Watauga hollow in Oct 1881; Elk Park is not reached until mid-June 1882. Consequence: **no whistle, no engine sound carries into the cove in 1881** — the closing beat must be powder or a local hammer (canon R-5) |
 | Railroad chronology | chartered TN 24 May 1866 (5-ft gauge) → ~5 mi by Apr 1870 → abandoned 1874 → East Tennessee & Western North Carolina Railroad, **3-ft gauge, chartered 6 Mar 1879** → construction from **Sept 1880** → Johnson City–Hampton **22 Aug 1881** → **Elk Park mid-June 1882** → **Cranberry 3 July 1882** → Boone 1919; telegraph along the line 1883 | `LEAD` (ETSU archives corporate entity; American-Rails; local histories). The 3-ft gauge is why the line could be built by hand through that canyon, and why it could reach Elk Park before Boone. |
 | Court calendar | WDNC terms at **Statesville, third Mondays of April and October** | `LEAD` (NC Reports front matter, contemporaneous). Constrains Act Two: the trial is at a sitting, and everyone in the mountains times travel by the term. |
 | Cask marks | heads and hoops branded "U.S."; "A" stamped on a tierce, "B" on a hogshead; rectifiers' and dealers' bonds $2,000; retail-dealer bond $100 | `LEAD`. Good texture; only print a mark we can say why a character notices it. |
@@ -60,6 +61,13 @@ Full asks with "what I need back" in `docs/research-gaps-and-questions.md`; the 
 3. **ET&WNC "Watauga Memorial" claim that the line reached Watauga Co. by 1879 and was halted by the 1880 financial crisis** — if true, a surveyor could legally stand in our cove in 1878–79 with federal money behind him, which is R-2's whole Act One. `MAJOR`.
 4. **The 1880 U.S. Census schedules for the candidate county** — household size, corn and whiskey, illiteracy, mules, church membership: the numbers the book implies when it says "twelve families." `MINOR`.
 5. **Whether any federal troops were called into western NC 1878–82, and by whose request.** Without this, Act Three's "the President sends troops" is an invention and must be softened; the Georgia precedent is unverified. `MAJOR`.
+
+13. **What civil work was under way within hearing of the cove in autumn 1881** — the Buford/Irwin
+    turnpike contracts, county road and bridge blasting, a quarry. Canon R-5 makes the book's final sound a
+    grading blast or a hammer, and I will not print "a blast off the ridge" if there is a documented local
+    sound that is *also* true. `MINOR` (safe generic available) — **but it is the last sentence of the
+    novel.** *What I need back:* Watauga County court minutes 1879–1882 for road overseers/contract
+    blasting, and any 1881–82 newspaper notice of ET&WNC work north of Elizabethton. `OPEN` **R-13**.
 
 Secondary items: Thav (Avery Co. Museum), a 17-year-old's 1879 diet, an 1870s Asheville lawyer's fees and circuit, and
 the *Whiskey War in Alabama 1877–1885* (Bibb County) as structural comparison — including its "Regulator" revenge

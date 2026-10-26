@@ -7,7 +7,7 @@ manuscript. Fill the bracketed counts before sending; the questions themselves a
 
 **To whoever is reading this: five minutes at the end, please.**
 
-This is a draft of *REVENUE*, a historical novel set in a hollow of western North Carolina, 1878–1882,
+This is a draft of *REVENUE*, a historical novel set in a hollow of western North Carolina, 1878–1881,
 about the whiskey tax and the law that takes the land. **[X chapters, Y words]** of **[Z,000]** exist.
 You are not being asked to copy-edit, and you are not being asked whether you liked it.
 

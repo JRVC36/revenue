@@ -261,6 +261,27 @@ arriving Elk Park in 1883 — after your book ends.
 
 ---
 
+## 2b. Added after the first rulings (2026-10-26)
+
+### R-13 — What was making noise within hearing of the cove in autumn 1881?
+
+**Why it exists now:** Q-2 was ruled as *the train is heard about, never seen* (canon R-5), which makes the
+last sentence of the book a sound — and I refuse to write a sound that could not have been heard. In
+October 1881 the ET&WNC's rail head was Hampton, Tennessee (22 Aug 1881); Elk Park is June 1882. Thirty
+air miles and two ridges: no engine, no whistle. So the closing noise is either (a) a **grade blast** that
+is genuinely in range, (b) a **local** sound Joshua can name and declines to walk to — county road or
+bridge work, a quarry, a saw, or (c) **report**: a man who went to work the grade and came home for the
+winter with the date.
+
+**What I need back:** Watauga (or the chosen county's) court of sessions minutes 1879–1882 for road
+overseers, turnpike contracts and blasting payments; any 1881–82 east-Tennessee paper notice of ET&WNC
+work north of Elizabethton; and if the cove moves to Mitchell/Caldwell (Q-12), the same for the Cranberry
+works, whose furnaces and iron-mine tramways were locally audible and are *better* than the railroad for
+this purpose.
+
+**If nobody can find it:** I default to (c) report + a generic blast, which is safe, and the audit row
+stays `NOTE`.
+
 ## 3. Questions: direction, characters, style, voice
 
 ### Direction

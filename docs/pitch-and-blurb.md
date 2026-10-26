@@ -35,10 +35,12 @@ agreed to hide — and the law does not care whether she knew.**
 life, a legal mechanism that turns out to be the plot, and a court scene where the horror is paperwork.
 Not a feud saga; not a moonshine adventure; nobody wins a shoot-out.
 
-- **Length:** 85,000–100,000 words, 4 acts (the outline's 3 acts split at the barn fire — see Q-2),
-  28–32 chapters, 4–7 scenes each.
-- **Timeline:** summer 1878 → June 1882 (the railroad reaches Elk Park three weeks before the book's
-  last page; it never sees a train before 1882).
+- **Length:** 85,000–100,000 words, 4 acts (the outline's 3 acts split at the barn fire), 26 chapters
+  plus an optional printed epilogue (Q-9), 4–7 scenes each — `canon/canon-v1.md` §12.
+- **Timeline:** summer 1878 → autumn 1881. The railroad is four acts of approach and one withheld
+  picture: powder heard off a ridge at the opening, powder heard off a ridge at the close, and **no train
+  on the page at any date** — in June 1882 the rails reached Elk Park, thirty miles and a year past the
+  last sentence of this book.
 - **POV:** third person limited, past tense. **Joshua Brennan carries ~80%; Margaret Brennan ~20%** (canon R-4). Nobody else is ever inside a head — which is why a book about an informer reads like an interrogation of the reader.
 
 ## 4. Shelling out
@@ -77,6 +79,6 @@ chapter is wrong, not the line.
 
 ## 7. `OPEN` items this file depends on
 
-Q-2 (does the book end at the trial or run to the train), Q-4 (Margaret's exact
+Q-4 (Margaret's exact
 estate interest — the blurb commits to "dower" and must be checked against North Carolina real-property
 law in 1878, which is a research ask, R-6 in `docs/research-gaps-and-questions.md`).
