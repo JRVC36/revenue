@@ -38,3 +38,14 @@ There is one place where a reader may feel the book is explaining a law at them.
 the chapter; I would rather cut three pages than lose you there.
 
 Thank you. Send it in any form — margin notes, a voice memo, a text at 11 p.m.
+
+7. **The end, and how to react to it.** The book stops in **November 1881** and then goes out in **three
+   documents with no author's note**: the agent's report to his Department (which spells the killed boy's name
+   right), a county history (which gets the war's date wrong by two years), and the title page of a dime novel
+   about Caleb. Nobody comes back to explain, and the railroad is never seen — a blast off a ridge near the
+   opening and a blast off a ridge near the close. If the ending feels *withheld from*, that is a fair answer to
+   a deliberate decision: tell me which page it started to feel that way on.
+
+8. **One neighbor says *don't* at the meeting, and later loses his barn.** He is not a coward and not a
+   traitor; he is the control group, and he is right. If you read him as a coward, that is a failure of the
+   scene rather than of the man, and I want to know about it.

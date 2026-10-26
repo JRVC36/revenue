@@ -90,7 +90,13 @@ should be, underneath, about who saw what and whether they said a word about it.
   Asheville, Statesville, Charlotte; **AVERY County and WATAUGA County sit in different modern
   divisions (Asheville / Statesville), which is a useful hint about where the 1870s court went.**
   A federal courthouse building in Asheville dates to **1892**; before that, terms sat in whatever
-  rooms the town had. **UNVERIFIED: exact term dates and seats 1878–1881 — audit item A-2.**
+  rooms the town had.
+- **RULED (R-13), 2026-10-26:** the trial chapters are **Statesville**, at the term that opened
+  **Monday 21 April 1879** (Jacob convicted, two years → released 21 April 1881) and the term that opened
+  **Monday 17 October 1881** (Caleb tried). The dates are computed from the statutory third Monday, so the
+  *rule* is `VERIFIED` and each specific Monday is `INVENT`-adjacent arithmetic: if a reader finds the 1879
+  term actually opened a fortnight later, the book changes the day and keeps the two years. A trip to a
+  sitting is three days each way, a hotel room, and feed for a horse — price it in the ledger.
 - **Casualties.** U.S. Marshals Service's own roll for the "Moonshine War, 1872–1913" lists a Deputy
   Marshal **Burns, shot in the back from ambush, April 13, 1874, Western District of North Carolina**,
   and **C. B. Brockus, killed February 14, 1893, WDNC, during a prison rescue attempt** — real, local,

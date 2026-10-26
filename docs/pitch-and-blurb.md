@@ -43,9 +43,11 @@ belongs to a man's wife — and that is exactly where the still stands.**
 life, a legal mechanism that turns out to be the plot, and a court scene where the horror is paperwork.
 Not a feud saga; not a moonshine adventure; nobody wins a shoot-out.
 
-- **Length:** 85,000–100,000 words, 4 acts (the outline's 3 acts split at the barn fire), 26 chapters
-  plus an optional printed epilogue (Q-9), 4–7 scenes each — `canon/canon-v1.md` §12.
-- **Timeline:** summer 1878 → autumn 1881. The railroad is four acts of approach and one withheld
+- **Length:** 85,000–100,000 words, 4 acts (the outline's 3 acts split at the barn fire), **28 chapters**
+  (8 / 9 / 11) plus three printed documents at the end, 4–7 scenes each — `canon/canon-v1.md` §12.
+- **Timeline:** summer 1878 → **November 1881**, on the real court calendar: Jacob is convicted at the term
+  that opened 21 April 1879 and released on the two years on 21 April 1881; his nephew is tried at the term
+  that opened 17 October 1881, and the book's last page is seven months before the rails reach Elk Park. The railroad is four acts of approach and one withheld
   picture: powder heard off a ridge at the opening, powder heard off a ridge at the close, and **no train
   on the page at any date** — in June 1882 the rails reached Elk Park, thirty miles and a year past the
   last sentence of this book.

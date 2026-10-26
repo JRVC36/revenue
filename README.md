@@ -89,6 +89,13 @@ knows what shape the book is in:
    report (with the boy's name spelled right), a county history with the year wrong by two, and the title page
    of a dime novel about Caleb. No author's note, no apology for accuracy — the verification record stays in
    this repo, where it does its work.
+13. **R-13 — The court is real, and so are its dates.** The Circuit Court for the Western District of North
+    Carolina sat at **Statesville** on the third Monday in April and October, in rented rooms — there was no
+    federal courthouse in Asheville until 1892. Jacob is convicted at the term that opened **21 April 1879**
+    and released on the two years **21 April 1881**; Caleb is tried at the term that opened **17 October 1881**;
+    the book ends in **November 1881**, seven months before the rails reach Elk Park. Judge Robert Paine Dick is
+    named in the docket and never given an invented word. This ruling rebuilt the chapter map as v1 (**28
+    chapters**) and moved *The Return* ahead of *The Surrender*.
 11. **R-11 — Hoss Tyler is a creditor, not a Judas, and Harper is the man who said *don't*.** The day book
    is taken, not bought, and Tyler's own protest authenticates it; the barn burned in Act Two belongs to the
    one neighbor who was right in Act One. Being right is not a defense in this book, only a forecast.

@@ -36,7 +36,7 @@ not reach a family is suddenly the defendant in a case about her own dirt.
 **Will not say:** that she knew before the raid. Under R-7 this is no longer atmosphere: *Stowell* protects
 an owner who did not know and *Dobbins* does not protect one who merely did not ask, so whether Margaret
 knew is the single fact the trial turns on and she is the only witness who can supply it. Decide what she
-actually knew **before** drafting ch. 8; the answer determines whether Act One is dramatic irony or a
+actually knew **before** drafting *The Cold Still*; the answer determines whether Act One is dramatic irony or a
 woman making a calculation with her husband's freedom priced against forty acres.
 **Signature action:** keeps the household's accounts in a book nobody else can read, and it turns out to
 be evidence.
@@ -154,7 +154,7 @@ The complaint closes without adverse finding, the promotion is a footnote, and t
 book is shut a file.
 **The document he has to produce is a woman's word:** he needs an affidavit that the fire was not ordered,
 and the only person who can give it is Margaret, which is how he ends up asking the woman he is dispossessing
-to save his career (proposed ch. 22). She tells the truth. It helps him, hurts the cove, and neither of them
+to save his career (*The Deposition*, ch. 23). She tells the truth. It helps him, hurts the cove, and neither of them
 calls it a favor.
 **Never:** the killed deputy named Burns — real, 1874, WDNC. He may *cite* Burns once, the way a man cites a
 precedent: *Burns's file was thinner than mine will be.* That is the only interiority he is allowed.

@@ -158,7 +158,7 @@ What the ruling actually bought, and why it is not a cosmetic fix:
   has suffered or permitted" the distilling or connived at it. A neighbor's ignorance is plausible; **an
   owner's is not**, and the owner is the man who keeps every account in the cove. Parrish's sharpest move
   in Act Two is therefore to stop asking Jacob anything and start asking Joshua what his brother was doing
-  on his ground. `LEAD` on the doctrine; the scene is proposed at §12 (ch. 14), awaiting the author.
+  on his ground. `LEAD` on the doctrine; the scene is proposed for *The Missing Page*, awaiting the author.
 - **The cove's central technique becomes illegal for exactly one man.** "Not knowing" is what the hollow
   survives on, and it is a legal position — except for an owner in fee with a mortgage, who is *presumed* to
   know what happens in his own barn. R-4 plus R-6 puts the whole book's thesis inside the POV character's
@@ -219,7 +219,7 @@ Consequences, binding:
   quiet fact in the outline's world: **a married woman had to be examined alone, away from her husband, to
   give away what was hers, and the certificate of that examination is a document the book can lose, find,
   or produce.** (Whether to *use* the missing certificate as the plot's Act Three lever is Q-9's neighbor:
-  propose it at ch. 23, do not decide it here.)
+  propose it at *Did She Know?*, do not decide it here.)
 - **Old Councill's and Harper's parcels stay as the outline has them.** The cove's meeting in Act One is at
   **Joshua's mill** (his barn, his hospitality — the record of his not-knowing is a record of who he fed).
   The burned barn in Act Two is **Harper's** — storage, not distilling, which is why the burning is a crime
@@ -254,7 +254,7 @@ Consequences, binding:
   becomes a brother's job, which is why the outline's "beaten by his own family" line is the best sentence
   it has. Caleb does not beat Matthew because the cove ordered it. He does it because he was in the room and
   they were both Brennans.
-- **Joshua's refusal in ch. 4 is now two facts that must never be joined in one sentence.** He refuses to
+- **Joshua's refusal in *What a No Costs* is now two facts that must never be joined in one sentence.** He refuses to
   inform, and the page of the ledger he turns to is the one with the boy's keeping-money on it. The
   narration must not connect them. The reader does it, in the second act, and feels like the first person to
   notice — which is the pleasure this book should be built out of.
@@ -270,11 +270,11 @@ Consequences, binding:
   "a 21-year-old with more at stake than the man whose name is on the still."
 - **The ending, which is what the ruling was really for.** Joshua sells the mill and leaves: a father
   walking out on the son he raised as his brother's, into a town where streets have names. Do not let him
-  look back at the cove on the last page of ch. 25, and do not let Caleb learn where he went. The book's
+  look back at the cove on the last page of *The Mill Sold*, and do not let Caleb learn where he went. The book's
   one mercy is that the two of them never say it in the same room.
 - **Names, so the record is clear:** `INVENT` the mother as **Elsie Brennan (née Byrd)**, d. spring 1862,
   dead before the book opens, given one object and no scene (a shawl in a cedar chest that the appraisers
-  list at forty cents in ch. 8 — the outline's seizure list already has to pass through that room; that is
+  list at forty cents in *The Cold Still* — the outline's seizure list already has to pass through that room; that is
   where a mother belongs in this book). Joshua does not remarry. `OPEN`: whether Elsie's name is ever
   printed at all (recommend: once, by Old Councill, in the wrong year, and nobody corrects him).
 
@@ -301,7 +301,7 @@ Consequences, binding:
   affidavit that would save him is Margaret's — that the fire was not ordered, that the men were beyond him.
   So the man taking her land has to ask her to protect his career, in a room, with a clerk. She gives him
   the truth, because by then she has learned the truth is not on his side either, and the truth damages the
-  cove and him in the same breath. **Proposed as ch. 22, before the term** — `OPEN` for the author, but the
+  cove and him in the same breath. **Proposed as *The Deposition*, before the term** — `OPEN` for the author, but the
   trial chapter is stronger with it planted.
 - **The book's paper survives because of the audit.** His compelled report is the reason a written record of
   this hollow exists at all, which is the single best source available to the epilogue if Q-9 chooses
@@ -349,7 +349,7 @@ a paper with his name on it — a clerk's place, a deputy's start, anything. **G
   three asks must be legible as three *objects*: a line in a day book, a date spoken once and kept, and a
   letter of appointment that is never written. If a draft needs more, the fix is a different object, not a
   thought.
-- **The exchange this opens between Margaret and Parrish (proposed ch. 22, `OPEN`):** her affidavit about the
+- **The exchange this opens between Margaret and Parrish (at *The Deposition*, `OPEN`):** her affidavit about the
   fire has a price, and it is not money. She will sign that the burning was not ordered if the boy's name goes
   into the report **right** — the file calls him "a boy," the cove calls him Lish. An agent can do that, and it
   costs him nothing he can be audited for. That is the moral trade of this book, and it is a spelling.
@@ -387,7 +387,7 @@ Consequences, binding:
   neighbor for having been right, has no answer except fire.
 - **The punishment lands on the wrong person and the book refuses to point this out.** Caleb's arc (R-8) is a
   boy defending a household; Harper's is a man losing the barn he raised for having warned them. No speech for
-  Harper. A doorway in ch. 13, standing, with his sons — and one line in Act Four only if the pacing survives
+  Harper. A doorway in *The Burning*, standing, with his sons — and one line in Act Four only if the pacing survives
   it.
 - **Cast arithmetic, so nobody is invented twice:** Hoss Tyler **63** (b. ~1815), widower, one son in
   Tennessee (`INVENT`, unused unless a letter is needed); William Harper **60** (b. ~1819), four sons, no
@@ -397,7 +397,7 @@ Consequences, binding:
 ---
 
 *R-12 `AUTHOR` (2026-10-26) — the ending is diegetic print and nothing else: no author's note, no
-narrator's future tense.** After ch. 26 (which stops in 1881, per R-5), the book carries the reader past the
+narrator's future tense.** After the last chapter (which stops in 1881, per R-5), the book carries the reader past the
 date in **three documents only**, each in the voice of the institution that wrote it. This is the ruling that
 makes the epilogue's form the book's argument: the cove has no monument except an agent's filing.
 
@@ -450,57 +450,74 @@ dime-novel afterlife is documented, and that is what this is for.)
 
 ---
 
-## 12. Chapter map v0 — POV-tagged (drafted against R-4)
+## 12. Chapter map v1 — POV-tagged and dated (R-4, R-5, R-13)
 
-Twenty outline beats in, twenty-seven chapters out. A beat that needs two chapters gets two; a beat that
-is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Margaret.
+Twenty outline beats in, **28 chapters** out, numbered continuously across the book. Renumbered
+2026-10-26 when R-13 fixed the two term dates and moved *The Return* ahead of the surrender: Jacob is out
+of prison six months before his nephew walks into court, and the book is better with him home for it.
+"J" = Joshua, "M" = Margaret. **Cross-references in this file are by title from now on, not by number, so
+this table can be reordered without breaking them.**
 
-| # | Chapter (working object-title) | POV | Beat it comes from | What changes practically |
+**ACT ONE: THE THRESHOLD** · summer 1878 – February 1879
+
+| # | Chapter | POV | Beat | What changes practically |
 |---|---|---|---|---|
-| — | **ACT ONE: THE THRESHOLD** · summer 1878 – spring 1879 | | | |
-| 1 | The Water Is Right | J | The World Before | The cove's economy is established in weights and a jug carried to Tyler's. The still seen from the outside, working. |
-| 2 | Powder on the Ridge | J | (new, R-2) | Grading heard at night; a federal transit on the next ridge. The second chain-and-book front is planted before the first one is. |
-| 3 | The Office | J | The Arrival of the Excise | Parrish opens; he calls on the judge, the sheriff, the leading men — a meeting **Joshua attends and Harper attends** (Q-8). |
-| 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses. Under R-6/R-7 the last page is not about principle: it is his own mortgage, and the cart road that runs from his mill down onto his brother's wife's ground. |
-| 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know, at Joshua's mill, in Joshua's barn, because he is the man who feeds them. Under R-11 **Harper is in the room and says *don't*** — one sentence, short and quotable, because Act Two hands it back to him. Shown as a technique with rules, not as a mood. |
-| 6 | Gauger's Work | J | The Standoff Begins | Parrish measures the farm as legally as the still: a still in a barn makes the *land* the case (R-3). At chapter's end Tyler's day book is taken in a seizure and his written protest is what makes it evidence (R-11). He says nothing about the cove; he says something about his book. |
-| 7 | The Store Debt | J (Matthew in dialogue only) | The Temptation | **R-10's three asks in one chapter:** the day-book line Parrish causes to be written; the date Matthew gives and Parrish takes; the appointment not given, said once, in the passive voice, as a regret of the service. |
-| 8 | The Cold Still | **M** | End of Act One | R-10: the raid runs on the day Matthew named, the still is cold, nobody who matters is arrested — and Lish Councill is shot behind Harper's barn by a deputy identified only by number. Difficulty here is technical and welcome: the appraisers' inventory, item by item, in a house they are legally searching. |
-| 8b | The Notice | **M** | End of Act One | The libel names the property, not the man, and it is addressed in part to her interest (R-7). Act One ends on the notice, unanswered. |
-| — | **ACT TWO: THE WEIGHT OF IT** · 1879–1880 (retitled; "THE RECKONING" goes to Act Three) | | | |
-| 9 | The Empty Year | J | The Empty Year | Harvest without a distiller; the term list; two years of arithmetic started. |
-| 10 | Margaret's Book | **M** | (new, R-3/R-4/R-7) | She reads the posted notices because they name **her** freehold: the libel is against the tract, and the tract is hers. Her father's deed is in the same box as her accounts, and both become evidence. |
-| 11 | The Name | J | The Name | The cove learns who informed; Joshua is told; he does not say it. |
-| 12 | Johnson City | J | The Fall's aftermath | Matthew's injuries arrive as objects and a doctor's sentence. Under R-8 the beating was Caleb's work too, and Joshua has to look at both boys in one room and price neither. No interiority for Matthew, ever. |
-| 13 | The Burning | J | The Burning | **Harper's** barn, the storage ground, not the still ground: the raid destroys property the United States had a claim on, from the man who said *don't* in Joshua's barn (R-11). Parrish did not order it. Harper stands in the doorway with his sons and does not quote anyone. |
-| 14 | The Missing Page | J | The Network Spreads | Joshua reads what is not in the file: Parrish's unsigned order. **Proposed addition, awaiting ruling:** Parrish stops questioning Jacob and puts the knowledge question to *Joshua as owner in fee* — what was your brother doing under your roof — which is R-6's payoff and the book's legal center. `OPEN` |
-| 15 | First Blood | J | The First Blood | A deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
-| 16 | The Letters | J | Jacob's Letters + End of Act Two | Prison correspondence in two hands; Joshua's arrangement closes; the sentence's length is fixed. |
-| — | **ACT THREE: THE RECKONING** · 1880–1881 (ends autumn 1881 per R-5; no train) | | | |
-| 17 | "We End It." | J | The Plan / Caleb's line | Caleb organizes; Joshua watches and does not stop him. |
-| 18 | The Warning | J | The Network Spreads | The nod as policy. Joshua is now complicit in something he can price. |
-| 19 | The Ambush | J | The Ambush (partial) | Parrish is hit; the horse goes down; the deputies return fire. Long sentence for the mountain, then four-word declaratives. Wound and side pinned in §10. His reward for this is a letter asking him to explain it (R-9), which arrives four chapters later and is worse. |
-| 20 | The Search | **M** | The Manhunt | The house is searched. Margaret asserts standing the searchers must answer to. Offstage in this chapter: the first letter from the Department, seen as an envelope in Parrish's hand and nothing more. |
-| 21 | The Surrender | J | The Capture | Joshua decides what Caleb is worth to the cove and says the name he has spent the book keeping unspoken — his own son's, out loud, in the front of a room, as a piece of information. That is what the spine costs. |
-| 22 | The Term | J | (new, Q-10) | Statesville, third Monday in April; a rented courtroom; the schedule of a circuit. **Proposed insertion under R-9: the deposition, the chapter before this one or in its first third — Parrish must ask Margaret to save him, and she tells the truth.** `OPEN` |
-| 23 | Did She Know? | **M** | The Broader Tragedy / the trial | The government's real question, aimed at **Margaret**: knowledge and permission on her own ground (Stowell; *Dobbins* would not even require knowledge). Joshua's parcel is argued in as "connected." The hinge is what she chooses to say, and whether a privy-examination certificate surfaces. `OPEN` on the certificate lever |
-| 24 | The Return | J | Jacob's Release and Return | Two years out; the farm gone or halved (Q-4); the law is not cruel, it is complete. |
-| 25 | The Mill Sold | J | Joshua's End | He sells, he leaves; the only Brennan who dies where the streets have names. Under R-8 this is a father leaving the son he raised as his brother's, and neither says so: no look back at the cove, no message. |
-| 26 | The Far Side of the Ridge | J | (new, R-5) | The mill sold, the walk up, a blast from the wrong side of a ridge — and he does not go and look. The book stops there. No engine, no rails, no lesson. |
-| E1 | The Report | — (document) | Epilogue, ruled R-12 | Parrish to the Commissioner, 1882: the numbers, the burning "not ordered by me and not prevented," the uncashed order, and Lish Councill spelled right. One sentence of feeling, in the language of a man asking for a raise. |
-| E2 | The County History | — (document) | Epilogue, ruled R-12 | A paragraph of improvement-prose that gets the year wrong by two and names Caleb as the leader of nothing in particular. |
-| E3 | The Title Page | — (typography) | Epilogue, ruled R-12 | *Caleb Brennan, the Boy Bandit of the Blue Ridge* — four chapter titles, the last a lie. The book ends in typography, the only ending a novel with this rule is allowed. |
+| 1 | The Water Is Right | J | The World Before | The cove's economy in weights and a jug carried to Tyler's. The still seen working, from outside. R-4: we open on the corn, not on Jacob's hands. |
+| 2 | Powder on the Ridge | J | (new, R-2) | Grading heard at night; a federal transit on the next ridge. The second chain-and-book front planted before the first one is. |
+| 3 | The Office | J | The Arrival of the Excise | Parrish opens; calls on the judge, the sheriff, the leading men. Joshua and **Harper both attend** (R-11). |
+| 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses; the last page is his own mortgage and the cart road down onto his brother's wife's ground (R-6/R-7). The keeping-money ledger line goes in here, undrawn attention (R-8). |
+| 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know, at Joshua's mill. **Harper says *don't*** and is outvoted (R-11). |
+| 6 | Gauger's Work | J | The Standoff Begins | A still in a barn makes the *land* the case (R-3). **Tyler's day book is taken**; the written protest is what will make it evidence (R-11). |
+| 7 | The Store Debt | J | The Temptation | **R-10's three asks in one chapter:** the day-book line, the date, the appointment not given. |
+| 8 | The Cold Still | M | End of Act One | The raid runs on Matthew's day; the still is cold; **Lish Councill is shot behind Harper's barn**; then the notice, naming the property and her interest (R-10/R-7). Ends unanswered. |
 
-**Accounting (26 chapters):** Joshua 22 whole chapters plus the interior of the shared ones; Margaret 4
-whole (8, 10, 20, 23) — about 15% by count, which lands near the ruled ~20% by words only if her chapters
-run long, which they should: hers carry the paperwork. Measured by words at Pass 4, not by count. If it
-reads 85/15, give her the search of the house in Act One; do not take a chapter back from Joshua.
+**ACT TWO: THE WEIGHT OF IT** · March 1879 – December 1880
 
-**Movement this map invites:** ~~Q-2~~ decided 26 (R-5); Q-4 decides 8, 10 and 23; Q-8 decides whether 3 holds two old
-men; Q-9 decides 27; Q-10 decides 22. Nothing else here is contingent on an unanswered question, so Act
-One can be drafted now.
+| # | Chapter | POV | Beat | What changes practically |
+|---|---|---|---|---|
+| 9 | The Term, 1879 | J | (new, R-13) | **Statesville, term opened Monday 21 April 1879.** Jacob convicted; the statutory two years; the still sold for less than the iron was worth. A rented room — the United States had no courthouse in Asheville until 1892. Joshua watches the arithmetic be done in a language he half reads. |
+| 10 | The Empty Year | J | The Empty Year | Harvest without a distiller; the term list as the cove's almanac. "A year and more," never "about a year" (R-13). |
+| 11 | Margaret's Book | M | (new, R-3/R-7) | She reads the posted notices because the libel is against *her* tract. Her father's deed in the same box as her accounts. |
+| 12 | The Name | J | The Name | The cove learns who informed; Joshua is told; he does not say it. |
+| 13 | Johnson City | J | The Fall's aftermath | Matthew's injuries as objects and a doctor's sentence. The beating was Caleb's work too; Joshua looks at both boys and prices neither (R-8/R-10). |
+| 14 | The Burning | J | The Burning | **Harper's** barn — the storage ground — and the property the United States had a claim on, burned by the cove, over the objection of the man who said *don't*. Parrish did not order it (R-11). |
+| 15 | The Missing Page | J | The Network Spreads | Joshua reads what is not in the file. **Proposed, awaiting ruling:** Parrish stops questioning Jacob and puts the knowledge question to the owner in fee. |
+| 16 | First Blood | J | The First Blood | The deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
+| 17 | The Letters | J | Jacob's Letters + end of Act Two | Prison correspondence in two hands; the months counted in the ledger, not in thought. |
 
----
+**ACT THREE: THE RECKONING** · January 1881 – November 1881
+
+| # | Chapter | POV | Beat | What changes practically |
+|---|---|---|---|---|
+| 18 | "We End It." | J | The Plan / Caleb's line | Caleb organizes; Joshua watches and does not stop him. |
+| 19 | The Warning | J | The Network Spreads | The nod as policy. Joshua is complicit in something he can price. |
+| 20 | The Return | J | Jacob's Release and Return | **Released 21 April 1881** on the two years counted from the April 1879 term. He comes home to a house that has become the site of a second case, and to a wife who has been running it. The law is not cruel; it is complete. |
+| 21 | The Ambush | J | The Ambush (partial) | Parrish is hit; the horse goes down; the deputies return fire. Long sentence for the mountain, then four-word declaratives. The wound and the side are pinned. His reward is a letter, two chapters later. |
+| 22 | The Search | M | The Manhunt | The house on her freehold is searched; she asserts a standing the searchers must answer to. Offstage: the Department's first letter, seen as an envelope. |
+| 23 | The Deposition | M | (new, R-9 proposal) | **Parrish must ask Margaret to save him.** Her affidavit costs him the boy's name in his own report, and she takes the trade; one true sentence helps him and hurts the cove. |
+| 24 | The Surrender | J | The Capture | Joshua says the name he has kept unspoken, out loud, as a piece of information. Caleb gives himself to the court, not to the agent. |
+| 25 | The Term, 1881 | J | (new, R-13) | **Statesville, term opened Monday 17 October 1881.** The circuit, the hotel rooms, the marshal's fees, and the fact that a trial in this district is a schedule before it is a judgment. |
+| 26 | Did She Know? | M | The Broader Tragedy / the trial | Stowell and Dobbins aimed at the woman with the deed; Joshua's tract argued in as "connected." The hinge is one sentence she decides whether to say. **Proposed, awaiting ruling:** a clerk's missing privy-examination certificate surfaces here (R-7). |
+| 27 | The Mill Sold | J | Joshua's End | He sells and leaves; a father leaving the son he raised as his brother's, and neither of them says so (R-8). The only Brennan who dies where the streets have names. |
+| 28 | The Far Side of the Ridge | J | (new, R-5) | November 1881. A blast from the wrong side of a ridge, and he does not go and look. No engine, no rails, no lesson. |
+
+**THE EPILOGUE (R-12)** — documents only, no voice: *E1* the agent's 1882 report to the Commissioner ·
+*E2* a county history with the year wrong by two · *E3* a dime-novel title page. The fiction's present tense
+never crosses 1881, and the title page dates the war **1878–1881**.
+
+**Accounting (28 chapters):** Joshua 23 whole chapters; Margaret 5 (*The Cold Still*, *Margaret's Book*,
+*The Search*, *The Deposition*, *Did She Know?*) = 18% by count, which lands on the ruled ~20% of **words**
+because her chapters carry the paperwork and run long. Measured at Pass 4, never by count. If it reads
+85/15 in words, the fix is to lengthen *The Deposition*, not to take a chapter from Joshua.
+
+**Word math for the pitch:** 28 chapters × 3,200–3,500 = 89,600–98,000 words — inside the 85,000–100,000
+target with no filler owed.
+
+**What is still contingent:** *The Missing Page* (the knowledge question aimed at Joshua) and *Did She Know?*
+(the privy certificate) are **proposed, awaiting the author**; *The Term, 1879*, *The Deposition* and
+*The Term, 1881* exist because the rulings required them. Nothing else in this table depends on an
+unanswered question, so **Act One can be drafted now**.
+
 
 ## 2. Timeline
 
@@ -519,16 +536,18 @@ Real dates are what the fiction is measured against. Everything in the right col
 | Autumn 1878 | Raum-era crackdown in western NC ("moonshine war") `LEAD` | Parrish arrives in the town below the gap |
 | Winter 1878–79 | Raids on unconnected stills; two arrests | The standoff; the boy on the ridge |
 | Spring 1879 | — | Parrish turns to Matthew; the raids; Jacob arrested |
-| Summer–Fall 1879 | U.S. District Court term, WDNC `OPEN` (where, what month — see R-Q3 in audit) | Jacob sentenced: 2 years, U.S. v. Brennan |
+| **21 Apr 1879** | WDNC term **opens at Statesville** (3rd Monday in April) → R-13 | **Jacob convicted, two years:** U.S. v. Brennan. His release date is fixed now — 21 Apr 1881. |
 | Late 1879 / early 1880 | — | Harper's barn burned |
 | Sept 1880 | ET&WNC construction under way in earnest `LEAD`, dates contested | Blasting heard from the cove; men leave for the grade |
 | Early 1880 | — | The deputy ambushed on the road ("First Blood") |
 | Mid 1880 | — | Joshua tells Caleb the informant's name |
 | Late 1880 | — | The ride to Johnson City; Matthew beaten, exiled; Act Two closes on the ridge |
-| 1880–81 | Grant dies 27 Jul 1885 (far ahead); Garfield assassinated 2 Jul 1881 `LEAD` | Act Three: the ambush on Parrish; the manhunt |
+| 1880–81 | Garfield assassinated 2 Jul 1881; Arthur succeeds `LEAD` | Act Three: the ambush on Parrish (summer 1881), the manhunt, the deposition |
 | Aug 25 1881 | Redmond tried in Charlotte (8 liquor counts, 2 conspiracy counts; 10 yrs Auburn; $2,600) `LEAD` | The template for Caleb's case — see §6 |
 | 22 Aug 1881 | Track to Hampton, TN complete `LEAD` | The steel is now a day's walk away |
-| Late 1880–early 1881 | — | Jacob released; returns to a broken cove |
+| **17 Oct 1881** | WDNC autumn term opens at Statesville (R-13) | **Caleb tried** on the liquor counts, as Redmond was tried in August; convicted, two years, fine |
+| **Nov 1881** | — | The mill sold; Joshua leaves; a blast from the far side of the ridge. **End of the fiction's present tense (R-5).** |
+| **21 Apr 1881** | Two years, counted to the day (R-13) | **Jacob released.** He comes home mid-ambush, to a cove that kept on without him and a wife who has run the place |
 | Mid-June 1882 | ET&WNC reaches Elk Park `LEAD` | **Outside the fiction's present tense. Under R-5 the train never appears; this date may only be reached by a printed document (Q-9), or spoken of as a rumor of spring.** |
 | 3 Jul 1882 | Line opens to Cranberry; iron moves; company town begins | The world the tax could not reach is reached anyway |
 | 1895 | — | `INVENT` Jacob dies, never having distilled again |
@@ -589,7 +608,7 @@ not liable for her husband's debts. **RULED Q-4.** She is the only character who
 one whose knowledge is a legal question with an answer worth money — which makes her the person the trial is
 about. `INVENT` her father's name, the deed's date (suggest 1866–68, so it predates the war's paper
 confusion and postdates nothing that would cloud it), and whether the privy-examination certificate for any
-later dealing exists. `OPEN` whether the missing certificate is used as a plot lever (see §12 ch. 23).
+later dealing exists. `OPEN` whether the missing certificate is used as a plot lever (see *Did She Know?* at §12).
 
 **MATTHEW BRENNAN** — 19 in 1878 (b. ~1859), Jacob's son, raised as Caleb's brother (R-8). Informs; is
 exiled; is beaten to broken ribs and a broken arm in Johnson City; never returns. **RULED Q-7 → R-10: three
@@ -728,6 +747,49 @@ readjustment fight were all revenue fights. **Q-13: is the cove politically naiv
 politically shaped by what it lived through (a page and a half, and the whole book gets deeper)?**
 `OPEN`
 
+### R-13 · Where and when the cases are heard: **Statesville, on the real term dates, with the real judge named and never voiced**
+
+`AUTHOR` (2026-10-26), answering **Q-10** (Statesville with real term dates / an invented town / Statesville
+but the book skips it / a special commission sitting in the mountains).
+
+- **Statesville, and the book goes there.** The Circuit Court for the Western District of North Carolina sat
+  at Statesville on the **third Monday in April and the third Monday in October**, and it was the only
+  courthouse the district had: the United States did not build one in Asheville until **1892**. So every
+  federal case in these mountains was a trip of two ridges and a day and a half, heard in a rented room, on a
+  day fixed by statute years ahead. `LEAD` (term calendar from the NC Reports front matter; NC History Journal
+  on the district); the term-openers below are computed from that rule, not read off a printed calendar.
+- **The dates, now fixed for the whole book.** The spring term **opened Monday 21 April 1879** — that is
+  Jacob's conviction, two years, which is the statutory maximum for keeping a still without a bond, so his
+  **release is 21 April 1881**. The autumn term **opened Monday 17 October 1881** — Caleb's trial. The closing
+  chapters run to **November 1881** and the epilogue's documents to 1882, which puts the last page about
+  **seven months** before the rails reach Elk Park (mid-June 1882): "come spring" in *The Mill Sold* is
+  exactly right, and the train stays out by a margin small enough to feel like timing rather than authorship.
+- **What the calendar bought, in order.** (i) The term list becomes the cove's almanac: a mountain household
+  plans a wedding, a crop loan and a flight around the days court sits. (ii) The sentencing arithmetic closes
+  to the day, so the outline's "about a year left" can be fixed instead of fudged. (iii) It moved a chapter:
+  because Jacob is out in **April** 1881 and Caleb is tried in **October**, *The Return* now precedes
+  *The Surrender* — he comes home to a house that has become the site of a second case and to a wife who has
+  been running it, and then watches his nephew's trial from the gallery of a man who has already sat in that
+  room. The outline put the release after the capture; the statute said otherwise, and the statute wins.
+- **The one line in the outline to fix.** "He has about a year left in prison" → **"a year and more"** if the
+  chapter sits in the winter of 1879–80, or **"not half a year out"** if it sits in late 1880. Pin the
+  chapter's month first, then write the line. Do not write "about a year" and hope.
+- **Judge Robert Paine Dick is named, seated, and never given an invented word.** He held that bench from 1872
+  to 1898: a Unionist who left the bench when the war came, sat in the Confederates' legislature afterward, was
+  barred from the 1870 general assembly by the ironclad oath, and was put on the federal bench by Grant — the
+  living proof of the claim Act One is about. He is in the book the way the rest of the machinery is: **in the
+  docket heading, in the walk to the hotel, in what the cove says the court will and will not do.** No invented
+  line of dialogue in his mouth; no invented holding on his name. Anything the court rules is attributed to
+  "the court," and the wording is marked `INVENT` in `docs/period-audit.md`.
+- **Why not the alternatives.** An invented town would cost the audit trail and the whole R-4 premise — the
+  reader must be able to check this — and there is no plausible county seat to invent within a day's ride of a
+  Watauga hollow, because the county seats are all real. Skipping the court would hide the law's face at the
+  moment this book exists to show it, and would leave the sentences unanchored. A commission sitting in the
+  mountains is unconstitutional for a revenue case and reads as alternate history.
+- **The cost of the trip is a fact, not scenery.** Statesville is three days each way, with a hotel and a
+  horse to feed: in a cove that counts in cents, **someone has already priced going to court before anyone is
+  asked to go.** Put that arithmetic in the ledger, not in a speech.
+
 ---
 
 ## 8. Voice rules for *REVENUE* (additions to the Style Guide; the Guide still governs)
@@ -766,9 +828,9 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | ✅ RULED 2026-10-26 → **R-8**: Joshua's firstborn, given to Jacob's house in 1862 when Joshua enlisted; raised as Matthew's brother; never stated in the book |
 | Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | ✅ RULED 2026-10-26 → **R-9**: the Bureau audits him; the unsigned order becomes an exhibit in his own defense; the complaint closes without finding and he keeps the office |
 | Q-7 | Matthew's motive, concretely — and does he ever get paid? | ✅ RULED 2026-10-26 → **R-10**: the store, the day, the paper — granted, granted, refused; paid months late by an order returned "person unknown." It also pre-decides half of Q-8 (Tyler's day book is the exhibit) |
-| Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | ✅ RULED 2026-10-26 → **R-11**: both promoted; Tyler a creditor, not a Judas — his own protest authenticates the day book; Harper says *don't* in ch. 5 and loses his barn in ch. 13 for having been right |
+| Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | ✅ RULED 2026-10-26 → **R-11**: both promoted; Tyler a creditor, not a Judas — his own protest authenticates the day book; Harper says *don't* at the cove meeting and loses his barn for having been right |
 | Q-9 | Frame or no frame for the epilogue? | ✅ RULED 2026-10-26 → **R-12**: diegetic print only, three artifacts (report / county history / dime-novel title page), no author's note, no in-book accuracy apology; title-page date stays 1878–1881 |
-| Q-10 | Which federal court sits where, on what term date, in 1879? | Trial chapter |
+| Q-10 | Which federal court sits where, on what term date, in 1879? | ✅ RULED 2026-10-26 → **R-13**: the Circuit Court at Statesville, terms the 3rd Monday in April and October — Jacob convicted 21 Apr 1879 (released 21 Apr 1881), Caleb tried 17 Oct 1881; Judge Dick named, seated, never voiced |
 | Q-11 | Is "Whistlers" sourced or invented-and-owned? | Act Two network |
 | Q-12 | Which county is the cove — Watauga, Mitchell, or Caldwell? | Records, deed trail |
 | Q-13 | Reconstruction in or out? | Everything under the surface |
@@ -785,23 +847,30 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   "empty year" 1879–80. Act Three 1880–**1881** (R-5: the present tense stops in autumn 1881; 1882 is
   reachable only by report or by a printed epilogue).
 - **Distances** from §3, once set.
-- **Sentence arithmetic.** Jacob: 2 years from the 1879 term. Any "about a year left in late 1880" must
-  reconcile with the actual sentencing month **and** with credit — the outline's arithmetic does not
-  currently close. Fix after Q-10.
+- **Sentence arithmetic — CLOSED (R-13).** Convicted at the term that opened **21 April 1879**, two years,
+  so released **21 April 1881**. At the end of 1880 he has **four months and ten days** left; in January 1880,
+  fifteen. Any line about his time must match the month of its chapter (and see R-13's fix to the outline's
+  "about a year").
+- **The term calendar is load-bearing (R-13).** Terms opened at Statesville the third Monday in April and
+  October. Fixed here: **21 Apr 1879** (Jacob convicted), **17 Oct 1881** (Caleb tried). No verdict, notice,
+  deed or filing may be dated on a day the court was not sitting, and nothing in the cove's planning language
+  may contradict the term list.
+- **The trip is priced.** A sitting costs a mountain man three days each way, a hotel, and feed for the horse.
+  Put that arithmetic in a ledger line in any chapter that asks someone to go.
 - **Parrish's wound.** Hit in arm or leg (outline undecided) — pin side and limb; he is on the page
   afterward holding things differently.
 - **Two ambushes.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes. The killed
   deputy is **not** named Burns (real 1874 killing, WDNC — cite him, do not reuse him: R-9).
 - **Parrish's correspondence (R-9).** Three documents, dated, in the same hand: the Department's letter of
   inquiry (Act Three, arriving offstage in ch. 20), his answer (ch. 22), and the closing note "without
-  adverse finding" (ch. 26's world). Dates must be consistent with the Statesville term calendar (Q-10) —
-  he writes his answer *before* the sitting because the deposition is in it.
+  adverse finding" (1882, the world of the epilogue). The windows follow the term calendar (R-13): the
+  inquiry no earlier than the summer of 1881, the answer filed between the April and October sittings.
 - **The Caleb audit (R-8) — three planted facts, one per act, no statement.** (i) Act One, ch. 4: the
   ledger page with the boy's keeping-money, entered in Joshua's hand under a year that predates the mortgage.
-  (ii) Act Two, ch. 16 (or the chapter that passes through the house): Margaret's household accounts list
-  **two** boys' shoes in a year Jacob had none. (iii) Act Three, ch. 25: the deed by which Joshua sells the
+  (ii) Act Two, *Margaret's Book* (or any chapter that passes through the house): Margaret's household accounts list
+  **two** boys' shoes in a year Jacob had none. (iii) Act Three, *The Mill Sold*: the deed by which Joshua sells the
   mill reserves a right of way for "Caleb, my brother's son" — a phrase that means nothing to the clerk and
-  everything to the reader. If a reader assembles it before ch. 23, the planting worked; if the narration
+  everything to the reader. If a reader assembles it before *The Surrender*, the planting worked; if the narration
   ever explains it, cut the explanation, not the fact.
 - **The epilogue's three errors are fixed, and they are the only errors allowed to persist** (R-12). The
   county history's wrong year is **1877**, always, in every draft; the report spells **Elisha Councill**;
@@ -810,11 +879,11 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 - **The day book (R-11).** Two entries and their dates are fixed for the whole book: **"by order of the
   agent"** (in Tyler's hand, the day it happened, because he is the one who writes) and the **pair of boys'
   shoes** dated to a year Jacob had one child. Either one moving in date or wording shifts Act Three's
-  exhibit with it. Harper's *don't* is **one sentence, quoted back verbatim exactly once, in ch. 13** — if a
+  exhibit with it. Harper's *don't* is **one sentence, quoted back verbatim exactly once, in *The Burning*** — if a
   draft quotes it twice, cut the second.
 - **Lish Councill (R-10).** Fifteen, of North Fork, shot behind Harper's barn on the day Matthew named.
   Always **Lish** in the cove's mouths, **"a boy"** in the government's paper; the deputy who fired is
-  numbered, never named; the file's error is corrected only if the ch. 22 trade is played. One death per
+  numbered, never named; the file's error is corrected only if the trade at *The Deposition* is played. One death per
   side in this book — his, then the deputy's — and his comes first, which is what makes Act Two's restraint
   read as restraint rather than as authorial cowardice.
 - **POV ledger (R-4).** Every scene belongs to Joshua or Margaret. A scene that needs a fact only Jacob,
@@ -829,6 +898,14 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 ---
 
 ## 11. Change log
+
+- **2026-10-26 — Q-10 ruled → R-13.** Statesville and the real term calendar; 21 Apr 1879 / 21 Apr 1881 /
+  17 Oct 1881 / November 1881 fixed; Judge Dick named and unmouthed; the outline's "about a year left"
+  flagged for a one-line fix. **The chapter map was rebuilt as v1 with 28 chapters:** two added (*The Term,
+  1879*; *The Deposition*), *The Return* moved ahead of *The Surrender* because the release date precedes it,
+  the 8/8b split merged into one Margaret chapter, and every cross-reference in this file changed from a
+  chapter number to a chapter title, so the map can be reordered again without breaking anything. Act One is
+  now free to be drafted: none of its eight chapters depends on an unanswered question.
 
 - **v1 (2026-10-26).** Canon opened from `OUTLINE: REVENUE` plus `docs/research-gaps-and-questions.md`.
   Rulings R-1 (novel), R-2 (railroad into the book), R-3 (land-forfeiture engine) recorded as binding.

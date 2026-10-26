@@ -64,7 +64,10 @@ that is *not* a web search.
   **Watauga County Heritage** publications; the Rowell Bosse North Carolina Room (Wilkesboro) has the
   Lewis Redmond material.
 
-**Q-10 / R2 (court, term dates, sentences).**
+**Q-10 / R2 (court, term dates, sentences) — RULED as R-13; the archival pull that confirms it:**
+(a) the WDNC term calendar as printed in the NC Reports front matter for 1879 and 1881 (3rd Monday April and
+October, Statesville); (b) FJC's *Asheville, North Carolina [Courthouse]* page for the 1892 building.
+**Do not** rely on either for a sentencing date: pull the district court minute book, if filmed.
 - **National Archives at Atlanta (NARA)** — Records of the **U.S. District Court for the Western
   District of North Carolina**: district court minute books, civil/criminal case files, and the
   **internal revenue case files** for the 1870s–80s; also Records of the U.S. Marshal (WDNC) —

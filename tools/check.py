@@ -51,6 +51,8 @@ def parse_lexicon(path: Path):
             continue
         m = ROW.match(ln)
         if not m:
+            if ln.startswith("|") and ln.count("|") >= 3 and not ln.startswith("|---"):
+                print(f"  ! lexicon row not parsed in {src}: {ln[:72]}", file=sys.stderr)
             continue
         sev, pat, note = m.group(1).upper(), m.group(2).strip(), m.group(3).strip()
         try:
