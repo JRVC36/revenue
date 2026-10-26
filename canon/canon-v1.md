@@ -144,6 +144,42 @@ costs him nothing and therefore tells us everything. It also protects R-2 from t
 
 ---
 
+*R-6 `AUTHOR` (2026-10-26) — Joshua is the elder brother.** Joshua b. ~1828 (50 in 1878), Jacob
+b. ~1833 (45 in 1878). The outline's contradiction is resolved in favor of "older brother," not in favor
+of Jacob's number, because the birth order is load-bearing and the number is not.
+
+What the ruling actually bought, and why it is not a cosmetic fix:
+- **The elder inherited and mortgaged.** Joshua holds the farm in fee, encumbered; Jacob has no land of his
+  own to put a still on, so the still goes in **Joshua's** barn, on **Joshua's** acreage. The forfeiture
+  that R-3 aims at now lands on the spine POV's own deed. Joshua is not the man watching the law come for
+  his brother; he is the man the law comes for while it is there.
+- **The knowledge question gets a better target.** *Stowell*: the owner's land is forfeit if he "knowingly
+  has suffered or permitted" the distilling or connived at it. A neighbor's ignorance is plausible; **an
+  owner's is not**, and the owner is the man who keeps every account in the cove. Parrish's sharpest move
+  in Act Two is therefore to stop asking Jacob anything and start asking Joshua what his brother was doing
+  on his ground. `LEAD` on the doctrine; the scene is proposed at §12 (ch. 14), awaiting the author.
+- **The cove's central technique becomes illegal for exactly one man.** "Not knowing" is what the hollow
+  survives on, and it is a legal position — except for an owner in fee with a mortgage, who is *presumed* to
+  know what happens in his own barn. R-4 plus R-6 puts the whole book's thesis inside the POV character's
+  chest, which is what a spine ruling is for.
+- **The bond refusal, stated precisely, once, in Act One.** Distillers had to be owners in fee "free from
+  any mortgage, judgment, debt or lien whatsoever," and where a lien existed, **the written consent of every
+  lienholder** was required (Act of July 27, 1868, 15 Stat. 125, §8; `LEAD`, already at §5). So the lawful
+  path Jacob was shut out of was: *ask the creditor's signature for permission to make whiskey on your own
+  family's land.* Joshua says it flatly, in the mill, and the book never explains it again.
+- **Jacob's bible hook moves.** He is no longer the man who "stands on dirt he can prove." He is the man
+  standing on dirt his **brother** can prove — which is why he can be calm in Act One, and why the sentence
+  costs him nothing he personally owns, until it costs his brother everything.
+- **Margaret's standing is now genuinely open, not merely unaddressed.** She cannot hold dower in a farm her
+  husband never owned. Q-4 must answer either (i) she is joined in Joshua's deed or holds a debt against it,
+  (ii) her exposure and her power are both the **homestead exemption** rather than dower, or (iii) she acts
+  through the children. Q-4 is the next question.
+- **Ages fixed once, everywhere:** Joshua 50 (1878), Jacob 45, Margaret 40s, Matthew 19, Caleb 21, Parrish
+  35–40, Harper 60 (1879). `tools/check.py`'s age table carries these; the outline's "45–50" for Jacob is
+  closed.
+
+---
+
 ## 12. Chapter map v0 — POV-tagged (drafted against R-4)
 
 Twenty outline beats in, twenty-seven chapters out. A beat that needs two chapters gets two; a beat that
@@ -155,18 +191,18 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 1 | The Water Is Right | J | The World Before | The cove's economy is established in weights and a jug carried to Tyler's. The still seen from the outside, working. |
 | 2 | Powder on the Ridge | J | (new, R-2) | Grading heard at night; a federal transit on the next ridge. The second chain-and-book front is planted before the first one is. |
 | 3 | The Office | J | The Arrival of the Excise | Parrish opens; he calls on the judge, the sheriff, the leading men — a meeting **Joshua attends and Harper attends** (Q-8). |
-| 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses; the chapter spends its last page on the mortgage, not on the moral. |
+| 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses. Under R-6 the last page is not about principle at all: it is his own mortgage, and the fact that the still sits in *his* barn. |
 | 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know. Shown as a technique with rules, not as a mood. |
 | 6 | Gauger's Work | J | The Standoff Begins | Parrish measures the farm as legally as the still: a still in a barn makes the *land* the case (R-3). |
 | 7 | The Store Debt | J (Matthew in dialogue only) | The Temptation | Tyler's book, what Matthew owes, and what the informer law now actually promises (Q-7). |
 | 8 | The Notice | **M** ←was J | End of Act One | The libel names the property, not the man — and it is addressed in part to her interest. R-4/R-5 put the paper in Margaret's hands here so that Act Two's dower chapters have a root. Act One ends on the notice, unanswered. |
 | — | **ACT TWO: THE WEIGHT OF IT** · 1879–1880 (retitled; "THE RECKONING" goes to Act Three) | | | |
 | 9 | The Empty Year | J | The Empty Year | Harvest without a distiller; the term list; two years of arithmetic started. |
-| 10 | Margaret's Book | **M** | (new, R-3/R-4) | She reads the posted notices because they are about her dower. Her accounts become evidence (Q-4). |
+| 10 | Margaret's Book | **M** | (new, R-3/R-4) | She reads the posted notices because they name an interest that is hers — under what, Q-4 has to say since R-6 took the dower for granted. Her accounts become evidence. |
 | 11 | The Name | J | The Name | The cove learns who informed; Joshua is told; he does not say it. |
 | 12 | Johnson City | J | The Fall's aftermath | Matthew's injuries arrive as objects and a doctor's sentence; no interiority for him, ever. |
 | 13 | The Burning | J | The Burning | A barn the government would have had to litigate for is destroyed. Parrish did not order it. |
-| 14 | The Missing Page | J | The Network Spreads | Joshua reads what is not in the file. The institution's silence is the eloquent thing. |
+| 14 | The Missing Page | J | The Network Spreads | Joshua reads what is not in the file: Parrish's unsigned order. **Proposed addition, awaiting ruling:** Parrish stops questioning Jacob and puts the knowledge question to *Joshua as owner in fee* — what was your brother doing under your roof — which is R-6's payoff and the book's legal center. `OPEN` |
 | 15 | First Blood | J | The First Blood | A deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
 | 16 | The Letters | J | Jacob's Letters + End of Act Two | Prison correspondence in two hands; Joshua's arrangement closes; the sentence's length is fixed. |
 | — | **ACT THREE: THE RECKONING** · 1880–1881 (ends autumn 1881 per R-5; no train) | | | |
@@ -249,14 +285,17 @@ Real dates are what the fiction is measured against. Everything in the right col
 
 ## 4. Cast
 
-Ages are **as of the year the outline first sets them**. The outline's ages contain a contradiction:
-Joshua is 45 and described as Jacob's *older* brother while Jacob is "45–50." Resolved downward for
-Jacob. `OPEN` pending Q-3.
+Ages are **as of the year the outline first sets them**, and are fixed by **R-6** (2026-10-26): the
+outline's contradiction — Joshua 45 but "older brother" of a Jacob aged "45–50" — resolved in favor of the
+birth order. **Joshua is the elder: b. ~1828, 50 in 1878. Jacob b. ~1833, 45 in 1878.**
 
-**JACOB BRENNAN** — b. ~1831, so 47 in 1878. Distiller. Not a criminal in his own eyes and not a
-political animal. Competence shown only through the still: water, drainage, the placing of a garden.
-Engine consequence: his body is the libel's subject matter; the land he holds in fee is what is sued.
-`INVENT` the year of his father's death; `INVENT` whether he fought for the Union or hid. **Q-5.**
+**JACOB BRENNAN** — b. ~1833, so **45** in 1878 (R-6). Younger brother. Distiller on his elder brother's
+ground, which is the whole of his legal exposure and none of his self-image. Not a criminal in his own eyes
+and not a political animal. Competence shown only through the still: water, drainage, the placing of a
+garden. Engine consequence: the apparatus and his body are the libel's subject matter; **the land is
+Joshua's**, so the forfeiture falls on the family's oldest bond rather than on a deed in Jacob's name.
+`INVENT` the year of his father's death (see inheritance ask R-14); `INVENT` whether he fought for the
+Union or hid. `OPEN` Q-5.
 
 **MARGARET (Brennan, née ___)** — 40s in 1878. Wife, mother of the informer. **Currently the outline's
 greatest deficiency: 6 mentions against Parrish's 39.** Under R-3 she has an independent legal
@@ -276,7 +315,8 @@ son is he?** The outline never says. This is the best unwritten backstory in the
 Arc: hothead → organizer of the warning system → the man who decides the barn's burning is a line
 crossed → ambush → fugitive → conviction.
 
-**JOSHUA BRENNAN** — 45 in 1878. Miller and trader. Older brother (see ages above). Refuses to inform in
+**JOSHUA BRENNAN** — b. ~1828, so **50** in 1878 (R-6). Elder brother, heir to the farm, and the mortgagor
+of it: the fee the government can reach is his (R-3 + R-6). Miller and trader. Refuses to inform in
 Act One, refuses Caleb's intelligence request in Act Two, tells Caleb the informant's name anyway,
 shelters the fugitive, sells out and leaves. **The only man standing in both worlds and the only
 character who knows the informant's name and must decide whether to say it.** **Spine POV, ~80% — ruled
@@ -426,7 +466,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 |---|---|---|
 | Q-1 | **Whose spine?** | ✅ RULED 2026-10-26 → **R-4**: Joshua ~80%, Margaret ~20%. Chapter map is §12 |
 | Q-2 | Does Act Three extend to June 1882 so the first train is a final **image**, or does it arrive as **coda**? | ✅ RULED 2026-10-26 → **R-5**: neither — ends autumn 1881, train heard about, never seen. Subtitle date 1878–1881 |
-| Q-3 | Ages: is Jacob older than Joshua (b. 1831/1829) or is "older brother" wrong? | Continuity |
+| Q-3 | Ages: is Jacob older than Joshua (b. 1831/1829) or is "older brother" wrong? | ✅ RULED 2026-10-26 → **R-6**: Joshua is the elder (50), Jacob 45; the forfeitable fee is Joshua's; Margaret's standing reopens as Q-4 |
 | Q-4 | Does Margaret hold title, or dower, or nothing? Who can sign away the hollow? | Act Two, Act Three |
 | Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | Whole book's engine |
 | Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | Act One recruitment, ending |
@@ -443,6 +483,8 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 
 ## 10. Continuity anchors (linter-enforced; `tools/check.py`)
 
+- **Ages (R-6).** Joshua 50 (1878) · Jacob 45 · Margaret 40s · Matthew 19 · Caleb 21 · Parrish 35–40 ·
+  Harper 60 (1879). `tools/check.py` compares any parenthetical age in the manuscript against this list.
 - **Injury sides.** Matthew: broken ribs — *which side*; broken arm — *which*. Once set, never vary.
 - **Seasons elapsed.** Act One summer 1878 → autumn 1878 → winter 1878–79 → spring 1879. Act Two
   "empty year" 1879–80. Act Three 1880–**1881** (R-5: the present tense stops in autumn 1881; 1882 is

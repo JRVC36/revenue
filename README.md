@@ -66,9 +66,8 @@ knows what shape the book is in:
 
 1. **R-1 — It is a novel.** The outline's stage idiom is *translated*, not honored: settings become
    weather and labor, exits become bodies, the cast list's ages become debts and calluses.
-2. **R-2 — The railroad is in the book as approach.** Grading powder, a federal transit, men who walk
-   out for the grade. **No rails and no train before mid-1882** — and, per R-5, none at all: the novel stops in
-   autumn 1881 with the sound of powder off the far side of a ridge.
+2. **R-2 — The railroad is in the book as approach.** Grading powder, a federal transit, men who walk out
+   for the grade. **No rails and no train before mid-1882** — and, per R-5, none at all.
 3. **R-3 — The engine is forfeiture of the land, not the 90 cents.** The triable question is *did the
    neighbor know and permit*, not *does the distiller owe*. That makes the barn fire a crime against the
    government's own interest, makes the missing written order the eloquent page, and gives Margaret
@@ -76,8 +75,11 @@ knows what shape the book is in:
 4. **R-4 — Joshua is the spine (~80%), Margaret the secondary (~20%).** Two heads in the whole book;
    Parrish is never inside, so his turn has to be legible in what he writes and what he leaves out.
 5. **R-5 — The book ends in autumn 1881 and the train is never seen.** The final sound is powder off the
-   far side of a ridge, or a report of a date; a whistle would be an anachronism (Hampton was the rail
-   head in October 1881) and a picture would be a symbol, and both are refused on purpose.
+   far side of a ridge, or a report of a date; a whistle would be an anachronism (Hampton was the rail head
+   in October 1881) and a picture would be a symbol, and both are refused on purpose.
+6. **R-6 — Joshua is the elder brother and the owner in fee.** He inherited the farm and mortgaged it, so
+   the still sits in his barn and the forfeiture reaches his deed; an owner in fee is presumed to know, so
+   the man whose whole function is not-knowing is the one man who cannot plead it. Jacob 45, Joshua 50.
 
 ## Editing workflow
 

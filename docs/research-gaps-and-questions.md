@@ -282,6 +282,18 @@ this purpose.
 **If nobody can find it:** I default to (c) report + a generic blast, which is safe, and the audit row
 stays `NOTE`.
 
+### R-14 — Which son got the improved farm, and what did a mortgage look like there?
+
+**Why it exists now:** Q-3 was ruled as *Joshua is the elder and the heir* (canon R-6), which makes Joshua's
+fee the thing the government can forfeit and makes the **mortgagee** the quiet third party in the whole
+plot — because the 1868 act required every lienholder to consent in writing before a bond could issue. Two
+things I will not guess at: whether "eldest son inherits the cleared land, younger brothers take the side
+hollows" is a real pattern in the county we pick, and what instrument a mountain farmer actually signed in
+1870 (bond for title? a deed of trust to a merchant? a judgment?). *What I need back:* three or four
+mid-century probate and deed transitions in Watauga (or Mitchell/Caldwell, per Q-12) showing the improved
+place passing to a named eldest son, and one example of the form of the security a storekeeper took. If it
+is all beyond reach, `INVENT` it and the audit marks it `INVENT` with the date removed from the text.
+
 ## 3. Questions: direction, characters, style, voice
 
 ### Direction

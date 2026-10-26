@@ -81,13 +81,13 @@ BUILTIN = [
      "starts_with": [], "in_dialogue": False, "note": "scene break must be a bare '---' line; compile.py turns it into a centered asterism"},
     {"severity": "FLAG", "name": "age-drift",
      "pattern": re.compile(r"\b(Jacob|Joshua|Matthew|Caleb|Parrish|Harper)\b[^.]{0,40}?\(\s*(\d{2})\s*\)"),
-     "starts_with": [], "in_dialogue": True, "note": "age in prose must match canon §10 (resolve Q-3, then update the table)"},
+     "starts_with": [], "in_dialogue": True, "note": "age in prose must match canon §10 (R-6 fixed these; a parenthetical age is the outline's habit, not the novel's)"},
     {"severity": "NOTE", "name": "bare-age-in-prose",
      "pattern": re.compile(r"\b(?:aged|a man of|a woman of)\s+\d{2}\b"),
      "starts_with": [], "in_dialogue": True, "note": "ages are stage directions; convert to a fact about work or debt (canon R-1)"},
 ]
 
-CANON_AGES = {"Jacob": 47, "Joshua": 45, "Matthew": 19, "Caleb": 21, "Harper": 60}
+CANON_AGES = {"Joshua": 50, "Jacob": 45, "Matthew": 19, "Caleb": 21, "Harper": 60}  # R-6
 
 
 # --------------------------------------------------------------------------
@@ -191,7 +191,7 @@ def lint(relname: str, text: str, fmt: str, rules) -> list:
         for m in re.finditer(rf"\b{name}\b[^.\n]{{0,40}}?\((\d{{2}})\)", text):
             if int(m.group(1)) != age:
                 hits.append(Hit(relname, text[:m.start()].count("\n") + 1, "FLAG", "canon-age-table",
-                                m.group(0), f"canon §10 has {name} at {age} in 1878 — resolve Q-3"))
+                                m.group(0), f"canon §10 has {name} at {age} — R-6 is the ruling; move the fact, not the number"))
     return hits
 
 

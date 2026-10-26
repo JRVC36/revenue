@@ -38,7 +38,8 @@ draft · `NOTE` = already resolved, recorded so it doesn't drift back.
 | Tax rate | **90 cents on the proof gallon**, in force 3 Mar 1875 – 27 Aug 1894 | `LEAD` (TTB historical rates; Duke's *Cyclopedia of Industrial Products*, 1881, "remains up to the date of the present writing"). Rate is the same in every year of the book — do not let a character say it went up. |
 | Rate math | ~2.5 gal from a bushel of corn at ~25¢/bu → **the tax is roughly the whole value of the whiskey** | `LEAD`. Say it in corn and gallons, never in "the tax burden." |
 | Forfeiture | **the still, the apparatus, and all the real estate and premises connected with it**; *U.S. v. Stowell*, 133 U.S. 1 (1890): land is reached as to the distiller and to anyone who "knowingly has suffered or permitted"; *Dobbins' Distillery v. U.S.*, 96 U.S. 395 (1878): **a landlord forfeits though his tenant's fraud was unknown to him**; *Two Barrels Whiskey*: an unknowing mortgagee is protected | `LEAD`, cases read in part. This is R-3's engine. The 1868 act's own words: "all real estate and premises connected herewith." |
-| Registration was a property test | No distiller's bond unless the owner is **seised in fee simple, free from any mortgage, judgment, debt or lien whatsoever**, else the written consent of every lienholder, the United States' lien first (Act of 27 July 1868 §8, 15 Stat. 125) | `LEAD`. This answers the modern reader's "why not just register?" with a period answer that indicts the law: **a mortgaged mountain farm cannot legally be a lawful distillery.** |
+| Registration was a property test | No distiller's bond unless the owner is **seised in fee simple, free from any mortgage, judgment, debt or lien whatsoever**, else **the written consent of every lienholder**, the United States' lien first (Act of 27 July 1868 §8, 15 Stat. 125) | `LEAD`. This answers the modern reader's "why not just register?" with a period answer that indicts the law: **a mortgaged mountain farm cannot legally be a lawful distillery, and the only lawful path needed the creditor's signature** (canon R-6: the creditor is the man who also grinds their corn). |
+| Landlord's ignorance is no defense | *Dobbins' Distillery* (1878): the owner's land is forfeited even where the tenant's fraud was **unknown to him**; *Stowell* extends it to anyone who "knowingly has suffered or permitted … or has connived" | `LEAD`. Under R-6 this doctrine is aimed at the POV character himself, so the book must be scrupulous that a **presumption** is not a finding — the trial's drama is Joshua's status, not his secrets. |
 | No still in a dwelling | §12 of the same act forbids a still in a dwelling house or any connected shed/yard/enclosure | `LEAD`. Jacob's barn is not just shelter for a still; it is the thing that makes the whole farm liable. |
 | Bond and notice amounts | Distiller's bond $300; notice of intent to distill posted 10 days before, at the agent's office | `LEAD`, partial. Pin down the posted-notice form before printing the wording of a notice. |
 | Penalties | Distilling without a bond / with intent to defraud: **$1,000–$5,000 and 6 months–2 years** (Rev. Stat. §3281, re-enacted Act of 8 Feb 1875 §16, 18 Stat. 310); the 1868 act: **$500–$5,000 and 6 months–2 years**, and **books not produced → the land is forfeit** | `LEAD`. Jacob's "two years" is the statutory maximum: the sentence is not a judge's mood, it is a schedule. |
@@ -68,6 +69,16 @@ Full asks with "what I need back" in `docs/research-gaps-and-questions.md`; the 
     sound that is *also* true. `MINOR` (safe generic available) — **but it is the last sentence of the
     novel.** *What I need back:* Watauga County court minutes 1879–1882 for road overseers/contract
     blasting, and any 1881–82 newspaper notice of ET&WNC work north of Elizabethton. `OPEN` **R-13**.
+
+14. **Inheritance and deed practice in the candidate county, 1820–1865.** R-6 makes Joshua the elder who
+     inherited the improved farm and mortgaged it, while the younger brother keeps no land. That pattern
+     (eldest son takes the improved place, youngest moves to the side hollows, all of it arranged in the
+     county court rather than by statute) is the shape I expect to be true, but I have not verified it in
+     Watauga/Burke/McDowell deed books. `MINOR` for the fiction, `MAJOR` for the mortgage's date and the
+     lienholder's identity — which is now the man the book turns on. *What I need back:* two or three
+     probate/land transitions in the chosen county showing which son received the improved acres, and
+     whatever the mortgage instrument actually looked like there (merchant's bond, bond for title, deed of
+     trust). `OPEN` **R-14**.
 
 Secondary items: Thav (Avery Co. Museum), a 17-year-old's 1879 diet, an 1870s Asheville lawyer's fees and circuit, and
 the *Whiskey War in Alabama 1877–1885* (Bibb County) as structural comparison — including its "Regulator" revenge

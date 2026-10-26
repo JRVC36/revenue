@@ -9,7 +9,7 @@ prose style.** Same sentence architecture for everyone. What changes is what eac
 
 ---
 
-## Jacob Brennan · b. ~1831 · 47 in 1878 · distiller
+## Jacob Brennan · b. ~1833 · 45 in 1878 · distiller · the younger brother (R-6)
 
 **Notices:** water, grade, drainage, the sound a fire makes when the wood is wet. Weather as arithmetic,
 not mood. He reads a man by what the man does with his hands when he thinks no one is pricing him.
@@ -18,11 +18,13 @@ not mood. He reads a man by what the man does with his hands when he thinks no o
 independence, he wants the cove's consent.
 **Will not say:** that he knows the still's location is itself the offense, and chose it anyway.
 **Signature action:** fixes something that is not broken before he leaves a room.
-**Engine hook (§canon R-3):** he holds the fee. If he is convicted, the tract is the thing in the
-libel. Every scene of his should have the ground under it — literally. He stands on dirt he can prove.
-**Legal fact he cannot use:** he cannot register. Bond approval required an owner in fee unencumbered,
-and he is encumbered. This is not a theme. It is one line of dialogue from the miller, said flatly, in
-Act One, and then never explained.
+**Engine hook (§canon R-3 + R-6):** he owns nothing the libel can reach, which is why he is calm in
+Act One. The tract in the libel is **his elder brother's**. Every scene of his should still have the ground
+under it — literally — but the ground belongs to Joshua, and that is the fact Jacob never says out loud
+because saying it would mean admitting the cost of his own competence falls on somebody else.
+**Legal fact he cannot use:** he cannot register. Bond approval required an owner in fee *unencumbered*,
+and where there was a lien, every lienholder had to consent in writing — so the only lawful road ran
+through the mortgage holder's signature. One flat line from the miller in Act One, then never explained.
 **Cost he pays:** he is remembered as a man who did nothing.
 
 ## Margaret Brennan · 40s in 1878 · wife; mother of the informer
@@ -75,7 +77,7 @@ who then breaks his own rule at the barn fire. The tragedy is not rage. It is a 
 at the wrong conclusion by a sound path.
 **Q-5, unresolved and load-bearing:** whose son is he, and why "Father." Decide before drafting.
 
-## Joshua Brennan · 45 in 1878 · miller, trader · the brother in the middle
+## Joshua Brennan · b. ~1828 · 50 in 1878 · miller, trader · elder brother, owner in fee (R-6)
 
 **Notices:** ledgers, weights, water-power, and the credit terms of everyone in the cove — he is the
 only man in the book who knows what everything costs including loyalty.
@@ -85,6 +87,11 @@ the government has guns and paper.
 mortgage is the reason his "no" is expensive and Jacob's is not.
 **Signature action:** measures. He weighs the corn, he measures the toll, he measures how much he can
 carry before he is the man who carried it too far.
+**What R-6 did to him:** he inherited the farm and mortgaged it, so the still sits in *his* barn on *his*
+acreage, and the forfeiture R-3 aims at the land lands on the POV character's own deed. He is also the one
+man in the cove who cannot plead not knowing — an owner in fee is presumed to know what his tenant is doing
+under his roof, which is the doctrine, not a metaphor. His whole social function is to hold the hollow's
+secret; his legal position is that the secret is his.
 **Spine POV, ~80% (ruled: canon R-4).** He can enter both worlds, he is the only one who knows the
 informant's name and must decide whether to say it, his refusal is the book's thesis, and his
 compromise — sheltering Caleb — is the book's fall. His "gradual education" is the discovery engine the

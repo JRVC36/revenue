@@ -17,13 +17,15 @@ agreed to hide — and the law does not care whether she knew.**
 > The tax is ninety cents on the proof gallon. A bushel of corn makes two and a half gallons and costs
 > a quarter. That is the whole book in arithmetic.
 >
-> Jacob Brennan has a still in a barn his father raised, on land that is not entirely his — his wife
-> Margaret holds a dower in it, and the mortgage holds the rest, and a mortgaged farm cannot lawfully be
-> registered at all. When a revenue agent arrives with a list and a ledger, the cove does what it has
-> always done: it does not know. Joshua Brennan, who came home from the war a farmer and went into the
-> militia an officer, keeps the peace by keeping the books, and pays off the mortgage in installments he
-> never explains. Matthew, nineteen, wants out — and the government's own informer law has quietly
-> stopped paying informers, which he will learn after he has learned everything.
+> Jacob Brennan is the younger brother, and he has no land of his own: the still sits in his elder
+> brother's barn, on acreage mortgaged to the merchant who grinds the corn. A still on land with a lien on
+> it cannot be registered at all — the law required the creditor's written consent — so the only lawful
+> road was shut before anyone chose it. When a revenue agent arrives with a list and a ledger, the cove does
+> what it has always done: it does not know. The trick does not work on Joshua Brennan, because an owner in
+> fee is presumed to know what happens under his own roof, and he is the owner in fee. He came home from the
+> war a farmer and went into the militia an officer; he keeps the peace by keeping the books, and pays off
+> the mortgage in installments he never explains. Matthew, nineteen, wants out — and the government's own
+> informer law has quietly stopped paying informers, which he will learn after he has learned everything.
 >
 > By the time a barn burns, the question is not who owed the tax. It is whether the old man at the end
 > of the holler knew and let it happen, and whether a woman with a third of a farm can make the
