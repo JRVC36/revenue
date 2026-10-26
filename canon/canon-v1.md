@@ -235,6 +235,51 @@ Consequences, binding:
 
 ---
 
+*R-8 `AUTHOR` (2026-10-26) — Caleb is Joshua's firstborn, raised in Jacob's house.** He is not a
+nephew by courtesy: he is the elder brother's son, given to the younger. Every outline label survives
+literally — he is a Brennan, he is Jacob's nephew, he calls Jacob "Father."
+
+**The arrangement, in the order the family would give it and the order the cove gives it.** Joshua married
+in 1856; Caleb was born in 1857; his mother died in the spring of 1862, in childbed with a second child that
+did not live either — **that is why there are no other children, and it is why there was one to give.**
+Joshua enlisted that summer, a man with nowhere to be, and left the boy with the only household he trusted,
+his brother's. When the war ended and Joshua inherited the farm he had mortgaged before it, the boy stayed
+where he was, and the cove retold the reason: *the elder has the land and the younger has the son.* Both
+accounts are true, and the book should let them contradict. `INVENT` (the dates are arithmetic against the
+outline's ages, not a claim about the world; nothing here may be printed as history).
+
+Consequences, binding:
+- **Matthew and Caleb were raised as brothers, two years apart.** The informer and the man who hunts him
+  down are the same household. Act Two's beating in Johnson City stops being punishment for a crime and
+  becomes a brother's job, which is why the outline's "beaten by his own family" line is the best sentence
+  it has. Caleb does not beat Matthew because the cove ordered it. He does it because he was in the room and
+  they were both Brennans.
+- **Joshua's refusal in ch. 4 is now two facts that must never be joined in one sentence.** He refuses to
+  inform, and the page of the ledger he turns to is the one with the boy's keeping-money on it. The
+  narration must not connect them. The reader does it, in the second act, and feels like the first person to
+  notice — which is the pleasure this book should be built out of.
+- **Nobody says it. Not the narrator, not a hint, not once.** The relation is reconstructible from three
+  planted facts and no statement (see §10, "the Caleb audit"). If a draft ever has a character explain it,
+  the explanation goes.
+- **Margaret raised him.** Under R-7 the woman whose freehold the libel is aimed at is also the woman who
+  weaned the fugitive whose violence gave the government its reason to come. Her chapter-23 decision now
+  has two costs and only one of them is legal: testifying to save her father's land damns the boy she
+  fed. This is why "Did She Know?" is the right title for the trial chapter.
+- **Caleb's stake becomes literal.** He is heir to both properties and to neither — his father's mortgaged
+  farm, his mother-by-raising's freehold — which is what the outline means and does not know it means, in
+  "a 21-year-old with more at stake than the man whose name is on the still."
+- **The ending, which is what the ruling was really for.** Joshua sells the mill and leaves: a father
+  walking out on the son he raised as his brother's, into a town where streets have names. Do not let him
+  look back at the cove on the last page of ch. 25, and do not let Caleb learn where he went. The book's
+  one mercy is that the two of them never say it in the same room.
+- **Names, so the record is clear:** `INVENT` the mother as **Elsie Brennan (née Byrd)**, d. spring 1862,
+  dead before the book opens, given one object and no scene (a shawl in a cedar chest that the appraisers
+  list at forty cents in ch. 8 — the outline's seizure list already has to pass through that room; that is
+  where a mother belongs in this book). Joshua does not remarry. `OPEN`: whether Elsie's name is ever
+  printed at all (recommend: once, by Old Councill, in the wrong year, and nobody corrects him).
+
+---
+
 ## 12. Chapter map v0 — POV-tagged (drafted against R-4)
 
 Twenty outline beats in, twenty-seven chapters out. A beat that needs two chapters gets two; a beat that
@@ -255,7 +300,7 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 9 | The Empty Year | J | The Empty Year | Harvest without a distiller; the term list; two years of arithmetic started. |
 | 10 | Margaret's Book | **M** | (new, R-3/R-4/R-7) | She reads the posted notices because they name **her** freehold: the libel is against the tract, and the tract is hers. Her father's deed is in the same box as her accounts, and both become evidence. |
 | 11 | The Name | J | The Name | The cove learns who informed; Joshua is told; he does not say it. |
-| 12 | Johnson City | J | The Fall's aftermath | Matthew's injuries arrive as objects and a doctor's sentence; no interiority for him, ever. |
+| 12 | Johnson City | J | The Fall's aftermath | Matthew's injuries arrive as objects and a doctor's sentence. Under R-8 the beating was Caleb's work too, and Joshua has to look at both boys in one room and price neither. No interiority for Matthew, ever. |
 | 13 | The Burning | J | The Burning | **Harper's** barn, the storage ground, not the still ground: the raid destroys property the United States had a claim on. Parrish did not order it. |
 | 14 | The Missing Page | J | The Network Spreads | Joshua reads what is not in the file: Parrish's unsigned order. **Proposed addition, awaiting ruling:** Parrish stops questioning Jacob and puts the knowledge question to *Joshua as owner in fee* — what was your brother doing under your roof — which is R-6's payoff and the book's legal center. `OPEN` |
 | 15 | First Blood | J | The First Blood | A deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
@@ -265,11 +310,11 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 18 | The Warning | J | The Network Spreads | The nod as policy. Joshua is now complicit in something he can price. |
 | 19 | The Ambush | J | The Ambush (partial) | Parrish is hit. Long sentence for the mountain, then four-word declaratives. Wound and side pinned in §10. |
 | 20 | The Search | **M** | The Manhunt | The house is searched. Margaret asserts standing the searchers must answer to. |
-| 21 | The Surrender | J | The Capture | Joshua decides what Caleb is worth to the cove, and says so (he tells the name). |
+| 21 | The Surrender | J | The Capture | Joshua decides what Caleb is worth to the cove and says the name he has spent the book keeping unspoken — his own son's, out loud, in the front of a room, as a piece of information. That is what the spine costs. |
 | 22 | The Term | J | (new, Q-10) | Statesville, third Monday in April; a rented courtroom; the schedule of a circuit. |
 | 23 | Did She Know? | **M** | The Broader Tragedy / the trial | The government's real question, aimed at **Margaret**: knowledge and permission on her own ground (Stowell; *Dobbins* would not even require knowledge). Joshua's parcel is argued in as "connected." The hinge is what she chooses to say, and whether a privy-examination certificate surfaces. `OPEN` on the certificate lever |
 | 24 | The Return | J | Jacob's Release and Return | Two years out; the farm gone or halved (Q-4); the law is not cruel, it is complete. |
-| 25 | The Mill Sold | J | Joshua's End | He sells, he leaves; the only Brennan who dies where the streets have names. |
+| 25 | The Mill Sold | J | Joshua's End | He sells, he leaves; the only Brennan who dies where the streets have names. Under R-8 this is a father leaving the son he raised as his brother's, and neither says so: no look back at the cove, no message. |
 | 26 | The Far Side of the Ridge | J | (new, R-5) | The mill sold, the walk up, a blast from the wrong side of a ridge — and he does not go and look. The book stops there. No engine, no rails, no lesson. |
 | — | *Print* (optional epilogue) | — | Epilogue (Q-9) | If kept: paper only — a county history, a campaign pamphlet, or a dime-novel chapter titled for Caleb. Under R-5 this is the **only** place a date past 1881 may be printed, and the title page date follows it. `OPEN` |
 
@@ -380,18 +425,20 @@ ruin: he may inform to *pre-empt* worse for his father; he may be in debt at Tyl
 find Parrish's offer of a wage honest and take it. **Q-7: what does he do with the money, given that
 Washington decides whether he is paid at all?** `OPEN`
 
-**CALEB BRENNAN** — 21 in 1878. Jacob's nephew, and calls him "Father" in the prison scene. **Whose
-son is he?** The outline never says. This is the best unwritten backstory in the file: it is why a
-21-year-old has more at stake than the man whose name is on the still. `OPEN` Q-6.
-Arc: hothead → organizer of the warning system → the man who decides the barn's burning is a line
-crossed → ambush → fugitive → conviction.
+**CALEB BRENNAN** — 21 in 1878 (b. ~1857). **RULED Q-5 → R-8: Joshua's firstborn, raised as Jacob's
+son**, which keeps every outline label literally true — a Brennan, a nephew, "Father." Heir to his father's
+mortgaged farm and to Margaret's freehold, and to neither. Arc: hothead → organizer of the warning system →
+the man who decides that the burning of Harper's barn is a line crossed → the beating at Johnson City (his
+brother's work, and his) → ambush → fugitive → conviction → the mountain's own celebrity, which arrives
+through print (see the Redmond template, §5). Never told, never told twice: see §10's Caleb audit.
 
 **JOSHUA BRENNAN** — b. ~1828, so **50** in 1878 (R-6). Elder brother, heir to the farm, and the mortgagor
 of it: the fee the government can reach is his (R-3 + R-6). Miller and trader. Refuses to inform in
 Act One, refuses Caleb's intelligence request in Act Two, tells Caleb the informant's name anyway,
 shelters the fugitive, sells out and leaves. **The only man standing in both worlds and the only
 character who knows the informant's name and must decide whether to say it.** **Spine POV, ~80% — ruled
-Q-1 → R-4.**
+Q-1 → R-4.** And, under R-8, the father of the boy in his brother's house — the one fact about Joshua the
+book must make legible without ever once stating it.
 
 **WILLIAM PARRISH** — 35–40 in 1878. Federal revenue agent. Rifle, badge, orders. Courteous and
 reasonable within his institution (Style Guide §1.3) — **which the outline honors in Act One and
@@ -539,7 +586,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-2 | Does Act Three extend to June 1882 so the first train is a final **image**, or does it arrive as **coda**? | ✅ RULED 2026-10-26 → **R-5**: neither — ends autumn 1881, train heard about, never seen. Subtitle date 1878–1881 |
 | Q-3 | Ages: is Jacob older than Joshua (b. 1831/1829) or is "older brother" wrong? | ✅ RULED 2026-10-26 → **R-6**: Joshua is the elder (50), Jacob 45; the forfeitable fee is Joshua's; Margaret's standing reopens as Q-4 |
 | Q-4 | Does Margaret hold title, or dower, or nothing? Who can sign away the hollow? | ✅ RULED 2026-10-26 → **R-7**: her father's tract, in fee, as a married woman's separate estate — and the still sits on it. Dower and the homestead exemption are off the table; the privy-examination certificate is a device held in reserve |
-| Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | Whole book's engine |
+| Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | ✅ RULED 2026-10-26 → **R-8**: Joshua's firstborn, given to Jacob's house in 1862 when Joshua enlisted; raised as Matthew's brother; never stated in the book |
 | Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | Act One recruitment, ending |
 | Q-7 | Matthew's motive, concretely — and does he ever get paid? | Act One turn |
 | Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | Act One scene list |
@@ -567,6 +614,13 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 - **Parrish's wound.** Hit in arm or leg (outline undecided) — pin side and limb; he is on the page
   afterward holding things differently.
 - **Two ambushes.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes.
+- **The Caleb audit (R-8) — three planted facts, one per act, no statement.** (i) Act One, ch. 4: the
+  ledger page with the boy's keeping-money, entered in Joshua's hand under a year that predates the mortgage.
+  (ii) Act Two, ch. 16 (or the chapter that passes through the house): Margaret's household accounts list
+  **two** boys' shoes in a year Jacob had none. (iii) Act Three, ch. 25: the deed by which Joshua sells the
+  mill reserves a right of way for "Caleb, my brother's son" — a phrase that means nothing to the clerk and
+  everything to the reader. If a reader assembles it before ch. 23, the planting worked; if the narration
+  ever explains it, cut the explanation, not the fact.
 - **POV ledger (R-4).** Every scene belongs to Joshua or Margaret. A scene that needs a fact only Jacob,
   Caleb, Matthew, Harper or Parrish could supply must get it from an object, a report, or a silence — and
   the linter's `lex:other-heads-interiority` row will flag the draft when the discipline slips.
@@ -603,3 +657,10 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   R-16 (NC homestead exemption amount 1868–1882, and whether a state exemption could be opposed to the
   United States at all) — the first is now load-bearing, the second is the fact a reviewer will look up. |
   agent |
+
+| 2026-10-26 | **Q-5 ruled → R-8** (Caleb is Joshua's firstborn, given to Jacob's house in 1862). Rewrote
+  §4's Caleb and Joshua entries, added the "Caleb audit" three-clue anchor to §10, re-pointed map ch. 12,
+  21 and 25, and invented the mother (Elsie Brennan née Byrd, d. 1862 — one object, no scene). New research
+  ask **R-17**: whether intra-family "giving" of a child is documented in these counties and what legal
+  status a kept child had (guardianship dockets), because the book's central arrangement is now `INVENT`
+  and I would rather it be `INVENT` about something that happened. | agent |

@@ -316,6 +316,27 @@ only reason to research it is to be certain the book never implies a state exemp
 forfeiture. *What I need back:* one citation, or a sentence saying "the exemption was $___ then and did not
 bind the United States." `MINOR`.
 
+### R-17 — When a mountain family gave a child to a brother, is there any record of it?
+
+**Why it exists now:** Q-5 was ruled as *Caleb is Joshua's firstborn, raised as Jacob's son* (canon R-8).
+The arrangement is the book's quiet engine, and it is currently `INVENT` — I would like it to be `INVENT`
+about something that demonstrably happened. What I need back is not sentiment but paper: (i) **guardianship
+and orphan dockets** in the county court of sessions, 1860–1885 — a brother appointed guardian of a
+deceased or absent brother's child, or nothing at all where the child simply moved; (ii) **a deed, will, or
+estate settlement** where land or stock is left to a nephew who has been living in the household, or where
+a father's settlement names a child in another man's care; (iii) **1860/1870 census lines** where the same
+boy appears in a brother's household rather than his father's — that single comparison is the whole proof,
+and it is checkable in an afternoon; (iv) any 1870s county history, WPA ex-slave/WPA-adjacent oral collection,
+or church record that describes the practice in the mountains in the family's own words.
+
+**Why the census point (iii) matters most:** if a Watauga/McDowell family in 1870 shows an 8-year-old boy in
+an uncle's household with the father listed two doors down, I can print the arrangement as *typical* and stop
+apologizing for it in the author's note. If I cannot find it, the book still works — R-8 stands — but the
+audit marks it `INVENT` outright and I keep the arrangement off any character's explanation.
+
+**Also wanted while someone is in the same courthouse:** what legal standing a "kept child" had for
+inheritance absent a deed or a will — did mountain families write these things down at all?
+
 ## 3. Questions: direction, characters, style, voice
 
 ### Direction

@@ -40,6 +40,9 @@ actually knew **before** drafting ch. 8; the answer determines whether Act One i
 woman making a calculation with her husband's freedom priced against forty acres.
 **Signature action:** keeps the household's accounts in a book nobody else can read, and it turns out to
 be evidence.
+**Raised him (R-8).** She is the woman who took in her husband's nephew at five years old and did not
+hand him back after the war, which is the only act of refusal available to a woman with land and no
+attorney. Nobody in the book thanks her for it and nobody mentions it.
 **Engine hook (ruled: canon R-7):** she owns the ground the still stands on — her father's tract, held in
 fee as a married woman's separate estate, beyond her husband's creditors by the 1868 constitution. So she
 can *convey*, which is the one act no man in the book can perform for anyone, and the government's libel is
@@ -51,11 +54,15 @@ something — the posted notices, the search of the house, her own standing at t
 the grief chapters and she never gets a scene of her crying alone; her interiority is arithmetic and
 inventory, and it is allowed to include what a room costs to put back.
 
-## Matthew Brennan · 19 in 1878 · Jacob's son · the informant
+## Matthew Brennan · 19 in 1878 (b. ~1859) · Jacob's son · the informant · raised as Caleb's brother (R-8)
 
 **Notices:** prices, and other men's boots. He is the only character who looks at a man's shoes and
 knows what the man earns.
 **Wants:** to be elsewhere, and to be forgiven before he has done anything.
+**R-8's addition, and it is the whole of him:** he grew up two years behind a boy who was not his brother by
+blood and was his brother in every other way. When Caleb comes for him in Johnson City it is not the cove
+collecting a debt; it is the family doing what families do. Write the beating as a family affair and refuse
+the word.
 **Will not say:** that he went to Parrish first. He will let every man in the cove believe he was
 approached, because the truth makes him the author instead of the instrument.
 **Signature action:** calculates in his head out loud, then stops when he notices someone watching.
@@ -67,7 +74,7 @@ is less than what a season's corn brings. That is period-exact, it is funnier, a
 trap he can feel; wanting his father to be *saved* from a worse outcome by a raid he controls;
 the girl. Not "ambition."
 
-## Caleb Brennan · 21 in 1878 · Jacob's nephew · calls him "Father"
+## Caleb Brennan · 21 in 1878 (b. ~1857) · Jacob's nephew, Joshua's firstborn (R-8) · calls Jacob "Father"
 
 **Notices:** ground that hides a man. Positions. Who is unarmed. He is the only character whose
 attention is already tactical, which is why he becomes the danger.
@@ -81,7 +88,13 @@ decides everything.
 *does* learn — who builds the warning system, who forbids killing Matthew and keeps that promise, and
 who then breaks his own rule at the barn fire. The tragedy is not rage. It is a competent man arriving
 at the wrong conclusion by a sound path.
-**Q-5, unresolved and load-bearing:** whose son is he, and why "Father." Decide before drafting.
+**Ruled (canon R-8): he is Joshua's son, given to Jacob's house in 1862 when Joshua enlisted.** Every
+outline label stays literally true — a Brennan, a nephew, "Father" — and the reason he has more at stake
+than the man whose name is on the still is that he is heir to two properties and to neither.
+**How to play it:** he does not know. Or he has known since he was eight and it is a fact he carries without
+handling it, the way he carries a rifle. Do not choose the second; choose the first, and let the reader
+supply that the second is also true. His rage at the burned barn is a boy defending the only household he has
+ever been told is his, which is why the cove can trust him and why that trust is the tragedy.
 
 ## Joshua Brennan · b. ~1828 · 50 in 1878 · miller, trader · elder brother, owner in fee (R-6)
 
@@ -93,6 +106,13 @@ the government has guns and paper.
 mortgage is the reason his "no" is expensive and Jacob's is not.
 **Signature action:** measures. He weighs the corn, he measures the toll, he measures how much he can
 carry before he is the man who carried it too far.
+**R-8 is the fact about him that the book never says.** His firstborn is the second son in his brother's
+house; the boy's mother died in 1862 in the same childbed that took the second child; Joshua went to war
+that summer and came back to find the arrangement permanent. Everything Joshua does in the book — the
+refusal to inform, the sheltering of the fugitive, the sale of the mill, the leaving — is one continuous act
+about that boy, and no sentence in the manuscript is permitted to say so. The three planted facts are in
+canon §10 ("the Caleb audit"); the fourth is Joshua's silence when someone calls Caleb "your brother's boy"
+and does not correct himself.
 **What R-6 did to him:** he inherited the farm and mortgaged it, so the still sits in *his* barn on *his*
 acreage, and the forfeiture R-3 aims at the land lands on the POV character's own deed. He is also the one
 man in the cove who cannot plead not knowing — an owner in fee is presumed to know what his tenant is doing

@@ -96,6 +96,12 @@ Full asks with "what I need back" in `docs/research-gaps-and-questions.md`; the 
      whatever the mortgage instrument actually looked like there (merchant's bond, bond for title, deed of
      trust). `OPEN` **R-14**.
 
+17. **Documentary footing for R-8's child-giving** — guardianship and orphan dockets in the county court
+     of sessions 1860–1885; a deed or estate settlement leaving stock or land to a nephew living in the
+     household; and the cheapest test of all, an 1870 census line showing a boy in his uncle's household with
+     his father listed nearby. `MINOR` for the plot, `MAJOR` for the author's note, because the arrangement
+     is the book's silence and I do not want that silence to be a modern invention. See ask **R-17**.
+
 Secondary items: Thav (Avery Co. Museum), a 17-year-old's 1879 diet, an 1870s Asheville lawyer's fees and circuit, and
 the *Whiskey War in Alabama 1877–1885* (Bibb County) as structural comparison — including its "Regulator" revenge
 killing in Feb 1879, which is the likeliest real source of the outline's "Whistlers."
