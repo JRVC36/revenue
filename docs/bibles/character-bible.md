@@ -160,24 +160,35 @@ calls it a favor.
 precedent: *Burns's file was thinner than mine will be.* That is the only interiority he is allowed.
 **Never lets him:** rant. If he is angry, his handwriting gets smaller.
 
-## Old Hoss Tyler · 50s–60s · the store (Q-8: promote)
+## Old Hoss Tyler · 63 in 1878 (b. ~1815) · the store · a creditor, not a Judas (R-11)
 
 **Notices:** what a man will trade for salt in March versus October; the season's credit and the exact
 moment it goes bad. He is the market inside the barter world, and therefore the hinge.
-**Function to add:** Parrish's first purchase is not an informant, it is **a book** — Tyler's day book.
-The store's ledger is what makes knowledge provable under R-3, and Tyler has been keeping it for
-thirty years because he is not sentimental about flour.
-**Will not say:** that he has been owed money by every family in the cove and that the government,
-unlike them, can pay.
+**Ruled (canon R-11): he is promoted and he is not bought.** Parrish's first acquisition is not an
+informant, it is **a book** — the day book — and it is taken, not purchased. Tyler's response is the
+mechanism the book needs: he protests the taking in writing, and his protest is what authenticates the
+entries. A creditor protecting his property does the government's work for it, and does it with a straight
+face, because an entry made the day it happened is the difference between a debt and a grudge.
+**He is paid, which is not the same as corrupt:** the agent settles Matthew's debt with him at par, in coin,
+on the order of the United States. He is the only man in the hollow who collects twice on the same boy — once
+from the family, once from the government's willingness to spend public money to make a paper point.
+**Will not say:** that he has been owed money by every family in the cove and that the government, unlike
+them, can pay. He says this only in the way a man says it: by extending three of them and not the others.
 
-## William Harper · 60 in 1879 · the barn (Q-8: put him in the Act One meeting)
+## William Harper · 60 in 1879 (b. ~1819) · the barn · the man who said *don't* (R-11)
 
 **Notices:** standing timber, and what a structure means as a years-long act. His barn is a document.
 **Function under R-3:** he is the *knowledgeable bystander*. The government does not need to prove he
 distilled. It needs to prove he knew and let it happen — and the whole community's discipline of
 not-knowing is now a legal technique, not a moral virtue. He should have spent Act One learning how to
 not know.
-**The burning is then doubly a crime:** it destroys what the libel would have had to win in court.
+**Ruled (canon R-11): he is in the Act One meeting at Joshua's mill, and he says *don't*, and he is
+outvoted.** One sentence — short enough that Act Two can hand it back to him, and it will be quoted verbatim
+exactly once, in the chapter where his barn is burning. He does not say "I told you so"; the cove does not
+get to hear that sentence, and neither does the reader.
+**The burning is then doubly a crime:** it destroys what the libel would have had to win in court, and it is
+done to the one neighbor who was right. Being right is not a defense in this book; it is only a forecast.
+**His body language for the whole act:** a doorway, standing, sons behind him.
 
 ## The cove as a character
 

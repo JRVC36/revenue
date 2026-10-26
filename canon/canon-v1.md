@@ -356,6 +356,46 @@ a paper with his name on it — a clerk's place, a deputy's start, anything. **G
 
 ---
 
+*R-11 `AUTHOR` (2026-10-26) — both minor men are promoted, and Tyler is neither bought nor a traitor:
+he is a creditor.** The store's day book records the cove because a creditor's book always does. When Parrish
+needs it, nobody betrays anybody: the book is taken in a seizure, **Tyler protests the taking in writing, and
+his own protest is the instrument that puts the entries before the court** — the exhibit is authenticated by
+the man who wants it back. `OPEN` on the mechanism (ask **R-20**: how a day book was compelled or captured in
+a WDNC revenue matter, 1879–82, and whether a merchant's book was evidence of its own contents in a North
+Carolina court then).
+
+Consequences, binding:
+- **The only man in the hollow who profits twice on the same boy.** Parrish settles Matthew's debt with Tyler
+  at par, in coin, on the agent's order — so the storekeeper collects what no farmer can collect and keeps the
+  rest of the cove's accounts open. He is not corrupt; he is paid. That is the book's argument about paper,
+  delivered by a man who never does anything.
+- **He keeps his book honest on purpose.** An entry made in ink the day it happens is the difference between
+  a debt and a grudge, and Tyler knows it. Two lines of his are load-bearing later: the "by order of the
+  agent" line, and an entry the reader can price — a pair of boys' shoes, in a year Jacob had one child
+  (R-8's second planted fact, now housed in the store rather than in Margaret's book, which is better: the
+  cove's arithmetic is kept by the man who sells arithmetic).
+- **Harper goes into the Act One meeting as the man who says *don't*.** The outline has him in three mentions
+  and does not have him in the barn; R-11 puts him there, outvoted, saying one sentence short enough to be
+  quoted back at him in Act Two. Then the raid that kills Lish Councill happens on his ground, and the
+  burning that turns the cove from evaders into murderers is done to **the one neighbor who was right in Act
+  One** — which is how this book says what it has to say about being right: it is not a defense, it is only a
+  forecast.
+- **Harper's knowledge is the forfeiture's second target and the easier case.** He is not the man with the
+  freehold; he is the old man who let a still be moved under his own roof-beam, which under *Stowell* is
+  "suffered and permitted" and under *Dobbins* does not even require knowledge. Parrish's file needs **two**
+  owners — Margaret, Harper — and gets an argument from each; and the cove, which cannot prosecute its own
+  neighbor for having been right, has no answer except fire.
+- **The punishment lands on the wrong person and the book refuses to point this out.** Caleb's arc (R-8) is a
+  boy defending a household; Harper's is a man losing the barn he raised for having warned them. No speech for
+  Harper. A doorway in ch. 13, standing, with his sons — and one line in Act Four only if the pacing survives
+  it.
+- **Cast arithmetic, so nobody is invented twice:** Hoss Tyler **63** (b. ~1815), widower, one son in
+  Tennessee (`INVENT`, unused unless a letter is needed); William Harper **60** (b. ~1819), four sons, no
+  still, one barn at the junction road with a proper floor for storing. Both names come from the outline, and
+  neither is moved off its outline function — only onto the page.
+
+---
+
 ## 12. Chapter map v0 — POV-tagged (drafted against R-4)
 
 Twenty outline beats in, twenty-seven chapters out. A beat that needs two chapters gets two; a beat that
@@ -368,8 +408,8 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 2 | Powder on the Ridge | J | (new, R-2) | Grading heard at night; a federal transit on the next ridge. The second chain-and-book front is planted before the first one is. |
 | 3 | The Office | J | The Arrival of the Excise | Parrish opens; he calls on the judge, the sheriff, the leading men — a meeting **Joshua attends and Harper attends** (Q-8). |
 | 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses. Under R-6/R-7 the last page is not about principle: it is his own mortgage, and the cart road that runs from his mill down onto his brother's wife's ground. |
-| 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know, at Joshua's mill, in Joshua's barn, because he is the man who feeds them. Shown as a technique with rules, not as a mood. |
-| 6 | Gauger's Work | J | The Standoff Begins | Parrish measures the farm as legally as the still: a still in a barn makes the *land* the case (R-3). |
+| 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know, at Joshua's mill, in Joshua's barn, because he is the man who feeds them. Under R-11 **Harper is in the room and says *don't*** — one sentence, short and quotable, because Act Two hands it back to him. Shown as a technique with rules, not as a mood. |
+| 6 | Gauger's Work | J | The Standoff Begins | Parrish measures the farm as legally as the still: a still in a barn makes the *land* the case (R-3). At chapter's end Tyler's day book is taken in a seizure and his written protest is what makes it evidence (R-11). He says nothing about the cove; he says something about his book. |
 | 7 | The Store Debt | J (Matthew in dialogue only) | The Temptation | **R-10's three asks in one chapter:** the day-book line Parrish causes to be written; the date Matthew gives and Parrish takes; the appointment not given, said once, in the passive voice, as a regret of the service. |
 | 8 | The Cold Still | **M** | End of Act One | R-10: the raid runs on the day Matthew named, the still is cold, nobody who matters is arrested — and Lish Councill is shot behind Harper's barn by a deputy identified only by number. Difficulty here is technical and welcome: the appraisers' inventory, item by item, in a house they are legally searching. |
 | 8b | The Notice | **M** | End of Act One | The libel names the property, not the man, and it is addressed in part to her interest (R-7). Act One ends on the notice, unanswered. |
@@ -378,7 +418,7 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 10 | Margaret's Book | **M** | (new, R-3/R-4/R-7) | She reads the posted notices because they name **her** freehold: the libel is against the tract, and the tract is hers. Her father's deed is in the same box as her accounts, and both become evidence. |
 | 11 | The Name | J | The Name | The cove learns who informed; Joshua is told; he does not say it. |
 | 12 | Johnson City | J | The Fall's aftermath | Matthew's injuries arrive as objects and a doctor's sentence. Under R-8 the beating was Caleb's work too, and Joshua has to look at both boys in one room and price neither. No interiority for Matthew, ever. |
-| 13 | The Burning | J | The Burning | **Harper's** barn, the storage ground, not the still ground: the raid destroys property the United States had a claim on. Parrish did not order it. |
+| 13 | The Burning | J | The Burning | **Harper's** barn, the storage ground, not the still ground: the raid destroys property the United States had a claim on, from the man who said *don't* in Joshua's barn (R-11). Parrish did not order it. Harper stands in the doorway with his sons and does not quote anyone. |
 | 14 | The Missing Page | J | The Network Spreads | Joshua reads what is not in the file: Parrish's unsigned order. **Proposed addition, awaiting ruling:** Parrish stops questioning Jacob and puts the knowledge question to *Joshua as owner in fee* — what was your brother doing under your roof — which is R-6's payoff and the book's legal center. `OPEN` |
 | 15 | First Blood | J | The First Blood | A deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
 | 16 | The Letters | J | Jacob's Letters + End of Act Two | Prison correspondence in two hands; Joshua's arrangement closes; the sentence's length is fixed. |
@@ -523,15 +563,19 @@ distrust him.** Post-Whiskey-Ring Treasury wants clean convictions, not moieties
 and cannot be bought either. **His cost is ruled (Q-6 → R-9): the audit.** Never inside a head, so his cost
 is carried entirely in correspondence and in handwriting that does not change.
 
-**OLD HOSS TYLER** — storekeeper. Appears exactly once in the outline, yet runs the closed circuit the
-book is about to break: the place where a jug becomes flour, salt, tobacco, cloth, and therefore where
-a *price* — and therefore a tax — first becomes real. Obvious first man Parrish buys. **Q-9: promote
-or cut.** `OPEN`
+**OLD HOSS TYLER** — **63 in 1878** (b. ~1815), storekeeper at the junction. **RULED Q-8 → R-11: promoted,
+and neither bought nor a traitor — a creditor.** His day book is Act One's most important object and Act
+Three's exhibit, and he authenticates it by protesting its seizure. He is the only man in the hollow paid in
+coin by the agent's order, on the same boy's account, twice. Runs the closed circuit the book breaks: where a
+jug becomes flour, salt, tobacco, cloth — and where a price, and so a tax, first becomes real. He does not
+betray the cove. He keeps a book.
 
-**WILLIAM HARPER** — 60 in 1879. Owns the barn; not a distiller; part of the network. Under R-3 he is
-no longer a bit player: the entire moral turn of Act Two rests on whether **Harper knew**. One mention
-in 3,300 words is not enough to burn a man's life work. Proposed fix: put him in the Act One barn
-meeting as the old man who says *don't* and is outvoted. `OPEN` Q-9.
+**WILLIAM HARPER** — **60 in 1879** (b. ~1819), four sons, no still, one barn with a good floor at the
+junction road. **RULED Q-8 → R-11: he attends the Act One meeting and says *don't*, and is outvoted** — so
+the Act Two burning is done to the one neighbor who was right, and Lish Councill is killed on his ground. His
+knowledge is the forfeiture's easier case (*Stowell*: suffered and permitted; *Dobbins*: knowledge not
+required), and the cove cannot answer a man who was right except with fire. He gets no speech. He gets a
+doorway and his sons standing in it.
 
 **THE COVE.** `INVENT` ~12 distilling families; the boy on the ridge (name? — candidate: **Elisha "Lish"
 Councill**, 12); no Black families (contested — see §7 and Q-13); Baptist and Methodist meeting houses
@@ -666,7 +710,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | ✅ RULED 2026-10-26 → **R-8**: Joshua's firstborn, given to Jacob's house in 1862 when Joshua enlisted; raised as Matthew's brother; never stated in the book |
 | Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | ✅ RULED 2026-10-26 → **R-9**: the Bureau audits him; the unsigned order becomes an exhibit in his own defense; the complaint closes without finding and he keeps the office |
 | Q-7 | Matthew's motive, concretely — and does he ever get paid? | ✅ RULED 2026-10-26 → **R-10**: the store, the day, the paper — granted, granted, refused; paid months late by an order returned "person unknown." It also pre-decides half of Q-8 (Tyler's day book is the exhibit) |
-| Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | Act One scene list — **urgency raised by R-10**: Tyler's day book is the exhibit that proves knowledge, and **Harper's barn is where the boy dies** |
+| Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | ✅ RULED 2026-10-26 → **R-11**: both promoted; Tyler a creditor, not a Judas — his own protest authenticates the day book; Harper says *don't* in ch. 5 and loses his barn in ch. 13 for having been right |
 | Q-9 | Frame or no frame for the epilogue (author's note / fake print / ironic dime-novel voice)? | Last 10 pages |
 | Q-10 | Which federal court sits where, on what term date, in 1879? | Trial chapter |
 | Q-11 | Is "Whistlers" sourced or invented-and-owned? | Act Two network |
@@ -703,6 +747,11 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   mill reserves a right of way for "Caleb, my brother's son" — a phrase that means nothing to the clerk and
   everything to the reader. If a reader assembles it before ch. 23, the planting worked; if the narration
   ever explains it, cut the explanation, not the fact.
+- **The day book (R-11).** Two entries and their dates are fixed for the whole book: **"by order of the
+  agent"** (in Tyler's hand, the day it happened, because he is the one who writes) and the **pair of boys'
+  shoes** dated to a year Jacob had one child. Either one moving in date or wording shifts Act Three's
+  exhibit with it. Harper's *don't* is **one sentence, quoted back verbatim exactly once, in ch. 13** — if a
+  draft quotes it twice, cut the second.
 - **Lish Councill (R-10).** Fifteen, of North Fork, shot behind Harper's barn on the day Matthew named.
   Always **Lish** in the cove's mouths, **"a boy"** in the government's paper; the deputy who fired is
   numbered, never named; the file's error is corrected only if the ch. 22 trade is played. One death per
@@ -766,3 +815,10 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   anchor to §10 and fixed `docs/period-audit.md` §7, which had carried three character names imported from
   the sibling project — Asa, Eudy and Frank do not exist in this outline. New ask **R-19** (whether a
   discretionary informer allowance could be fixed and go uncashed, and how the order was drawn). | agent |
+
+| 2026-10-26 | **Q-8 ruled → R-11** (both minor men promoted; Tyler a creditor, not a Judas). Moved R-8's
+  second planted clue out of Margaret's accounts into Tyler's day book, which is where arithmetic is kept in
+  this book; put Harper in ch. 5 and made ch. 13 the price of his being right; rewrote both cast entries with
+  ages (`INVENT`: Tyler 63 b. ~1815, widower, one son in Tennessee; Harper 60 b. ~1819, four sons); added the
+  day-book and single-quoted-*don't* anchors to §10. New ask **R-20**: how a merchant's day book reached
+  evidence in a WDNC revenue matter, 1879–82, and whether NC law let a book speak for itself. | agent |

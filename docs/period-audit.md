@@ -43,6 +43,7 @@ draft · `NOTE` = already resolved, recorded so it doesn't drift back.
 | No still in a dwelling | §12 of the same act forbids a still in a dwelling house or any connected shed/yard/enclosure | `LEAD`. Jacob's barn is not just shelter for a still; it is the thing that makes the whole farm liable. |
 | Bond and notice amounts | Distiller's bond $300; notice of intent to distill posted 10 days before, at the agent's office | `LEAD`, partial. Pin down the posted-notice form before printing the wording of a notice. |
 | Penalties | Distilling without a bond / with intent to defraud: **$1,000–$5,000 and 6 months–2 years** (Rev. Stat. §3281, re-enacted Act of 8 Feb 1875 §16, 18 Stat. 310); the 1868 act: **$500–$5,000 and 6 months–2 years**, and **books not produced → the land is forfeit** | `LEAD`. Jacob's "two years" is the statutory maximum: the sentence is not a judge's mood, it is a schedule. |
+| A creditor's book as evidence | R-11 has the day book **taken in a seizure** and made evidence by the owner's own written protest. Whether that is how a merchant's book reached a federal court in 1879–82 (subpoena duces tecum vs. seizure vs. witness-plus-book), and whether NC law let a trader's day book speak for its own contents, is **unverified** — ask **R-20** | `OPEN`/`MAJOR`: the hinge of the trial chapter. Fix if unanswered: demote exhibit to testimony (Tyler reads the entry from his own desk), which is weaker but safe |
 | Informer money | **Moieties repealed** for claims accruing after 1 Aug 1872; payments thereafter were **discretionary** by the Commissioner with the Secretary of the Treasury's approval, capped at one moiety and $5,000 per case, and **no right vested until the money was fixed and paid** | `LEAD` (Syllabus by the Court; *United States v. Morris*, 26 F. Cas. 1323). This is why Matthew's "he wasn't paid" is period-correct — and it must be written as the *system's* lie, not as one white man's: the law changed six years before Matthew was born into it. |
 | The pardon | A **blanket federal pardon** in 1878 for revenue offenses; many kept distilling anyway; *Tennessee v. Davis*, 100 U.S. 257 (1879) on federal enforcement jurisdiction | `LEAD`. Act One's "prohibition failed / the pardon failed" beat is real. |
 | Violence scale | WDNC: **Deputy Marshal W. Burns shot in the back from ambush, 13 Apr 1874**; **C. B. Brockus killed 14 Feb 1893** in a prison rescue — that is the district's toll in a decade and a half. Nationally ~**25 agents killed 1876–80** (~6/yr) against ~20/yr deputy marshals dying in the West. | `LEAD` (US Marshals Service history; counts via secondary). **Used to deflate Act Three, not inflate it:** our book's murder is the *unusual* event, and the marshal's response is paperwork because paperwork is what the Bureau had. |
@@ -96,6 +97,10 @@ Full asks with "what I need back" in `docs/research-gaps-and-questions.md`; the 
      probate/land transitions in the chosen county showing which son received the improved acres, and
      whatever the mortgage instrument actually looked like there (merchant's bond, bond for title, deed of
      trust). `OPEN` **R-14**.
+
+20. **How a day book became evidence** — see the long version in `docs/research-gaps-and-questions.md`
+     (R-20). `MAJOR`: it is the hinge of the trial chapter under R-11, and the fix if unanswered is written
+     there (demote exhibit to testimony).
 
 19. **Could a discretionary informer's allowance be fixed and then go uncashed, and how was it drawn?**
      R-10 ends Matthew's arc with a Treasury order returned "person unknown," which is `INVENT` sitting on

@@ -373,6 +373,30 @@ mountain novel, so I need the plumbing:
 
 `MINOR` for the plot, `MAJOR` for the last sentence of Matthew's arc.
 
+### R-20 — How did a storekeeper's day book get to be evidence, in 1879?
+
+**Why it exists now:** Q-8 was ruled as *Tyler is a creditor, not a traitor; the book is taken and his own
+protest authenticates it* (canon R-11). That is a mechanism, and mechanisms are the one place this book is
+not allowed to be loose. What I need back:
+
+* In a WDNC internal-revenue matter 1879–82, was a third party's book reached by **subpoena duces tecum**
+  from the court, by **seizure under a commissioner's warrant**, or only by producing witness + book
+  together? If you can find one docket entry or one newspaper account of a seizure of papers, that is
+  enough to draft the scene from.
+* **North Carolina law on books of account** in this period — the state's courts were famously restrictive
+  about a trader charging himself from his own book; what made a day book admissible against a third party
+  (entry in the regular course, no interest in the event, the keeper called to swear to it)?
+* What a protest over seized papers looked like: to whom was it addressed (the judge, the marshal, the
+  District Attorney), and would a clerk's refusal to return the book have been an actionable matter at all in
+  a mountain county, or a letter that simply went unanswered?
+* While there: whether the store could be compelled to produce a **copy** rather than the original, because
+  if the original leaves Tyler's desk for a term, Act Two has a hole in it and I want to decide that on
+  purpose rather than find it in proofreading.
+
+**What I will do if it cannot be found:** demote the exhibit to testimony — Tyler reads the entry aloud from
+his own desk, which is dramatically weaker (no object in the room) but legally safe, and I would log the
+change here so the trial chapter's staging reflects it.
+
 ## 3. Questions: direction, characters, style, voice
 
 ### Direction
