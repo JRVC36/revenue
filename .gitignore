@@ -1,0 +1,10 @@
+# builds are generated; dist/ is what gets synced to Drive, never committed
+dist/
+
+# raw Google Docs exports: provenance, not working text
+google_drive/
+
+# tool droppings
+__pycache__/
+*.pyc
+.DS_Store
