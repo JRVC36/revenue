@@ -24,7 +24,7 @@ canon/
 docs/
   author-style-guide.md           standing craft rules (verbatim from Drive; repo copy wins)
   outline-v1-verbatim.md          the outline as written in Drive, unaltered, with line numbers
-  research-gaps-and-questions.md  the research asks handed back to the author (17 asks, 23 questions)
+  research-gaps-and-questions.md  the research asks handed back to the author (18 asks, 23 questions)
   period-audit.md                 verification ledger: every year, law, and object the book prints
   pitch-and-blurb.md              one line, paragraph, genre promise, blurb
   beta-reader-note.md             the one-page questionnaire sent with partials
@@ -85,6 +85,10 @@ knows what shape the book is in:
    reach — and why the trial is about her knowledge rather than his debt. It also corrected R-6: the barn is
    on her freehold, adjoining Joshua's mortgaged farm, and the government's second move is to argue that
    those two places are one place.
+9. **R-9 — What Parrish pays is an audit of himself.** The Department asks him why a barn the United States
+   had a claim on was burned; both honest answers end him, he writes the second one in his fair hand, and the
+   complaint closes without adverse finding. Because R-4 keeps us out of his head, his whole cost is carried
+   in paperwork — and the last thing he does in the book is shut a file.
 8. **R-8 — Caleb is Joshua's firstborn**, given to Jacob's house in 1862 when Joshua enlisted and the boy's
    mother died. The informer and the man who comes for him were raised as brothers; nobody in the book says
    any of it, and three planted facts (`canon §10`, the "Caleb audit") carry the whole arrangement without a

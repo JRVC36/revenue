@@ -337,6 +337,23 @@ audit marks it `INVENT` outright and I keep the arrangement off any character's 
 **Also wanted while someone is in the same courthouse:** what legal standing a "kept child" had for
 inheritance absent a deed or a will — did mountain families write these things down at all?
 
+### R-18 — Could the Treasury make a revenue agent answer for a burned barn, in 1881?
+
+**Why it exists now:** Q-6 was ruled as *the Bureau audits Parrish* (canon R-9), and that ruling is the
+antagonist's entire cost, so it is the one invented institution in the project that has to be real. What I
+need back, in order of usefulness: (i) the **Commissioner of Internal Revenue's annual reports 1876–1883**
+with anything about the Western District of North Carolina in them — casualties, "difficulty of enforcement
+in that portion of the State," agents removed; (ii) whether an agent's conduct was inquired into by the
+Commissioner, by the district attorney, or only by the local officer, and whether suspension pending
+inquiry was possible at all in 1881; (iii) the **form** of the correspondence — a printed circular, a letter
+"Sir, I have the honor to…", a numbered telegraphic instruction — and one example to copy; (iv) the
+Secretary's name across the window (Boutwell 1876–77, Richardson 1877–79, **William Windom 1879–81**,
+Folger 1881–84) so the signature block on the letter is right.
+
+**What I will do if it cannot be found:** keep the inquiry but move it to where the period certainly did put
+it — **the district attorney and the federal marshal's paper, not Washington's** — which weakens the
+institutional chill by one degree and changes nothing else about R-9.
+
 ## 3. Questions: direction, characters, style, voice
 
 ### Direction

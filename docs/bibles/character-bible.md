@@ -139,9 +139,19 @@ wanted it personally, and he will not examine that.
 book-closing; he never takes notes on a man's face.
 **Reasonable-antagonist discipline (§1.3):** he is courteous, patient, and correct within his
 institution. He does not burn the barn. He also does not stop them, and the missing written order is
-the most eloquent page in Act Two. Give him a cost (Q-6): a promotion that is a demotion — a bigger
-territory, a killed deputy named Burns he had to write up, and a wife in Morganton who has stopped
-asking when.
+the most eloquent page in Act Two.
+**His cost (ruled: canon R-9) is that the order becomes an exhibit in his own defense.** The Department
+writes to ask why a raid was fought with hired men and why a barn the United States had a claim on was
+burned. Both honest answers ruin him — *I did not order it* ends his authority; *it was necessary* admits
+the government destroyed property it was seizing — and he writes the second one in that same fair hand.
+The complaint closes without adverse finding, the promotion is a footnote, and the last thing he does in the
+book is shut a file.
+**The document he has to produce is a woman's word:** he needs an affidavit that the fire was not ordered,
+and the only person who can give it is Margaret, which is how he ends up asking the woman he is dispossessing
+to save his career (proposed ch. 22). She tells the truth. It helps him, hurts the cove, and neither of them
+calls it a favor.
+**Never:** the killed deputy named Burns — real, 1874, WDNC. He may *cite* Burns once, the way a man cites a
+precedent: *Burns's file was thinner than mine will be.* That is the only interiority he is allowed.
 **Never lets him:** rant. If he is angry, his handwriting gets smaller.
 
 ## Old Hoss Tyler · 50s–60s · the store (Q-8: promote)

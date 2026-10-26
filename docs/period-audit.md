@@ -54,6 +54,7 @@ draft · `NOTE` = already resolved, recorded so it doesn't drift back.
 | A married woman's land was her own | NC Const. 1868, Art. X §6: property owned before marriage "shall be and remain the sole and separate estate and property of such female, and shall not be liable for any debts, obligations, or engagements of her husband," devisable/conveyable "as if she were unmarried" (with the husband's written assent) | `LEAD` — quoted in *Perry v. Stancil*, 237 N.C. 442 (1953), which recites the 1868 text; **pull the constitution itself and the 1868–69 implementing act before printing a line of the clerk's dialogue.** This is the foundation of R-7. |
 | A wife's conveyance required a privy examination | For a homestead deed, "no deed made by the owner of a homestead shall be valid without the voluntary signature and assent of his wife, signified on her private examination according to law" (NC Const. 1868, Art. X, homesteads and exemptions); a married woman's separate examination was the mechanism for barring dower as well | `LEAD` (1868 constitution as printed in the 1868 pamphlet; the rule survived until 1945 — G.S. 47‑14.1 repealed the privy examination for instruments after 7 Feb 1945, which confirms it was live in 1878). **Held in reserve as a plot device: a missing certificate.** |
 | Dower was *restored* in 1868 | North Carolina limited dower to land the husband owned at his death from 1784; the 1868 constitution returned to the common-law measure (land owned at any time during the marriage), which is why relinquishment had to be pleaded and certified again | `LEAD` (secondary legal-genealogy survey; **needs the session-law cite before the word "dower" appears in the manuscript at all**) — R-7 makes dower unnecessary to the plot, so if the cite cannot be found, do not print it |
+| The Bureau policing its own agents | After the Whiskey Ring broke in 1875 the Treasury under Raum (from Aug 1876) pursued agents as well as distillers; the supervisors of internal revenue whose patronage had made the Ring possible were abolished by the Civil Service Act of 1883 | `LEAD`. The **1876–82** mechanics of an inquiry into an agent are what R-9 depends on: verify ask **R-18** before drafting the letter, because a Department that could not yet remove a man at will is a different antagonist than one that could. |
 | State exemptions vs. the United States | The modern rule is categorical ("No provision of a State law may exempt property… from levy for the collection of any Federal tax"), and the 1880–81 Supreme Court holding behind it is generally cited for the proposition that a state homestead exemption cannot be set up against a federal judgment | `LEAD`/unverified for the 1878–81 form. **Q: does it belong in the book at all?** Under R-7 Margaret does not need an exemption argument — so keep this out of the trial chapter unless the citation is found (ask R-16) |
 | Cask marks | heads and hoops branded "U.S."; "A" stamped on a tierce, "B" on a hogshead; rectifiers' and dealers' bonds $2,000; retail-dealer bond $100 | `LEAD`. Good texture; only print a mark we can say why a character notices it. |
 
@@ -96,6 +97,15 @@ Full asks with "what I need back" in `docs/research-gaps-and-questions.md`; the 
      whatever the mortgage instrument actually looked like there (merchant's bond, bond for title, deed of
      trust). `OPEN` **R-14**.
 
+18. **The Commissioner of Internal Revenue's annual reports, 1876–1883, for the Western District of North
+     Carolina** — whether the Department inquired into agents' conduct in these terms, on what paper, with
+     what result, and whether an agent could be suspended pending such an inquiry. R-9 makes a Treasury
+     complaint the antagonist's whole cost, so this is now the mechanism I have invented most confidently and
+     verified least. The reports themselves are printed, serial, and (I believe) digitized by both GPO and
+     Hathi — this should be a two-hour job, not a research project. `MAJOR`. *What I need back:* whether a
+     revenue agent in 1881 was required to answer a written inquiry from the Commissioner, to whom the reply
+     went, and what "closed without adverse finding" would actually have said; one example letterhead or
+     form of address to copy. `OPEN` **R-18**.
 17. **Documentary footing for R-8's child-giving** — guardianship and orphan dockets in the county court
      of sessions 1860–1885; a deed or estate settlement leaving stock or land to a nephew living in the
      household; and the cheapest test of all, an 1870 census line showing a boy in his uncle's household with

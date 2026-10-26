@@ -280,6 +280,45 @@ Consequences, binding:
 
 ---
 
+*R-9 `AUTHOR` (2026-10-26) — Parrish's cost is an audit: his victory is a complaint he has to answer.**
+After the ambush the Department writes to him. Not to congratulate him — to ask, in the flat language of a
+bureau that spent 1875–76 cleaning out the Whiskey Ring and had abolished the offending supervisors'
+patronage power in 1883, why a raid was fought with hired local men, and why a barn was burned that the
+United States had a claim on. `LEAD` on the reform context (§5, audit §3).
+
+Why this is the right cost and not a subplot: under R-4 we are never inside him, so a cost that is
+*experienced* is unavailable to us; a cost that is **corresponded about** is the only kind this book can
+carry. His file is the one place the reader is allowed to read him.
+
+Consequences, binding:
+- **The unsigned order is now load-bearing in two directions.** It is the page the cove cannot produce *and*
+  the hole in his own defense. He has two ways to answer the Department and both cost him: write that the
+  burning was not ordered, and admit his deputies acted beyond instruction, which is the end of his
+  authority in this district; or write that it was necessary, and admit in ink that the government destroyed
+  property it was in the process of seizing. He writes the second one. `INVENT` the letter; the audit's row
+  is what the letter has to be technically consistent with.
+- **A scene the outline does not have: the deposition.** To answer, he needs affidavits, and the one
+  affidavit that would save him is Margaret's — that the fire was not ordered, that the men were beyond him.
+  So the man taking her land has to ask her to protect his career, in a room, with a clerk. She gives him
+  the truth, because by then she has learned the truth is not on his side either, and the truth damages the
+  cove and him in the same breath. **Proposed as ch. 22, before the term** — `OPEN` for the author, but the
+  trial chapter is stronger with it planted.
+- **The book's paper survives because of the audit.** His compelled report is the reason a written record of
+  this hollow exists at all, which is the single best source available to the epilogue if Q-9 chooses
+  diegetic print: a county history or a Commissioner's report that quotes a man trying to defend himself.
+  The irony is the book's thesis — the cove's only monument is an agent's exculpatory filing.
+- **His ending, then, is a closing line.** The complaint is "closed without adverse finding." He keeps the
+  office. He does not get the wound as a gift, and he does not get transferred out of the book's reach: the
+  last we see of him is the file shutting, and the handwriting the reader has been able to read since
+  chapter 3 unchanged, which is the cruelest thing available. `USER` (adapting the outline's Option 3, with
+  the promotion demoted from victory to footnote).
+- **Deputy naming, so a real man's death is not misattributed:** do **not** name our killed deputy
+  **Burns** — W. Burns was a real WDNC deputy murdered in ambush, 13 Apr 1874 `LEAD`. Name ours something
+  else and let Parrish *cite* Burns, the way a man cites the only precedent he has: **Burns's file was
+  thinner than mine will be.** That line is his whole interiority under R-4, so it goes in once.
+
+---
+
 ## 12. Chapter map v0 — POV-tagged (drafted against R-4)
 
 Twenty outline beats in, twenty-seven chapters out. A beat that needs two chapters gets two; a beat that
@@ -308,10 +347,10 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | — | **ACT THREE: THE RECKONING** · 1880–1881 (ends autumn 1881 per R-5; no train) | | | |
 | 17 | "We End It." | J | The Plan / Caleb's line | Caleb organizes; Joshua watches and does not stop him. |
 | 18 | The Warning | J | The Network Spreads | The nod as policy. Joshua is now complicit in something he can price. |
-| 19 | The Ambush | J | The Ambush (partial) | Parrish is hit. Long sentence for the mountain, then four-word declaratives. Wound and side pinned in §10. |
-| 20 | The Search | **M** | The Manhunt | The house is searched. Margaret asserts standing the searchers must answer to. |
+| 19 | The Ambush | J | The Ambush (partial) | Parrish is hit; the horse goes down; the deputies return fire. Long sentence for the mountain, then four-word declaratives. Wound and side pinned in §10. His reward for this is a letter asking him to explain it (R-9), which arrives four chapters later and is worse. |
+| 20 | The Search | **M** | The Manhunt | The house is searched. Margaret asserts standing the searchers must answer to. Offstage in this chapter: the first letter from the Department, seen as an envelope in Parrish's hand and nothing more. |
 | 21 | The Surrender | J | The Capture | Joshua decides what Caleb is worth to the cove and says the name he has spent the book keeping unspoken — his own son's, out loud, in the front of a room, as a piece of information. That is what the spine costs. |
-| 22 | The Term | J | (new, Q-10) | Statesville, third Monday in April; a rented courtroom; the schedule of a circuit. |
+| 22 | The Term | J | (new, Q-10) | Statesville, third Monday in April; a rented courtroom; the schedule of a circuit. **Proposed insertion under R-9: the deposition, the chapter before this one or in its first third — Parrish must ask Margaret to save him, and she tells the truth.** `OPEN` |
 | 23 | Did She Know? | **M** | The Broader Tragedy / the trial | The government's real question, aimed at **Margaret**: knowledge and permission on her own ground (Stowell; *Dobbins* would not even require knowledge). Joshua's parcel is argued in as "connected." The hinge is what she chooses to say, and whether a privy-examination certificate surfaces. `OPEN` on the certificate lever |
 | 24 | The Return | J | Jacob's Release and Return | Two years out; the farm gone or halved (Q-4); the law is not cruel, it is complete. |
 | 25 | The Mill Sold | J | Joshua's End | He sells, he leaves; the only Brennan who dies where the streets have names. Under R-8 this is a father leaving the son he raised as his brother's, and neither says so: no look back at the cove, no message. |
@@ -440,11 +479,12 @@ character who knows the informant's name and must decide whether to say it.** **
 Q-1 → R-4.** And, under R-8, the father of the boy in his brother's house — the one fact about Joshua the
 book must make legible without ever once stating it.
 
-**WILLIAM PARRISH** — 35–40 in 1878. Federal revenue agent. Rifle, badge, orders. Courteous and
-reasonable within his institution (Style Guide §1.3) — **which the outline honors in Act One and
-abandons afterward.** Post-Whiskey-Ring Treasury wants clean convictions, not moieties; his promotion
-in the third act option is a man given a bigger territory and no authority to buy a single neighbor.
-Needs his own cost. `OPEN` Q-8.
+**WILLIAM PARRISH** — 35–40 in 1878. Federal revenue agent. Rifle, badge, orders, and — from Act Three on,
+a file with his own name in it. Courteous and reasonable within his institution (Style Guide §1.3) —
+**which the outline honors in Act One and abandons afterward; R-9 restores it by making the Department
+distrust him.** Post-Whiskey-Ring Treasury wants clean convictions, not moieties, so he cannot buy anyone
+and cannot be bought either. **His cost is ruled (Q-6 → R-9): the audit.** Never inside a head, so his cost
+is carried entirely in correspondence and in handwriting that does not change.
 
 **OLD HOSS TYLER** — storekeeper. Appears exactly once in the outline, yet runs the closed circuit the
 book is about to break: the place where a jug becomes flour, salt, tobacco, cloth, and therefore where
@@ -587,7 +627,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-3 | Ages: is Jacob older than Joshua (b. 1831/1829) or is "older brother" wrong? | ✅ RULED 2026-10-26 → **R-6**: Joshua is the elder (50), Jacob 45; the forfeitable fee is Joshua's; Margaret's standing reopens as Q-4 |
 | Q-4 | Does Margaret hold title, or dower, or nothing? Who can sign away the hollow? | ✅ RULED 2026-10-26 → **R-7**: her father's tract, in fee, as a married woman's separate estate — and the still sits on it. Dower and the homestead exemption are off the table; the privy-examination certificate is a device held in reserve |
 | Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | ✅ RULED 2026-10-26 → **R-8**: Joshua's firstborn, given to Jacob's house in 1862 when Joshua enlisted; raised as Matthew's brother; never stated in the book |
-| Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | Act One recruitment, ending |
+| Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | ✅ RULED 2026-10-26 → **R-9**: the Bureau audits him; the unsigned order becomes an exhibit in his own defense; the complaint closes without finding and he keeps the office |
 | Q-7 | Matthew's motive, concretely — and does he ever get paid? | Act One turn |
 | Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | Act One scene list |
 | Q-9 | Frame or no frame for the epilogue (author's note / fake print / ironic dime-novel voice)? | Last 10 pages |
@@ -613,7 +653,12 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   currently close. Fix after Q-10.
 - **Parrish's wound.** Hit in arm or leg (outline undecided) — pin side and limb; he is on the page
   afterward holding things differently.
-- **Two ambushes.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes.
+- **Two ambushes.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes. The killed
+  deputy is **not** named Burns (real 1874 killing, WDNC — cite him, do not reuse him: R-9).
+- **Parrish's correspondence (R-9).** Three documents, dated, in the same hand: the Department's letter of
+  inquiry (Act Three, arriving offstage in ch. 20), his answer (ch. 22), and the closing note "without
+  adverse finding" (ch. 26's world). Dates must be consistent with the Statesville term calendar (Q-10) —
+  he writes his answer *before* the sitting because the deposition is in it.
 - **The Caleb audit (R-8) — three planted facts, one per act, no statement.** (i) Act One, ch. 4: the
   ledger page with the boy's keeping-money, entered in Joshua's hand under a year that predates the mortgage.
   (ii) Act Two, ch. 16 (or the chapter that passes through the house): Margaret's household accounts list
@@ -664,3 +709,10 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   ask **R-17**: whether intra-family "giving" of a child is documented in these counties and what legal
   status a kept child had (guardianship dockets), because the book's central arrangement is now `INVENT`
   and I would rather it be `INVENT` about something that happened. | agent |
+
+| 2026-10-26 | **Q-6 ruled → R-9** (Parrish's cost is a Bureau audit of his own conduct). Added the
+  deposition proposal at ch. 22, the do-not-name-Burns rule and the three-document correspondence anchor to
+  §10, rewrote §4's Parrish entry, and closed the outline's "vindicated promotion" ending by demoting the
+  promotion to a footnote. New research ask **R-18**: the Commissioner's annual reports and the Department's
+  practice on inquiring into agents' conduct 1876–1883, because the audit must be a real mechanism and not a
+  mood. | agent |
