@@ -208,7 +208,10 @@ one time a man will not nod is the hinge of the book.
   census reads true.
 - **Elk Cove / North Fork Hollow** — the outline's candidates. `INVENT`, but note Elk Cove is a real
   Watauga hollow, which is either a gift or a liability. Flagged in `docs/period-audit.md`.
-- **"The Whistlers"** — `OPEN`, sourced or owned. No documented 1878–81 WNC distiller society by that
+- **"The Whistlers"** — `RULED (R-14)`: owned invention, **print-only**. The name belongs to the Bureau's
+  reports, the county paper, and the dime novel; not one mountain mouth ever says it, because to name the
+  meeting is to prove it. Old Councill gets the closest thing the cove says about itself, and it is a story
+  about somebody else's great-grandfather correcting an officer, not a banner. No documented 1878–81 WNC distiller society by that
   name was found; "Whistling Gap" appears as a *place* in family accounts, not an organization.
 - Parrish's given name **William** collides with nothing local; keep. **Joshua** collides with Joshua
   Perkins, an antebellum Cranberry iron speculator — harmless, and worth a shrug in the audit file.

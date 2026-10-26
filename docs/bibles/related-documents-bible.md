@@ -142,7 +142,9 @@ October, Statesville); (b) FJC's *Asheville, North Carolina [Courthouse]* page f
 - *The Entwined Lives of Miss Gabrielle Austin…* (Crittenden "Bishop," 1879) — the dime novel.
   **Use for the epilogue, and for Q-11.**
 
-**Q-11 ("the Whistlers").**
+**Q-11 ("the Whistlers") — RULED (R-14), owned invention, print-only.** The Bibb County "Regulator" item
+below is a *structural* echo (a revenue war in which the press named the men), not a citation to borrow from;
+nothing in the book credits it.
 - The thesis **"The Army and Moonshiners in the Mountainous South" (CSI Comm. pub. ADA284658, DTIC)** —
   the Army's actual role, 1865–1900, including western NC. **Read first**; it will either name an
   organization or license us to invent one in canon.

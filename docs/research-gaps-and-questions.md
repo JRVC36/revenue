@@ -210,7 +210,11 @@ your Joshua would cite.
 > what did this specific hollow do in 1861–65 and 1868–72, and were there any Black Brennan-adjacent
 > families, tenants, or mill workers in it?
 
-### R10. The named organization ("the Whistlers")
+### R10. The named organization ("the Whistlers") — **CLOSED 2026-10-26 by ruling R-14**
+
+No answer was obtainable and none is needed: the name is owned as invention and assigned to the institutions'
+print only (canon §1 R-14). The research ask is withdrawn; the audit keeps the Bibb County echo as a
+structural comparison.
 The outline invents a name and immediately disowns it ("or some other name, though historians aren't
 entirely sure how organized they were"). Your own Guide forbids exactly that hedge. I found no
 documented 1878–81 WNC distillers' society by that name; the closest real things are (a) contemporaneous

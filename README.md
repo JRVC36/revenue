@@ -96,6 +96,11 @@ knows what shape the book is in:
     the book ends in **November 1881**, seven months before the rails reach Elk Park. Judge Robert Paine Dick is
     named in the docket and never given an invented word. This ruling rebuilt the chapter map as v1 (**28
     chapters**) and moved *The Return* ahead of *The Surrender*.
+14. **R-14 — "The Whistlers" is the enemy's word.** The name is kept as owned invention and appears only in
+    print *about* the cove — the Bureau's papers, the county paper, the dime novel that ends the book — because
+    naming the meeting is the evidence the hollow has spent the whole book not having. It also shares a word
+    with the sound the book refuses to describe (R-5), and the overlap is never explained. "The Regulators" was
+    rejected: it imports 1768–71 and reads as a borrowed thesis.
 11. **R-11 — Hoss Tyler is a creditor, not a Judas, and Harper is the man who said *don't*.** The day book
    is taken, not bought, and Tyler's own protest authenticates it; the barn burned in Act Two belongs to the
    one neighbor who was right in Act One. Being right is not a defense in this book, only a forecast.

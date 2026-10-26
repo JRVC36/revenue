@@ -490,9 +490,9 @@ this table can be reordered without breaking them.**
 | # | Chapter | POV | Beat | What changes practically |
 |---|---|---|---|---|
 | 18 | "We End It." | J | The Plan / Caleb's line | Caleb organizes; Joshua watches and does not stop him. |
-| 19 | The Warning | J | The Network Spreads | The nod as policy. Joshua is complicit in something he can price. |
+| 19 | The Warning | J | The Network Spreads | The nod as policy — and no banner, no oath, no minutes: the only minutes that exist are the agent's (R-14). Joshua is complicit in something he can price. |
 | 20 | The Return | J | Jacob's Release and Return | **Released 21 April 1881** on the two years counted from the April 1879 term. He comes home to a house that has become the site of a second case, and to a wife who has been running it. The law is not cruel; it is complete. |
-| 21 | The Ambush | J | The Ambush (partial) | Parrish is hit; the horse goes down; the deputies return fire. Long sentence for the mountain, then four-word declaratives. The wound and the side are pinned. His reward is a letter, two chapters later. |
+| 21 | The Ambush | J | The Ambush (partial) | *Best small scene available anywhere in the act:* a clerk writes "Whistlers" into a deposition and nobody in the room corrects him (R-14). | Parrish is hit; the horse goes down; the deputies return fire. Long sentence for the mountain, then four-word declaratives. The wound and the side are pinned. His reward is a letter, two chapters later. |
 | 22 | The Search | M | The Manhunt | The house on her freehold is searched; she asserts a standing the searchers must answer to. Offstage: the Department's first letter, seen as an envelope. |
 | 23 | The Deposition | M | (new, R-9 proposal) | **Parrish must ask Margaret to save him.** Her affidavit costs him the boy's name in his own report, and she takes the trade; one true sentence helps him and hurts the cove. |
 | 24 | The Surrender | J | The Capture | Joshua says the name he has kept unspoken, out loud, as a piece of information. Caleb gives himself to the court, not to the agent. |
@@ -502,7 +502,8 @@ this table can be reordered without breaking them.**
 | 28 | The Far Side of the Ridge | J | (new, R-5) | November 1881. A blast from the wrong side of a ridge, and he does not go and look. No engine, no rails, no lesson. |
 
 **THE EPILOGUE (R-12)** — documents only, no voice: *E1* the agent's 1882 report to the Commissioner ·
-*E2* a county history with the year wrong by two · *E3* a dime-novel title page. The fiction's present tense
+*E2* a county history with the year wrong by two · *E3* a dime-novel title page, **whose title is where the name
+"the Whistlers" finally becomes true** (R-14: the invented label outlives the men it was written about). The fiction's present tense
 never crosses 1881, and the title page dates the war **1878–1881**.
 
 **Accounting (28 chapters):** Joshua 23 whole chapters; Margaret 5 (*The Cold Still*, *Margaret's Book*,
@@ -790,6 +791,39 @@ but the book skips it / a special commission sitting in the mountains).
   horse to feed: in a cove that counts in cents, **someone has already priced going to court before anyone is
   asked to go.** Put that arithmetic in the ledger, not in a speech.
 
+### R-14 · **"The Whistlers" is kept, invented and owned — and only outsiders ever say it**
+
+`AUTHOR` (2026-10-26), answering **Q-11** (own it / cut it / swap to "the Regulators" / both layers).
+
+- **The ruling.** The name stays, marked `INVENT`, and it is **never** a name the hollow uses for itself. It
+  exists only in print that is written *about* the cove: Parrish's reports and the libel's marginalia, the
+  Charlotte paper, and finally the dime novel in *E3*. Inside the hollow the company has no name, because
+  naming a meeting is evidence and the men's whole technique is that there was no meeting (R-3's
+  not-knowing, expressed as vocabulary). `tools/check.py` flags every occurrence so the speaker is checked.
+- **The outline already conceded this, and the ruling takes it seriously.** The source line says *"a group
+  called 'the Whistlers' **or some other name**, though historians aren't entirely sure how organized they
+  were."* So the book does not invent a fact; it invents **the record of a fact**, which is the same move the
+  source makes and the same move the Whiskey Ring and the 1878 pardon narrative make in Washington papers.
+  The Bibb County, Alabama "Regulator" revenge killing of February 1879 stays in `docs/period-audit.md` as
+  the *structural* echo — a revenue-war story where the press named the men — not as a citation.
+- **Why not "the Regulators."** In North Carolina it imports 1768–71 and the Tryon County regulators, which is
+  a real mountain precedent for "we correct the officers" and therefore a temptation a reader will read as a
+  thesis. The book already has one argument; it does not need a borrowed name with a two-hundred-year
+  bibliography. (If the author ever wants the precedent, it belongs in Old Councill's speech as a story about
+  somebody else's great-grandfather, not on the band.)
+- **The word does double duty, and the double duty is not explained.** A whistle is the signal on the ridge —
+  which is why the papers call them Whistlers — and a whistle is also the sound the book refuses to give the
+  reader (R-5: no engine, no rails, one blast off a ridge on each side of the novel). The overlap is
+  **allowed to be coincidental**: never annotated, never drawn out, never in the same paragraph as the grade
+  work. If a draft puts the locomotive and the signal in one sentence, cut the sentence; the reader will make
+  the connection alone, which is the only way it is worth anything.
+- **What it changes in the mechanics.** (i) Act Two's organizing chapters have **no banner**: no oath, no
+  title, no minutes — the only "minutes" that exist are the revenue agent's. (ii) The best small scene in Act
+  Three is a clerk writing the word and a man in the room not correcting him. (iii) *E3*'s title page is where
+  the name finally becomes true: by 1882 the invented label is the only thing anybody remembers, which is the
+  epilogue's argument (R-12) in one noun. (iv) `docs/research-gaps-and-questions.md` ask **R10** closes as
+  owned-invention: no archive will settle it and none needs to.
+
 ---
 
 ## 8. Voice rules for *REVENUE* (additions to the Style Guide; the Guide still governs)
@@ -831,7 +865,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | ✅ RULED 2026-10-26 → **R-11**: both promoted; Tyler a creditor, not a Judas — his own protest authenticates the day book; Harper says *don't* at the cove meeting and loses his barn for having been right |
 | Q-9 | Frame or no frame for the epilogue? | ✅ RULED 2026-10-26 → **R-12**: diegetic print only, three artifacts (report / county history / dime-novel title page), no author's note, no in-book accuracy apology; title-page date stays 1878–1881 |
 | Q-10 | Which federal court sits where, on what term date, in 1879? | ✅ RULED 2026-10-26 → **R-13**: the Circuit Court at Statesville, terms the 3rd Monday in April and October — Jacob convicted 21 Apr 1879 (released 21 Apr 1881), Caleb tried 17 Oct 1881; Judge Dick named, seated, never voiced |
-| Q-11 | Is "Whistlers" sourced or invented-and-owned? | Act Two network |
+| Q-11 | Is "Whistlers" sourced or invented-and-owned? | ✅ RULED 2026-10-26 → **R-14**: owned as invention, and print-only — the Bureau, the county paper and the dime novel say it; the hollow never does |
 | Q-12 | Which county is the cove — Watauga, Mitchell, or Caldwell? | Records, deed trail |
 | Q-13 | Reconstruction in or out? | Everything under the surface |
 | Q-14 | "Blockader" vs. "moonshiner" — who says which word? | Vocabulary bible, linter |
@@ -898,6 +932,13 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 ---
 
 ## 11. Change log
+
+- **2026-10-26 — Q-11 ruled → R-14.** "The Whistlers" survives as **owned invention**, but only in the
+  institutions' mouths: the Bureau's papers, the county paper, the dime novel. The hollow never names itself,
+  which makes Act Two's network a set of decisions with no minutes but the enemy's, and gives the withheld
+  train a shared word — a whistle is the signal on the ridge and the sound down the valley, and the book never
+  says so in one sentence. "The Regulators" rejected (it imports 1768–71 and reads as a borrowed thesis). The
+  lexicon gains a NOTE row so every occurrence gets its speaker checked.
 
 - **2026-10-26 — Q-10 ruled → R-13.** Statesville and the real term calendar; 21 Apr 1879 / 21 Apr 1881 /
   17 Oct 1881 / November 1881 fixed; Judge Dick named and unmouthed; the outline's "about a year left"

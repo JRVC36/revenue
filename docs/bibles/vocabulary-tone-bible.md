@@ -14,6 +14,7 @@ Severity: `BAN` fails the build · `FLAG` warns · `NOTE` is a style reminder fo
 | the revenue, the tax, the Department, the Bureau of Internal Revenue | ~~IRS, Internal Revenue Service, the feds~~ | "Internal Revenue Service" is post-1913. `BAN` |
 | revenue agent, internal revenue agent, inspector, gauger, deputy collector | ~~tax man, federal agent, officer-in-charge~~ | Titles are the period's own; Parrish is particular about which one is used of him. |
 | revenuer | (only from a mountaineer's mouth, and only with contempt) | Period slang, but a *press* word as much as a mountain one. `NOTE` |
+| "the signal", a whistle blown on the ridge (never explained as the band's name) | the Whistlers (that is the papers' word — R-14) | The cove has no name for its own organization; the institutions supply one, and the dime novel makes it permanent. |
 | blockader; "runs"; "makes"; "the trade" | ~~moonshiner, bootlegger~~ (from a Brennan) | In NC the men were first called blockaders, "blockade whiskey" their product; "moonshiner" only became common in the 1870s. Proposed ruling Q-14: **the cove never names itself; "moonshiner" is always somebody else's word — in print.** `FLAG` until ruled |
 | still, copper, worm, tub, cooler, thump keg / dunkin' log, mash, beer,ings, run, proof, gallon, jug, case | ~~distillery plant, fermenter, condensate~~ | `thump keg` is `FLAG` pending verification (claimed earliest-in-western-NC, 1870s — if true, it is our book's best object). |
 | whiskey, "the money," corn, rye, buckwheat | ~~bourbon, "shine," hooch, moon liquor~~ | "Bourbon" as a style-label is anachronistic in these mountains; "hooch"/"shine" are 20th-c. |
@@ -160,6 +161,7 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | FLAG | \b(locomotive|the engine|whistle|depot|the train|railroad|the cars|railroad track|roundhouse)\b | R-5: the company, the grade and the location may be named; nothing may be *seen* doing it. Every hit is a decision |
 | FLAG | \b(Parrish|Caleb|Matthew|Harper|Jacob|Asa|Eudy|Frank)\b[^.?!"\n]{0,45}\b(thought|knew|felt|realized|understood|wondered|hoped|was afraid|was glad|was sorry|wanted to say)\b | R-4 POV law: only Joshua and Margaret get interiority — put the fact in an object, a report, or a silence |
 | NOTE | \b(Reconstruction|carpetbagger|scalawag|Loyal League|ironclad oath|disenfranchis\w*|the late war)\b | the deleted backstory (canon 7) / Q-13: must exist for a reader without ever becoming the subject |
+| NOTE | \bWhistlers?\b | R-14: the name is print-only. Check the speaker: reports, the county paper, the dime novel yes; any mountain mouth no. Never in the same sentence as the grade's whistle |
 ```
 
 ## 8. Diction of the cove (built without eye dialect)
