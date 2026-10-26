@@ -80,15 +80,15 @@ knows what shape the book is in:
 6. **R-6 — Joshua is the elder brother and the owner in fee.** He inherited the farm and mortgaged it, so
    the forfeiture reaches his deed as well as his brother's wife's; an owner in fee is presumed to know, so
    the man whose whole function is not-knowing is the one man who cannot plead it. Jacob 45, Joshua 50.
-8. **R-8 — Caleb is Joshua's firstborn**, given to Jacob's house in 1862 when Joshua enlisted and the boy's
-   mother died. The informer and the man who comes for him were raised as brothers; nobody in the book says
-   any of it, and three planted facts (`canon §10`, the "Caleb audit") carry the whole arrangement without a
-   single statement.
 7. **R-7 — Margaret owns the forty acres the still stands on**, as a married woman's separate estate under
    the 1868 constitution. That is why Jacob put the still there — it is the only ground his creditors cannot
    reach — and why the trial is about her knowledge rather than his debt. It also corrected R-6: the barn is
    on her freehold, adjoining Joshua's mortgaged farm, and the government's second move is to argue that
    those two places are one place.
+8. **R-8 — Caleb is Joshua's firstborn**, given to Jacob's house in 1862 when Joshua enlisted and the boy's
+   mother died. The informer and the man who comes for him were raised as brothers; nobody in the book says
+   any of it, and three planted facts (`canon §10`, the "Caleb audit") carry the whole arrangement without a
+   single statement.
 
 ## Editing workflow
 
