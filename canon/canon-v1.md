@@ -319,6 +319,43 @@ Consequences, binding:
 
 ---
 
+*R-10 `AUTHOR` (2026-10-26) — Matthew wants three things, in this order, and gets two of them.** He goes
+to Parrish about a debt at the junction store; he asks that the raid be set on a day he chooses; he asks for
+a paper with his name on it — a clerk's place, a deputy's start, anything. **Granted, granted, refused.**
+
+- **The store (granted, and not to him).** The debt is real and small — half a mule, a doctor's visit for his
+  mother in the winter of 1877, a plow blade on the book. Parrish settles it with Tyler directly. Matthew
+  never holds a dollar. The **only trace is a line in the store's day book: "by order of the agent."** That
+  line is now the most important object in Act One, because it is the document that proves *who knew what* —
+  Tyler's book, not a confession. **This pre-decides half of Q-8: Hoss Tyler is promoted and his day book is
+  the exhibit.**
+- **The day (granted, and it kills somebody).** He trades the name of a day for the guarantee that the still
+  will be cold and the men will be home. The guarantee fails at the edge of the plan: **Elisha "Lish"
+  Councill, 15**, a widow's boy from North Fork carrying a jug he was not making, is shot behind Harper's
+  barn by a deputy the book never names — only numbers. The cove's later patience with the government rests
+  on that shot, and so does Matthew's silence.
+- **The paper (refused).** Nineteen, landless, and the only person in the hollow who has read a notice all
+  the way through, he wants to be on the winning side of paper. The Bureau does not commission mountaineer
+  boys, and Parrish — by then building the file that will be audited (R-9) — will not put a promise in
+  writing at all. The refusal is *courteous*, and it is the only kindness in the book that costs somebody
+  everything.
+- **Whether he is ever paid:** the discretionary allowance is fixed months after the exile, under the rules
+  that replaced moieties in 1872 — an amount the Commissioner chooses with the Secretary's approval. It
+  arrives as a Treasury order at the office in town. **It is never cashed.** It goes back to Washington with
+  the clerk's notation **"person unknown,"** which is the book's last word on what his father was worth on the
+  open market. It appears once, in a document, after Matthew has left the novel. `LEAD` on the mechanism
+  (audit §3), `INVENT` on the returned order (ask **R-19**).
+- **What R-4 costs here, and why it is worth paying:** Matthew gets **no interiority at any point**. So the
+  three asks must be legible as three *objects*: a line in a day book, a date spoken once and kept, and a
+  letter of appointment that is never written. If a draft needs more, the fix is a different object, not a
+  thought.
+- **The exchange this opens between Margaret and Parrish (proposed ch. 22, `OPEN`):** her affidavit about the
+  fire has a price, and it is not money. She will sign that the burning was not ordered if the boy's name goes
+  into the report **right** — the file calls him "a boy," the cove calls him Lish. An agent can do that, and it
+  costs him nothing he can be audited for. That is the moral trade of this book, and it is a spelling.
+
+---
+
 ## 12. Chapter map v0 — POV-tagged (drafted against R-4)
 
 Twenty outline beats in, twenty-seven chapters out. A beat that needs two chapters gets two; a beat that
@@ -333,8 +370,9 @@ is really one decision gets one and stops there (Pass 5). "J" = Joshua, "M" = Ma
 | 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses. Under R-6/R-7 the last page is not about principle: it is his own mortgage, and the cart road that runs from his mill down onto his brother's wife's ground. |
 | 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know, at Joshua's mill, in Joshua's barn, because he is the man who feeds them. Shown as a technique with rules, not as a mood. |
 | 6 | Gauger's Work | J | The Standoff Begins | Parrish measures the farm as legally as the still: a still in a barn makes the *land* the case (R-3). |
-| 7 | The Store Debt | J (Matthew in dialogue only) | The Temptation | Tyler's book, what Matthew owes, and what the informer law now actually promises (Q-7). |
-| 8 | The Notice | **M** ←was J | End of Act One | The libel names the property, not the man — and it is addressed in part to her interest. R-4/R-5 put the paper in Margaret's hands here so that Act Two's dower chapters have a root. Act One ends on the notice, unanswered. |
+| 7 | The Store Debt | J (Matthew in dialogue only) | The Temptation | **R-10's three asks in one chapter:** the day-book line Parrish causes to be written; the date Matthew gives and Parrish takes; the appointment not given, said once, in the passive voice, as a regret of the service. |
+| 8 | The Cold Still | **M** | End of Act One | R-10: the raid runs on the day Matthew named, the still is cold, nobody who matters is arrested — and Lish Councill is shot behind Harper's barn by a deputy identified only by number. Difficulty here is technical and welcome: the appraisers' inventory, item by item, in a house they are legally searching. |
+| 8b | The Notice | **M** | End of Act One | The libel names the property, not the man, and it is addressed in part to her interest (R-7). Act One ends on the notice, unanswered. |
 | — | **ACT TWO: THE WEIGHT OF IT** · 1879–1880 (retitled; "THE RECKONING" goes to Act Three) | | | |
 | 9 | The Empty Year | J | The Empty Year | Harvest without a distiller; the term list; two years of arithmetic started. |
 | 10 | Margaret's Book | **M** | (new, R-3/R-4/R-7) | She reads the posted notices because they name **her** freehold: the libel is against the tract, and the tract is hers. Her father's deed is in the same box as her accounts, and both become evidence. |
@@ -457,12 +495,11 @@ about. `INVENT` her father's name, the deed's date (suggest 1866–68, so it pre
 confusion and postdates nothing that would cloud it), and whether the privy-examination certificate for any
 later dealing exists. `OPEN` whether the missing certificate is used as a plot lever (see §12 ch. 23).
 
-**MATTHEW BRENNAN** — 19 in 1878. Jacob's son. Informs for Parrish; exiled; beaten to broken ribs and
-a broken arm in Johnson City; never returns. Motive is **thin in the outline** ("ambitious,"
-"not entirely convinced"). Three richer options and the 1872 moiety repeal as the instrument of his
-ruin: he may inform to *pre-empt* worse for his father; he may be in debt at Tyler's store; he may
-find Parrish's offer of a wage honest and take it. **Q-7: what does he do with the money, given that
-Washington decides whether he is paid at all?** `OPEN`
+**MATTHEW BRENNAN** — 19 in 1878 (b. ~1859), Jacob's son, raised as Caleb's brother (R-8). Informs; is
+exiled; is beaten to broken ribs and a broken arm in Johnson City; never returns. **RULED Q-7 → R-10: three
+asks — the store debt (paid to Tyler, not to him), the day of the raid (a boy dies anyway), a written
+appointment (refused, courteously).** He is "paid" months late by a Treasury order that goes back uncashed,
+marked *person unknown*. No interiority, ever: his motive is three objects, not a thought.
 
 **CALEB BRENNAN** — 21 in 1878 (b. ~1857). **RULED Q-5 → R-8: Joshua's firstborn, raised as Jacob's
 son**, which keeps every outline label literally true — a Brennan, a nephew, "Father." Heir to his father's
@@ -628,8 +665,8 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-4 | Does Margaret hold title, or dower, or nothing? Who can sign away the hollow? | ✅ RULED 2026-10-26 → **R-7**: her father's tract, in fee, as a married woman's separate estate — and the still sits on it. Dower and the homestead exemption are off the table; the privy-examination certificate is a device held in reserve |
 | Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | ✅ RULED 2026-10-26 → **R-8**: Joshua's firstborn, given to Jacob's house in 1862 when Joshua enlisted; raised as Matthew's brother; never stated in the book |
 | Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | ✅ RULED 2026-10-26 → **R-9**: the Bureau audits him; the unsigned order becomes an exhibit in his own defense; the complaint closes without finding and he keeps the office |
-| Q-7 | Matthew's motive, concretely — and does he ever get paid? | Act One turn |
-| Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | Act One scene list |
+| Q-7 | Matthew's motive, concretely — and does he ever get paid? | ✅ RULED 2026-10-26 → **R-10**: the store, the day, the paper — granted, granted, refused; paid months late by an order returned "person unknown." It also pre-decides half of Q-8 (Tyler's day book is the exhibit) |
+| Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | Act One scene list — **urgency raised by R-10**: Tyler's day book is the exhibit that proves knowledge, and **Harper's barn is where the boy dies** |
 | Q-9 | Frame or no frame for the epilogue (author's note / fake print / ironic dime-novel voice)? | Last 10 pages |
 | Q-10 | Which federal court sits where, on what term date, in 1879? | Trial chapter |
 | Q-11 | Is "Whistlers" sourced or invented-and-owned? | Act Two network |
@@ -666,6 +703,11 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   mill reserves a right of way for "Caleb, my brother's son" — a phrase that means nothing to the clerk and
   everything to the reader. If a reader assembles it before ch. 23, the planting worked; if the narration
   ever explains it, cut the explanation, not the fact.
+- **Lish Councill (R-10).** Fifteen, of North Fork, shot behind Harper's barn on the day Matthew named.
+  Always **Lish** in the cove's mouths, **"a boy"** in the government's paper; the deputy who fired is
+  numbered, never named; the file's error is corrected only if the ch. 22 trade is played. One death per
+  side in this book — his, then the deputy's — and his comes first, which is what makes Act Two's restraint
+  read as restraint rather than as authorial cowardice.
 - **POV ledger (R-4).** Every scene belongs to Joshua or Margaret. A scene that needs a fact only Jacob,
   Caleb, Matthew, Harper or Parrish could supply must get it from an object, a report, or a silence — and
   the linter's `lex:other-heads-interiority` row will flag the draft when the discipline slips.
@@ -716,3 +758,11 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   promotion to a footnote. New research ask **R-18**: the Commissioner's annual reports and the Department's
   practice on inquiring into agents' conduct 1876–1883, because the audit must be a real mechanism and not a
   mood. | agent |
+
+| 2026-10-26 | **Q-7 ruled → R-10** (the store, the day, the paper). Repurposed the "boy on the ridge"
+  candidate into **Lish Councill, 15**, whose death in the Act One raid is the load R-9's audit has to carry;
+  renumbered map ch. 8 / 8b around the new sequence; promoted Tyler's day book to the exhibit proving
+  knowledge (half of Q-8, pre-decided); proposed the ch. 22 name-for-affidavit trade, `OPEN`. Added the Lish
+  anchor to §10 and fixed `docs/period-audit.md` §7, which had carried three character names imported from
+  the sibling project — Asa, Eudy and Frank do not exist in this outline. New ask **R-19** (whether a
+  discretionary informer allowance could be fixed and go uncashed, and how the order was drawn). | agent |

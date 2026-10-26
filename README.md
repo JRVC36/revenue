@@ -24,7 +24,7 @@ canon/
 docs/
   author-style-guide.md           standing craft rules (verbatim from Drive; repo copy wins)
   outline-v1-verbatim.md          the outline as written in Drive, unaltered, with line numbers
-  research-gaps-and-questions.md  the research asks handed back to the author (18 asks, 23 questions)
+  research-gaps-and-questions.md  the research asks handed back to the author (19 asks, 23 questions)
   period-audit.md                 verification ledger: every year, law, and object the book prints
   pitch-and-blurb.md              one line, paragraph, genre promise, blurb
   beta-reader-note.md             the one-page questionnaire sent with partials
@@ -85,6 +85,10 @@ knows what shape the book is in:
    reach — and why the trial is about her knowledge rather than his debt. It also corrected R-6: the barn is
    on her freehold, adjoining Joshua's mortgaged farm, and the government's second move is to argue that
    those two places are one place.
+10. **R-10 — Matthew asks for three things: the store debt, the day of the raid, a written appointment.**
+   Granted, granted, refused — and the day he picked gets a fifteen-year-old shot behind Harper's barn, which
+   is the first of this book's two deaths and the reason the cove's later restraint is restraint. He is "paid"
+   by a Treasury order returned uncashed, marked *person unknown*.
 9. **R-9 — What Parrish pays is an audit of himself.** The Department asks him why a barn the United States
    had a claim on was burned; both honest answers end him, he writes the second one in his fair hand, and the
    complaint closes without adverse finding. Because R-4 keeps us out of his head, his whole cost is carried

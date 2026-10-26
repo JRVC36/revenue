@@ -54,7 +54,7 @@ something — the posted notices, the search of the house, her own standing at t
 the grief chapters and she never gets a scene of her crying alone; her interiority is arithmetic and
 inventory, and it is allowed to include what a room costs to put back.
 
-## Matthew Brennan · 19 in 1878 (b. ~1859) · Jacob's son · the informant · raised as Caleb's brother (R-8)
+## Matthew Brennan · 19 in 1878 (b. ~1859) · Jacob's son · the informant · raised as Caleb's brother (R-8) · three asks (R-10)
 
 **Notices:** prices, and other men's boots. He is the only character who looks at a man's shoes and
 knows what the man earns.
@@ -70,9 +70,15 @@ approached, because the truth makes him the author instead of the instrument.
 Washington**. He burns his father for a check that a clerk decides about. The outline gives him
 "money and a chance to leave"; consider instead a **letter**, months late, with an amount in it that
 is less than what a season's corn brings. That is period-exact, it is funnier, and it is worse.
-**Open:** Q-7 — motive. Options: debt at the store; a genuine belief that the law is the way out of a
-trap he can feel; wanting his father to be *saved* from a worse outcome by a raid he controls;
-the girl. Not "ambition."
+**Ruled (canon R-10): the store, the day, the paper — granted, granted, refused.** He goes to Parrish
+about a debt at Tyler's book; he asks that the raid be set on a day he names; he asks for a written
+appointment of any kind. Two are given, the third is declined courteously, and the day he picked gets a
+fifteen-year-old shot behind Harper's barn. He is never again the boy who wanted out; he is the man whose
+name appears in three documents and in no conversation.
+**How to write a motive with no interiority (R-4 says he never gets a head):** three objects, no thoughts. A
+line in a day book in a hand that is not Tyler's. A date said once, in the store, and kept exactly. A letter
+of appointment that is never written, described by Parrish as a difficulty of the service. If the scene needs
+more than that, the scene is the wrong scene.
 
 ## Caleb Brennan · 21 in 1878 (b. ~1857) · Jacob's nephew, Joshua's firstborn (R-8) · calls Jacob "Father"
 

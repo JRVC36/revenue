@@ -354,6 +354,25 @@ Folger 1881–84) so the signature block on the letter is right.
 it — **the district attorney and the federal marshal's paper, not Washington's** — which weakens the
 institutional chill by one degree and changes nothing else about R-9.
 
+### R-19 — How an informer's money actually reached a man's hand, 1876–1882
+
+**Why it exists now:** Q-7 was ruled as *three asks, granted / granted / refused*, with the payment arriving
+months late as a Treasury order that goes uncashed and is returned marked "person unknown" (canon R-10). The
+mechanism is documented at the level of law (moieties repealed for claims accruing after 1 Aug 1872;
+discretionary allowance fixed by the Commissioner with the Secretary's approval, capped at one moiety and
+$5,000 a case; no vested right until fixed **and paid**). The last clause is the one I want printed in a
+mountain novel, so I need the plumbing:
+
+* Was the order payable **at the local depositary bank**, at the agent's office, or only at Washington?
+* Did the payer require the claimant's name and a signature, or was it bearer paper? (If it were bearer
+  paper, "person unknown" cannot be a return reason, and I would change the ending to a paid order the
+  exiled man never collects because collecting means coming back.)
+* What does a returned order look like in a file — the clerk's wording, and does the file keep it?
+* While there: does any WDNC record show an informer allowance *requested* for the 1878–81 seizures, even if
+  refused? One real instance would let me name the amount instead of inventing it.
+
+`MINOR` for the plot, `MAJOR` for the last sentence of Matthew's arc.
+
 ## 3. Questions: direction, characters, style, voice
 
 ### Direction

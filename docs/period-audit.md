@@ -97,6 +97,13 @@ Full asks with "what I need back" in `docs/research-gaps-and-questions.md`; the 
      whatever the mortgage instrument actually looked like there (merchant's bond, bond for title, deed of
      trust). `OPEN` **R-14**.
 
+19. **Could a discretionary informer's allowance be fixed and then go uncashed, and how was it drawn?**
+     R-10 ends Matthew's arc with a Treasury order returned "person unknown," which is `INVENT` sitting on
+     top of `LEAD` machinery (the 1872 repeal, the Commissioner's discretion, the Secretary's approval). What
+     I need back: the warrant/order's actual route — was it payable at the local depositary, at the agency
+     office, or only at Washington; was a name required at payment; and what a returned order was marked.
+     `MINOR`, but it is the book's last word about what a betrayal was worth. `OPEN` **R-19**.
+
 18. **The Commissioner of Internal Revenue's annual reports, 1876–1883, for the Western District of North
      Carolina** — whether the Department inquired into agents' conduct in these terms, on what paper, with
      what result, and whether an agent could be suspended pending such an inquiry. R-9 makes a Treasury
@@ -138,12 +145,18 @@ Same house standard as *The Bound Tree*:
 - **Cherokee presence.** The cove's fields were cleared by people who were pushed out generations earlier.
   One line of *fact* — a townsite, a plum tree, a path too straight to be a cow trail — no mysticism, no
   speaking for, no relic-hunting by a white character.
-- **Veteranhood without heroism.** Joshua, Asa, Eudy and Frank served; the book's interest is what the
-  war left in the room, not the war.
+- **Veteranhood without heroism.** Joshua and Jacob are the outline's veterans (Joshua, Union, 1862–65;
+  the rest of the cove's service record is `OPEN` — do not invent a company name). The book's interest is what
+  the war left in the room, not the war. *(Corrected 2026-10-26: this line previously listed Asa, Eudy and
+  Frank, who are characters in* The Bound Tree*, not in this outline. Nothing in* REVENUE* may inherit a
+  name from the sibling project without a line in §3 saying why.)*
 - **Mountaineer speech without mockery.** No eye dialect, ever (`BAN` at the level of the whole project).
   Rhythm carries it: parataxis, refusal, concrete nouns, understatement.
-- **Violence.** One death in the book (Act Two's deputy) and one attempted (Act Three's Parrish). Both are
-  followed by *paperwork*, which is the actual horror of this system.
+- **Violence.** **One death per side, and the government's comes first** (R-10): Lish Councill, 15, shot
+  behind Harper's barn in Act One by a numbered deputy, and the deputy killed in Act Two. Parrish's ambush is
+  an attempted killing that the book refuses him as a martyrdom. Both real deaths are followed by
+  *paperwork*, which is the actual horror of this system — and the boy's name being written correctly in a
+  federal report is the closest thing in this book to justice.
 - **Addiction is not a mood.** Parrish "drinks to blunt what he has to do" is a stage line; in prose it must
   cost something specific and dated (laudanum and whiskey are both period; the cost is the ledger, not the
   feel).
