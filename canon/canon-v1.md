@@ -1193,7 +1193,10 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 - **Mill tolls and Joshua's mortgage arithmetic (Chs. 1–4).**
   NC statutory public-mill toll is **one-eighth** on bread meal (**7 lb** out of a 56-lb bushel) and
   **one-fourteenth** on coarse chop (**4 lb** out of 56 lb; *Rev. Code* 1854, c. 71, s. 6). Joshua's father
-  set the white-oak mill frame in **`1848`**, and Joshua hung the French burr runner stone **after `1865`**.
+  set the white-oak mill frame in **`1848`**, Joshua hung the upper French millstone **after `1865`**, the
+  waterwheel is **twelve feet** in diameter (one rusted iron rim-strap parts in Ch. 1 and is banded with an
+  18-lb Cranberry flat-iron bar across Chs. 1, 2, and 4), and the **$400** mortgage to **Hosea "Hoss" Tyler**
+  dates from rebuilding the dam after the **`1869`** flood.
   `Parcel A` stands entered in *Deed Book D* at Bakersville at **eighty-six acres** in fee (mill-seat, dam,
   six acres of late corn, cart road, and split-chestnut tailrace trough); Margaret's `Parcel B` is **forty
   acres** conveyed in **`1868`** as her separate estate out of her father's old Watauga grant; William Harper's

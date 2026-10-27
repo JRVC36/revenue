@@ -2,15 +2,15 @@
 
 Late October wind stripped the last yellow hickory leaves off the bank. Bright scraps spun quick across the headrace.
 
-Down in the drained wheel-pit Joshua braced one boot against the wet stone wall. He drew the iron wrench a quarter-turn tighter on the last nut. Under his knuckles the forged strap of three-quarter-inch Cranberry flat iron bit snug into the checked white-oak shroud of the overshot wheel. Leak-water from the shut flume board dripped icy down his collar.
+Down in the drained wheel-pit Joshua braced one boot against the wet stone wall. He drew the iron wrench a quarter-turn tighter on the last nut. Under his knuckles the forged strap of three-quarter-inch Cranberry flat iron bit snug into the split white-oak rim of the waterwheel. Leak-water from the shut flume board dripped icy down his collar.
 
 He stepped back on the slick plank. With his boot heel he knocked the oak scotch out.
 
-Slowly the sixteen-foot wheel crept half a bucket downward toward the iron patch, pulled heavy by the eighteen pounds of bolted bar, then stopped still. Joshua reached into his apron pocket, drew out a flat strip of hammered lead saved from old tea-chest lining, and tacked it neat beneath the opposite bucket rim with three short clout nails. He tested the rim with two fingers. The big wheel hung dead level on its center. Not an ounce favored either side. He took the cow-horn of warm mutton tallow from the wall chink and greased the iron gudgeon neck.
+Slowly the twelve-foot wheel crept half a bucket downward toward the iron patch, pulled heavy by the eighteen pounds of bolted bar, then stopped still. Joshua reached into his apron pocket, drew out a flat strip of hammered lead saved from old tea-chest lining, and tacked it neat beneath the opposite bucket rim with three short clout nails. He tested the rim with two fingers. The big wheel hung dead level on its center. Not an ounce favored either side. He took the cow-horn of warm mutton tallow from the wall chink and greased the iron axle neck.
 
 Alone beneath the dripping buckets, he counted days against meal.
 
-Today was Saturday, the twenty-sixth of October. Fifteen days stood left until the tenth of November. Because the tenth fell on a Sunday this year, Hoss Tyler’s twenty-four dollars had to lie on the walnut counter by Saturday sundown on the ninth or Monday noon at the latest. Up in the cabin drawer the oilskin pouch lacked nothing now. Thursday’s wagon haul of six bushels of fine-bolted bread meal to the bloomery boarding house had brought in the last two dollars and forty cents. Even so, laying down every hard piece in the house left his till bare as a swept stone before the December freeze locked the pond. One cracked gudgeon brass or a split hoop between frost and March would send him down to Tyler’s safe hat in hand.
+Today was Saturday, the twenty-sixth of October. Fifteen days stood left until the tenth of November. Because the tenth fell on a Sunday this year, Hoss Tyler’s twenty-four dollars had to lie on the walnut counter by Saturday sundown on the ninth or Monday noon at the latest. Up in the cabin drawer the oilskin pouch lacked nothing now. Thursday’s wagon haul of six bushels of fine-bolted bread meal to the bloomery boarding house had brought in the last two dollars and forty cents. Even so, laying down every hard piece in the house left his till bare as a swept stone before the December freeze locked the pond. One cracked axle bearing or a split hoop between frost and March would send him down to Tyler’s safe hat in hand.
 
 Up on the rocky bench track a single shod hoof struck flint.
 
@@ -22,7 +22,7 @@ He crossed the dim mill floor without waking a board. Sunlight struck him on the
 
 Halfway down the bench grade stood the forked white oak, three old surveyor’s chops healed black in its bark. Beside its root sat the squared granite corner-stone set knee-deep in the turf. Square abreast of that stone sat William Parrish on a clean-limbed bay gelding.
 
-Nobody rode behind him. No deputy waited in the alders toward the turnpike. Parrish wore a heavy dark riding coat buttoned to his chin against the ridge wind, gray wool trousers strapped neat under his boot arches, and brown leather gloves creased at the knuckles. All four of the gelding’s iron shoes stood planted two inches uphill of the granite post on Joshua’s side of the line.
+Nobody rode behind him. No deputy waited in the laurel toward the turnpike. Parrish wore a heavy dark riding coat buttoned to his chin against the ridge wind, gray wool trousers strapped neat under his boot arches, and brown leather gloves creased at the knuckles. All four of the gelding’s iron shoes stood planted two inches uphill of the granite post on Joshua’s side of the line.
 
 Parrish did not look up toward the millpond. Both gloved hands rested quiet on the pommel while he sighted straight down the unfenced cart ruts and the split-chestnut water trough carrying Joshua’s tailrace across the unmarked grass to Margaret’s lower log barn forty paces below her kitchen porch.
 
@@ -40,17 +40,17 @@ Swinging down easily, he looped the leather rein once round the worn locust bar 
 
 Dry corn dust hung faint in the cold shaft through the south shutter. Outside the logs the bypass water hissed down the slate ditch.
 
-Parrish stepped over the worn oak threshold and halted beside the meal chest. He took off neither his hat nor his brown riding gloves. For a moment he studied the level hang of the French burr runner stone suspended two inches clear of the bedstone on its iron bail. His eyes moved once to the bright brass beam of the steelyard on its peg and the county-sealed half-bushel measure sitting mouth-down on clean pine. He did not glance toward the open shelf where Joshua’s chalk board hung.
+Parrish stepped over the worn oak threshold and halted beside the meal chest. He took off neither his hat nor his brown riding gloves. For a moment he studied the level hang of the upper French millstone suspended two inches clear of the lower stone on its iron bail. His eyes moved once to the bright brass beam of the hanging scale on its peg and the county-sealed half-bushel measure sitting mouth-down on clean pine. He did not glance toward the open shelf where Joshua’s chalk board hung.
 
 “Good morning to you, Mister Brennan,” Parrish said.
 
 “Morning,” Joshua said. He set the tallow horn on the window ledge. The square iron wrench stayed in his hand.
 
-“That stone hangs true,” Parrish observed, nodding toward the burr dress. “Half the country mills between Marion and Boone let the spindle wear slack until the skirt grinds flour on one side and whole grits on the other. Your father set this frame?”
+“That stone hangs true,” Parrish observed, nodding toward the dressed face. “Half the country mills between Marion and Boone let the iron shaft wear slack until one side grinds flour and the other turns out whole grits. Your father set this frame?”
 
 “Forty-eight,” Joshua said. “I put in the French stone after sixty-five.”
 
-“Sound white oak in the husks,” Parrish said. He turned half round from the stone without resting elbow or hip against Joshua’s clean meal chest, looking straight across the four feet of swept plank between them. “You told me the road stayed passable to your dam. You keep an exact tongue, Mister Brennan.”
+“Sound white oak in the timbers,” Parrish said. He turned half round from the stone without resting elbow or hip against Joshua’s clean meal chest, looking straight across the four feet of swept plank between them. “You told me the road stayed passable to your dam. You keep an exact tongue, Mister Brennan.”
 
 Joshua waited.
 
@@ -98,13 +98,13 @@ Five slow breaths went past between them on the dim floor. Neither raised his ch
 
 Parrish studied the spare gray beard and steady mouth before him. Once he inclined his head, taking a price he would not ask twice.
 
-Joshua laid the iron wrench flat on the oak timber beside the hopper. At the garner wall he took a two-bushel sack by the ears. Without grunting he swung its hundredweight clean onto the hopper horse. Then he untied the hickory string at its neck.
+Joshua laid the iron wrench flat on the oak timber beside the hopper. At the garner wall he took a two-bushel sack by the ears. Without grunting he swung its hundredweight clean onto the hopper frame. Then he untied the hickory string at its neck.
 
 “The road’s open down the creek, Mister Parrish,” Joshua said.
 
 “Good day to you, Mister Brennan,” Parrish answered evenly.
 
-He stepped out across the sunny sill and untied the bay gelding. He swung smoothly into leather. Without pausing again at the white-oak stone or turning his head toward Margaret’s barn, he walked the bay down the hollow trace until the red-brown alders hid horse and coat together.
+He stepped out across the sunny sill and untied the bay gelding. He swung smoothly into leather. Without pausing again at the white-oak stone or turning his head toward Margaret’s barn, he walked the bay down the hollow trace until the dark laurel at the bend hid horse and coat together.
 
 ---
 

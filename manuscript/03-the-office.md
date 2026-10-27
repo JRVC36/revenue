@@ -2,7 +2,7 @@
 
 An hour before day Joshua broke the skim ice in the stable trough with his boot heel. Cold water slopped dark over the split poplar rim. He led the claybank mare out by her rope halter and let her drink four long swallows before taking the chill bit into her mouth.
 
-Alone in the pole lot, he buckled the rawhide girth by feel. Frost stood stiff as coarse salt along the saddle skirts. Behind the cantle he tied a homespun poke holding four quarts of his own shelled white corn so he would not pay town stable price at noon. Across the dark race no smoke rose yet from Margaret’s chimney. Down by the branch the alders round her lower barn stood black and motionless in the rime.
+Alone in the pole lot, he buckled the rawhide girth by feel. Frost stood stiff as coarse salt along the saddle skirts. Behind the cantle he tied a homespun poke holding four quarts of his own shelled white corn so he would not pay town stable price at noon. Across the dark race no smoke rose yet from Margaret’s chimney. Down by the branch the creek willows round her lower barn stood black and motionless in the rime.
 
 He touched his vest pocket once. Inside rode the folded white half-sheet from Bakersville beside a thumb-stub of mill chalk. Twenty-two miles down the North Toe and twenty-two back before midnight took a whole clear grinding day out of October. Four turns of the pond went unground while shelled corn waited in neighbor cribs and the tenth of November walked closer three cents at a time.
 
