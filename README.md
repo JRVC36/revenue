@@ -3,7 +3,7 @@
 **A novel. Western North Carolina, 1878–1881.** The whiskey tax at ninety cents on the proof gallon, and
 the law that takes the land underneath the still. A railroad is coming the whole time and never shows up.
 
-Status: **Act One complete (`01-the-water-is-right.md` through `08-the-cold-still.md` drafted, linted `0 BAN / 0 FLAG`, and mirrored to Google Drive; scene blueprint in `docs/act-1-beat-sheet.md`).** Working title `REVENUE` per the author's own outline; the subtitle is working.
+Status: **Act One complete & line-edited (`01-the-water-is-right.md` through `08-the-cold-still.md` drafted, style-audited in `docs/act-1-style-audit.md`, linted `0 BAN / 0 FLAG`, and mirrored to Google Drive; scene blueprint in `docs/act-1-beat-sheet.md`).** Working title `REVENUE` per the author's own outline; the subtitle is working.
 
 ---
 
@@ -22,6 +22,7 @@ canon/
                                   voice rules, the blocked-question list, continuity anchors
 docs/
   act-1-beat-sheet.md             detailed scene-by-scene blueprint for Act One (Chapters 1–8)
+  act-1-style-audit.md            prose-level historical-fiction style audit & change logs (Chs. 1–8)
   author-style-guide.md           standing craft rules (verbatim from Drive; repo copy wins)
   outline-v1-verbatim.md          the outline as written in Drive, unaltered, with line numbers
   research-gaps-and-questions.md  the research asks handed back to the author (21 asks, 23 questions)

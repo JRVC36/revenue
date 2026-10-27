@@ -6,7 +6,7 @@ Down in the drained wheel-pit Joshua braced one boot against the wet stone wall.
 
 He stepped back on the slick plank. With his boot heel he knocked the oak scotch out.
 
-Slowly the twelve-foot wheel crept half a bucket downward toward the iron patch, pulled heavy by the eighteen pounds of bolted bar, then stopped still. Joshua reached into his apron pocket, drew out a flat strip of hammered lead saved from old tea-chest lining, and tacked it neat beneath the opposite bucket rim with three short clout nails. He tested the rim with two fingers. The big wheel hung dead level on its center. Not an ounce favored either side. He took the cow-horn of warm mutton tallow from the wall chink and greased the iron axle neck.
+Slowly the twelve-foot wheel crept half a bucket downward toward the iron patch, pulled heavy by the eighteen pounds of bolted bar, then stopped still. Joshua reached into his apron pocket, drew out a strip of hammered lead saved from old tea-chest lining, and tacked it beneath the opposite bucket rim with three short clout nails. He tested the rim with two fingers. The big wheel hung dead level on its center. Not an ounce favored either side. He took the cow-horn of warm mutton tallow from the wall chink and greased the iron axle neck.
 
 Alone beneath the dripping buckets, he counted days against meal.
 
@@ -20,9 +20,9 @@ Joshua wiped tallow off his palm onto his thigh. Iron wrench in his left hand, h
 
 He crossed the dim mill floor without waking a board. Sunlight struck him on the sill.
 
-Halfway down the bench grade stood the forked white oak, three old surveyor’s chops healed black in its bark. Beside its root sat the squared granite corner-stone set knee-deep in the turf. Square abreast of that stone sat William Parrish on a clean-limbed bay gelding.
+Halfway down the bench grade, abreast of the scarred boundary oak and the granite corner-stone, sat William Parrish on his bay gelding.
 
-Nobody rode behind him. No deputy waited in the laurel toward the turnpike. Parrish wore a heavy dark riding coat buttoned to his chin against the ridge wind, gray wool trousers strapped neat under his boot arches, and brown leather gloves creased at the knuckles. All four of the gelding’s iron shoes stood planted two inches uphill of the granite post on Joshua’s side of the line.
+Nobody rode behind him. No deputy waited in the laurel toward the turnpike. Parrish wore a heavy dark riding coat buttoned to his chin against the ridge wind, gray wool trousers strapped snug under his boot arches, and brown leather gloves creased at the knuckles. All four of the gelding’s iron shoes stood planted two inches uphill of the granite post on Joshua’s side of the line.
 
 Parrish did not look up toward the millpond. Both gloved hands rested quiet on the pommel while he sighted straight down the unfenced cart ruts and the split-chestnut water trough carrying Joshua’s tailrace across the unmarked grass to Margaret’s lower log barn forty paces below her kitchen porch.
 
@@ -56,7 +56,7 @@ Joshua waited.
 
 “When a revenue officer comes into a strange county,” Parrish said in the same quiet, level voice he had used above the saddler’s shop, “county politicians offer him twenty names before he pulls his boots off. Half are personal grudges left over from the war. Landless boys make up the rest, boiling ten gallons in borrowed copper. Chasing boys through laurel thickets wastes government mileage and changes nothing by June.”
 
-Wind rattled a loose shingle over the garner loft. Across the sill blew a dry yellow leaf. It settled beside Parrish’s blacked boot toe.
+Wind rattled a loose shingle over the garner loft. A dry yellow leaf blew across the sill and settled beside Parrish’s blacked boot toe.
 
 “Down in *Deed Book D* at Bakersville,” Parrish continued, “your mill tract stands entered at eighty-six acres in fee, subject to a deed of trust for four hundred dollars held by Mister Hosea Tyler at the turnpike fork. Twenty-four dollars annual interest falls due each tenth of November. Directly below your white-oak corner lie forty acres conveyed ten summers back to Margaret Brennan as her sole and separate estate out of her father’s old grant. You own no share in that lower forty, and you keep no copper on your eighty-six.”
 
@@ -76,35 +76,35 @@ Parrish did not blink or shift weight. “Every public miller in North Carolina 
 
 Joshua’s fingers stayed still on the cold iron wrench.
 
-“You think silence sits in the middle between your brother and the law,” Parrish said, wholly free of heat, stating a rule of measure as a surveyor reads a needle. “Before sixty-eight, silence did sit in the middle. Under the present statute it does not. This January the Supreme Court ruled flatly upon Section forty-four. A land forfeiture under that section does not try the owner’s temper. It tries the ground used in the business.”
+“You think silence sits in the middle between your brother and the law,” Parrish said without heat. “Before sixty-eight, silence did sit in the middle. Under the present statute it does not. This January the Supreme Court ruled flatly upon Section forty-four. A land forfeiture under that section does not try the owner’s temper. It tries the ground used in the business.”
 
 He turned his head two inches toward the open mill door. Beyond the sill the rutted track dropped past the white oak.
 
 “Where untaxed spirits are run in an unbonded barn on one deed,” Parrish said, “and the meal comes coarse off the adjoining stones, the condensing water runs out of the adjoining race, and one unfenced cart road carries wood and kegs across the line without a gate, the libel joins the whole connected premise.”
 
-Parrish lifted one gloved hand an inch. Quietly he let it settle back against his coat skirt.
+Parrish lifted one gloved hand an inch and let it settle back against his coat skirt.
 
-“More than that,” he said quietly. “Under Sections thirty-two eighty-one and fifty-four forty, any proprietor who knowingly suffers or permits his mill-water or his road to serve an illicit distillery answers by indictment alongside the man firing the furnace. Six months to two years in prison, a thousand dollars fine, and the United States forfeiture lien cutting clean ahead of your creditor. A man with an encumbrance at Bakersville cannot afford a federal lien ahead of his creditor, Mister Brennan.”
+“More than that,” he said. “Under Sections thirty-two eighty-one and fifty-four forty, any proprietor who knowingly suffers or permits his mill-water or his road to serve an illicit distillery answers by indictment alongside the man firing the furnace. Six months to two years in prison, a thousand dollars fine, and the United States forfeiture lien cutting clean ahead of your creditor. A man with an encumbrance at Bakersville cannot afford a federal lien ahead of his creditor, Mister Brennan.”
 
 “My dam waters my wheel,” Joshua said. “What runs past my wheel goes down the natural hollow where water ran before North Carolina was surveyed.”
 
 “Water runs down rock by nature,” Parrish said. “Water does not hew a chestnut trough and prop it on forked locust stakes across a boundary stone by nature.”
 
-Five slow breaths went past between them on the dim floor. Neither raised his chin. Neither dropped his eyes.
+Five slow breaths went past between them on the dim floor. Neither raised his chin or dropped his gaze.
 
 “Come up my stair in Bakersville on any Tuesday before hard freeze, Mister Brennan,” Parrish said, “and file a plain sworn statement setting out where your mill use ends at that granite post. Do that before a warrant issues, and the line holds at that oak. Wait until deputy marshals ride down your cart track behind a gauger, and I must certify the whole connected premise from the dam apron to the lower barn.”
 
 “No,” Joshua said.
 
-Parrish studied the spare gray beard and steady mouth before him. Once he inclined his head, taking a price he would not ask twice.
+Parrish studied the spare gray beard and steady mouth before him. Once he inclined his head.
 
-Joshua laid the iron wrench flat on the oak timber beside the hopper. At the garner wall he took a two-bushel sack by the ears. Without grunting he swung its hundredweight clean onto the hopper frame. Then he untied the hickory string at its neck.
+Joshua laid the iron wrench on the oak timber beside the hopper. At the garner wall he took a two-bushel sack by the ears, swung its hundredweight onto the hopper frame without grunting, and untied the hickory string at its neck.
 
 “The road’s open down the creek, Mister Parrish,” Joshua said.
 
-“Good day to you, Mister Brennan,” Parrish answered evenly.
+“Good day to you, Mister Brennan,” Parrish answered.
 
-He stepped out across the sunny sill and untied the bay gelding. He swung smoothly into leather. Without pausing again at the white-oak stone or turning his head toward Margaret’s barn, he walked the bay down the hollow trace until the dark laurel at the bend hid horse and coat together.
+Stepping out across the sunny sill, he untied the bay gelding and swung into leather. Without pausing again at the white-oak stone or turning his head toward Margaret’s barn, he walked the bay down the hollow trace until the dark laurel at the bend hid horse and coat together.
 
 ---
 
@@ -114,23 +114,23 @@ Inside the doorway he waited until the last iron shoe-click died out. Then he dr
 
 Wind off Big Yellow hummed dry through dead jimson stalks by the step. Inside, he shut the split-oak door and slid the wooden bolt home.
 
-Gray ash lay cold over last night’s hickory coals on the hearth. Beside the andirons sat a three-legged iron skillet scraped bright with sand and one tin cup turned bottom-up on the clean hearthstone. Across the room the batten door to the inner chamber stood latched shut on its wooden pin as it stayed from frost to frost, leaving only his narrow cord-bed in the corner and one washed hickory shirt hanging flat from a locust peg. Only the small shelf-clock ticked high on the mantel board.
+Gray ash lay cold over last night’s hickory coals on the hearth. Beside the andirons sat a three-legged iron skillet scraped bright with sand and one tin cup turned bottom-up on the clean hearthstone. Across the room the batten door to the inner chamber stood latched shut on its wooden pin as it stayed from frost to frost, leaving only his narrow cord-bed in the corner and one washed hickory shirt hanging from a locust peg. Only the small shelf-clock ticked high on the mantel board.
 
-Alone in the low room, Joshua stood by the hearth post. Scrubbed poplar boards lay bare under his boots. Reaching behind the clock case, he lifted a flat brass key from its nail.
+Alone in the low room, Joshua stood by the hearth post. Scrubbed poplar boards lay bare under his boots. Reaching behind the clock case, he lifted a small brass key from its nail.
 
-Under the south window stood the small walnut table his father had brought over the Blue Ridge in a covered wagon forty years back. Joshua fitted the brass bit into the keyhole. He turned it once until the spring bolt snapped back. He drew the deep drawer out into the light.
+Under the south window stood the small walnut table his father had brought over the Blue Ridge in a covered wagon forty years back. Joshua fitted the brass bit into the keyhole, turned it until the spring bolt snapped back, and drew the deep drawer into the light.
 
 Right in front lay the tied oilskin pouch.
 
-He loosened the leather string and counted every piece out onto the bare walnut top in neat, separate piles so no coin touched its neighbor. Thirty-six worn silver half-dollars stood stacked six high for eighteen dollars. Four silver quarters made nineteen. One creased five-dollar United States note brought the count to twenty-four dollars even. Every piece stood for white bread-meal struck level in a half-bushel tub four pounds at a grinding since dog days, hauled down rocky ruts behind the claybank mare and sold out at forty cents and fifty cents while town buyers pinched the flour between their thumbs.
+He loosened the leather string and counted every piece out onto the bare walnut top in separate piles so no coin touched its neighbor. Thirty-six worn silver half-dollars stood stacked six high for eighteen dollars. Four silver quarters made nineteen. One creased five-dollar United States note brought the count to twenty-four dollars even. Every piece stood for white bread-meal struck level in a half-bushel tub four pounds at a grinding since dog days, hauled down rocky ruts behind the claybank mare and sold out at forty cents and fifty cents while town buyers pinched the flour between their thumbs.
 
 Three-line schedules sent to Bakersville bought that pile four times over in one winter.
 
 Joshua looked into the open drawer behind the front strip. No dime had slipped into the crack. With two fingers he lifted the gray homespun flannel lining the bottom.
 
-Three flat papers lay side by side on the bare poplar board.
+Three papers lay side by side on the bare poplar board.
 
-On top lay Hoss Tyler’s narrow white receipt from the tenth of November last autumn. Steep black ink crossed the slip: *Received of Joshua Brennan twenty-four dollars lawful money, one year’s interest to date upon four hundred dollars secured by deed of trust on the Elk Cove mill tract.*
+On top lay Hoss Tyler’s narrow white receipt from the tenth of November last autumn. Upright black ink crossed the slip: *Received of Joshua Brennan twenty-four dollars lawful money, one year’s interest to date upon four hundred dollars secured by deed of trust on the Elk Cove mill tract.*
 
 Half showing beneath the receipt lay a stitched double leaf of coarse blue-lined foolscap. Across its head stood the years *eighteen sixty-six*, *eighteen sixty-seven*, *eighteen sixty-eight*, and *eighteen sixty-nine* written in Joshua’s own square hand in faded brown walnut-hull ink, five years before his mill paper ever went into Hoss Tyler’s iron safe. No boy’s Christian name stood anywhere on the sheet. Down the left margin ran only the month and *To Jacob’s house*:
 
@@ -143,9 +143,9 @@ Under the stitched foolscap leaf, rubbed soft as dressed buckskin along its thre
 
 For half a minute no sound moved in the shut room save a dry oak leaf sliding across the roof shakes overhead and the small brass pendulum swinging behind the glass door on the mantel.
 
-Joshua laid the gray flannel smooth over all three papers. He lifted none of them from its place. He swept the thirty-six half-dollars, the four quarters, and the five-dollar greenback back into the oilskin pouch, knotted the leather string tight, and set the pouch squarely on top of the flannel. He pushed the walnut drawer shut and turned the brass key.
+Lifting none of them from its place, Joshua laid the gray flannel smooth over all three papers. He swept the thirty-six half-dollars, the four quarters, and the five-dollar greenback back into the oilskin pouch, knotted the leather string tight, and set the pouch on the flannel before locking the walnut drawer.
 
-Key hung back behind the clock, he unbolted his door and went down.
+After hanging the key back behind the clock, he unbolted his door and went down.
 
 ---
 
@@ -155,7 +155,7 @@ Joshua walked past the barred millhouse without stopping. Down the rutted bench 
 
 Joshua halted two paces uphill of the granite post on his own turf.
 
-Saturday work went brisk in the raw wind round Margaret’s lower barn. Caleb had thrown off his wool roundabout and stood in rolled shirt-sleeves at the chopping block, swinging a five-pound poll axe into seasoned chestnut bolts from the shoulder. His broad wrists dropped square on the helve with the exact unhurried snap Joshua brought down on an ash wedge at the millstone hoist. Every bolt split clean through the heart at one blow.
+Saturday work went brisk in the raw wind round Margaret’s lower barn. Caleb had thrown off his wool roundabout and stood in rolled shirt-sleeves at the chopping block, swinging a five-pound poll axe into seasoned chestnut bolts from the shoulder. His broad wrists dropped on the helve without hurry, splitting every bolt through the heart at a single blow.
 
 Twenty feet lower, right beside the split-chestnut trough where Joshua’s cold tailrace splashed into the spring branch, Jacob knelt over an eighty-gallon mash barrel laid on its side. He poured a steaming bucket of scalding kettle water through the bung-hole, drove a wooden plug snug with his palm, and rolled the heavy oak staves hard back and forth over two peeled skids to sweeten the sour meal crust inside. Over by the corn-crib corner Matthew sat hunched on an upturned half-bushel tub beside the bay mule, scraping dried red turnpike clay off the welts of his brogans with an old case-knife.
 
@@ -163,7 +163,7 @@ Jacob straightened from the barrel and wiped wet ash off his wrist. “Fetch me 
 
 Caleb drove his axe blade deep into the chestnut block. Taking the wooden scraper off the sill, he laid it in Jacob’s palm.
 
-Up by the house porch Margaret’s kitchen shutter stayed closed, though gray wood-smoke blew flat from the stone chimney toward the creek.
+Up by the house porch Margaret’s kitchen shutter stayed closed, though gray wood-smoke blew low from the stone chimney toward the creek.
 
 Joshua stepped off the bench track, crossed the wet footlog over the branch where the chestnut trough joined the spring run, and walked onto Margaret’s forty acres.
 

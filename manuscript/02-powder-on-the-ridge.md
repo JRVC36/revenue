@@ -18,7 +18,7 @@ He went back inside. Dropping the bolt home, he blew on his cold knuckles. Then 
 
 Monday morning he let the pond fill behind the shut gate and carried the six-foot bar of Cranberry flat iron out onto the anvil block beside the wheel pit.
 
-Two of the lower oak rim-planks on the waterwheel had split along the bolt holes where the old band popped in August. Left unstrapped till January, winter ice building on the buckets would pry the timber apart and throw the twelve-foot rim out of round. Joshua laid his wooden square across the iron. He scribed a bright line with a cold chisel. Setting the bar over the anvil edge, he struck four heavy blows with the six-pound sledge to nick the forged metal all round. The fifth blow snapped it clean across the grain. Inside, the break showed gray and sound without a flaw.
+Two lower oak rim-planks on the waterwheel had gaped along the bolt holes since the August band parted. Joshua laid his wooden square across the iron. He scribed a bright line with a cold chisel. Setting the bar over the anvil edge, he struck four heavy blows with the six-pound sledge to nick the forged metal all round. The fifth blow snapped it clean across the grain. Inside, the break showed gray and sound without a flaw.
 
 He set the cold punch on the chalk dot. Three blows drove the steel point halfway through. Turning the strap over the round hole in the anvil face, he knocked the iron slug clear. A hot burr fell smoking into the weeds.
 
@@ -30,7 +30,7 @@ Joshua leaned the sledge against the block. He wiped black scale from his palm. 
 
 “Coarse meal’ll do the old woman,” Elihu said.
 
-Stiffly he eased one leg over the sorrel’s rump. His brogans came down flat in the dust. Joshua stepped to the off side. He untied the hickory bark string. Both rye sacks went onto the sill plank off his own shoulder.
+Stiffly he eased one leg over the sorrel’s rump. His brogans settled heavy in the dust. Joshua stepped to the off side, untied the hickory bark string, and swung both rye sacks onto the sill plank off his own shoulder.
 
 Elihu watched him hook the first sack onto the hanging iron scale. Neither hand moved from his belt. “Left Tom’s axe at the woodpile Saturday,” the old man said.
 
@@ -66,7 +66,7 @@ Fifty yards ahead stood a three-legged ash tripod on dark iron-streaked rock.
 
 Joshua halted the mare at the edge of the cut laurel. Both hands stayed quiet on the reins.
 
-Behind the tripod stood a lean, square-shouldered man of forty in laced calfskin ankle-boots and brown corduroy trousers tucked neat above the mud, turning a small brass thumb-screw beneath a leveled telescope tube. Red-ruled leather pages lay open in his left palm. Seventy feet ahead along the cleared crest knelt young Tom Burleson in the huckleberries with a short axe under his knee. Tom held the brass ring of a heavy steel chain taut against a cleft chestnut stake while a third man in a flannel overshirt held a red-and-white sighting pole upright on the rise beyond.
+Behind the tripod stood a lean, weather-creased man with gray at his temples, wearing laced calfskin ankle-boots and brown corduroy trousers tucked high above the mud. Slowly he turned a small brass thumb-screw beneath a leveled telescope tube. Red-ruled leather pages lay open in his left palm. Seventy feet ahead along the cleared crest knelt young Tom Burleson in the huckleberries with a short axe under his knee. Tom held the brass ring of a heavy steel chain taut against a cleft chestnut stake while a third man in a flannel overshirt held a red-and-white sighting pole upright on the rise beyond.
 
 “Back a quarter-inch on the heel, Burleson,” the man at the brass glass called. His speech clipped hard off the tongue, northern and unhurried. “Hold steady there. Mark station.”
 
@@ -86,11 +86,11 @@ Tom Burleson stood up, wiping red chalk dust onto his homespun thigh. His ears r
 
 “Narrow-gauge line,” the northern man said pleasantly. He slid a brass dust-shutter closed over his eyepiece. “Rails laid three feet apart — one man’s stride, tight enough to curve round a gorge spur. Hendrick, out of Mauch Chunk, for Mister Pardee’s company down at the ore bank. We’re tying our preliminary levels from the Doe River narrows across the state divide into Cranberry Creek before snow shuts the gap.”
 
-Joshua looked once down the east pitch toward the cove ridges, then back at the chiseled cross cut clean into the dark rock beneath the brass plumb-bob. “Your line crosses two private grants south of that poplar.”
+Joshua looked once down the east pitch toward the cove ridges, then back at the chiseled cross cut into the dark rock beneath the brass plumb-bob. “Your line crosses two private grants south of that poplar.”
 
 “Preliminary stakes hurt no man’s timber,” Hendrick said, resting one forearm lightly across the telescope barrel. “Where the company doesn’t already hold mineral fee, right-of-way deeds wait till the directors file the narrow-gauge charter in the spring. Right now we’re finding whether three-foot iron can climb out of Tennessee rising two feet in every hundred without doubling the hill.”
 
-Joshua studied the round silvered compass box sunk into the brass plate. Its blued needle stood loose. Hard against the west pin it quivered, nowhere near north.
+Joshua studied the round silvered compass box sunk into the brass plate. Its blued needle had swung off center and hung trembling against the west brass pin, nowhere near north.
 
 Hendrick followed his look and let out a short dry breath. Reaching into his corduroy coat pocket, he drew out a round flat brass case the size of a turnip watch, flipped back the hinged lid, and knelt to set it edgewise on the gray outcrop three inches from the mare’s forehoof. Inside the glass ring hung a balanced steel needle on a horizontal pin. The instant the brass foot touched the ledge, the blued point dipped forty degrees straight down toward the sole of Joshua’s boot and stayed there trembling like a peeled switch over water.
 
@@ -126,17 +126,17 @@ Joshua halted the claybank. Neither man spoke until Caleb came down the bank wit
 
 “Straight as shingle wood,” Joshua said. He looked down at the two chestnut stakes in Caleb’s palm. Down the planed face of the top piece ran the northern surveyor’s block letters in red keel: a cross-mark and *fill two*.
 
-Caleb turned the stakes over once. Red clay tapped off their tips against his boot heel. Both went under the hickory withe on his pack-saddle beside the stove kindling.
+Caleb turned the stakes over once, tapped the red clay off their tips against his boot heel, and shoved both stakes under the hickory withe on his pack-saddle beside the stove kindling.
 
 “Cut a slot clean across the saddle above Sugar Fork,” Caleb said, nodding back toward the high crest where an oblong notch of pale October sky now sat open through timber that had been black laurel ten days ago. “Man standing behind that brass glass on the bald can look clear down the upper cattle trace to the walnut tree.”
 
 “They’re running grade levels from the Doe,” Joshua said. “Not hunting stills.”
 
-“Sight-line doesn’t care who cut it once the brush is down,” Caleb said. Not a muscle in his jaw hurried. He shifted the rifle an inch in his elbow, tried the rawhide girth on the pack-mare’s belly with two fingers, and gathered her rope halter. “Left two of those stakes driven dead in the middle of the mule path by the spring head. Mare shied at the red paint.”
+“Sight-line doesn’t care who cut it once the brush is down,” Caleb said. He shifted the rifle an inch in his elbow, tried the rawhide girth on the pack-mare’s belly with two fingers, and gathered her rope halter. “Left two of those stakes driven dead in the middle of the mule path by the spring head. Mare shied at the red paint.”
 
 “Leave their hubs alone up on the company’s ridge, Caleb.”
 
-“Didn’t go on the company’s ridge,” Caleb said evenly. “Pulled what sat in our cow path. You setting that iron strap on the wheel tomorrow?”
+“Didn’t go on the company’s ridge,” Caleb said. “Pulled what sat in our cow path. You setting that iron strap on the wheel tomorrow?”
 
 “Soon as I punch the last two holes.”
 
@@ -148,7 +148,7 @@ Down at the tailrace bridge the sun had dropped behind Big Yellow, leaving cold 
 
 As Joshua’s mare stepped onto the gravel approach, Tom dug two fingers into his vest pocket. He held out his open palm over the bridge rail.
 
-Flat across the black calluses lay a broad new silver dollar, its eagle wing sharp from the Philadelphia dies, beside two silver quarters and two dimes.
+Across the black calluses lay a broad new silver dollar, its eagle wing sharp from the Philadelphia dies, beside two silver quarters and two dimes.
 
 Matthew set the nubbin basket down on the plank between his brogans. He did not touch the money. His eyes went first to the heavy greased lacing on Tom’s dry boots, then back to the silver pieces catching the last light off the millpond.
 
@@ -158,7 +158,7 @@ Matthew’s thumb worked twice against the frayed seam of his breeches. His lips
 
 Joshua let the claybank mare’s iron shoe strike a flat stone on the bank.
 
-Matthew’s head came up sharp. His mouth shut on the next number. Without looking again at Tom Burleson, he bent, swung the basket of nubbins onto his shoulder hard enough to spill two small ears into the burdock, and walked straight down the cart road past the white-oak boundary stone. Neither ear did he pick up.
+Matthew’s head came up sharp. His mouth shut on the next number. Without looking again at Tom Burleson, he bent, swung the basket of nubbins onto his shoulder hard enough to spill two small ears into the burdock, and walked straight down the cart road past the white-oak boundary stone. He left both ears lying in the weeds.
 
 Tom shifted his brush-hook onto his other shoulder and looked up at Joshua with an awkward grin. “Hendrick says they’ll buy sound white-oak bridge stringers for cash come spring, Joshua, if a man has timber near the grade.”
 
@@ -174,7 +174,7 @@ All his fifty years every quarrel over ground in these mountains had hung on cor
 
 Iron shoes splashed slow through the shallow ford below the bridge.
 
-Joshua stood upright from the wheel rim. He wiped rust off his palms onto his apron. Out of the hemlock shadow rode William Harper on his heavy brown mare, an empty meal poke folded neat across his saddlebow and dry red mud crusted to the buckles of his stirrup leathers from the Bakersville road.
+Joshua stood upright from the wheel rim. He wiped rust off his palms onto his apron. Out of the hemlock shadow rode William Harper on his heavy brown mare, an empty meal poke folded across his saddlebow and dry red mud crusted to the buckles of his stirrup leathers from the Bakersville road.
 
 Harper reined in at the foot of the dam bank without dismounting. Under his wool hat his square-trimmed gray beard showed pale in the twilight. Once he glanced past Joshua’s shoulder toward the northern notch, where Saturday’s powder had shaken the windows, then reached inside the breast of his homespun coat.
 
@@ -182,7 +182,7 @@ Harper reined in at the foot of the dam bank without dismounting. Under his wool
 
 “Left the courthouse at one,” Harper said. “Stopped by Hoss Tyler’s to fetch a bar of lead, and Tyler had two of these lying behind his inkstand off the mail hack. One’s yours.”
 
-He held down a folded half-sheet of heavy white ruled paper, unsealed, with Joshua’s name written clean across the back in black gall ink.
+He held down a folded half-sheet of heavy white ruled paper, unsealed, with Joshua’s name written across the back in black gall ink.
 
 Joshua broke the fold open. He angled the sheet toward the last pale shine off the slack millpond. Every letter stood small, upright, and even, written by a clerk who mended his steel nibs before they split. In plain courthouse words Mister William Parrish, United States Internal Revenue Agent, gave notice of his office above the saddler’s shop opposite the courthouse at Bakersville, requesting the public millers and freeholders of Cranberry Township to call Thursday, the tenth of October, at noon.
 

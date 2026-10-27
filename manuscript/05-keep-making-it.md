@@ -4,9 +4,9 @@ Cold sleet blew slantwise out of the Tennessee gap by two o’clock. Gray needle
 
 Under the low eaves of his drying shed Joshua unbuckled the wet leather saddlebags off the claybank mare. His knuckles were stiff and red from the two-mile climb out of Cranberry Creek. Before hanging the bridle on its locust peg, he reached inside his wool waistcoat, drew out his oilskin pouch, and checked the folded slip inside with a dry thumb.
 
-Hoss Tyler’s brown ink had dried clean before noon: *Received of J. Brennan, twenty-four dollars lawful money, one year’s interest to November tenth, eighteen seventy-eight, upon deed of trust.*
+Hoss Tyler’s brown ink had dried before noon: *Received of J. Brennan, twenty-four dollars lawful money, one year’s interest to November tenth, eighteen seventy-eight, upon deed of trust.*
 
-Nothing else lay in the pouch. Thirty-six silver halves, four quarters, and the worn five-dollar United States note had gone into Tyler’s iron safe beneath the walnut desk, leaving Joshua’s cabin drawer bare as a swept hearthstone until spring wagons came back over the mountain. Outside Tyler’s post-box at the forks, nailed fresh into the wet pine clapboards beside the Bakersville mail bill, two printed Treasury sheets had hung limp in the sleet, setting forth Section forty-four in black government type for any teamster who could spell it out.
+Nothing else lay in the pouch. Thirty-six silver halves, four quarters, and the worn five-dollar United States note had gone into Tyler’s iron safe beneath the walnut desk, leaving Joshua’s cabin drawer empty of coin until spring wagons came back over the mountain. Outside Tyler’s post-box at the forks, nailed fresh into the wet pine clapboards beside the Bakersville mail bill, two printed Treasury sheets had hung limp in the sleet, setting forth Section forty-four in black government type for any teamster who could spell it out.
 
 Joshua rubbed the mare’s chilled back dry with a twist of oat straw, latched the stall bar, and walked down the slick bench path past the forked white oak.
 
@@ -40,7 +40,7 @@ Jacob stood up slowly from the barrel, brushing white-oak curls off his knees. �
 
 Jacob let out a short, rough breath through his nose. Turning to the wall bench, he laid the wooden mallet down beside his drawing-knife. “What does his blessed government paper even cost down at Statesville, then, if a man wanted to buy their stamp and shut his mouth?”
 
-“Ninety cents cash coin on every hundred-proof gallon before the bung goes in,” Joshua said evenly. “Half again what Tyler allows you in salt and cloth. And you couldn’t sign their bond if you had a bushel basket of silver dollars on that bench.”
+“Ninety cents cash coin on every hundred-proof gallon before the bung goes in,” Joshua said. “Half again what Tyler allows you in salt and cloth. And you couldn’t sign their bond if you had a bushel basket of silver dollars on that bench.”
 
 Jacob frowned. “Why not?”
 
@@ -48,17 +48,17 @@ Jacob frowned. “Why not?”
 
 Silence held under the low oak rafters. Outside, sleet ticked faster on the stacked firewood.
 
-Jacob’s jaw set square. “Eight bushels of shelled corn hauled two days over Jonas Ridge brings two dollars when valley men feel charitable. Four mouths in that house eat salt and wear cloth twelve months of the year. Father boiled his winter chop on this branch before Washington had a clerk in Statesville. I steal no man’s horse, Joshua. I work my own grain with my own hands.”
+Jacob looked down at his callused knuckles. “Valley wagons don’t pay mule-feed on shelled corn, Joshua. Four mouths in that house eat salt and wear cloth twelve months of the year. Father boiled his winter chop on this branch before Washington had a clerk in Statesville. I steal no man’s horse. I work my own grain with my own hands.”
 
 “Right has nothing to do with it,” Joshua said. “They have guns and paper.”
 
-Jacob looked past Joshua’s shoulder up the wet slope toward the invisible boundary stone under the rhododendron laurel, then back into his elder brother’s eyes. Neither man raised his voice.
+Jacob looked past Joshua’s shoulder up the wet slope toward the invisible boundary stone under the laurel, then back into his elder brother’s eyes. Neither man raised his voice.
 
 “Rafe Winters rode over from Sugar Hollow while you were down at the forks,” Jacob said. “Old Amos Councill’s walking across from North Fork after supper, and Boone Pritchard and the boys from Little Elk. Too raw to talk in the laurel. Ten or twelve of us mean to step into your upper mill barn round seven.”
 
 Joshua’s face did not move. Up the bank stood his mill barn, dry-floored, thirty yards inside his mortgaged eighty-six acres.
 
-“You barring your latch against neighbors?” Jacob asked quietly.
+“You barring your latch against neighbors?” Jacob asked.
 
 Joshua looked once up toward Margaret’s closed kitchen shutter, where thin blue hickory smoke flattened under the sleet, then back at Jacob.
 
@@ -76,7 +76,7 @@ Men came up the cove road singly and by twos without lanterns. Each man stamped 
 
 Rafe Winters from Sugar Hollow came in first, shaking sleet out of his thick red beard, forty winters old and broad enough in the shoulders to lift a full mash barrel out of a sled bed alone. Behind him walked Boone Pritchard and Eben Gouge from Little Elk, where a thirty-gallon copper kettle served three cousins’ cabins, followed by Larkin Dugger from Beech Creek and six quiet heads of cove households whose mules wore Joshua’s path smooth every autumn.
 
-Then the latch lifted again. In stepped old Amos Councill from North Fork, past seventy, lean as a seasoned hickory rail in a homespun jeans coat patched neat at both elbows. His dead son’s widow Sarah kept five thin acres up the cold fork with fifteen-year-old Lish, the grandson who split locust fence pins along the ridge to earn their winter meal.
+Then the latch lifted again, and old Amos Councill from North Fork stepped inside, past seventy, lean as a seasoned hickory rail in a homespun jeans coat patched at both elbows. His dead son’s widow Sarah kept five thin acres up the cold fork with fifteen-year-old Lish, the grandson who split locust fence pins along the ridge to earn their winter meal.
 
 Right behind old Amos, filling the doorway, came William Harper from the turnpike farm, his wet wool hat in his hand and his two eldest grown sons, Luke and Thomas, quiet at his shoulders. Harper owned no copper and ran no chop. Nobody stopped him at the sill. Men nodded low to him and made room beside the oat bin.
 
@@ -102,7 +102,7 @@ Amos Councill looked across the lantern light toward the scale post. “Joshua. 
 
 Joshua did not step forward from the post.
 
-“Ninety cents in lawful money on every hundred-proof gallon,” Joshua said, flat as calling scale weight. “Nearly a full ten-hour day’s axe-hire on every single gallon in your jug. Five hundred dollars fine and up to two years at Statesville for any copper set in a barn or yard near a house. And under Section forty-four, where untaxed whiskey runs on a deed, the government forfeits the kettle, the beasts, the tract of land itself, and every premise connected with it — cutting ahead of any man’s mortgage.”
+“Ninety cents in lawful money on every hundred-proof gallon,” Joshua said. “Nearly a full ten-hour day’s axe-hire on every single gallon in your jug. Five hundred dollars fine and up to two years at Statesville for any copper set in a barn or yard near a house. And under Section forty-four, where untaxed whiskey runs on a deed, the government forfeits the kettle, the beasts, the tract of land itself, and every premise connected with it — cutting ahead of any man’s mortgage.”
 
 Nobody spoke for five breaths. Sleet rattled sharp against the north shutter.
 
@@ -132,7 +132,7 @@ Jacob turned to the circle of wet coats. “Winter’s locking down. Move copper
 
 “Who watches the turnpike fork?” Eben Gouge asked.
 
-“One boy up on Beech Knob from sunup till four,” Jacob said. “From that south rock a boy looks two miles clean down Yellow Mountain Turnpike past the Forge bridge. Strange shod horses turn off toward Elk Creek, two long blasts on a hollowed turkey-wing bone carries clean up both hollows in ten seconds. Gives any man twenty minutes to rake his fire dead and pitch hay over his cooling barrel.”
+“One boy up on Beech Knob from sunup till four,” Jacob said. “From that south rock a boy looks two miles clear down Yellow Mountain Turnpike past the Forge bridge. Strange shod horses turn off toward Elk Creek, two long blasts on a hollowed turkey-wing bone carries clean up both hollows in ten seconds. Gives any man twenty minutes to rake his fire dead and pitch hay over his cooling barrel.”
 
 Old Amos Councill tapped his sourwood stick once on the plank. “Sarah’s boy Lish splits locust fence pins up on Beech Knob four days the week anyhow. Boy’s fifteen and sharp-eyed as a hawk. Half a bushel of white meal a week keeps his mother’s skillet greased through February.”
 
@@ -154,11 +154,11 @@ Dead quiet dropped across the barn. Nobody coughed. Even the sleet outside sound
 
 Rafe Winters spat brown tobacco juice into the loose hull chaff beside the post. “Easy talk for a man with forty tons of cured timothy hay in a tight double-crib loft and four grown boys hauling Forge iron, William. My young ones don’t eat hay.”
 
-Harper did not turn his head toward Winters. He stood looking straight at Jacob five breaths longer, waiting to see if one other voice under the rafters would stand beside him.
+Harper did not turn his head toward Winters. He stood looking straight at Jacob five breaths longer around the silent circle.
 
 Nobody spoke. Jacob’s eyes stayed level and hard as flint on the floor between them.
 
-Harper set his damp wool hat square on his head. Once he looked past the lantern to the scale post where Joshua stood silent with folded arms. A single brief nod passed from Harper’s chin to Joshua’s. Then Harper lifted the oak latch. With Luke and Thomas behind him, he stepped out into the sleet and pulled the door shut.
+Harper settled his damp wool hat on his head. Once he looked past the lantern to the scale post where Joshua stood silent with folded arms. A single brief nod passed from Harper’s chin to Joshua’s. Then Harper lifted the oak latch. With Luke and Thomas behind him, he stepped out into the sleet and pulled the door shut.
 
 ---
 
@@ -168,7 +168,7 @@ Men buttoned collars to the chin, settled wet hats low, and slipped out by ones 
 
 At the doorway Caleb lifted the tin lantern off its nail and held the plank wide against the wind so light fell across the iced sill log.
 
-“Watch that glaze on the lower step, Father,” Caleb said quietly, rifle cradled crooked in his dry left arm.
+“Watch that glaze on the lower step, Father,” Caleb said, rifle cradled in his dry left arm.
 
 “Got it,” Jacob said. Side by side, their shoulders matched to the same steady mountain stride, the two of them walked down into the sleet toward Margaret’s dark forty acres.
 
@@ -178,7 +178,7 @@ He had not spoken one syllable the whole two hours. Turning his thin coat collar
 
 Joshua slid the heavy oak bar across the inside of his barn door.
 
-Alone under the rafters, he hung the spare barn lantern on the scale hook and took the flat hickory splint broom down from its peg behind the garner. Methodically, working from the far wall toward the race crack, he swept every frozen clod of red turnpike clay, every crushed oat hull, and Rafe Winters’s wet tobacco quid clean off the wide oak planks. Tomorrow morning widow women and old men like Elihu Burleson would lead mares up to this sill with half-bushels of bread corn. Nothing on Joshua’s floor would show that thirteen men had stood inside his mortgaged walls after dark agreeing not to know their neighbors’ business.
+Alone under the rafters, he hung the spare barn lantern on the scale hook and took the flat hickory splint broom down from its peg behind the garner. Methodically, working from the far wall toward the race crack, he swept every frozen clod of red turnpike clay, every crushed oat hull, and Rafe Winters’s wet tobacco quid off the wide oak planks. Tomorrow morning widow women and old men like Elihu Burleson would lead mares up to this sill with half-bushels of bread corn. Nothing on Joshua’s floor would show that thirteen men had stood inside his mortgaged walls after dark agreeing not to know their neighbors’ business.
 
 He leaned the broom back in its corner and cracked the side shutter an inch to shake the dust out over the ditch.
 

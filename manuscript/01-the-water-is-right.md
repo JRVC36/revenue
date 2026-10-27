@@ -4,7 +4,7 @@
 
 A wet plank cracked down at the footbridge. Fog still hung thick on Elk Cove Creek. Right behind the crack came a boy’s shout, then iron mule shoes scraping slick oak.
 
-Joshua Brennan dropped the iron bar at his dam gate. Snatching a six-foot ash pry-pole off the porch pegs, he ran down the rocky bank through the rhododendron laurel.
+Joshua Brennan dropped the iron bar at his dam gate. Snatching a six-foot ash pry-pole off the porch pegs, he ran down the rocky bank through the rhododendron.
 
 Thirty yards below the stopped waterwheel, the narrow log bridge crossed his race ditch without a rail. Two pack animals had come up the cart road from the lower forty acres where Joshua’s younger brother Jacob lived with his wife Margaret and the two boys raised under their roof. Caleb, the elder boy at twenty-one, had led his father’s steady brown mare safe across the wet puncheons. Close behind him stood nineteen-year-old Matthew. Boots sliding in the mud, Matthew hauled backward with both fists on the halter rope of his young bay mule.
 
@@ -12,17 +12,17 @@ The green mule had shied at the white spill of creek water. Both hind hooves hun
 
 “Hold his head up!” Matthew shouted from the bank. “Don’t let him roll in that ditch, Uncle Joshua — I still owe twelve dollars on his half down at Hoss Tyler’s store!”
 
-Caleb wasted no breath answering his brother. He dropped the brown mare’s rein. He jumped straight off the bank into knee-deep icy water below the bridge.
+Caleb wasted no breath answering his brother. Dropping the brown mare’s rein, he jumped straight off the bank into knee-deep icy water below the bridge.
 
 Cold spray splashed to Caleb’s belt. Planting both boots on the slick bottom slates, he braced one broad shoulder square under the mule’s trembling hip so the hind legs could not snap against the stone wall. Up on the planks Joshua jammed the heavy ash pole under the girth strap. He threw his fifty-year-old weight across the butt end. Oak fibers groaned, holding the load an inch clear of the drop.
 
 “Cut the bark tie on the off side,” Joshua told Caleb. “Leave the saddle.”
 
-Caleb kept his shoulder tight against the heaving flank. Drawing his shut clasp-knife from his pocket, he opened the blade with his teeth and sliced upward through the twisted hickory bark holding the lower sacks. Two two-bushel tow bags dropped onto dry gravel beside the ditch. Neither seam split. Freed of over a hundred pounds on the low side, the bay mule lunged forward at Joshua’s heave, caught flat wood under both hind shoes, and scrambled trembling onto solid ground beside the mill sill.
+Caleb kept his shoulder tight against the heaving flank. Drawing his shut clasp-knife from his pocket, he opened the blade with his teeth and sliced upward through the twisted hickory bark holding the lower sacks. Two two-bushel tow bags dropped onto dry gravel beside the ditch. Neither seam split. Freed of over a hundred pounds on the low side, the bay mule lunged forward at Joshua’s heave, caught level oak under both hind shoes, and scrambled trembling onto firm ground beside the mill sill.
 
 Matthew let out his breath and wiped wet hair from his eyes. Hurrying to the gravel bank, he pinched both fallen tow sacks along the bottom corners to make sure none of the grain had spilled in the mud.
 
-Caleb climbed out of the race ditch. Dark creek water streamed from his trouser cuffs. Before touching the corn, he walked quietly to the bay mule’s hip and lifted the leather strap where a skipped buckle-hole had rubbed raw red skin above the hock during the scramble. He drew the tongue one notch tighter. Then he tucked the strap end clean.
+Caleb climbed out of the race ditch. Dark creek water streamed from his trouser cuffs. Before touching the corn, he walked quietly to the bay mule’s hip and lifted the leather strap where a skipped buckle-hole had rubbed raw red skin above the hock during the scramble. He drew the tongue one notch tighter and tucked the strap end.
 
 “Should’ve let the old mare lead him close,” Matthew muttered, heaving one sack onto the mill porch. “Water’s loud after midnight.”
 
@@ -60,7 +60,7 @@ Halfway through the third sack an iron bolt snapped outside in the wheel-pit.
 
 At every turn after it, loose rusted iron slapped the stone wall. Water shook in drops off the rafters.
 
-Joshua shoved the gate lever halfway shut at once. Outside, the big wheel slowed to a heavy crawl. Stepping to the side shutter, Joshua leaned out over the dripping buckets. One of the old wrought-iron bands binding the lower oak rim of the wheel had rusted through at the rivet hole during the August dry spell. A split oak rim-plank had sprung half an inch outward. Left unstrapped into frost, winter ice would tear the wheel apart.
+Joshua shoved the gate lever halfway shut at once. Outside, the big wheel slowed to a heavy crawl. Stepping to the side shutter, Joshua leaned out over the dripping buckets. One of the old wrought-iron bands binding the lower oak rim of the wheel had rusted through at the rivet hole during the August dry spell. A split oak rim-plank had sprung half an inch outward. Left unstrapped into frost, the rim would tear apart under winter ice.
 
 “Hold through the fourth bag?” Caleb asked at his elbow.
 
@@ -80,7 +80,7 @@ Joshua wiped chalk off his thumb onto his apron. “Say it.”
 
 Matthew stopped tying the bread poke at the door. He looked back at his uncle.
 
-“Father wants to know,” Caleb went on evenly, “can we knock the slate plug out of your race ditch above the white-oak stone at eleven and prop two split-chestnut troughs across the line into his cooling barrel till rain comes.”
+“Father wants to know,” Caleb went on, “can we knock the slate plug out of your race ditch above the white-oak stone at eleven and prop two split-chestnut troughs across the line into his cooling barrel till rain comes.”
 
 Silence held in the dim room. Outside, the stopped wheel dripped slow.
 
@@ -92,7 +92,7 @@ Silence held in the dim room. Outside, the stopped wheel dripped slow.
 
 Caleb neither argued nor frowned. He nodded once, lifted two full chop sacks onto his dry shoulder, and walked out across the sill behind Matthew.
 
-Joshua stood in the doorway until the two boys and their mules passed out of sight down the rutted cart road through the rhododendron laurel toward Jacob and Margaret’s clearing. Behind the shut gate the slack pond crept up the post a hair’s breadth a minute. Up Cranberry Creek a grown man swung an axe ten hours from sunup to dark for seventy-five cents. Six silver dollars waited on that water at one o’clock: eight full days of a man’s sweat.
+Joshua stood in the doorway until the two boys and their mules passed out of sight down the rutted cart road through the laurel toward Jacob and Margaret’s clearing. Behind the shut gate the slack pond crept up the post a hair’s breadth a minute. Up Cranberry Creek a grown man swung an axe ten hours from sunup to dark for seventy-five cents. Six silver dollars waited on that water at one o’clock: eight full days of a man’s sweat.
 
 ---
 
@@ -110,7 +110,7 @@ Joshua stepped past the granite post without slowing. Below that stone lay forty
 
 Up at the double-log house Margaret came out onto the breezeway planks carrying an empty salt gourd.
 
-In her early forties, lean-shouldered and dark-haired, she wore a faded blue apron pinned neat at the collar. Her braids were wound tight off her temples against the heat. At the sight of the full linen sack on her brother-in-law’s shoulder, she set the gourd down on the wash-bench and pushed the kitchen door wide with her shoe.
+In her early forties, lean-shouldered and dark-haired, she wore a faded blue apron pinned at the collar. Her braids were wound tight off her temples against the heat. At the sight of the full linen sack on her brother-in-law’s shoulder, she set the gourd down on the wash-bench and pushed the kitchen door wide with her shoe.
 
 “You had no call to bring fifty pounds out of your own chest, Joshua,” she said. “Matthew brought the half-peck before nine.”
 
@@ -118,11 +118,11 @@ In her early forties, lean-shouldered and dark-haired, she wore a faded blue apr
 
 Margaret did not test the meal today. Her eyes went once through the open breezeway toward the foot of the clearing forty paces below her kitchen step, where her lower log barn stood tucked under overhanging hemlocks and creek willows. Down the steep bank between the barn and the shallow creek, Caleb moved at a steady, heavy trot carrying two brimming oak water-buckets on a shoulder yoke.
 
-“We’re down to two quarts of coarse salt in the gourd,” Margaret said quietly, neither looking at Joshua nor asking him for anything, “and not enough baking soda left to raise a pan of bread. Jacob’s had the fire under the kettle since ten. That laurel spring behind the logs barely wets the moss.”
+“We’re down to two quarts of coarse salt in the gourd,” Margaret said, neither looking at Joshua nor asking him for anything, “and not enough baking soda left to raise a pan of bread. Jacob’s had the fire under the kettle since ten. That laurel spring behind the logs barely wets the moss.”
 
 “I’m riding down to Hoss Tyler’s before sundown for flat iron to mend my wheel rim,” Joshua said. “I can fetch salt on my credit.”
 
-“Jacob won’t eat salt put on your mill book, Joshua,” Margaret said. Plain fact sat in her voice. “You know your brother.”
+“Jacob won’t eat salt put on your mill book, Joshua,” Margaret said. “You know your brother.”
 
 Joshua took his wool hat off the peg. He walked down the garden path between Margaret’s pole beans and drought-wilted cabbages.
 
@@ -134,9 +134,9 @@ Across the earthen floor stood the tall wooden cooling barrel where the coiled c
 
 Jacob looked round through the heat haze. His eyes met Joshua’s in the doorway.
 
-Jacob did not stand up. Wiping sweat from his brow with a soot-streaked wrist, he turned back to the fire.
+He did not stand up. Wiping sweat from his brow with a soot-streaked wrist, he turned back to the fire.
 
-“Caleb gave me your answer,” Jacob said flatly. “Keep your pond for the Forge wagon. Draw the fire out, Caleb. We’ll let the kettle cool and bucket the whole sixteen bushels down the hog ditch before it bursts the staves.”
+“Caleb gave me your answer,” Jacob said. “Keep your pond for the Forge wagon. Draw the fire out, Caleb. We’ll let the kettle cool and bucket the whole sixteen bushels down the hog ditch before it bursts the staves.”
 
 Caleb set his empty oak buckets down. Wet knuckles hung raw and swollen at his sides. Without a word he reached for the iron ash-shovel.
 
@@ -148,7 +148,7 @@ Down at the copper spout another white puff of uncondensed spirit blew away into
 
 Jacob’s hand stopped on the poker.
 
-Joshua did not step across the threshold into the barn. Turning squarely on his heel in the yard, he looked at Caleb. “Bring the mattock and four forked locust stakes out of your woodpile. And two of those twelve-foot split-chestnut troughs stacked dry behind the corn-crib.”
+Joshua did not step across the threshold into the barn. Turning on his heel in the yard, he looked at Caleb. “Bring the mattock and four forked locust stakes out of your woodpile. And two of those twelve-foot split-chestnut troughs stacked dry behind the corn-crib.”
 
 Caleb had the mattock on his shoulder before Jacob reached the door.
 
@@ -182,7 +182,7 @@ Harper’s two older boys were pitching cured timothy hay through the wide loft 
 
 “Forge teamster drove his wagon up to Tyler’s an hour back looking for twelve bushels of your white meal, Joshua,” Harper called across the ditch. “Had silver in his pouch from the boarding boss.”
 
-“Wheel popped an iron rim-band before noon,” Joshua said evenly. “And water ran short.”
+“Wheel popped an iron rim-band before noon,” Joshua said. “And water ran short.”
 
 Harper’s steady eyes touched the lashed bundle of dry fodder in the middle of Jacob’s sled once, then came back to Joshua’s face without a flicker. He asked nothing more. “Creek down at Cranberry Forge barely turns the trip-hammer past two o’clock,” Harper said. “Tell Hoss Tyler my boy’ll bring the wagon down Saturday for our winter salt.”
 
@@ -194,7 +194,7 @@ Tyler stood behind the high pine counter in a striped ticking apron with steel-r
 
 “Bring them in through the back shed if riders are coming,” Tyler said.
 
-“Turnpike’s empty to Harper’s,” Jacob said. Matthew climbed the steps carrying a jug in each fist. He set them quietly beside the cheese box.
+“Turnpike’s empty to Harper’s,” Jacob said. Matthew climbed the steps carrying a jug in each fist. He set them beside the cheese box.
 
 Tyler pulled the corncob stopper from the first jug with his teeth. Spitting a speck of dry pith into the sawdust, he poured two inches of clear whiskey into a narrow testing glass. One rap on his palm brought the bubble ring even on the line, cold and bright without a cloud. Pouring the sample back, he drove the cob tight with a wooden mallet, tested the second jug the same way, and set both behind the salt barrels.
 
@@ -214,7 +214,7 @@ Tyler looked once at Joshua over his steel spectacles, then down beneath the wal
 
 “I know the day of the month, Hoss,” Joshua said.
 
-Tyler slid his spectacles down onto his nose and stepped to his thick calfskin-bound day book lying open beside the stoneware inkwell. Every page carried its folio number in neat brown ink at the upper corner in Tyler’s upright hand, with no blurs, no scratched-out lines, and no man’s debt trusted to his head past sundown.
+Tyler slid his spectacles down onto his nose and stepped to his thick calfskin-bound day book lying open beside the stoneware inkwell. Every page carried its folio number in brown ink at the upper corner in Tyler’s upright hand, with no blurs, no scratched-out lines, and no man’s debt trusted to his head past sundown.
 
 Turning first to Jacob’s page, Tyler credited four gallons of whiskey at two dollars and fifty cents in store trade. Beneath the August date he wrote the salt, coffee, baking soda, and four yards of shirting line by line until nineteen cents stood over to Jacob’s credit toward October. Flipping twelve pages back to Joshua’s mill account, he entered eighteen pounds of Cranberry flat iron against autumn grinding toll on Tyler’s own bread corn.
 
@@ -230,7 +230,7 @@ Joshua set the iron bar down hard on the pine floor. At the sharp ring of the ir
 
 ---
 
-Blue dusk was settling out of the high balsam gaps before the mule sled climbed back through the hemlocks and rhododendron laurel below Joshua’s dam.
+Blue dusk was settling out of the high balsam gaps before the mule sled climbed back through the hemlocks and rhododendron thickets below Joshua’s dam.
 
 At the forked white-oak boundary stone Jacob and Matthew turned off down the grass ruts toward Margaret’s barn with their salt and cloth. Early nighthawks banked low across the lowered pond.
 
@@ -242,7 +242,7 @@ Everything inside Elk Cove ran round a circle small enough for one pack-mule to 
 
 On the back leaf stood the tenth of November and his mortgage interest. Twenty-four dollars in lawful money fell due at Bakersville upon the four hundred owing to Hoss Tyler against the eighty-six acres, the dam, the corn, and the road: more cash coin than a cove axe-hand cleared in a solid month of ten-hour days. No stoneware jug paid that line. Six silver dollars toward it had sat ready in those twelve bushels against his wall at noon, and now his pond lay a foot below the grinding mark while Margaret’s salt sack sat full in her kitchen.
 
-Joshua wiped his steel pen clean on a wool scrap, shut the book into the drawer, and pinched out the lamp wick between wet thumb and finger.
+Joshua wiped his steel pen dry on a wool scrap, shut the book into the drawer, and pinched out the lamp wick between wet thumb and finger.
 
 Taking his wooden maul from the bench, he unbarred the side door and walked down the dark race bank to the forked white oak and the granite corner-stone to knock the slate plug back into his ditch for the night.
 
