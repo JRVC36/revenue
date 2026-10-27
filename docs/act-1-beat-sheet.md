@@ -151,8 +151,8 @@ Every number, legal rule, and planted object across Chapters 1–8 must match th
 
 ---
 
-### Chapter 6 · *Gauger's Work* (Joshua POV)
-*Saturday, 18 January 1879 · Elk Cove / Beech Knob / Hoss Tyler's Junction Store · Target: ~3,500 words*
+### Chapter 6 · *Gauger's Work* (Joshua POV) — **DRAFTED**
+*Saturday, 18 January 1879 · Elk Cove / Beech Knob / Hoss Tyler's Junction Store · 0 BAN, 0 FLAG*
 *Core engine (`R-3`, `R-10`, `R-11`, `R-14`, `R-17`, `canon §8.6`): Winter standoff; still kept inside Margaret's barn makes the land the case; Lish Councill's ridge whistle; Parrish objects once to "revenuer"; **Tyler's bound day book taken under `Rev. Stat. § 3163` and authenticated by Tyler's own written protest**.*
 
 - **Scene 1 — *Ice on the Wheel & the Boy on Beech Knob* (Elk Cove to turnpike trace, Sat morning 18 Jan — Alone Window #1 → exterior):**
