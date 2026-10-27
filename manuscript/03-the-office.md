@@ -16,15 +16,15 @@ Down at the tailrace bridge William Harper’s brown mare already stood blowing 
 
 They turned south together along the cove trace without another word.
 
-At the turnpike fork Hoss Tyler’s frame storehouse sat shuttered under the hemlocks, though a yellow tallow dip moved behind the oiled paper of the counting-room window. Iron scale-weights clinked once inside as Tyler weighed out blasting powder or coarse salt for an early teamster. Neither horseman drew rein. Below the store their horses’ shoes rang sharp on frozen red ruts, then snapped thin ice skinning the mule puddles where ore wagons had churned past Cranberry Forge.
+At the turnpike fork Hoss Tyler’s frame storehouse sat shuttered under the hemlocks, though a yellow tallow dip moved behind the oiled paper of the counting-room window. Iron scale weights clinked once inside as Tyler weighed out blasting powder or coarse salt for an early teamster. Neither horseman drew rein. Below the store their horses’ shoes rang sharp on frozen red ruts, then snapped thin ice skinning the mule puddles where ore wagons had churned past Cranberry Forge.
 
 River fog hung thick over the bloomery dam, though the big undershot wheel was already turning inside its ice-slicked frame. Every four breaths the trip-hammer fell with a dull iron thud that shook wet hemlock needles off the boughs along the road. Under the open shed roof two soot-blackened striker boys dragged a white-hot loop of charcoal iron from the hearth to the anvil block with long tongs. Across the yard, stacked dry under the porch eaves of the company office out of the frost, leaned six red-and-white level rods and three iron-shod surveyor’s tripods left overnight by the Pennsylvania party. Beyond Cranberry Creek the road climbed out of the laurel gorge and crossed the wide, treeless frost-flat called the Old Fields of Toe. Dead sedge stood knee-high in silver rime. Crows walked stiff-legged among the dry cattle droppings without rising as the two mares trotted past.
 
 First sun struck the high chestnut ridges as they dropped into the crooked valley of the North Toe.
 
-Teams were moving early on the county road. Out of a side hollow came two yoke of red steers hauling boxed sheet mica from the Clarissa pits toward Marion station. Nailed iron hoop-straps bound the pine crates tight. Loose mica flakes dusted the wagon bed and caught the low sun like fish scales in the frozen ruts. Half a mile lower an old man from Plumtree walked beside an ox-sled piled with dried apple quarters sewed up in tow sheets. Every driver lifted two fingers off whipstock or rein as Joshua and Harper passed. Nobody halted on an open bank to ask courthouse business.
+Teams were moving early on the county road. Out of a side hollow came two yoke of red steers hauling boxed sheet mica from the Clarissa pits toward Marion station. Nailed iron hoop-straps bound the pine crates tight. Loose mica flakes dusted the wagon bed and caught the low sun like fish scales in the frozen ruts. Half a mile lower an old man from Plumtree walked beside an ox sled piled with dried apple quarters sewed up in tow sheets. Every driver lifted two fingers off whipstock or rein as Joshua and Harper passed. Nobody halted on an open bank to ask courthouse business.
 
-North of Ledger hill the road benched above a rocky bend of the river. Twenty acres of cleared south slope lay grown up shoulder-high in sassafras sprouts and blackberry briars behind a rotted chestnut worm-fence. Halfway up the brush stood a roofless stone chimney. Nailed to the roadside white oak hung a weathered pine board split down the grain, its black stenciled letters washed gray by seven winters since the sheriff cried the place off at the courthouse door for unpaid township land tax under the sixty-eight law.
+North of Ledger Hill the road benched above a rocky bend of the river. Twenty acres of cleared south slope lay grown up shoulder-high in sassafras sprouts and blackberry briars behind a rotted chestnut worm fence. Halfway up the brush stood a roofless stone chimney. Nailed to the roadside white oak hung a weathered pine board split down the grain, its black stenciled letters washed gray by seven winters since the sheriff cried the place off at the courthouse door for unpaid township land tax under the sixty-eight law.
 
 Harper looked once at the split board as his mare took the grade. He spat past the off stirrup.
 
@@ -34,19 +34,19 @@ Harper looked once at the split board as his mare took the grade. He spat past t
 
 “Read plain enough when the deputy brought the writ,” Harper said.
 
-On the windy crest of Ledger hill they breathed the mares five minutes in the oak shade. Standing by their stirrups, they ate dry corn pone and cold fried middling out of greased paper, wiped their knives on dead grass, and swung back into leather. Below them the south pitch dropped two miles into the Cane Creek valley, where clear water ran a foot deep and sixteen feet wide over bright gravel straight into Bakersville.
+On the windy crest of Ledger Hill they breathed the mares five minutes in the oak shade. Standing by their stirrups, they ate dry corn pone and cold fried middling out of greased paper, wiped their knives on dead grass, and swung back into leather. Below them the south pitch dropped two miles into the Cane Creek valley, where clear water ran a foot deep and sixteen feet wide over bright gravel straight into Bakersville.
 
 ---
 
-By half past eleven six saddled horses and three mud-caked road mules stood tied along the locust hitch-rail opposite the brick courthouse.
+By half past eleven six saddled horses and three mud-caked road mules stood tied along the locust hitch rail opposite the brick courthouse.
 
-Clear ditch water ran brisk beside the rough plank sidewalk on Water Street. Across the square two lean hogs rooted chestnut hulls under the brick pilasters of the portico while a deputy sheriff in mud-spattered boots tacked a stray-stock notice beside the double doors. Directly facing the courthouse stood a narrow two-story weatherboard house. Newly oiled horse-collars hung on pegs beside its lower doorway, sending the warm smell of bark-tanned sole leather, beeswax, and neat’s-foot oil across the street. Up the north gable climbed an unpainted outside pine stair to a four-panel door on the landing.
+Clear ditch water ran brisk beside the rough plank sidewalk on Water Street. Across the square two lean hogs rooted chestnut hulls under the brick pilasters of the portico while a deputy sheriff in mud-spattered boots tacked a stray-stock notice beside the double doors. Directly facing the courthouse stood a narrow two-story weatherboard house. Newly oiled horse collars hung on pegs beside its lower doorway, sending the warm smell of bark-tanned sole leather, beeswax, and neat’s-foot oil across the street. Up the north gable climbed an unpainted outside pine stair to a four-panel door on the landing.
 
 Joshua tied the claybank at the end of the locust rail and loosened her girth one hole. Harper tied his brown mare beside the roan of old Squire Wiseman, the Three Mile magistrate, knocked red Ledger dust off his trouser cuffs with his hat brim, and nodded across at the brick portico.
 
 “Ten minutes yet till the bell,” Harper said. “Come inside the hall while I get a gourd of well water and ask young McKinney, the register’s clerk, whether my meadow deed got indexed.”
 
-Cool lime-plaster shade met them inside the brick passage. Tax lists and administrator’s sale bills hung three deep on a slatted pine board beside the clerk’s door. Across the hall the register’s room stood open behind its waist-high oak rail, empty save for the freckled nineteen-year-old deputy clerk shelving mortgage bundles. On the high standing desk by the south window two heavy calfskin county volumes — *Deed Book C* and *Deed Book D* — still lay spread wide instead of racked in their slots. Between them sat a sheet of clean white blotting paper, black with reverse strokes of a fine steel pen that did not belong to the county inkpot.
+Cool lime-plaster shade met them inside the brick passage. Tax lists and administrator’s sale bills hung three deep on a slatted pine board beside the clerk’s door. Across the hall the register’s room stood open behind its waist-high oak rail, empty save for the freckled nineteen-year-old deputy clerk shelving mortgage bundles. On the high standing desk by the south window two heavy calfskin county volumes—*Deed Book C* and *Deed Book D*—still lay spread wide instead of racked in their slots. Between them sat a sheet of clean white blotting paper, black with reverse strokes of a fine steel pen that did not belong to the county inkpot.
 
 Harper drank half a dipper from the cedar bucket by the door and leaned an elbow on the oak rail. “Register upstairs already, son?”
 
@@ -58,21 +58,21 @@ Harper set the tin dipper back on its nail without haste. His gaze met Joshua’
 
 They crossed Water Street and climbed the steep pine treads together.
 
-Inside the upper room seven split-bottom chairs and a planed pine bench had been set in an even half-circle on freshly swept boards. No spittoon sat by the hearth, nor any tobacco stain along the whitewashed baseboard. Under the front window stood a plain walnut table holding a cast-iron screw press for tissue letter-copies, a pewter inkstand with two clean steel pens, a locked tin dispatch box, and two thick sheep-bound volumes of the *Revised Statutes of the United States*. Narrow slips of white paper marked places along the fore-edge. Behind the washstand in the corner leaned a leather saddle-scabbard with the iron butt-plate and brass trap of a blued lever carbine showing above the flap.
+Inside the upper room seven split-bottom chairs and a planed pine bench had been set in an even half-circle on freshly swept boards. No spittoon sat by the hearth, nor any tobacco stain along the whitewashed baseboard. Under the front window stood a plain walnut table holding a cast-iron screw press for tissue letter copies, a pewter inkstand with two clean steel pens, a locked tin dispatch box, and two thick sheep-bound volumes of the *Revised Statutes of the United States*. Narrow slips of white paper marked places along the fore-edge. Behind the washstand in the corner leaned a leather saddle scabbard with the iron butt plate and brass trap of a blued lever carbine showing above the flap.
 
 Five men already sat along the wall. Closest to the door sat the Mitchell County sheriff with both thumbs hooked in his vest pockets. Next to him sat the register of deeds holding a rolled linen township map across his knees, old Squire Wiseman from Three Mile, a gray magistrate from Grassy Creek, and the young timekeeper from the Cranberry bloomery.
 
-Behind the walnut table stood a spare, dark-haired man shy of forty in a broadcloth frock coat brushed free of stage clay. Short-trimmed hair cleared his ears. Spotless linen cuffs showed at his wrists. Wind and sun had browned his face, not desk lamp-smoke. When Joshua and Harper crossed the sill, he stepped two paces round the table corner without offering a politician’s handshake. He inclined his head slightly from the shoulders.
+Behind the walnut table stood a spare, dark-haired man shy of forty in a broadcloth frock coat brushed free of stage clay. Short-trimmed hair cleared his ears above a close-cropped dark beard. Spotless linen cuffs showed at his wrists. Wind and sun had browned his face, not desk lamp-smoke. When Joshua and Harper crossed the sill, he stepped two paces round the table corner without offering a politician’s handshake. He inclined his head slightly from the shoulders.
 
-“Good day, gentlemen,” he said. His voice sat middle-low, clear, and wholly unhurried, carrying neither Yankee clip nor mountain drawl. “Mister Harper, from the Cranberry forks. And Mister Joshua Brennan from Elk Cove. Pray take those two chairs by the window.”
+“Good day, gentlemen,” he said. His voice sat middle-low, clear, and wholly unhurried, carrying neither Yankee clip nor mountain drawl. “Mister Harper, from Cranberry Forks. And Mister Joshua Brennan from Elk Cove. Pray take those two chairs by the window.”
 
 Joshua sat down on the hickory slats. He laid his wool hat crown-up across his knees. Neither he nor Harper asked how a stranger ten days in the county had matched their faces to their creeks.
 
 Down in the valley a church bell struck twelve slow iron strokes. When the twelfth ring died over the shingle roofs, the man stepped behind the walnut table, rested four fingers lightly on the closed sheep-bound volume, and looked directly at each face in the half-circle.
 
-“My name is William Parrish,” he said. “I hold commission from Washington as an Internal Revenue Agent under Section thirty-one fifty-two of the Revised Statutes, assigned this autumn to the Sixth Collection District of North Carolina. I asked you up these stairs at noon so that no householder in your townships need learn the government’s business from road rumor or a marshal’s warrant.”
+“My name is William Parrish,” he said. “I hold commission from Washington as an internal revenue agent under section thirty-one fifty-two of the Revised Statutes, assigned this autumn to the Sixth Collection District of North Carolina. I asked you up these stairs at noon so that no householder in your townships need learn the government’s business from road rumor or a marshal’s warrant.”
 
-Old Squire Wiseman cleared his throat once. “We had a deputy collector up from Statesville two summers back, Mister Parrish. Took chicken dinner at the boarding house, rode three miles out Cane Creek, and went back down the mountain before frost.”
+Old Squire Wiseman cleared his throat once. “We had a deputy collector up from Statesville two summers back, Mister Parrish. Took chicken dinner at the boardinghouse, rode three miles out Cane Creek, and went back down the mountain before frost.”
 
 “Congress altered the service two Augusts ago, Squire,” Parrish said. “The old district supervisors were abolished in seventy-six. Agents in my corps answer to no county party committee, and I do not touch one cent of public money across this table. All tax receipts pass by draft or stamp through Collector Mott’s office at Statesville. Every moiety and informer’s share was repealed six summers back. Ten seizures in Mitchell County or none between today and grass adds not a dime to my salary.”
 
@@ -80,19 +80,19 @@ He drew the upper white paper slip half an inch further from the sheep-bound vol
 
 “Last spring,” Parrish went on, “Commissioner Raum authorized suspended sentences across the western districts for men making untaxed spirits who came into court, surrendered their worms, and gave bond to quit. Over three hundred men in these mountains took that mercy before wheat harvest. Half those furnaces were banked hot again before the September corn hardened. On the twentieth of August Washington shut that door for good.”
 
-Down on Water Street an ox-wagon creaked past on dry hubs. Nobody in the half-circle moved a boot.
+Down on Water Street an ox wagon creaked past on dry hubs. Nobody in the half-circle moved a boot.
 
-“The excise on distilled spirits stands where Congress fixed it three Marches ago,” Parrish said. “Ninety cents in lawful money upon every hundred-proof gallon — half again what unbonded whiskey brings in crossroads trade. Any citizen wishing to distill grain or apples in Mitchell County may do so under the law upon filing survey and bond before he lights wood. Because few farmers have read the Act of July, eighteen sixty-eight in the text, I will read two short provisions once so no man is misled.”
+“The excise on distilled spirits stands where Congress fixed it three Marches ago,” Parrish said. “Ninety cents in lawful money upon every hundred-proof gallon—half again what unbonded whiskey brings in crossroads trade. Any citizen wishing to distill grain or apples in Mitchell County may do so under the law upon filing survey and bond before he lights wood. Because few farmers have read the Act of July eighteen sixty-eight in the text, I will read two short provisions once so no man is misled.”
 
 He opened the upper volume at the first slip. Then he read out the fine print in the dry, level cadence of a clerk calling scale weights.
 
-“Under Section eight, no collector may approve a distiller’s bond unless the distiller owns the land in fee simple, wholly unencumbered by any mortgage, judgment, or other lien. Where a mortgage or lien stands of record, the distiller must first file the written consent of the fee owner and of every mortgagee, expressly stipulating that the lien of the United States for taxes and forfeitures shall take priority over the mortgage.”
+“Under section eight, no collector may approve a distiller’s bond unless the distiller owns the land in fee simple, wholly unencumbered by any mortgage, judgment, or other lien. Where a mortgage or lien stands of record, the distiller must first file the written consent of the fee owner and of every mortgagee, expressly stipulating that the lien of the United States for taxes and forfeitures shall take priority over the mortgage.”
 
 Joshua’s right thumb stayed still on his hat brim. Three chairs along the wall, the register of deeds looked down at the brass ferrule of his rolled map.
 
 Parrish turned three leaves to the second white slip.
 
-“Under Section twelve, no person shall use any still, boiler, or other vessel for distilling in any dwelling-house, or in any shed, yard, barn, or enclosure connected with a dwelling-house. Congress fixed the penalty at not less than five hundred dollars fine and imprisonment up to two years. Under Section forty-four, where untaxed spirits are run upon any tract, not only the copper, mash tubs, and work beasts on the ground are forfeited. All right, title, and interest in the lot or tract of land itself — and all premises connected therewith — are forfeited outright to the United States.”
+“Under section twelve, no person shall use any still, boiler, or other vessel for distilling in any dwelling house, or in any shed, yard, barn, or enclosure connected with a dwelling house. Congress fixed the penalty at not less than a five-hundred-dollar fine and imprisonment up to two years. Under section forty-four, where untaxed spirits are run upon any tract, not only the copper, mash tubs, and work beasts on the ground are forfeited. All right, title, and interest in the lot or tract of land itself—and all premises connected therewith—are forfeited outright to the United States.”
 
 He closed the thick sheep board without a sound.
 
@@ -100,7 +100,7 @@ He closed the thick sheep board without a sound.
 
 ---
 
-Warm leather grease smelled up through the pine floor-cracks from the saddler’s bench underneath. For ten breaths nobody spoke.
+Warm leather grease smelled up through the pine floor cracks from the saddler’s bench underneath. For ten breaths nobody spoke.
 
 Then the sheriff unhooked one thumb from his vest pocket and tilted his chair back against the whitewash. “Cove traces freeze hub-deep up Toe River by Christmas, Mister Parrish. My two boys stay rode down serving county executions and keeping order round the mica shafts. County taxpayers don’t pay us to hunt blockade whiskey in the laurel after dark.”
 
@@ -114,9 +114,9 @@ Squire Wiseman stroked his white chin-beard with three slow fingers. “Hogs tak
 
 “And our company teams,” the young bloomery timekeeper spoke up quickly, eyes on his bootlaces. “When the Forge hammers bar iron and hauls blooms over the gap to Elizabethton, twelve mules burn forty bushels every week.”
 
-Parrish listened to each man with grave, unhurried courtesy. His mouth did not stir. Dipping one steel pen shallow in the pewter stand, he wrote two short lines in a narrow canvas-bound pocket book beside the letter press.
+Parrish listened to each man with grave, unhurried courtesy. His mouth did not stir. Dipping one steel pen shallow in the pewter stand, he wrote two short lines in a narrow canvas-bound pocket notebook beside the letter press.
 
-“Where hard money is scarce,” Parrish observed calmly as his pen dried, “trade leaves as clear a track as silver. When Congress abolished the district supervisors, it transferred to agents in my service their authority under Section thirty-one sixty-three to summon any person and examine any merchant’s day book, freight bill, or store ledger touching commodities subject to tax. Ten gallons of spirits traded across a crossroads counter for bar iron or coffee sit as plain on paper as a bank draft.”
+“Where hard money is scarce,” Parrish observed calmly as his pen dried, “trade leaves as clear a track as silver. When Congress abolished the district supervisors, it transferred to agents in my service their authority under section thirty-one sixty-three to summon any person and examine any merchant’s day book, freight bill, or store ledger touching commodities subject to tax. Ten gallons of spirits traded across a crossroads counter for bar iron or coffee sit as plain on paper as a bank draft.”
 
 In the corner chair the bloomery timekeeper stopped swinging his foot.
 
@@ -132,7 +132,7 @@ Then Parrish’s gray eyes came across to the window.
 
 “North Carolina law still fixes a public miller’s toll at one part in eight?”
 
-“One eighth on fine bread meal,” Joshua said. “One fourteenth when a neighbor asks coarse chop for stock. Measured level in a wooden twenty-eight-pound half-bushel tub with the county seal burned in the oak.”
+“One-eighth on fine bread meal,” Joshua said. “One-fourteenth when a neighbor asks coarse chop for stock. Measured level in a wooden twenty-eight-pound half-bushel tub with the county seal burned in the oak.”
 
 Parrish gave a small, dry nod. “A fourteenth leaves heavier sacks going home than an eighth. Do Carter County wagons cross the line to buy meal at your door?”
 
@@ -144,7 +144,7 @@ Parrish looked six inches left to Harper. “And down at the turnpike forks abov
 
 “Then no illicit distiller fires a furnace on Cranberry waters,” Parrish said, setting the government’s two words down without heat where the sheriff had laid the mountain word.
 
-Nobody in the half-circle answered him. Squire Wiseman studied the brick courthouse cornice across the street. The Grassy Creek magistrate pared a thumbnail with a shut pocket-knife.
+Nobody in the half-circle answered him. Squire Wiseman studied the brick courthouse cornice across the street. The Grassy Creek magistrate pared a thumbnail with a shut pocketknife.
 
 Parrish pressed a strip of white blotter once over his two lines, closed the canvas book, and stood erect.
 
@@ -158,7 +158,7 @@ Joshua went out behind Harper’s wide back, last in the line. As Joshua’s pal
 
 Joshua halted on the top tread and looked half back. Across the sunlit floor the two sheep-bound statute volumes lay squared within a hair of the walnut corner.
 
-“Passable as far as my mill-dam,” Joshua said. “Steep red clay and loose slate beyond it.”
+“Passable as far as my milldam,” Joshua said. “Steep red clay and loose slate beyond it.”
 
 “Thank you, Mister Brennan,” Parrish said. He inclined his head once and turned back to his press table.
 
@@ -172,7 +172,7 @@ Wiseman checked his rein one breath in mid-stream, clear creek water dripping br
 
 He touched two fingers to his hat brim and rode on up the bank. Neither Joshua nor Harper answered him. When the mares had licked the last white kernel off the sacking, Joshua shook the cloth out, tied it behind his saddle, and led the way north out of the valley.
 
-Dusk overtook them three miles south of Ledger hill.
+Dusk overtook them three miles south of Ledger Hill.
 
 Over the eastern Blue Ridge rose a round white Hunter’s moon. Its cold light washed the frost-stiffened ruts pale as bone. Sharp stars pricked out above the spruce line toward Roan. Down on their left the North Toe brawled loud over ledges where August drought had starved it to dry boulders. Six miles past the moonlit mica dumps neither man spoke above the steady *clink-scrape* of eight iron shoes climbing frozen gravel.
 
@@ -186,11 +186,11 @@ Only when the wide, silver frost-flat of the Old Fields of Toe dropped behind th
 
 Joshua rode twenty paces with the raw creek wind cold against his cheekbones. “Battered copper only brings old-metal price at a courthouse sale.”
 
-“Aye,” Harper said, low in his chest. “Fifty pounds of sheet copper a boy can pack up a laurel slick on one mule in ten minutes. Eighty-six acres of mill-seat and two hundred of bottom meadow stay right where the Almighty laid them till a deputy marshal tacks paper to a gatepost. And if Hoss Tyler’s store books go down to Statesville under that other section he named, half the men between Toe River and the Tennessee line sit written down in Tyler’s own hand.”
+“Aye,” Harper said, low in his chest. “Fifty pounds of sheet copper a boy can pack up a laurel slick on one mule in ten minutes. Eighty-six acres of mill seat and two hundred of bottom meadow stay right where the Almighty laid them till a deputy marshal tacks paper to a gatepost. And if Hoss Tyler’s store books go down to Statesville under that other section he named, half the men between Toe River and the Tennessee line sit written down in Tyler’s own hand.”
 
 Above Hoss Tyler’s dark storehouse they drew rein beside Harper’s tall double-crib barn. High moonlight gleamed cold along its oak shingles. Inside the notched logs winter steers shifted warm in dry oat straw and blew heavy against the chinking.
 
-“Walk down the hill tomorrow and tell Jacob word for word what that man read out of Section twelve,” Harper said, hand on his gate pin in the white frost. “A log barn forty paces below a woman’s kitchen step ain’t a brush shelter up Beech Creek.”
+“Walk down the hill tomorrow and tell Jacob word for word what that man read out of section twelve,” Harper said, hand on his gate pin in the white frost. “A log barn forty paces below a woman’s kitchen step ain’t a brush shelter up Beech Creek.”
 
 “I’ll tell him,” Joshua said.
 
@@ -200,10 +200,10 @@ Above Hoss Tyler’s dark storehouse they drew rein beside Harper’s tall doubl
 
 Two miles up the narrow cove gorge, tangled rhododendron and hemlock shut out the moon. Twice the claybank mare’s iron shoe rang across frost-heaved ironstone before she caught her footing and carried him home by the sound of the branch water alone.
 
-Past eleven o’clock Joshua led her into his dark mill-lot. He lifted the stiff saddle off her sweated back and hung it on its wooden peg. With two twists of dry corn shuck he rubbed her loins until the hair lay cool under his palm. Then he poured the rest of her oats into the box and barred the stable door.
+Past eleven o’clock Joshua led her into his dark mill lot. He lifted the stiff saddle off her sweated back and hung it on its wooden peg. With two twists of dry corn shuck he rubbed her loins until the hair lay cool under his palm. Then he poured a quart of oats into the box and barred the stable door.
 
 Alone on the frost-stiff bank above his millpond, he checked the black water line under the high moon. Twelve hours with the gate wedged shut had brought the pond level within an inch of the spill plank, four full grindings banked quiet against tomorrow’s toll.
 
-Down across the dark race, beyond the forked white oak and the knee-deep granite corner-stone where Hoss Tyler’s four-hundred-dollar mortgage stopped, a thin red seam of pine-knot fire glowed steady again beneath the sill logs of Margaret’s lower barn. Once, clear through the cold air, came the dull wooden thump of an oak bung driven home into a barrel stave. Faint on the freezing draft rose the sweet, heavy smell of scalded corn mash forty paces from her dark kitchen door. Every thread of overflow slipping past Joshua’s shut gate ran down the split chestnut trough across the line to keep his brother’s copper coil cold.
+Down across the dark race, beyond the forked white oak and the knee-deep granite cornerstone where Hoss Tyler’s four-hundred-dollar mortgage stopped, a thin red seam of pine-knot fire glowed steady again beneath the sill logs of Margaret’s lower barn. Once, clear through the cold air, came the dull wooden thump of an oak bung driven home into a barrel stave. Faint on the freezing draft rose the sweet, heavy smell of scalded corn mash forty paces from her dark kitchen door. Every thread of overflow slipping past Joshua’s shut gate ran down the split-chestnut trough across the line to keep his brother’s copper coil cold.
 
 Six months and eleven days stood between midnight and the third Monday of April at Statesville. Joshua turned up the steep path to his bed without looking down at the fire a second time.

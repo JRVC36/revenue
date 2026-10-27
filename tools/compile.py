@@ -273,10 +273,10 @@ def speechify(text: str) -> str:
     # strip non-Latin glyph blocks (Cherokee syllabary etc.) — espeak-ng cannot phonemize them
     t = re.sub(r"[^\x00-\x7F“”‘’—–…°£]", "", t)
     # 2. dash conversion, by syntactic context
-    t = re.sub(r"\u2014([\u201d\"]?)\s+(?=[a-z]+(?:\s+\w+){0,3}\s+(?:said|asked|replied|called|told|answered|cried|whispered|muttered)\b)",
+    t = re.sub(r"\s*\u2014([\u201d\"]?)\s+(?=[a-z]+(?:\s+\w+){0,3}\s+(?:said|asked|replied|called|told|answered|cried|whispered|muttered|began)\b)",
                r",\1 ", t)      # "I—" he said.    ->  "I," he said.
-    t = re.sub(r"\u2014([\u201d\"]?)\s+(?=[A-Z])", r".\1 ", t)   # "Wait—" He turned.  ->  "Wait." He turned.
-    t = t.replace("\u2014", ",").replace("\u2013", " to ").replace("--", ",")
+    t = re.sub(r"\s*\u2014([\u201d\"]?)\s+(?=[A-Z])", r".\1 ", t)   # "Wait—" He turned.  ->  "Wait." He turned.
+    t = re.sub(r"\s*\u2014\s*", ", ", t).replace("\u2013", " to ").replace("--", ", ")
     t = re.sub(r"\s*,\s*,", ",", t)                     # collapse duplicate punctuation
     t = re.sub(r",\s*([.;:!?])", r"\1", t)
     t = t.replace("\u201c", '"').replace("\u201d", '"').replace("\u2018", "'").replace("\u2019", "'")

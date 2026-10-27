@@ -158,7 +158,7 @@ Style Guide §2.1 requires, and Jacob's and Caleb's do not have one.
 reader must not be allowed to hear him call what he does *reasonable*.
 **Ends:** sells the mill, leaves, is the only Brennan who dies in a town with a street name.
 
-## William Parrish · 35–40 in 1878 · federal revenue agent
+## William Parrish · 38 in 1878 · federal revenue agent (`Rev. Stat. § 3152`) · short dark hair, close-cropped dark beard
 
 **Notices:** records, hours, and who is not in the room. He notices an empty chair the way a soldier
 notices a gap in a wall.
@@ -210,7 +210,7 @@ from the family, once from the government's willingness to spend public money to
 **Will not say:** that he has been owed money by every family in the cove and that the government, unlike
 them, can pay. He says this only in the way a man says it: by extending three of them and not the others.
 
-## William Harper · 60 in 1879 (b. ~1819) · the barn · the man who said *don't* (R-11)
+## William Harper · 60 in 1878–79 (b. ~1818) · the barn · the man who said *don't* (R-11)
 
 **Notices:** standing timber, and what a structure means as a years-long act. His barn is a document.
 **Function under R-3:** he is the *knowledgeable bystander*. The government does not need to prove he
@@ -223,7 +223,8 @@ exactly once, in the chapter where his barn is burning. He does not say "I told 
 get to hear that sentence, and neither does the reader.
 **The burning is then doubly a crime:** it destroys what the libel would have had to win in court, and it is
 done to the one neighbor who was right. Being right is not a defense in this book; it is only a forecast.
-**His body language for the whole act:** a doorway, standing, sons behind him.
+**His body language for the whole act:** a doorway, standing, sons behind him (four sons: grown eldest **Luke**
+and **Nathan**, a third grown son, and youngest **Thomas**, 16 in March 1879).
 
 ## The cove as a character
 
@@ -244,7 +245,7 @@ one time a man will not nod is the hinge of the book.
   the 1880 census reads true.
 - **Elk Cove / North Fork Hollow** — the outline's candidates. `INVENT`, set as side hollows above the Elk
   River / Cranberry Creek drainage inside **`Cranberry Township, Mitchell County`** (R-15; distinct from the
-  real Elk Park clearing one mile north of Cranberry Forge).
+  real Elk Park clearing north of Cranberry Forge along the Yellow Mountain Turnpike).
 - **"The Whistlers"** — `RULED (R-14)`: owned invention, **print-only**. The name belongs to the Bureau's
   reports, the county paper, and the dime novel; not one mountain mouth ever says it, because to name the
   meeting is to prove it. Old Councill gets the closest thing the cove says about itself, and it is a story

@@ -14,17 +14,17 @@ Through six weeks of hard frost the eighty-gallon kettle stayed bricked warm ins
 
 Joshua knocked the last wedge of ice into the tailrace. He climbed the ladder rungs and threw the leather packsaddle across his claybank mare.
 
-Two plump two-bushel bags of fine white bread meal went across the wooden tree. Rawhide lashings bit tight over two hundred and twenty-four pounds of flour ground for Hoss Tyler’s bin. Joshua took the mare by her cheek-strap so her sharp calks held the ice. Together they started down the hollow road toward the turnpike.
+Two plump two-bushel bags of fine white bread meal went across the wooden tree. Rawhide lashings bit tight over two hundred and twenty-four pounds of flour ground for Hoss Tyler’s bin. Joshua took the mare by her cheek strap so her sharp calks held the ice. Together they started down the hollow road toward the turnpike.
 
-Half a mile above William Harper’s hay bottoms, a steep sheep-path slanted left out of the hemlocks onto the wind-scoured nose of Beech Knob.
+Half a mile above William Harper’s hay bottoms, a steep sheep path slanted left out of the hemlocks onto the wind-scoured nose of Beech Knob.
 
 High on that south granite shelf a man stood level with the crow-tops of the chestnuts, looking two clean miles down the frozen red ribbon of Yellow Mountain Turnpike past Harper’s double-crib barn and Hoss Tyler’s long clapboard roof. On a split log at the lip sat fifteen-year-old Lish Councill.
 
-Old Amos Councill’s grandson from North Fork had grown three inches since corn-shucking without putting an ounce of tallow on his ribs. He wore his dead father’s cut-down homespun jeans coat buttoned to the throat with horn disks. Two inches of chapped red wrist stuck bare out the short sleeves above split yarn mittens. Between his knees stood an iron splitting-froe and an oak club. Forty fresh-riven locust fence pins lay stacked beside his boot. Around his thin neck on waxed hemp twine hung a hollowed six-inch bone from a wild gobbler’s wing, scraped smooth at the lip.
+Old Amos Councill’s grandson from North Fork had grown three inches since corn-shucking without putting an ounce of tallow on his ribs. He wore his dead father’s cut-down homespun jeans coat buttoned to the throat with horn disks. Two inches of chapped red wrist stuck bare out the short sleeves above split yarn mittens. Between his knees stood an iron splitting froe and an oak club. Forty fresh-riven locust fence pins lay stacked beside his boot. Around his thin neck on waxed hemp twine hung a hollowed six-inch bone from a wild gobbler’s wing, scraped smooth at the lip.
 
 Lish did not lift the bone to his mouth when the claybank mare rounded the laurel bend. He stood up off the log. Setting his froe quiet against the bark, he pointed one mittened finger straight down through the bare winter oaks toward the crossroads store.
 
-Joshua halted the mare at the foot of the shelf. Down at Hoss Tyler’s hitch-rail stood four strange beasts in the thin ten-o’clock sun: a tall clean-limbed bay gelding at the post end, two rough-coated livery mares, and a short-coupled government pack-mule carrying a battered green bundle across its saddle-tree.
+Joshua halted the mare at the foot of the shelf. Down at Hoss Tyler’s hitch rail stood four strange beasts in the thin ten o’clock sun: a tall clean-limbed bay gelding at the post end, two rough-coated livery mares, and a short-coupled government pack mule carrying a battered green bundle across its saddletree.
 
 “Came trotting up from the Forge twenty minutes back,” Lish said, pitching his voice low though the ridge lay half a mile above the creek. “Four men. Stopped straight at Mister Tyler’s steps and went inside. Never looked once up our branch road, so I held off blowing the bone.”
 
@@ -32,7 +32,7 @@ Joshua halted the mare at the foot of the shelf. Down at Hoss Tyler’s hitch-ra
 
 “Splitting rails up Little Elk,” Lish said. Cold ran a shiver down his narrow shoulders. He tucked his raw wrists deeper under his arms. “Mother’s boiling hominy today. Nobody’s got fire under copper this side of Sugar Hollow.”
 
-Joshua unbuckled the near flap of his saddlebag and drew out two big yellow sweet potatoes baked soft in his hearth ashes at five o’clock and wrapped in tow-cloth. Faint steam still rose through the weave as he held them up toward the rock.
+Joshua unbuckled the near flap of his saddlebag and drew out two big yellow sweet potatoes baked soft in his hearth ashes at five o’clock and wrapped in tow cloth. Faint steam still rose through the weave as he held them up toward the rock.
 
 Lish stepped down two stones and took the warm bundle in both mittens. “Obliged, Mister Joshua. Mother hadn’t baked yet when I left the fork.”
 
@@ -44,9 +44,9 @@ Joshua gathered the mare’s rein. Step by step he led her down the frozen ruts 
 
 ---
 
-Outside Hoss Tyler’s porch a half-grown livery boy in a blanket coat stamped his boots beside the pack-mule’s head. He blew hard into his cupped knuckles.
+Outside Hoss Tyler’s porch a half-grown livery boy in a blanket coat stamped his boots beside the pack mule’s head. He blew hard into his cupped knuckles.
 
-Joshua tied the claybank mare at the far end of the rail and glanced once across the mule’s crupper. Lashed tight over the wooden pack-saddle with hemp rope lay a battered thirty-gallon copper still-cap. Heavy poll axes had beat forty pounds of sheet copper flat as a folded tin pan. Bright raw axe-cuts shone pink through old green crust along the spout collar. Sour mash ice still clung white to the dented rim.
+Joshua tied the claybank mare at the far end of the rail and glanced once across the mule’s crupper. Lashed tight over the wooden packsaddle with hemp rope lay a battered thirty-gallon copper still cap. Heavy poll axes had beat forty pounds of sheet copper flat as a folded tin pan. Bright raw axe-cuts shone pink through old green crust along the spout collar. Sour mash ice still clung white to the dented rim.
 
 Joshua untied his near flour bag. Swinging the hundred and fourteen pounds onto his right shoulder, he pushed the store door open with his knee.
 
@@ -54,7 +54,7 @@ Dry hickory heat met him from the box stove, sharp with the bite of raw whiskey.
 
 Hoss Tyler stood behind his high pine counter in his striped ticking apron. His steel spectacles sat low on his nose. Both broad hands rested beside his closed inkwell. Across the counter stood three men.
 
-Nearest the window stood William Parrish in his long dark riding coat, hat quiet in his left hand, damp riding gloves tucked through his belt. Beside him worked a gray-whiskered stranger past fifty in gold-wired spectacles, laying a brass-cornered leather instrument case open across the cheese board: Arthur Kerr, sworn United States gauger up from the collector’s office at Statesville. Over by the stove lounged a rawboned Bakersville hostler named Carson. Red road mud crusted his knees. A Colt belt-pistol rode high on his hip below a tarnished pewter deputy badge pinned crooked to his sheepskin vest.
+Nearest the window stood William Parrish in his long dark riding coat, hat quiet in his left hand, damp riding gloves tucked through his belt. Beside him worked a gray-whiskered stranger past fifty in gold-wired spectacles, laying a brass-cornered leather instrument case open across the cheese board: Arthur Kerr, sworn United States gauger up from the collector’s office at Statesville. Over by the stove lounged a rawboned Bakersville hostler named Carson. Red road mud crusted his knees. A Colt belt pistol rode high on his hip below a tarnished pewter deputy badge pinned crooked to his sheepskin vest.
 
 Out from behind Tyler’s big New Orleans molasses barrel they had dragged a brown three-gallon stoneware jug. Nearly thirty pounds of clear spirit sat inside it, stoppered with a shaved hickory peg and carrying no scrap of government paper on its shoulder.
 
@@ -72,9 +72,9 @@ The weighted bulb sank. Twice it bobbed, then settled dead still in the clear li
 
 Bending at the waist, Kerr sighted level with the surface ring. He opened a thumb-worn red leather table book at his elbow.
 
-“Reads one hundred and nine on the stem at fifty-six degrees, Mister Parrish,” Kerr said in the dry, even voice of a man who measured fifty casks a week down at the Statesville warehouses. “True correction makes one hundred and four proof — two parts stronger than half pure spirit. Vessel holds three wine gallons even. Three and twelve-hundredths taxable proof gallons, unstamped.”
+“Reads one hundred and nine on the stem at fifty-six degrees, Mister Parrish,” Kerr said in the dry, even voice of a man who measured fifty casks a week down at the Statesville warehouses. “True correction makes one hundred and four proof—two parts stronger than half pure spirit. Vessel holds three wine gallons even. Three and twelve-hundredths taxable proof gallons, unstamped.”
 
-Carson chuckled low by the stove, shifting his tobacco into his cheek as he eyed Tyler’s bare pine wall. “Old man tucked her snug behind the sorghum hoop, didn’t he. Reckon you wasn’t looking for revenuers before dinner, Uncle Hoss.”
+Carson chuckled low by the stove, shifting his tobacco into his cheek as he eyed Tyler’s bare pine wall. “Old man tucked her snug behind the sorghum hoop, didn’t he? Reckon you wasn’t looking for revenuers before dinner, Uncle Hoss.”
 
 Parrish did not turn his head from the walnut desk. “Revenue officers, Mister Carson,” he said quietly.
 
@@ -96,9 +96,9 @@ Tyler neither blinked nor moved a thumb. “Wagoners out of Carter County and No
 
 Parrish showed neither heat nor surprise. Reaching inside the breast of his dark coat, he drew out no warrant of arrest and no pistol. He laid a single folded sheet of printed Treasury foolscap across the walnut slant of Tyler’s desk, beside the two thick calfskin-bound ledgers holding eighteen winters of Cranberry Township trade.
 
-“Under Section thirty-four fifty-three, Mister Kerr will seal and remove the unstamped jug to Bakersville,” Parrish said calmly. “As to how spirits move across this counter without coin, Congress abolished the old district supervisors in August of seventy-six and transferred their full powers under Section thirty-one sixty-three of the Revised Statutes to Internal Revenue Agents. That section authorizes me to enter any building where taxable articles are kept and examine all books of account, invoices, or memoranda touching commodities subject to tax.”
+“Under section thirty-four fifty-three, Mister Kerr will seal and remove the unstamped jug to Bakersville,” Parrish said calmly. “As to how spirits move across this counter without coin, Congress abolished the old district supervisors in August of seventy-six and transferred their full powers under section thirty-one sixty-three of the Revised Statutes to internal revenue agents. That section authorizes me to enter any building where taxable articles are kept and examine all books of account, invoices, or memoranda touching commodities subject to tax.”
 
-Over by the meal bin Joshua’s hands stopped still on the hemp sack-tie.
+Over by the meal bin Joshua’s hands stopped still on the hemp sack tie.
 
 Tyler’s gray brows drew together behind his steel rims. One thick veined hand moved six inches sideways, his palm coming down heavy upon the rubbed leather spine of his current day book.
 
@@ -122,7 +122,7 @@ When he finished, he sanded the wet ink from a tin shaker. Loose grains blew int
 
 Kerr adjusted his gold spectacles. At Parrish’s slight nod, Kerr read the firm brown handwriting aloud:
 
-“Take notice that two calfskin-bound ledgers removed from Hosea Tyler’s storehouse at Cranberry Forks this eighteenth day of January, eighteen seventy-nine, by William Parrish, styling himself Internal Revenue Agent, are taken against the express protest of the undersigned owner; that said two volumes, covering the years eighteen sixty-one to eighteen seventy-nine inclusive, are my sole, true, and original books of daily store account, every entry therein having been set down in my own hand upon the exact calendar day of the transaction with citizens of Mitchell County; and that I hold said Parrish personally answerable in damages upon his bond if one leaf be torn, blotted, or detained past the twenty-eighth instant. Signed, Hosea Tyler.”
+“Take notice that two calfskin-bound ledgers removed from Hosea Tyler’s storehouse at Cranberry Forks this eighteenth day of January, eighteen seventy-nine, by William Parrish, styling himself internal revenue agent, are taken against the express protest of the undersigned owner; that said two volumes, covering the years eighteen sixty-one to eighteen seventy-nine, inclusive, are my sole, true, and original books of daily store account, every entry therein having been set down in my own hand upon the exact calendar day of the transaction with citizens of Mitchell County; and that I hold said Parrish personally answerable in damages upon his bond if one leaf be torn, blotted, or detained past the twenty-eighth instant. Signed, Hosea Tyler.”
 
 Kerr dipped Tyler’s pen. Beneath the flourish he signed *Arthur Kerr, United States Gauger, Sixth District, North Carolina*. He handed the pen back.
 
@@ -136,17 +136,17 @@ Carefully folding the foolscap protest once down the middle so neither signature
 
 ---
 
-Out on the frozen road iron mule-shoes clicked slow onto the gravel.
+Out on the frozen road iron mule shoes clicked slow onto the gravel.
 
-Through the dusty sash rode nineteen-year-old Matthew on his bay mule out of Elk Cove. Tied through the nose-slits to his front saddle-strings hung three prime winter muskrat pelts, cased stiff and flesh-out off their shingle boards to trade for boot tallow and wrought nails.
+Through the dusty sash rode nineteen-year-old Matthew on his bay mule out of Elk Cove. Tied through the nose-slits to his front saddle strings hung three prime winter muskrat pelts, cased stiff and flesh-out off their shingle boards for the store counter.
 
-Matthew swung down from the saddle. He looped his rope rein over the rail beside Joshua’s mare. At the second plank step William Parrish pulled the store door wide from inside.
+Matthew swung down from the saddle. He looped his rope rein over the rail beside Joshua’s mare. Inside, Joshua left the meal bin and stepped down the aisle behind Kerr and Carson as William Parrish pulled the front door wide.
 
-The boy stepped sideways against the clapboard wall to let the strangers pass, wool cap pulled low over his ears, three stiff fur pelts dangling from his bare red fist.
+Outside on the frosty boards, the boy stepped sideways against the clapboard wall to let the strangers pass, wool cap pulled low over his ears, three stiff fur pelts dangling from his bare red fist.
 
-His eyes dropped to the black oilcloth parcel under Parrish’s arm. Rubbed brown calfskin and a brass clasp showed plain at the strap.
+Matthew’s eyes dropped to the black oilcloth parcel under Parrish’s arm. Rubbed brown calfskin and a brass clasp showed plain at the strap.
 
-Both boots stopped dead on the frosty boards.
+Both boots stopped dead on the porch.
 
 Kerr came out behind Parrish carrying his brass-cornered instrument case, followed by Carson lugging the cord-sealed three-gallon stoneware jug by both ears. Parrish walked calmly to his tall bay gelding and unbuckled both cantle straps behind the seat. He lashed Hoss Tyler’s two calfskin ledgers tight across the horse’s loins.
 
@@ -156,15 +156,15 @@ Parrish tested the buckle with two gloved fingers. Lightly he swung into the sad
 
 Neither Joshua nor Matthew lifted a hand.
 
-Four sets of iron shoes backed clear of the rail and wheeled south into the frozen ruts of Yellow Mountain Turnpike. As they struck into a brisk road-trot toward Bakersville, the axed sheet-copper cap rang thin and hollow against the pack-saddle wood at every stride until the hemlock bend hid them.
+Four sets of iron shoes backed clear of the rail and wheeled south into the frozen ruts of Yellow Mountain Turnpike. As they struck into a brisk road-trot toward Bakersville, the axed sheet-copper cap rang thin and hollow against the packsaddle wood at every stride until the hemlock bend hid them.
 
-Matthew stood still on the bottom step. His eyes stayed fixed down the empty red ruts. Strapped behind that bay saddle rode the calfskin book holding his nineteen dollars and forty cents — more than three full weeks of cash day-wages — going down to lie open under a revenue lamp for ten winter nights.
+Matthew stood still on the bottom step. His eyes stayed fixed down the empty red ruts. Strapped behind that bay saddle rode both calfskin books, carrying Joshua’s mill page near the middle and the boy’s unpaid winter balance near the back, going down to lie open under a revenue lamp for ten nights.
 
 Inside the doorway Hoss Tyler spoke without inflection. “Bring your other sack in off the mare, Joshua. I’ll chalk your two hundred and twenty-four pounds on the bin lid till the twenty-eighth.”
 
-Joshua carried the second flour sack inside and emptied both into the dry pine chest while Tyler marked white chalk strokes across the underside of the lid. Then Joshua walked back out into the sharp three-o’clock shadow.
+Joshua carried the second flour sack inside and emptied both into the dry pine chest while Tyler marked white chalk strokes across the underside of the lid. Then Joshua walked back out into the sharp three o’clock shadow.
 
-Matthew had not gone inside the store. All three stretched muskrat pelts hung tied back onto his saddle-strings, untraded.
+Matthew had not gone inside the store. All three cased muskrat pelts hung tied back onto his saddle strings, untraded.
 
 Joshua untied the claybank mare’s halter from the rail and swung up into the cold leather. Looking down at the boy’s bent wool cap beside the bay mule’s shoulder, he asked, “You riding up to your mother’s supper?”
 

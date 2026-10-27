@@ -1232,9 +1232,9 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   last autumn's `10 Nov 1877` Tyler receipt, the stitched **`1866`–`1869`** keeping-money sheet (*To Jacob's
   house*: Dec 4 yds gray jeans `$2.10`, Jan kip shoes `$1.60`, Sept slate/pencil/primer `40¢`, Nov cash keeping
   `$5.00` — **Caleb Clue #1**), and Joshua's thrice-folded **August 1865 Knoxville U.S. Army discharge** (unit
-  folded inward). In Ch. 5 (**Mon 11 Nov 1878**), before 13 cove men in Joshua's mill barn (**Old Amos
+  folded inward). In Ch. 5 (**Mon 11 Nov 1878**), before 13 cove men in Joshua's millhouse (**Old Amos
   Councill**, **Rafe Winters**, **Boone Pritchard**, **Eben Gouge**, **Larkin Dugger**, **William Harper** with
-  sons **Luke** and **Thomas**), Harper speaks his single verbatim warning: *“Don’t fire another kettle this
+  eldest sons **Luke** and **Nathan**), Harper speaks his single verbatim warning: *“Don’t fire another kettle this
   winter, Jacob, or that man will take the roofs off men that never made a gallon.”* In Ch. 6 (**Sat 18 Jan
   1879**), Sixth-District U.S. Gauger **Arthur Kerr** (Statesville) and hired hostler **Carson** gauge an
   unstamped 3-gal jug behind Tyler's molasses cask at **`104 proof`** (`3.12` proof gal), and Parrish takes
@@ -1329,6 +1329,16 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 ---
 
 ## 11. Change log
+
+- **2026-10-27 — Act One Senior Copyedit & Continuity Pass (`manuscript/01..08.md`, `tools/compile.py`).**
+  Standardized Act One to closed CMOS em dashes (`—`, `CMOS §6.85`), Merriam-Webster compound spelling, and
+  `CMOS §§8.19–8.33, 8.80` title/statute capitalization (`section forty-four`, `article ten, section six`,
+  lowercase standalone federal titles). Locked North-to-South Yellow Mountain Turnpike geography (`State Line
+  Gap` → `Elk Park` → `Harper's` → `Cranberry Forks` → `Cranberry Forge` → `Old Fields of Toe` → `Ledger Hill`
+  → `Bakersville`), Parrish's physical continuity (`short dark hair`, `close-cropped dark beard`), Gauger Kerr's
+  `gray-whiskered` face, William Harper's sons (`Luke` and `Nathan` grown in Ch. 5; `Thomas`, `16`, youngest in
+  Ch. 8), Margaret's locked cedar box on the kitchen mantel shelf, Joshua's `millhouse` vs. Margaret's lower
+  still-barn, and strict single-POV sightlines and acoustics across Chs. 6, 7, and 8.
 
 - **2026-10-26 — Scene Proposal 3 of 3 ruled → R-20 (*Did She Know?*, Ch. 26; all `canon §12` scene proposals
   CLOSED).** At the October 1881 Statesville term (Judge Dick named, never voiced), Margaret produces her
