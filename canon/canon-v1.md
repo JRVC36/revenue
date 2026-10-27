@@ -1198,9 +1198,12 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   18-lb Cranberry flat-iron bar across Chs. 1, 2, and 4), and the **$400** mortgage to **Hosea "Hoss" Tyler**
   dates from rebuilding the dam after the **`1869`** flood.
   `Parcel A` stands entered in *Deed Book D* at Bakersville at **eighty-six acres** in fee (mill-seat, dam,
-  six acres of late corn, cart road, and split-chestnut tailrace trough); Margaret's `Parcel B` is **forty
-  acres** conveyed in **`1868`** as her separate estate out of her father's old Watauga grant; William Harper's
-  junction farm is **two hundred acres** with a double-crib barn. Jacob's copper kettle in Margaret's lower
+  six acres of late corn, cart road, and the **split-chestnut water trough propped on four forked locust
+  stakes across the granite corner-stone** — laid by Joshua himself in Ch. 1 during the late-August drought at
+  the cost of a `12-bushel / $6.00` cash bread-meal grinding for the Cranberry Forge wagon to save Jacob's
+  `16-bushel` ripe mash run when Margaret's spring dropped warm, and left running past dark); Margaret's
+  `Parcel B` is **forty acres** conveyed in **`1868`** as her separate estate out of her father's old Watauga
+  grant; William Harper's junction farm is **two hundred acres** with a double-crib barn. Jacob's copper kettle in Margaret's lower
   barn (`40 paces` below her kitchen) is **eighty gallons**; Joshua rides a **claybank mare**, Harper rides a
   **heavy brown mare**, Parrish rides a clean-limbed **bay gelding**, Squire Wiseman (Three Mile) rides a
   **roan mare**, and Matthew's half-share mount is the **bay mule**. Joshua's mortgage on `Parcel A` (deed of
