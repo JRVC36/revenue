@@ -8,7 +8,7 @@ Joshua Brennan dropped the iron bar at his dam gate. Snatching a six-foot ash pr
 
 Thirty yards below the stopped waterwheel, the narrow log bridge crossed his race ditch without a rail. Two pack animals had come up the cart road from the lower forty acres where Joshua’s younger brother Jacob lived with his wife Margaret and the two boys raised under their roof. Caleb, the elder boy at twenty-one, had led his father’s steady brown mare safe across the wet puncheons. Close behind him stood nineteen-year-old Matthew. Boots sliding in the mud, Matthew hauled backward with both fists on the halter rope of his young bay mule.
 
-The green mule had shied at the white spill of creek water. Both hind hooves hung off the downstream edge above six feet of jagged slate. Four bushels of shelled corn lashed across the pack-saddle dragged its hindquarters sideways. Front shoes gouged white splinters out of the wet oak. Its belly sank hard onto the logs.
+The green mule had shied at the white spill of creek water. Both hind hooves hung off the downstream edge above six feet of jagged slate. Four bushels of shelled corn lashed across the pack-saddle, more than two hundred pounds of dry grain, dragged its hindquarters sideways. Front shoes gouged white splinters out of the wet oak. Its belly sank hard onto the logs.
 
 “Hold his head up!” Matthew shouted from the bank. “Don’t let him roll in that ditch, Uncle Joshua — I still owe twelve dollars on his half down at Hoss Tyler’s store!”
 
@@ -18,7 +18,7 @@ Cold spray splashed to Caleb’s belt. Planting both boots on the slick bottom s
 
 “Cut the bark tie on the off side,” Joshua told Caleb. “Leave the saddle.”
 
-Caleb kept his shoulder tight against the heaving flank. Drawing his shut clasp-knife from his pocket, he opened the blade with his teeth and sliced upward through the twisted hickory bark holding the lower sacks. Two two-bushel tow bags dropped onto dry gravel beside the ditch. Neither seam split. Relieved of a hundredweight on the low side, the bay mule lunged forward at Joshua’s heave, caught flat wood under both hind shoes, and scrambled trembling onto solid ground beside the mill sill.
+Caleb kept his shoulder tight against the heaving flank. Drawing his shut clasp-knife from his pocket, he opened the blade with his teeth and sliced upward through the twisted hickory bark holding the lower sacks. Two two-bushel tow bags dropped onto dry gravel beside the ditch. Neither seam split. Freed of over a hundred pounds on the low side, the bay mule lunged forward at Joshua’s heave, caught flat wood under both hind shoes, and scrambled trembling onto solid ground beside the mill sill.
 
 Matthew let out his breath and wiped wet hair from his eyes. Hurrying to the gravel bank, he pinched both fallen tow sacks along the bottom corners to make sure none of the grain had spilled in the mud.
 
@@ -34,11 +34,11 @@ Inside the dim millhouse Caleb swung two sacks from the mare’s back onto his s
 
 Matthew dragged Jacob’s fourth sack over the threshold. He blew dry chaff off his lip.
 
-“Father shelled eight bushels out of the back crib last night,” Matthew said. “And Mother wants half a peck out of the clean bag ground fine for bread if your sieve cloth ain’t torn, Uncle Joshua. We’re scraped down to the bottom of the meal chest.”
+“Father shelled eight bushels out of the back crib last night,” Matthew said. “And Mother wants half a peck out of the clean bag ground fine for bread if your sieve cloth ain’t torn, Uncle Joshua — seven pounds’ll carry our skillet past Sunday. We’re scraped down to the bottom of the meal chest.”
 
 “Set the bread sack by itself, then,” Joshua said.
 
-He hooked his hanging iron scale into the ears of the first bag. The brass weight slid out until the beam hung level. “One hundred and twelve pounds less two for the sack,” Joshua said. “Dry corn.”
+He hooked his hanging iron scale into the ears of the first two-bushel bag. The brass weight slid out until the beam hung level. “One hundred and fourteen pounds less two for the sack,” Joshua said. “Full fifty-six to the bushel. Dry corn.”
 
 Matthew kept his eyes on the brass weight. His thumb worked against his frayed breeches seam. “Wagons that went over Jonas Ridge to Morganton last month barely got twenty-five cents a bushel when town buyers paid silver at all,” the boy said. “Eight bushels brings two dollars for hauling two days down and two days back, feeding two mules out of the load.”
 
@@ -66,7 +66,7 @@ Joshua shoved the gate lever halfway shut at once. Outside, the big wheel slowed
 
 “Hold through noon if I wedge it,” Joshua said. Reaching down with his wooden maul, he drove a tapered white-oak wedge tight between the sprung plank and the spoke.
 
-Back inside, he dipped six level four-pound scoops of chop out of the trough for his toll on the first three bags. Then he lowered the upper stone close for five minutes to sift out a clean half-peck of soft white bread meal for his sister-in-law Margaret before cracking the rest coarse. On the pine tally board behind the door, beneath his brother Jacob’s notched mark, Joshua chalked seven bushels and a half of chop and half a peck of bread meal.
+Back inside, he dipped six level four-pound scoops of chop out of the trough for his toll on the first three bags. Then he lowered the upper stone close for five minutes to sift out Margaret’s seven-pound half-peck poke of soft white bread meal before cracking the rest coarse. On the pine tally board behind the door, beneath his brother Jacob’s notched mark, Joshua chalked eight bushels ground, toll paid.
 
 Joshua shut the dam gate tight. Outside, the pond mark had dropped nine inches. It would take until one o’clock for the thin August creek to fill the dam high enough to grind those twelve bushels of white bread-corn waiting against the wall.
 
@@ -92,7 +92,7 @@ Silence held in the dim room. Outside, the stopped wheel dripped slow.
 
 Caleb neither argued nor frowned. He nodded once, lifted two full chop sacks onto his dry shoulder, and walked out across the sill behind Matthew.
 
-Joshua stood in the doorway until the two boys and their mules passed out of sight down the rutted cart road through the rhododendron laurel toward Jacob and Margaret’s clearing. Behind the shut gate the slack pond crept up the post a hair’s breadth a minute. Six silver dollars waited on that water at one o’clock.
+Joshua stood in the doorway until the two boys and their mules passed out of sight down the rutted cart road through the rhododendron laurel toward Jacob and Margaret’s clearing. Behind the shut gate the slack pond crept up the post a hair’s breadth a minute. Up Cranberry Creek a grown man swung an axe ten hours from sunup to dark for seventy-five cents. Six silver dollars waited on that water at one o’clock: eight full days of a man’s sweat.
 
 ---
 
@@ -114,7 +114,7 @@ In her early forties, lean-shouldered and dark-haired, she wore a faded blue apr
 
 “You had no call to bring fifty pounds out of your own chest, Joshua,” she said. “Matthew brought the half-peck before nine.”
 
-“Half a peck won’t carry four people past Sunday,” Joshua said. He set the sack on her scoured pine bench and loosed the string.
+“Seven pounds won’t carry four people past Sunday,” Joshua said. He set the sack on her scoured pine bench and loosed the string.
 
 Margaret did not test the meal today. Her eyes went once through the open breezeway toward the foot of the clearing forty paces below her kitchen step, where her lower log barn stood tucked under overhanging hemlocks and creek willows. Down the steep bank between the barn and the shallow creek, Caleb moved at a steady, heavy trot carrying two brimming oak water-buckets on a shoulder yoke.
 
@@ -160,7 +160,7 @@ Icy water from the bottom of his millpond leaped through the gap. It hissed cold
 
 Three minutes later the hot steam above the barrel had died. Cold sweat beaded bright down the outside oak staves. At the bottom lip, the white vapor vanished. Out through the washed flannel slid an unbroken, crystal-clear stream of cold spirit no thicker than a knitting needle.
 
-Jacob lifted a narrow clear glass vial from a wall peg, caught an inch of the fresh run, thumbed the mouth, and rapped the bottom hard once against his palm. Small round bubbles rose clean along the surface. Half sat above the liquor line and half below, steady at hundred proof.
+Jacob lifted a narrow clear glass vial from a wall peg, caught an inch of the fresh run, thumbed the mouth, and rapped the bottom hard once against his palm. Small round bubbles rose clean along the surface. Half sat above the clear line and half below: half pure spirit, half water, steady at hundred proof.
 
 Jacob held the vial an inch toward the sunny doorway. Then he poured the sample back into the stone jug. He rested two fingers in the overflow trough where Joshua’s cold pond water poured across Margaret’s spring.
 
@@ -240,7 +240,7 @@ Sitting on his three-legged stool, Joshua opened his mill book under the lamp. F
 
 Everything inside Elk Cove ran round a circle small enough for one pack-mule to walk between breakfast and dark so long as trade stayed in cornmeal, whiskey jugs, and bar iron. Eight bushels of shelled corn hauled two days over Jonas Ridge to Morganton brought barely two dollars in small silver when valley merchants bought corn at all. Cracked coarse under Joshua’s lifted millstone and cooked slow in Jacob’s eighty-gallon kettle on Margaret’s forty acres, those eight bushels made twenty gallons of clear hundred-proof whiskey. Across Hoss Tyler’s counter that brought twelve dollars and fifty cents in salt, coffee, cloth, and forged iron without a single United States note crossing Cranberry Creek.
 
-On the back leaf stood the tenth of November and his mortgage interest. Twenty-four dollars in lawful money fell due at Bakersville upon the four hundred owing to Hoss Tyler against the eighty-six acres, the dam, the corn, and the road. No stoneware jug paid that line. Six silver dollars toward it had sat ready in those twelve bushels against his wall at noon, and now his pond lay a foot below the grinding mark while Margaret’s salt sack sat full in her kitchen.
+On the back leaf stood the tenth of November and his mortgage interest. Twenty-four dollars in lawful money fell due at Bakersville upon the four hundred owing to Hoss Tyler against the eighty-six acres, the dam, the corn, and the road: more cash coin than a cove axe-hand cleared in a solid month of ten-hour days. No stoneware jug paid that line. Six silver dollars toward it had sat ready in those twelve bushels against his wall at noon, and now his pond lay a foot below the grinding mark while Margaret’s salt sack sat full in her kitchen.
 
 Joshua wiped his steel pen clean on a wool scrap, shut the book into the drawer, and pinched out the lamp wick between wet thumb and finger.
 

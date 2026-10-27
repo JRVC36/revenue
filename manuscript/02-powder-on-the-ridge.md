@@ -78,17 +78,17 @@ Only when the forward poleman waved his hat and dropped behind the rise did the 
 
 “Morning,” Joshua said. His eyes went down to the steel ribbon stretched across the crushed wintergreen between the tripod and Tom’s boot.
 
-Every corner Joshua had walked between Toe River and the Watauga line had been run with a country surveyor’s sixty-six-foot chain: one hundred short iron links worn bright on stone, ten square chains to the acre to prove a fence. The chain lying across this ridge ran a full hundred feet in straight foot-long rods of stiff spring steel. Notched brass tabs marked every tenth link in the sun. No man measured farm acres with a hundred-foot chain. It measured stations and grade.
+Instead of a country land-surveyor’s linked iron chain — sixty-six feet, the breadth of a barn lot — the ribbon lying across this ridge ran a full hundred feet in straight foot-long rods of stiff spring steel. Notched brass tabs marked every ten feet in the sun.
 
 Tom Burleson stood up, wiping red chalk dust onto his homespun thigh. His ears reddened under his cap. “Morning, Joshua. Pa get his rye ground?”
 
-“Took it home before noon yesterday,” Joshua said. He looked at the red marks lettered down the flat chestnut stake at Tom’s toe: a cross, a number mark, and *cut four* underlined twice above the bark. “Running a wagon turnpike?”
+“Took it home before noon yesterday,” Joshua said. He looked at the red marks lettered down the flat chestnut stake at Tom’s toe: a cross, a station number, and *cut four feet* underlined twice above the bark. “Running a wagon turnpike?”
 
-“Three-foot gauge location line,” the northern man said pleasantly. He slid a brass dust-shutter closed over his eyepiece. “Hendrick. Out of Mauch Chunk, for Mister Pardee’s company down at the ore bank. We’re tying our preliminary levels from the Doe River narrows across the state divide into Cranberry Creek before snow shuts the gap.”
+“Narrow-gauge line,” the northern man said pleasantly. He slid a brass dust-shutter closed over his eyepiece. “Rails laid three feet apart — one man’s stride, tight enough to curve round a gorge spur. Hendrick, out of Mauch Chunk, for Mister Pardee’s company down at the ore bank. We’re tying our preliminary levels from the Doe River narrows across the state divide into Cranberry Creek before snow shuts the gap.”
 
 Joshua looked once down the east pitch toward the cove ridges, then back at the chiseled cross cut clean into the dark rock beneath the brass plumb-bob. “Your line crosses two private grants south of that poplar.”
 
-“Preliminary stakes hurt no man’s timber,” Hendrick said, resting one forearm lightly across the telescope barrel. “Where the company doesn’t already hold mineral fee, right-of-way deeds wait till the directors file the narrow-gauge charter in the spring. Right now we’re finding whether three-foot iron can climb out of Tennessee at two parts in the hundred without doubling the hill.”
+“Preliminary stakes hurt no man’s timber,” Hendrick said, resting one forearm lightly across the telescope barrel. “Where the company doesn’t already hold mineral fee, right-of-way deeds wait till the directors file the narrow-gauge charter in the spring. Right now we’re finding whether three-foot iron can climb out of Tennessee rising two feet in every hundred without doubling the hill.”
 
 Joshua studied the round silvered compass box sunk into the brass plate. Its blued needle stood loose. Hard against the west pin it quivered, nowhere near north.
 

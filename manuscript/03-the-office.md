@@ -82,7 +82,7 @@ He drew the upper white paper slip half an inch further from the sheep-bound vol
 
 Down on Water Street an ox-wagon creaked past on dry hubs. Nobody in the half-circle moved a boot.
 
-“The excise on distilled spirits stands where Congress fixed it three Marches ago,” Parrish said. “Ninety cents upon every proof gallon. Any citizen wishing to distill grain or apples in Mitchell County may do so under the law upon filing survey and bond before he lights wood. Because few farmers have read the Act of July, eighteen sixty-eight in the text, I will read two short provisions once so no man is misled.”
+“The excise on distilled spirits stands where Congress fixed it three Marches ago,” Parrish said. “Ninety cents in lawful money upon every hundred-proof gallon — half again what unbonded whiskey brings in crossroads trade. Any citizen wishing to distill grain or apples in Mitchell County may do so under the law upon filing survey and bond before he lights wood. Because few farmers have read the Act of July, eighteen sixty-eight in the text, I will read two short provisions once so no man is misled.”
 
 He opened the upper volume flat at the first slip. His gray eyes dropped to the fine print, reading at the flat, even pace of a clerk calling scale weights.
 
@@ -130,9 +130,9 @@ Then Parrish’s gray eyes came across to the window.
 
 “Freezes nights in January,” Joshua said. “Turns by day once I bar the ice off the buckets.”
 
-“North Carolina law still fixes public toll at the eighth dish?”
+“North Carolina law still fixes a public miller’s toll at one part in eight?”
 
-“One eighth on bolted bread meal,” Joshua said. “One fourteenth when a neighbor asks coarse chop for stock. Struck flat in a county-sealed half-bushel.”
+“One eighth on fine bread meal,” Joshua said. “One fourteenth when a neighbor asks coarse chop for stock. Measured level in a wooden twenty-eight-pound half-bushel tub with the county seal burned in the oak.”
 
 Parrish gave a small, dry nod. “A fourteenth leaves heavier sacks going home than an eighth. Do Carter County wagons cross the line to buy meal at your door?”
 

@@ -1136,6 +1136,7 @@ subplots (historically Rutherford/McDowell, not Cranberry Twp), party stump spee
 6. **"Revenuer" is the derogatory.** Parrish objects to it once, out loud, and is corrected by a
    subordinate, not by a mountaineer.
 7. **Numbers are spoken, not argued.** No character explains the tax rate. Somebody counts dollars.
+8. **First-Touch Physical Scale Rule (`AUTHOR`, 2026-10-27 — `in_scene_physical_scale`).** No glossary, front-matter chart, or authorial conversion note. Every period weight, measure, land/survey unit, proof term, and dollar sum must be anchored on its **first appearance** in plain physical scale: **body lift/weight** (`a 56-lb bushel; a two-man 112-lb two-bushel bag`), **household duration** (`a 7-lb half-peck poke = 3 days' cornbread for four people`), **visual physics** (`100 proof = half pure spirit, half water; 3-ft narrow gauge = rails one stride apart; Gunter's 66-ft chain = the breadth of a barn lot`), or **days of human sweat** (`75–90¢ for a 10-hour day swinging an axe, making $6 over a full week's labor and $24 a solid month's cash wages`).
 
 ---
 
