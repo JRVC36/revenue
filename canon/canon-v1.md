@@ -221,11 +221,13 @@ Consequences, binding:
   that saves her land by damning her family or loses her land by saving nothing.
 - **She can convey.** The separate-estate clause makes her the only person in the book who can sign away
   ground of her own — and NC required a **privy examination**, the wife's assent taken apart from her
-  husband and certified by the officer, for any such deed to be valid at all `LEAD`. That is the loudest
-  quiet fact in the outline's world: **a married woman had to be examined alone, away from her husband, to
-  give away what was hers, and the certificate of that examination is a document the book can lose, find,
-  or produce.** (Whether to *use* the missing certificate as the plot's Act Three lever is Q-9's neighbor:
-  propose it at *Did She Know?*, do not decide it here.)
+  husband and certified by the officer, for any conveyance or husband's lease of a wife's land to be valid
+  at all `LEAD` (N.C. Laws 1848–49, ch. 41; N.C. Const. 1868, Art. X §6; *Towles v. Fisher*, 77 N.C. 443
+  [1877]; *Scott v. Battle*, 85 N.C. 184 [1881] — holding a *feme covert* cannot divest or charge her
+  separate realty even by estoppel without written spousal assent and certified privy examination). **RULED
+  → R-20 (*Did She Know?*, Ch. 26):** Margaret lays down her folded pre-1861 Watauga deed (sole copy after
+  the 1873 Boone courthouse fire, R-15) and stands on the total absence of any certified privy examination,
+  stalling the *in rem* decree against `Parcel B` into *E1*'s `"the tract remains in contest"` (R-12).
 - **Old Councill's and Harper's parcels stay as the outline has them.** The cove's meeting in Act One is at
   **Joshua's mill** (his barn, his hospitality — the record of his not-knowing is a record of who he fed).
   The burned barn in Act Two is **Harper's** — storage, not distilling, which is why the burning is a crime
@@ -568,8 +570,9 @@ believe them to be part of Burke county").
   destroying the county's deed books), and the postwar instruments — **Margaret's 1866–68 separate-estate
   deed** and **Joshua's mortgage** — recorded in **Mitchell County** at **Bakersville**. For any pre-1861
   link in the chain of title, **the clerk's book is ash and the folded sheet in Margaret's box is the only
-  copy in the world.** If *Did She Know?* uses a missing privy-examination certificate, it is no longer an
-  author's contrivance; it is how Toe River titles worked after 1873.
+  copy in the world.** **RULED → R-20:** in *Did She Know?* (Ch. 26), Margaret produces that unburned
+  pre-1861 Watauga deed and stands on the absence of any certified privy examination in Bakersville, which is
+  no longer an author's contrivance; it is how Toe River titles worked after 1873.
 - **What it changes for R-2 and R-5 (the railroad).** Placing the hollow near Cranberry and Elk Park puts it
   at **the exact target of the railroad**: Ario Pardee's Cranberry Iron & Coal Company is driving the 3-foot
   ET&WNC narrow gauge up from Johnson City specifically to haul Cranberry magnetite, crossing State Line Gap
@@ -742,6 +745,39 @@ onstage party politics).
 
 ---
 
+### R-20 · *Did She Know?* (Ch. 26): Margaret's unburned Watauga deed and the absence of any certified privy examination stall `Parcel B` into `"the tract remains in contest"` (*E1*)
+
+`AUTHOR` (2026-10-26), locking Scene Proposal 3 of 3 (`canon §12`, Ch. 26 *Did She Know?*). **Closes all three
+contingent scene proposals in `canon §12`.**
+
+- **The legal collision at the October 1881 Statesville term (`R-7` + `R-12` + `R-13` + `R-15` + `R-18`).** In
+  the rented Statesville courtroom (Judge Robert Paine Dick named on the docket, never voiced per R-13), the
+  U.S. Attorney presses the civil *in rem* libel against **Margaret's forty-acre separate estate (`Parcel B`)**
+  under *Dobbins* and *Stowell* ("knowingly has suffered or permitted"), while arguing **Joshua's adjoining
+  mortgaged mill tract (`Parcel A`)** in as *"premises connected therewith"* (R-18).
+- **The burned-courthouse deed and the missing privy examination (`LEAD`: NC statutes & Supreme Court).** Under
+  **N.C. Laws 1848–49, ch. 41** (quoted in *Perry v. Stancil*, 237 N.C. 442), a husband could not lease his
+  wife's real estate even for a term of years *"except by and with the consent of his wife ... ascertained and
+  effectuated by privy examination"*; and under **N.C. Const. 1868, Art. X §6**, ***Towles v. Fisher*, 77 N.C.
+  443 (1877)**, and ***Scott v. Battle*, 85 N.C. 184 (1881)**, a married woman could not divest or charge her
+  separate real estate — **even by estoppel or implied consent** — without written spousal assent and a
+  clerk's/justice's **privy examination** taken separately and apart from her husband and duly certified.
+  Margaret lays down her folded pre-1861 Watauga root deed (the sole copy in the world after the **23 March
+  1873 Boone courthouse fire**, R-15) and stands on the total absence of any certified privy examination in
+  Bakersville giving Jacob or any man a lease, license, or estate in her barn.
+- **Her single spoken sentence — and why `Parcel B` *"remains in contest"* while Joshua still sells (`R-8` +
+  `R-12`).** When the U.S. Attorney asks the *Stowell* knowledge question directly (*forty paces from your
+  kitchen door*), Margaret could clear `Parcel B` outright by testifying that Joshua and Caleb ran the cart road
+  and used the barn without her leave — damning the boy she raised (R-8) and sealing `Parcel A`. She refuses.
+  She answers in **one narrow sentence** — that her husband owned no inch of her father's ground and she never
+  went before any clerk to give any man leave upon it — and names nobody. That answer forces a federal-supremacy
+  vs. NC-coverture question of law (`whether federal in rem forfeiture can divest a NC feme covert's separate
+  realty by implied consent without privy examination`) onto exceptions, holding `Parcel B` over past the term
+  and producing Parrish's exact 1882 line in *E1*: **`"the tract remains in contest"`** (R-12) — while private
+  mortgage pressure and defense costs leave Joshua no room left on `Parcel A`, forcing Ch. 27 (*The Mill Sold*).
+
+---
+
 ## 12. Chapter map v1 — POV-tagged and dated (R-4, R-5, R-13)
 
 Twenty outline beats in, **28 chapters** out, numbered continuously across the book. Renumbered
@@ -789,7 +825,7 @@ this table can be reordered without breaking them.**
 | 23 | The Deposition | M | (new, R-9 / **RULED R-19**) | **Parrish must ask Margaret to save him.** Before signing, she requires him to strike `"a boy"` and enter **`Elisha Councill`** in his Commissioner's report (*E1*); then she swears one true sentence — Parrish stood in the road calling his hired men off when the fire caught in the split kegs stored on Harper's floor — saving Parrish with Washington and putting sworn proof of stored spirits into the federal record against the cove. |
 | 24 | The Surrender | J | The Capture | Joshua says the name he has kept unspoken, out loud, as a piece of information. Caleb gives himself to the court, not to the agent. |
 | 25 | The Term, 1881 | J | (new, R-13) | **Statesville, term opened Monday 17 October 1881.** The circuit, the hotel rooms, the marshal's fees, and the fact that a trial in this district is a schedule before it is a judgment. |
-| 26 | Did She Know? | M | The Broader Tragedy / the trial | Stowell and Dobbins aimed at the woman with the deed; Joshua's tract argued in as "connected." The hinge is one sentence she decides whether to say. **Proposed, awaiting ruling:** a clerk's missing privy-examination certificate surfaces here (R-7). |
+| 26 | Did She Know? | M | The Broader Tragedy / the trial | **RULED (R-20):** In Statesville (Judge Dick named, never voiced), Margaret lays down her folded pre-1861 Watauga deed (sole copy after the 1873 Boone fire, R-15) and stands on `Art. X §6`, N.C. Laws 1848–49 ch. 41, and *Scott v. Battle*, 85 N.C. 184 (1881) — no certified privy examination exists giving Jacob or any man an interest in her barn. In her one spoken sentence on knowledge she refuses to clear `Parcel B` by naming Caleb or Joshua, stalling the decree into *E1*'s `"the tract remains in contest"` (R-12) while mortgage and defense costs force Joshua to sell `Parcel A` in Ch. 27. |
 | 27 | The Mill Sold | J | Joshua's End | He sells and leaves; a father leaving the son he raised as his brother's, and neither of them says so (R-8). The only Brennan who dies where the streets have names. |
 | 28 | The Far Side of the Ridge | J | (new, R-5) | November 1881. A blast from the wrong side of a ridge, and he does not go and look. No engine, no rails, no lesson. |
 
@@ -806,11 +842,9 @@ because her chapters carry the paperwork and run long. Measured at Pass 4, never
 **Word math for the pitch:** 28 chapters × 3,200–3,500 = 89,600–98,000 words — inside the 85,000–100,000
 target with no filler owed.
 
-**What is still contingent:** *The Missing Page* (**R-18**) and *The Deposition* (**R-19**) are **RULED**;
-*Did She Know?* (Ch. 26, the missing privy-examination certificate behind the burned courthouses) is **the
-single remaining scene proposal awaiting the author**; *The Term, 1879* and *The Term, 1881* exist because
-the rulings required them. Nothing else in this table depends on an unanswered question, so **Act One can be
-drafted now**.
+**Scene-level status (ALL THREE SCENE PROPOSALS RULED):** *The Missing Page* (**R-18**), *The Deposition*
+(**R-19**), and *Did She Know?* (**R-20**) are all **RULED**, alongside *The Term, 1879* and *The Term,
+1881* (**R-13**). **All 28 chapters in Acts One, Two, and Three plus *E1–E3* now have locked structural beats.**
 
 
 ## 2. Timeline
@@ -921,11 +955,14 @@ R-14).
 
 **MARGARET BRENNAN (née ___)** — 40s in 1878. Wife, mother of the informer, and **owner in fee of the
 tract the still stands on** (R-7): her father's land, her separate estate under NC Const. 1868 Art. X §6,
-not liable for her husband's debts. **RULED Q-4.** She is the only character who can convey, and the only
-one whose knowledge is a legal question with an answer worth money — which makes her the person the trial is
-about. `INVENT` her father's name, the deed's date (suggest 1866–68, so it predates the war's paper
-confusion and postdates nothing that would cloud it), and whether the privy-examination certificate for any
-later dealing exists. `OPEN` whether the missing certificate is used as a plot lever (see *Did She Know?* at §12).
+not liable for her husband's debts. **RULED Q-4 → R-7; Ch. 26 RULED → R-20.** She is the only character who
+can convey, and the only one whose knowledge is a legal question with an answer worth money — which makes her
+the person the trial is about. `INVENT` her father's name and the postwar Mitchell deed date (suggest 1866–68,
+resting on her father's folded pre-1861 Watauga root deed — the sole copy left after the 23 March 1873 Boone
+courthouse fire, R-15). **RULED → R-20:** in *Did She Know?* (Ch. 26), she lays down that unburned deed and
+stands on the total absence of any certified privy examination giving Jacob or any man an interest in her barn
+(N.C. Laws 1848–49 ch. 41; *Scott v. Battle*, 85 N.C. 184 [1881]), stalling `Parcel B` into *E1*'s `"the
+tract remains in contest"` (R-12).
 
 **MATTHEW BRENNAN** — 19 in 1878 (b. ~1859), Jacob's son, raised as Caleb's brother (R-8). Informs; is
 exiled; is beaten to broken ribs and a broken arm in Johnson City; never returns. **RULED Q-7 → R-10: three
@@ -1108,7 +1145,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-1 | **Whose spine?** | ✅ RULED 2026-10-26 → **R-4**: Joshua ~80%, Margaret ~20%. Chapter map is §12 |
 | Q-2 | Does Act Three extend to June 1882 so the first train is a final **image**, or does it arrive as **coda**? | ✅ RULED 2026-10-26 → **R-5**: neither — ends autumn 1881, train heard about, never seen. Subtitle date 1878–1881 |
 | Q-3 | Ages: is Jacob older than Joshua (b. 1831/1829) or is "older brother" wrong? | ✅ RULED 2026-10-26 → **R-6**: Joshua is the elder (50), Jacob 45; the forfeitable fee is Joshua's; Margaret's standing reopens as Q-4 |
-| Q-4 | Does Margaret hold title, or dower, or nothing? Who can sign away the hollow? | ✅ RULED 2026-10-26 → **R-7**: her father's tract, in fee, as a married woman's separate estate — and the still sits on it. Dower and the homestead exemption are off the table; the privy-examination certificate is a device held in reserve |
+| Q-4 | Does Margaret hold title, or dower, or nothing? Who can sign away the hollow? | ✅ RULED 2026-10-26 → **R-7** (+ **R-20**): her father's tract, in fee, as a married woman's separate estate — and the still sits on it. Dower and the homestead exemption are off the table; in Ch. 26 (*Did She Know?*, R-20), her unburned Watauga deed and the absence of any certified privy examination stall `Parcel B` into *E1*'s `"the tract remains in contest"` |
 | Q-5 | Whose son is Caleb, and why does he call Jacob "Father"? | ✅ RULED 2026-10-26 → **R-8**: Joshua's firstborn, given to Jacob's house in 1862 when Joshua enlisted; raised as Matthew's brother; never stated in the book |
 | Q-6 | What does Parrish pay for, and what does it cost him? (Post-Ring Treasury; no moiety to promise) | ✅ RULED 2026-10-26 → **R-9**: the Bureau audits him; the unsigned order becomes an exhibit in his own defense; the complaint closes without finding and he keeps the office |
 | Q-7 | Matthew's motive, concretely — and does he ever get paid? | ✅ RULED 2026-10-26 → **R-10**: the store, the day, the paper — granted, granted, refused; paid months late by an order returned "person unknown." It also pre-decides half of Q-8 (Tyler's day book is the exhibit) |
@@ -1204,6 +1241,14 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   **Newland** before 1911–12 (in 1878 say *Old Fields of Toe*, R-15); any depot, post office, or incorporated
   boomtown at **Elk Park** before 1882–85, or company-town scrip/hotel at **Cranberry** before July 1882 (R-15);
   **"moonshiner" / "moonshine" in narration or any mountain mouth** (outside print only, R-17).
+- **Margaret's deed and the privy-examination stall (R-7, R-12, R-15, R-20).** In *Did She Know?* (Ch. 26,
+  October 1881 Statesville term; Judge Robert P. Dick named, never voiced), Margaret lays down her folded
+  pre-1861 Watauga root deed (sole copy after the 23 March 1873 Boone courthouse fire) and stands on `NC
+  Const. 1868 Art. X §6`, N.C. Laws 1848–49 ch. 41, and *Scott v. Battle*, 85 N.C. 184 (1881): no clerk's
+  privy-examination certificate exists giving Jacob or any man a lease or estate in her barn, and in her one
+  spoken sentence on knowledge she refuses to clear `Parcel B` by naming Caleb or Joshua — holding `Parcel B`
+  over on exceptions (`"the tract remains in contest"` in *E1*, R-12) while mortgage and defense costs force
+  Joshua to sell `Parcel A` in Ch. 27 (*The Mill Sold*).
 - **Closing sound (R-5, R-15).** The final beat's noise is a blast off the state-line ridge or a local hammer —
   never a whistle, never an engine, because Hampton (15.5 air / ~19.9 gorge miles down Doe River Gorge) was the
   rail head in October–November 1881. Pending ask R-13.
@@ -1211,6 +1256,16 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 ---
 
 ## 11. Change log
+
+- **2026-10-26 — Scene Proposal 3 of 3 ruled → R-20 (*Did She Know?*, Ch. 26; all `canon §12` scene proposals
+  CLOSED).** At the October 1881 Statesville term (Judge Dick named, never voiced), Margaret produces her
+  folded pre-1861 Watauga root deed (sole copy after the 23 March 1873 Boone courthouse fire, R-15) and stands
+  on `NC Const. 1868 Art. X §6`, N.C. Laws 1848–49 ch. 41, and *Scott v. Battle*, 85 N.C. 184 (1881) — no
+  certified privy examination exists giving Jacob or any man an interest in her barn, and a married woman
+  cannot lose her separate realty by estoppel without one. In her single spoken sentence on knowledge she
+  refuses to clear `Parcel B` by naming Caleb or Joshua, stalling the federal decree into *E1*'s `"the tract
+  remains in contest"` (R-12) while mortgage and defense costs force Joshua to sell `Parcel A` in Ch. 27 (*The
+  Mill Sold*). **All 28 chapters in `canon §12` now have locked structural beats.**
 
 - **2026-10-26 — Scene Proposal 2 of 3 ruled → R-19 (*The Deposition*, Ch. 23, and *The Burning*, Ch. 14).**
   Harmonized Ch. 14 across R-9, R-11, and the outline: Caleb's network stored blockade whiskey under William

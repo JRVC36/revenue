@@ -155,6 +155,17 @@ knows what shape the book is in:
     sentence — Parrish stood in the road calling his hired men off and did not order the fire, which caught in
     the split kegs of blockade whiskey stored on Harper's floor — saving Parrish's career with Washington while
     putting sworn proof of stored spirits into the federal record against the cove.
+20. **R-20 — *Did She Know?* (Ch. 26): Margaret's unburned Watauga deed and the absence of any certified privy
+    examination stall `Parcel B` into `"the tract remains in contest"` (*E1*).** At the October 1881 Statesville
+    sitting (Judge Robert P. Dick named, never voiced, R-13), Margaret produces her folded pre-1861 Watauga
+    root deed (the sole copy left after the 23 March 1873 Boone courthouse fire, R-15) and stands on `NC Const.
+    1868 Art. X §6`, N.C. Laws 1848–49 ch. 41, and *Scott v. Battle*, 85 N.C. 184 (1881): no clerk's
+    privy-examination certificate exists anywhere giving Jacob or any man a lease or estate in her barn, and a
+    married woman cannot lose her separate realty by estoppel without one. In her single spoken sentence on
+    knowledge she refuses to clear `Parcel B` by naming Caleb or Joshua — holding `Parcel B` over on exceptions
+    (`"the tract remains in contest"` in Parrish's 1882 report, R-12), while mortgage and defense costs force
+    Joshua to sell the mill (`Parcel A`) in Ch. 27 (*The Mill Sold*). **Closes all three `canon §12` scene
+    proposals.**
 
 ## Editing workflow
 

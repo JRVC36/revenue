@@ -47,10 +47,16 @@ be evidence.
 **Raised him (R-8).** She is the woman who took in her husband's nephew at five years old and did not
 hand him back after the war, which is the only act of refusal available to a woman with land and no
 attorney. Nobody in the book thanks her for it and nobody mentions it.
-**Engine hook (ruled: canon R-7):** she owns the ground the still stands on — her father's tract, held in
-fee as a married woman's separate estate, beyond her husband's creditors by the 1868 constitution. So she
-can *convey*, which is the one act no man in the book can perform for anyone, and the government's libel is
-against **her** land. Her knowledge, not her loyalty, is the trial's question.
+**Engine hook (ruled: canon R-7 + R-20):** she owns the ground the still stands on — her father's tract,
+held in fee as a married woman's separate estate (`NC Const. 1868 Art. X §6`), with the folded pre-1861
+Watauga root deed in her cedar box the sole surviving copy after the 23 March 1873 Boone courthouse fire
+(R-15). Under N.C. Laws 1848–49 ch. 41 and *Scott v. Battle*, 85 N.C. 184 (1881), neither a husband's lease
+nor implied consent/estoppel could divest or charge a married woman's separate realty without a certified
+privy examination. In *Did She Know?* (Ch. 26, R-20), she lays down that unburned deed, stands on the total
+absence of any clerk's privy-examination certificate giving Jacob or any man an interest in her barn, and in
+her one sentence on knowledge refuses to clear `Parcel B` by naming Caleb or Joshua — stalling the federal
+decree into *E1*'s `"the tract remains in contest"` (R-12) while mortgage and defense costs still force
+Joshua to sell the mill in Ch. 27.
 **Currently in the outline:** 6 mentions against Parrish's 39, and she has one good scene (the nod in
 the courthouse). That scene is the seed.
 **Ruled (canon R-4): she is the ~20% secondary POV.** Her chapters are the ones where *paper* decides
