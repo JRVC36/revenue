@@ -1187,6 +1187,12 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   may contradict the term list.
 - **The trip is priced.** A sitting costs a mountain man three days each way, a hotel, and feed for the horse.
   Put that arithmetic in a ledger line in any chapter that asks someone to go.
+- **Mill tolls and Joshua's mortgage arithmetic (Ch. 1, *The Water Is Right*).** NC statutory public-mill toll
+  is **one-eighth** on bread meal (**7 lb** out of a 56-lb bushel) and **one-fourteenth** on coarse chop (**4
+  lb** out of 56 lb; *Rev. Code* 1854, c. 71, s. 6). Joshua's mortgage on `Parcel A` (paper held in Hoss
+  Tyler's safe, payable in lawful money at Bakersville) stands at **$400 principal** with **$24 annual interest
+  (6%, N.C. Laws 1876–77, ch. 91) due 10 November**; Matthew's open store page in Ch. 1 carries **$12** remaining
+  on the bay mule's half-share plus the December 1877 Bakersville doctor's ride and an April chilled plow point.
 - **Parrish's wound.** Hit in arm or leg (outline undecided) — pin side and limb; he is on the page
   afterward holding things differently.
 - **Two ambushes.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes. The killed
