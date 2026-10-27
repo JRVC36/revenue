@@ -19,14 +19,14 @@
   },
   "compiled": {
     "dist/revenue.html": {
-      "id": "1lcUhyTrQFZMYXwr6dw-Ms-9tWhmIv6R3EZ5xx1KsF3U",
+      "id": "19UXfoJwB0v9Z5fMMU-fyHUmGb2BcEspy01yR3peQpKE",
       "name": "REVENUE — Manuscript (Compiled)",
-      "url": "https://docs.google.com/document/d/1lcUhyTrQFZMYXwr6dw-Ms-9tWhmIv6R3EZ5xx1KsF3U/edit"
+      "url": "https://docs.google.com/document/d/19UXfoJwB0v9Z5fMMU-fyHUmGb2BcEspy01yR3peQpKE/edit"
     },
     "dist/revenue-audiobook.txt": {
-      "id": "1vuoNNoOhlfVBe-BIU79NOJ7oq6lTQI-g",
+      "id": "1fcDa2Xl7HbEBbouN1C3o3Xg6lUXJOizl",
       "name": "REVENUE — Audiobook Script (TTS).txt",
-      "url": "https://drive.google.com/file/d/1vuoNNoOhlfVBe-BIU79NOJ7oq6lTQI-g/view"
+      "url": "https://drive.google.com/file/d/1fcDa2Xl7HbEBbouN1C3o3Xg6lUXJOizl/view"
     }
   },
   "chapters": {
@@ -49,6 +49,11 @@
       "id": "1-74qXe8h6QViWDH1CA_ZVuEOOQqdhffV1JAWdL0_XC4",
       "name": "Chapter 04 — What a No Costs",
       "url": "https://docs.google.com/document/d/1-74qXe8h6QViWDH1CA_ZVuEOOQqdhffV1JAWdL0_XC4/edit"
+    },
+    "manuscript/05-keep-making-it.md": {
+      "id": "1V_-XjdMxQJQQVNBlbYb0JYL7rQNc4yIOqFQ-oc0CyXs",
+      "name": "Chapter 05 — Keep Making It",
+      "url": "https://docs.google.com/document/d/1V_-XjdMxQJQQVNBlbYb0JYL7rQNc4yIOqFQ-oc0CyXs/edit"
     }
   },
   "docs": {
@@ -58,9 +63,9 @@
       "url": "https://docs.google.com/document/d/1TbDyNcqsyHEtH-YjoaetloWpi6vBONFF6TI9gpmjx-A/edit"
     },
     "docs/act-1-beat-sheet.md": {
-      "id": "1KCpLT-iP-Ne7Lwltr5QnYMtd0ZqRM_RxhvHiiOuYTj0",
+      "id": "1KeZHT7QiEmjSjYLS-5l70z7oycaLxSYFDetLdkmjEIg",
       "name": "Act One Beat Sheet (Chs. 1–8)",
-      "url": "https://docs.google.com/document/d/1KCpLT-iP-Ne7Lwltr5QnYMtd0ZqRM_RxhvHiiOuYTj0/edit"
+      "url": "https://docs.google.com/document/d/1KeZHT7QiEmjSjYLS-5l70z7oycaLxSYFDetLdkmjEIg/edit"
     },
     "docs/period-audit.md": {
       "id": "1oEI8N6bvzbM0qaRx-oVMMzfvt5CCYtgkqaJy42cWgOE",

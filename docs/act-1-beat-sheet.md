@@ -128,8 +128,8 @@ Every number, legal rule, and planted object across Chapters 1–8 must match th
 
 ---
 
-### Chapter 5 · *Keep Making It* (Joshua POV)
-*Monday, 11 November 1878 · Joshua's Mill Race (afternoon) & Mill Barn (night) · Target: ~3,600 words*
+### Chapter 5 · *Keep Making It* (Joshua POV) — **DRAFTED**
+*Monday, 11 November 1878 · Joshua's Mill Race (afternoon) & Mill Barn (night) · 2,049 narration words (`3,378` total) · 0 BAN, 0 FLAG*
 *Core engine (`R-6`, `R-7`, `R-11`, `R-14`, `R-17`): Joshua states the lienholder-consent bar once; the cove chooses organized "not-knowing" with no banner name; **William Harper delivers his single verbatim "don't" sentence**.*
 
 - **Scene 1 — *Guns and Paper* (Mill race & drying shed, Mon afternoon 11 Nov — strict exterior):**
