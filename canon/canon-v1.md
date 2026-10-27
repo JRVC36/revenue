@@ -1190,19 +1190,35 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   may contradict the term list.
 - **The trip is priced.** A sitting costs a mountain man three days each way, a hotel, and feed for the horse.
   Put that arithmetic in a ledger line in any chapter that asks someone to go.
-- **Mill tolls and Joshua's mortgage arithmetic (Ch. 1, *The Water Is Right*; Ch. 2, *Powder on the Ridge*).**
+- **Mill tolls and Joshua's mortgage arithmetic (Chs. 1–4).**
   NC statutory public-mill toll is **one-eighth** on bread meal (**7 lb** out of a 56-lb bushel) and
-  **one-fourteenth** on coarse chop (**4 lb** out of 56 lb; *Rev. Code* 1854, c. 71, s. 6). Jacob's copper
-  kettle in Margaret's lower barn is **eighty gallons**; Joshua rides a **claybank mare**, Harper rides a
-  **heavy brown mare**, and Matthew's half-share mount is the **bay mule**. Joshua's mortgage on `Parcel A`
-  (paper held in Hoss Tyler's safe, payable in lawful money at Bakersville) stands at **$400 principal** with
-  **$24 annual interest (6%, N.C. Laws 1876–77, ch. 91) due 10 November** (Sunday in 1878; paid Saturday 9 Nov /
-  Monday 11 Nov); Matthew's open store page (**`Folio 114`**) carries **$12** remaining on the bay mule's
-  half-share plus the December 1877 Bakersville doctor's ride and an April chilled plow point (**$19.40**
-  settled in silver in Ch. 7). In Ch. 2 (first week of October 1878), **Tom Burleson** (son of Elihu Burleson
-  of North Fork) pulls a **100-ft steel chain** at **90¢/day** in cash silver for **Hendrick** (Mauch Chunk, PA
-  engineer for Pardee's Cranberry / 3-ft location party), and Harper brings Parrish's clerk-written notice
-  summoning Cranberry Township freeholders to Bakersville for **Thursday, 10 October 1878, at noon**.
+  **one-fourteenth** on coarse chop (**4 lb** out of 56 lb; *Rev. Code* 1854, c. 71, s. 6). Joshua's father
+  set the white-oak mill frame in **`1848`**, and Joshua hung the French burr runner stone **after `1865`**.
+  `Parcel A` stands entered in *Deed Book D* at Bakersville at **eighty-six acres** in fee (mill-seat, dam,
+  six acres of late corn, cart road, and split-chestnut tailrace trough); Margaret's `Parcel B` is **forty
+  acres** conveyed in **`1868`** as her separate estate out of her father's old Watauga grant; William Harper's
+  junction farm is **two hundred acres** with a double-crib barn. Jacob's copper kettle in Margaret's lower
+  barn (`40 paces` below her kitchen) is **eighty gallons**; Joshua rides a **claybank mare**, Harper rides a
+  **heavy brown mare**, Parrish rides a clean-limbed **bay gelding**, Squire Wiseman (Three Mile) rides a
+  **roan mare**, and Matthew's half-share mount is the **bay mule**. Joshua's mortgage on `Parcel A` (deed of
+  trust held by **Hosea "Hoss" Tyler**, payable in lawful money) stands at **$400 principal** with **$24 annual
+  interest (6%, N.C. Laws 1876–77, ch. 91) due 10 November** (Sunday in 1878; paid Saturday 9 Nov / Monday 11
+  Nov out of an oilskin pouch holding **36 silver halves [$18], 4 quarters [$1], and one $5 U.S. note**);
+  Matthew's open store page (**`Folio 114`**) carries **$12** remaining on the bay mule's half-share plus the
+  December 1877 Bakersville doctor's ride and an April chilled plow point (**$19.40** settled in silver in Ch.
+  7). In Ch. 2 (first week of Oct 1878), **Tom Burleson** (son of Elihu Burleson of North Fork) pulls a
+  **100-ft steel chain** at **90¢/day** in cash silver for **Hendrick** (Mauch Chunk, PA engineer for Pardee's
+  Cranberry / 3-ft location party). In Ch. 3 (**Thu 10 Oct 1878**), Harper and Joshua see young deputy clerk
+  **McKinney** shelving *Deed Book C* and *Deed Book D* in the **1868 brick courthouse** on **Water Street**
+  before Parrish (`38`, `Rev. Stat. § 3152`, citing Commissioner Raum's **20 Aug 1878** leniency cutoff, `Act
+  of July 1868 §§ 8, 12, 44`, and `Rev. Stat. § 3163` ledger summons) sets the winter docket for **Monday, 21
+  April 1879** at **Statesville** (`Collector Mott`). In Ch. 4 (**Sat 26 Oct 1878**), Joshua refuses Parrish's
+  **$20/month** (`$100` Nov–Mar) detective-voucher offer and connected-premises warning (*Dobbins' Distillery*,
+  Jan 1878; `Rev. Stat. §§ 3281, 5440`); inside Joshua's locked walnut table drawer beneath the `$24` pouch lie
+  last autumn's `10 Nov 1877` Tyler receipt, the stitched **`1866`–`1869`** keeping-money sheet (*To Jacob's
+  house*: Dec 4 yds gray jeans `$2.10`, Jan kip shoes `$1.60`, Sept slate/pencil/primer `40¢`, Nov cash keeping
+  `$5.00` — **Caleb Clue #1**), and Joshua's thrice-folded **August 1865 Knoxville U.S. Army discharge** (unit
+  folded inward).
 - **Parrish's wound.** Hit in arm or leg (outline undecided) — pin side and limb; he is on the page
   afterward holding things differently.
 - **Two ambushes.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes. The killed
