@@ -163,6 +163,15 @@ def build_md(title, author, acts) -> str:
 # 2. typeset HTML for Google Docs import
 # --------------------------------------------------------------------------
 
+def inline_md_to_html(text: str) -> str:
+    """Escape HTML and convert **bold** and *italic* spans cleanly."""
+    t = html.escape(text, quote=False)
+    t = re.sub(r"&quot;", '"', t)
+    t = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", t)
+    t = re.sub(r"(?<!\*)\*([^*\n]+?)\*(?!\*)", r"<em>\1</em>", t)
+    return t
+
+
 def paras_to_html(body: str) -> str:
     """First paragraph of a chapter and after each scene break is flush left; the rest are
     indented 21.6pt (Guide 6.2). '---' becomes a centered asterism, never a rule."""
@@ -174,8 +183,7 @@ def paras_to_html(body: str) -> str:
             p = re.sub(r"\s+", " ", p).strip()
             if not p:
                 continue
-            p = html.escape(p, quote=False)
-            p = re.sub(r"&quot;", '"', p)
+            p = inline_md_to_html(p)
             ind = "0pt" if (flush and first) else "21.6pt"
             blocks.append(f'  <p style="text-indent:{ind}">{p}</p>')
             first = False
@@ -193,16 +201,17 @@ def paras_to_html(body: str) -> str:
 CSS = f"""
 body {{ font-family: Georgia; font-size: 12pt; line-height: 1.38; margin: 1in; }}
 p {{ margin: 0 0 0 0; orphans: 2; widows: 2; }}
-h1 {{ font-family: Georgia; font-size: 16pt; text-align: center; margin: 0 0 0 0; }}
+h1 {{ font-family: Georgia; font-size: 16pt; text-align: center; font-weight: bold;
+      margin: 170pt 0 6pt 0; }}
 h2 {{ font-family: Georgia; font-size: 13pt; text-align: center; font-weight: bold;
-      margin: 48pt 0 24pt 0; page-break-before: always; }}
-.act {{ text-align: center; font-size: 16pt; font-weight: bold; margin-top: 170pt;
-        page-break-before: always; }}
-.act-sub {{ text-align: center; font-style: italic; margin-top: 6pt; }}
+      margin: 48pt 0 24pt 0; }}
+.act-sub {{ text-align: center; font-style: italic; margin: 0 0 0 0; }}
+.contents-head {{ font-family: Georgia; font-size: 16pt; text-align: center; font-weight: bold;
+                  margin: 48pt 0 18pt 0; }}
 .title-page {{ text-align: center; margin-top: 200pt; }}
 .title-page .t {{ font-size: 30pt; letter-spacing: 3pt; font-weight: bold; }}
+.title-page .sub {{ font-size: 13pt; font-style: italic; margin: 8pt 0 18pt 0; }}
 .contents li {{ list-style: none; margin: 0 0 4pt 0; }}
-.pagebreak {{ break-before: page; }}
 """
 
 
@@ -210,21 +219,24 @@ def build_html(title, author, acts) -> str:
     s = ["<!DOCTYPE html>", '<html lang="en">', "<head>", '<meta charset="utf-8">',
          f"<title>{html.escape(title)}</title>", f"<style>{CSS}</style>", "</head>", "<body>"]
     s += ['<div class="title-page">', f'  <p class="t">{html.escape(title)}</p>',
-          f"  <p>{html.escape(author)}</p>", "</div>", PAGE_BREAK]
-    s += ['<h1>Contents</h1>', '<ul class="contents">']
+          '  <p class="sub">1878&ndash;1881</p>',
+          f"  <p>{html.escape(author)}</p>", "</div>", f"<p>{PAGE_BREAK}</p>"]
+    s += ['<p class="contents-head">Contents</p>', '<ul class="contents">']
     for a in acts:
         if a["name"]:
             s.append(f'  <li><b>Act {a["name"]}: {html.escape(a["sub"])}</b></li>')
         for ch in a["chapters"]:
             s.append(f'  <li>&nbsp;&nbsp;&nbsp;{html.escape(ch["title"])}</li>')
-    s += ["</ul>", PAGE_BREAK]
+    s += ["</ul>", f"<p>{PAGE_BREAK}</p>"]
     for a in acts:
         if a["name"]:
-            s += [f'<p class="act">Act {a["name"]}</p>',
-                  f'<p class="act-sub">{html.escape(a["sub"])}</p>', PAGE_BREAK]
-        for ch in a["chapters"]:
-            s += [f'<h2>{html.escape(ch["title"])}</h2>', paras_to_html(ch["body"]),
-                  '<p style="text-align:center">&thinsp;</p>']
+            s += [f'<h1>Act {a["name"]}: {html.escape(a["sub"])}</h1>', f"<p>{PAGE_BREAK}</p>"]
+        for idx, ch in enumerate(a["chapters"]):
+            if idx > 0 or not a["name"]:
+                s.append(f"<p>{PAGE_BREAK}</p>")
+            s += [f'<h2>{html.escape(ch["title"])}</h2>', paras_to_html(ch["body"])]
+        if a is not acts[-1]:
+            s.append(f"<p>{PAGE_BREAK}</p>")
     s += ["</body>", "</html>"]
     return "\n".join(s) + "\n"
 

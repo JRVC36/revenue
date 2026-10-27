@@ -39,8 +39,10 @@ tools/
   check.py                        anachronism + continuity linter, built FROM the vocabulary bible
   readability.py                  narration-only sentence and syllable diagnostics
   compile.py                      dist/revenue.md · dist/revenue.html · dist/revenue-audiobook.txt
+  drive_stage.py                  dist/drive/{chapters,docs}/*.html staged for Google Docs sync
+  drive-manifest.json             Google Drive folder & Doc IDs mirrored under Drive/Books/Revenue
   sample/                         the fixture the tools are tested against (deliberately dirty)
-dist/                             compiled outputs — gitignored
+dist/                             compiled outputs — gitignored (mirrored to Drive/Books/Revenue)
 google_drive/                     raw text exports of the four Drive docs — gitignored, not editable
 ```
 
@@ -52,12 +54,11 @@ python3 tools/check.py --stats              # Pass-4 audit: the tic count, dash 
 python3 tools/check.py --all                # sweep the outline and the gap list too (bibles excluded)
 python3 tools/readability.py                # per-chapter rhythm report (dialogue is not scored)
 python3 tools/compile.py                    # build dist/ (md + typeset html + TTS script)
+python3 tools/drive_stage.py                # stage individual chapters & docs HTML for Drive sync
 python3 tools/compile.py --src tools/sample --out /tmp/dist   # dry run against the fixture
 ```
 
-No third-party packages, Python 3.9 standard library only. `compile.py` prints the two Google Docs API
-steps it cannot do itself (the Georgia `weightedFontFamily` pass and the reverse-order
-`[[PAGE_BREAK]]` → real page break conversion).
+No third-party packages, Python 3.9 standard library only. **Git remains canonical** (`canon/`, `docs/`, `manuscript/`); after every committed change, staged HTML and compiled outputs are mirrored in place to `Drive/Books/Revenue` (`Manuscript Chapters`, `Canon & Docs`, and top-level `REVENUE — Manuscript (Compiled)`) using the persistent IDs in `tools/drive-manifest.json`, followed by the Google Docs `Georgia` font and reverse-order `[[PAGE_BREAK]]` passes.
 
 ## The rulings that govern everything
 

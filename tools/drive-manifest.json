@@ -1,0 +1,106 @@
+{
+  "canonical_source": "git:JRVC36/revenue@arena/55a44f26-revenue",
+  "folders": {
+    "revenue_root": {
+      "id": "1DrJTs0lwEmSxP9cPnxpXOgtRiGoNfmh-",
+      "name": "Revenue",
+      "url": "https://drive.google.com/drive/folders/1DrJTs0lwEmSxP9cPnxpXOgtRiGoNfmh-"
+    },
+    "manuscript_chapters": {
+      "id": "1TVtTWRHu2JSIkw1fMBdcAiJ9jLmTYpu7",
+      "name": "Manuscript Chapters",
+      "url": "https://drive.google.com/drive/folders/1TVtTWRHu2JSIkw1fMBdcAiJ9jLmTYpu7"
+    },
+    "canon_and_docs": {
+      "id": "1qYukUZZ2dnhtec7duyPDFVdUqamJVy8Y",
+      "name": "Canon & Docs",
+      "url": "https://drive.google.com/drive/folders/1qYukUZZ2dnhtec7duyPDFVdUqamJVy8Y"
+    }
+  },
+  "compiled": {
+    "dist/revenue.html": {
+      "id": "1lcUhyTrQFZMYXwr6dw-Ms-9tWhmIv6R3EZ5xx1KsF3U",
+      "name": "REVENUE — Manuscript (Compiled)",
+      "url": "https://docs.google.com/document/d/1lcUhyTrQFZMYXwr6dw-Ms-9tWhmIv6R3EZ5xx1KsF3U/edit"
+    },
+    "dist/revenue-audiobook.txt": {
+      "id": "1vuoNNoOhlfVBe-BIU79NOJ7oq6lTQI-g",
+      "name": "REVENUE — Audiobook Script (TTS).txt",
+      "url": "https://drive.google.com/file/d/1vuoNNoOhlfVBe-BIU79NOJ7oq6lTQI-g/view"
+    }
+  },
+  "chapters": {
+    "manuscript/01-the-water-is-right.md": {
+      "id": "1iMmI1e9lwygbAt5o5wbuuAr1zNY5Ww3nV-qjZjPKniM",
+      "name": "Chapter 01 — The Water Is Right",
+      "url": "https://docs.google.com/document/d/1iMmI1e9lwygbAt5o5wbuuAr1zNY5Ww3nV-qjZjPKniM/edit"
+    },
+    "manuscript/02-powder-on-the-ridge.md": {
+      "id": "1_TgIGmySvJ3a803F7RqxzdOYmIom2vvMYUrFolrrR5s",
+      "name": "Chapter 02 — Powder on the Ridge",
+      "url": "https://docs.google.com/document/d/1_TgIGmySvJ3a803F7RqxzdOYmIom2vvMYUrFolrrR5s/edit"
+    },
+    "manuscript/03-the-office.md": {
+      "id": "1bnlyXm4VVxdjcR9XaXZ1zuoWgw3spN1gWiTtz9oxC98",
+      "name": "Chapter 03 — The Office",
+      "url": "https://docs.google.com/document/d/1bnlyXm4VVxdjcR9XaXZ1zuoWgw3spN1gWiTtz9oxC98/edit"
+    },
+    "manuscript/04-what-a-no-costs.md": {
+      "id": "1-74qXe8h6QViWDH1CA_ZVuEOOQqdhffV1JAWdL0_XC4",
+      "name": "Chapter 04 — What a No Costs",
+      "url": "https://docs.google.com/document/d/1-74qXe8h6QViWDH1CA_ZVuEOOQqdhffV1JAWdL0_XC4/edit"
+    }
+  },
+  "docs": {
+    "canon/canon-v1.md": {
+      "id": "1TbDyNcqsyHEtH-YjoaetloWpi6vBONFF6TI9gpmjx-A",
+      "name": "Canon v1 — REVENUE",
+      "url": "https://docs.google.com/document/d/1TbDyNcqsyHEtH-YjoaetloWpi6vBONFF6TI9gpmjx-A/edit"
+    },
+    "docs/act-1-beat-sheet.md": {
+      "id": "1KCpLT-iP-Ne7Lwltr5QnYMtd0ZqRM_RxhvHiiOuYTj0",
+      "name": "Act One Beat Sheet (Chs. 1–8)",
+      "url": "https://docs.google.com/document/d/1KCpLT-iP-Ne7Lwltr5QnYMtd0ZqRM_RxhvHiiOuYTj0/edit"
+    },
+    "docs/period-audit.md": {
+      "id": "1oEI8N6bvzbM0qaRx-oVMMzfvt5CCYtgkqaJy42cWgOE",
+      "name": "Period & Historical Audit",
+      "url": "https://docs.google.com/document/d/1oEI8N6bvzbM0qaRx-oVMMzfvt5CCYtgkqaJy42cWgOE/edit"
+    },
+    "docs/research-gaps-and-questions.md": {
+      "id": "1HrBmn7N3EKoTdlwp7h8Lm7dldxNsQLClee_SBFkm7Ww",
+      "name": "Research Gaps & Rulings Log",
+      "url": "https://docs.google.com/document/d/1HrBmn7N3EKoTdlwp7h8Lm7dldxNsQLClee_SBFkm7Ww/edit"
+    },
+    "docs/pitch-and-blurb.md": {
+      "id": "1GOhNMQZIOY8CyM-VYh4r0sLCKXW327wG9zwJm3grcxI",
+      "name": "Pitch & Blurb",
+      "url": "https://docs.google.com/document/d/1GOhNMQZIOY8CyM-VYh4r0sLCKXW327wG9zwJm3grcxI/edit"
+    },
+    "docs/beta-reader-note.md": {
+      "id": "1OkDquoL4Ddw4y3OKjPSqsnFCxgX4UsR0O4pOQTIMtBg",
+      "name": "Beta-Reader Note",
+      "url": "https://docs.google.com/document/d/1OkDquoL4Ddw4y3OKjPSqsnFCxgX4UsR0O4pOQTIMtBg/edit"
+    },
+    "docs/bibles/character-bible.md": {
+      "id": "1RzMqSp2ovWp9ccyu1If1TkyuUMA0EDYNr1Qd3cDVSXU",
+      "name": "Bible — Characters",
+      "url": "https://docs.google.com/document/d/1RzMqSp2ovWp9ccyu1If1TkyuUMA0EDYNr1Qd3cDVSXU/edit"
+    },
+    "docs/bibles/historical-context-bible.md": {
+      "id": "1ab1kInXTKdBMeBmQdt9O9hJocJcahke0sQXSLFRLAiY",
+      "name": "Bible — Historical Context",
+      "url": "https://docs.google.com/document/d/1ab1kInXTKdBMeBmQdt9O9hJocJcahke0sQXSLFRLAiY/edit"
+    },
+    "docs/bibles/related-documents-bible.md": {
+      "id": "1hEqtXh6JOtY-sUZ20eq4I_V005jj7SU1ZDlmj_4PowY",
+      "name": "Bible — Related Documents",
+      "url": "https://docs.google.com/document/d/1hEqtXh6JOtY-sUZ20eq4I_V005jj7SU1ZDlmj_4PowY/edit"
+    },
+    "docs/bibles/vocabulary-tone-bible.md": {
+      "id": "130M0J5MzbXnubXmlWFvxM2cpEc5V88Cx3Mz4MG_Bavw",
+      "name": "Bible — Vocabulary & Tone",
+      "url": "https://docs.google.com/document/d/130M0J5MzbXnubXmlWFvxM2cpEc5V88Cx3Mz4MG_Bavw/edit"
+    }
+  }
+}
