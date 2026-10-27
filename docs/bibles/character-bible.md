@@ -1,6 +1,6 @@
 # Character Bible — *REVENUE*
 
-**Status: v0.9 — open.** Companion to `canon/canon-v1.md` §4. Ages, dates, and relationships are
+**Status: v1.0 — locked through R-20 & updated post–Act One Style Audit.** Companion to `canon/canon-v1.md` §4. Ages, dates, and relationships are
 recorded there and are authoritative; this file is for interior material — what a person wants, what a
 person will not say, and what their hands do.
 
@@ -115,6 +115,9 @@ than the man whose name is on the still is that he is heir to two properties and
 handling it, the way he carries a rifle. Do not choose the second; choose the first, and let the reader
 supply that the second is also true. His rage at the burned barn is a boy defending the only household he has
 ever been told is his, which is why the cove can trust him and why that trust is the tragedy.
+**Hard prose ban (`R-8`, Act One Audit):** never compare Caleb's jaw, shoulders, wrists, gait, voice, or
+axe/tool-stroke to Joshua's in narration (as caught and excised in the Ch. 4 woodpile audit). Outside the
+planted documentary and object clues (`canon §10`), zero somatic or physical-resemblance hints are allowed.
 
 ## Joshua Brennan · b. ~1828 · 50 in 1878 · miller, trader · elder brother, owner in fee (R-6)
 
@@ -130,9 +133,10 @@ carry before he is the man who carried it too far.
 house; the boy's mother died in 1862 in the same childbed that took the second child; Joshua went to war
 that summer and came back to find the arrangement permanent. Everything Joshua does in the book — the
 refusal to inform, the sheltering of the fugitive, the sale of the mill, the leaving — is one continuous act
-about that boy, and no sentence in the manuscript is permitted to say so. The three planted facts are in
-canon §10 ("the Caleb audit"); the fourth is Joshua's silence when someone calls Caleb "your brother's boy"
-and does not correct himself.
+about that boy, and no sentence in the manuscript is permitted to say so. The planted documentary/object facts
+are in canon §10 ("the Caleb audit"); the silent dramatic beat is Joshua's stillness when someone calls Caleb
+"your brother's boy" and does not correct himself — **never** a narrator comparison of shared posture, grip,
+jaw, or tool-stroke across Chs. 13, 18, 24, and 27.
 **What R-6 and R-18 did to him:** he inherited the farm and mortgaged it, so the still sits in the barn on
 Margaret's adjoining freehold (corrected by R-7), and the forfeiture R-3 aims at the land reaches the POV
 character's own deed via "connected therewith." He is also the one man in the cove who cannot plead not

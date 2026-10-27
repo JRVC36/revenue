@@ -1,11 +1,10 @@
 # Historical Context Bible — *REVENUE*
 
-**Status: v0.9.** Companion to `canon/canon-v1.md` §5–§7. This file holds the *world*; canon holds the
+**Status: v1.0 — synced with `19 Stat. 152` & post–Act One Style Audit.** Companion to `canon/canon-v1.md` §5–§7. This file holds the *world*; canon holds the
 *decisions*. Anything tagged **UNVERIFIED** here may not enter the manuscript until it is either
 confirmed from a primary source or ruled `INVENT` by the author.
 
-Verified against secondary sources by the agent on 2026-10-26. The author's own verification pass
-(Style Guide §5.1: "Verify every object, law, and table by exact year") has not happened yet.
+Verified against primary statutes and period sources on 2026-10-27 (`canon §5.7`, `docs/period-audit.md`).
 
 ---
 
@@ -32,9 +31,11 @@ gallons of whiskey worth roughly $1.25. **The tax is approximately the entire va
 That is the 1791 grievance re-created in 1878, and it is why the cove's position is not ignorance but
 arithmetic. Never argue it. A man counts on his fingers and the reader does the rest.
 
-Other levies in the same system, if needed for a scene: special taxes on retail dealers and
-rectifiers; a bonded-warehouse regime; gauging at the warehouse; the collector's, supervisor's, and
-inspector's separate paperwork. **UNVERIFIED at the level of exact 1878 dollar amounts.**
+Other levies in the same system (`VERIFIED`): **Retail Liquor Dealer special tax = $25.00 annually**
+(`Rev. Stat. §§ 3239, 3244`), requiring a posted special-tax stamp above any counter selling or trading
+distilled spirits in quantities under five wine gallons (the predicate of Parrish's `§ 3453` / `§ 3163`
+entry at Hoss Tyler's store in Ch. 6); storekeeper-gauger subsistence (`$4–$5/day` on bonded cistern
+rooms); and Collector's, Revenue Agent's, and Gauger's separate returns.
 
 ## 2. The law that actually bites (R-3)
 
@@ -74,12 +75,18 @@ should be, underneath, about who saw what and whether they said a word about it.
 ## 3. Who enforces it, and how much he is paid
 
 - **Bureau of Internal Revenue**, Treasury Department. **Commissioner: Green B. Raum**, appointed by
-  Grant in August 1876; he stayed through the 1880s, and NC accounts credit him with both the
-  crackdown on western NC stills beginning **1878** (the contemporaneous term is a "moonshine war")
-  and, later, relaxing the persecution of moonshiners.
-- **Supervisors of internal revenue** for each district (a Bureau expansion of the early 1870s);
-  abolished by the **Pendleton Civil Service Act of 1883**. Parrish's career sits inside the life of
-  that office.
+  Grant in August 1876; he stayed through April 1883, and NC accounts credit him with both the
+  crackdown on western NC stills beginning **1878** (following the **20 August 1878** amnesty cutoff;
+  the contemporaneous press term is a "moonshine war") and, later, relaxing prosecutions.
+- **Supervisors of internal revenue abolished 15 August 1876 (`19 Stat. 152`, `VERIFIED`).** Congress
+  abolished the ten District Supervisors two years *before* our novel opens and transferred their full
+  statutory powers under **`Rev. Stat. § 3163`** (entering premises where taxable articles are kept,
+  compelling production of merchants' day books, ledgers, and freight accounts) directly to **Internal
+  Revenue Agents** commissioned by the Commissioner at Washington under **`Rev. Stat. § 3152`**. Never
+  refer to an active "Supervisor" in 1878–81; Parrish acts as a `§ 3152` Revenue Agent exercising
+  transferred `§ 3163` book-examination authority, working alongside Sixth-District Collector **Dr. John
+  James Mott** at Statesville (`1872–1882`). *(Do not confuse the 1876 abolition of Supervisors with the
+  later 1883 Pendleton Civil Service Act.)*
 - **Assessors, collectors, inspectors, gaugers, deputy collectors.** **Deputy marshals** were hired by
   the U.S. Marshal for the district, often paid per prisoner — which is why a raiding party looks like
   hired men, and why a "posse" is not a militia.

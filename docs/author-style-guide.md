@@ -1,4 +1,4 @@
-﻿Author Style & Craft Guide — Kevin Russell
+Author Style & Craft Guide — Kevin Russell
 A general craft, editorial, historical-verification, and production guide for nineteenth-century American and Appalachian literary historical fiction.
 
 
@@ -14,6 +14,7 @@ Prose in this register is at its strongest when rendering physical and procedura
 * Rule: Reveal character, competence, and moral authority through how a person handles tools, animals, weather, and instruments.
 1.2 Physical & Procedural Plot Engines
 Never hang the stakes of a novel on an abstract or invented technicality. Build the plot engine out of concrete, verifiable nineteenth-century mechanisms where physical objects and human witnesses hold the leverage.
+* Rule (Sightline Staging for Read Documents): Whenever a scene turns on a point-of-view character reading another person's small-hand ledger, warrant, receipt, or pocket memorandum in live action, physically stage the resting surface, light, and distance in feet or inches (e.g., an open book braced on an oak tailboard four feet away) so the sightline is mechanically earned.
 1.3 Reasonable Antagonists
 Avoid ranting or theatrical villains. The most effective historical antagonist is courteous, patient, well-mannered, and entirely reasonable within the logic of his institution. He is dangerous not because he is cruel for sport, but because he genuinely views a landscape, a trade, or a community as a schedule of yields, improvements, and liabilities.
 
@@ -33,6 +34,8 @@ Do not switch into a different stylistic costume or heavy vernacular when changi
 * When the POV character is alone: High interiority is welcome. Free indirect thought, memory, calculation, and quiet moral reckoning belong in solitude.
 * When another person is in the room: Cut interior monologue. Dialogue, silence, physical gesture, and what is withheld must carry the scene.
 * During a confrontation: Never pause a live exchange to explain what a character is feeling or why a remark landed hard. Let the reader infer the interior state from what the character says, what they refuse to answer, and what their hands are doing.
+* No off-stage tactical omniscience: A close-third POV cannot narrate when or why an antagonist stationed men out of sight before the POV arrived; render only the riders or marks standing in the road when the POV reaches them.
+* No narrator flash-forwards: Never break the present horizon of a scene with prophetic omniscience ("while he lived", "for the last time").
 
 
 ________________
@@ -49,7 +52,7 @@ First drafts naturally accumulate placeholder nouns (thing, place, matter, stuff
    * Good (Plain and physical): "did not look like a woman about to comfort anybody" / "something that happened before pain" / "He came up out of the dark."
 3.2 Where Difficulty Belongs (Legible vs. Opaque Difficulty)
 * Legible difficulty (Welcome): Technical, historical, botanical, medical, and legal specificity. A reader will gladly work to follow a nineteenth-century trade, craft, or legal procedure when every physical object is shown clearly in action.
-* Opaque difficulty (Cut): Sentences that keep the reader waiting for the grammatical subject, stacked participial phrases (-ing clauses), and abstract nouns that explain an image after the image has already landed.
+* Opaque difficulty (Cut): Sentences that keep the reader waiting for the grammatical subject, stacked participial phrases (-ing clauses), ballad-style predicate/object inversions ("Flat it shut", "Neither ear did he pick up") where plain subject-verb-object order hits harder, and abstract nouns that explain an image after the image has already landed.
 3.3 Bimodal Sentence Rhythm
 * Long periodic sentences (25–45 words) belong in landscape passages, historical sweep, and slow procedural rhythms.
 * Short, clipped declaratives (4–12 words) belong at moments of physical crisis, pain, and moral shock.
@@ -78,7 +81,9 @@ Before finalizing a manuscript, run a corpus frequency check across all chapters
 
 * Rhetorical contrasts and tricolons: "Not X, not Y, just Z" / "It was not X; it was Y."
 * Abstract intensifiers: "the particular [noun] of", "a kind of", "in a way that", "something that was not quite..."
-* Repeated somatic beats: jaw-clenching, releasing a breath a character did not know they were holding, nodding slowly, looking down at one's hands.
+* Repeated somatic beats: jaw-clenching ("not a muscle in his jaw moved"), releasing a breath a character did not know they were holding, nodding slowly, looking down at one's hands.
+* Restraint-tag & trade-modifier bleed: When interiority is barred in live dialogue, cut external tone-policing tags ("said quietly", "said evenly", "said flatly") and cap trade/carpentry modifiers ("flat", "clean", "square", "neat") so they stay attached to timber, iron, and stone rather than padding ordinary verbs.
+* Cross-scene quantity & mileage audit: Reconcile net weights, sack/bushel counts, coin totals, and road mileages reckoned from different starting points across scene breaks.
 * Keep the two or three instances across the manuscript where the construction does real work; rewrite or cut the rest.
 Pass 5: The Chapter-Ending Momentum Pass
 Audit the closing 25 lines of every chapter. A chapter often drafts one paragraph past its true ending—adding a sleepy summary, a philosophical wrap-up, or a flash-forward that releases the dramatic pressure early.

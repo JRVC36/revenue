@@ -1,6 +1,6 @@
 # Vocabulary & Tone Bible — *REVENUE*
 
-**Status: v1.0 — enforceable now; all §9 rulings locked (R-1 … R-17).**
+**Status: v1.1 — enforceable now; all rulings locked (R-1 … R-20) and updated post–Act One Style Audit.**
 The mechanical half of the Style Guide. `tools/check.py` reads its ban list from the `lexicon` fence in §7 below, so **edits here change the linter**. Format: `pattern | severity | note`.
 
 Severity: `BAN` fails the build · `FLAG` warns · `NOTE` is a style reminder for humans only.
@@ -16,9 +16,10 @@ Severity: `BAN` fails the build · `FLAG` warns · `NOTE` is a style reminder fo
 | revenuer | (only from a mountaineer's mouth, and only with contempt) | Period slang, but a *press* word as much as a mountain one. `NOTE` |
 | "the signal", a whistle blown on the ridge (never explained as the band's name) | the Whistlers (that is the papers' word — R-14) | The cove has no name for its own organization; the institutions supply one, and the dime novel makes it permanent. |
 | `blockader`, `blockading`, `blockade whiskey` (mountain/county class-noun); *making*, *running*, *a run*, *the whiskey* (Brennans at the tub); *illicit distiller* (Bureau) | ~~moonshiner, moonshine~~ (in narration or mountain speech — **R-17**); ~~bootlegger~~ (`BAN`) | **RULED Q-14 → R-17:** WNC mountain and county speech says **`blockader`** / **`blockade whiskey`** (wartime blockade carryover, never explained); **"moonshiner" and "moonshine" belong strictly to outside print** (*E2*, *E3*, newspapers). `FLAG` + `NOTE` |
-| still, copper, worm, tub, cooler, thump keg / dunkin' log, mash, beer,ings, run, proof, gallon, jug, case | ~~distillery plant, fermenter, condensate~~ | `thump keg` is `FLAG` pending verification (claimed earliest-in-western-NC, 1870s — if true, it is our book's best object). |
+| still, copper, worm, tub, cooler, thump keg / dunkin' log, mash, beer, singlings, run, proof, gallon, jug, case | ~~distillery plant, fermenter, condensate~~ | `thump keg` is `FLAG` pending verification (claimed earliest-in-western-NC, 1870s — if true, it is our book's best object). |
+| laurel, laurel slick (mountain word for *Rhododendron maximum*), rhododendron, hemlock, yellow birch, spicebush, creek willow | ~~rhododendron laurel~~ (`BAN`, stacked double-noun); ~~stands of alders~~ along shaded 3,400-ft cove branches (`FLAG`) | Verified NW NC *Alnus* ecology: green alder (*A. viridis* subsp. *crispa*) occurs in NC only above ~5,000 ft on Roan Mountain balds; smooth/tag alder (*A. serrulata*) is a sun-loving shrub of open bogs/margins below ~3,000 ft, not steep shaded hemlock coves. |
 | whiskey, "the money," corn, rye, buckwheat | ~~bourbon, "shine," hooch, moon liquor~~ | "Bourbon" as a style-label is anachronistic in these mountains; "hooch"/"shine" are 20th-c. |
-| tax stamp, stamp, the paper, the bond, the libel, the information, the appraisal, the seizure, the notice | ~~warrant (unless a U.S. commissioner's warrant), subpoena, case file, docket number~~ | In rem procedure: **the libel names the property, not the man.** See canon R-3. |
+| tax stamp, stamp, the paper, the bond, the libel, the information, the appraisal, the seizure, the notice | ~~warrant (unless a U.S. commissioner's warrant), subpoena (unless *subpoena duces tecum*), case file, docket number~~ | In rem procedure: **the libel names the property, not the man.** See canon R-3. |
 | term, the sitting, the court was held at ___ | ~~deadline, court date, hearing schedule~~ | Guide §5.2: "deadline" is 1864 Andersonville / 1917 figurative. |
 | 90 cents on the proof gallon | ~~the 25-cent tax, the whiskey tax~~ | Rate fixed 3 Mar 1875–27 Aug 1894. `NOTE` |
 | share, proportion | ~~percentage~~ | Guide §5.2. |
@@ -51,8 +52,10 @@ mid-century and defensible, but never "it's all right" as consolation) · allerg
 (`FLAG`: "to be counted on") · current events · newsreel · phone · telegram is fine ·
 mail carrier · "the mail" is fine · stationery · commute · shift work · factory (fine for the
 Cranberry works; not for a grist mill — say **mill**) · employee · boss (`FLAG`: "the man that
-owns it," "Deacon," "Squire") · manager · supervisor (`NOTE`: a real title in the Bureau after
-1874 — fine in office mouth, never in the cove's) · foreman (fine) · company store (fine after
+owns it," "Deacon," "Squire") · manager · supervisor (`NOTE`: District Supervisors were **abolished
+15 Aug 1876 by `19 Stat. 152`**, transferring `§ 3163` summons/book-examination powers to `§ 3152`
+Internal Revenue Agents — use only in past-tense reference to the pre-August 1876 office, never as an
+active 1878–81 title) · foreman (fine) · company store (fine after
 1882) · scrip (fine after 1882) · picket line · strikebreaker · union (`FLAG` in 1878 mountains) ·
 "on the clock" · timecard · pension (`NOTE`: federal pension talk is real for *soldiers*, 1878; not
 for revenue men) · insurance (`FLAG`) · real estate (`NOTE`: "land," "the place," "the improvement")
@@ -96,6 +99,20 @@ Two of them are worth repeating because they are vocabulary problems: **every ac
    long (25–45 words); day-work/crisis runs short (4–12). `readability.py` reports the two
    distributions per chapter and flags a chapter whose median sits in the dead middle.
 6. **Four night set pieces minimum** (canon §8.4). `NOTE`.
+7. **Vocal-restraint dialogue-tag ban (Act One Audit).** When interiority is barred in live exchanges
+   (Guide §2.3), drafts naturally compensate with `said quietly`, `said evenly`, and `said flatly` to
+   police vocal temperature externally (`31×` before the Act One cleanup). `evenly`/`flatly` attached
+   to speech verbs is `FLAG`; `quietly` attached to speech verbs is `NOTE` (budget `≤2` per act, reserved
+   for beats where the physical drop in volume *is* the action, such as Parrish's `"Revenue officers,
+   Mister Carson"` in Ch. 6). Let silence, room acoustics, or tool/hand business set the vocal level.
+8. **Carpentry-modifier & stoic-jaw budget (Act One Audit).** Keep `flat`, `clean`, `square`, and `neat`
+   inside literal millwork, timber, stone, and acoustics (`≤2–3` earned material uses per chapter; never
+   default verb/participle padding like `laid flat`, `rested flat`, `pinned neat`, `crossed neat`,
+   `spat clean`, `dismounted clean`). Ban the stock somatic formula `Not a muscle/line in his jaw/mouth
+   moved` (`FLAG`).
+9. **Cast-sheet bare-age ban (`R-1`, Act One Audit).** Spelled-out stage-direction introductions (`a man
+   of forty`, `a man of thirty-eight`) evade digit-only age regexes (`FLAG`). Convert every newcomer's
+   age into physical wear, gray at the temples, calluses, or years on a deed.
 
 ## 5. The `not X — it's Y` tic (Style Guide §4 Pass 4, `TIC`)
 
@@ -130,6 +147,7 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 ```lexicon
 | BAN | Internal Revenue Service\b|\bIRS\b | post-1913 name speaker-check: say the Department, the revenue |
 | BAN | \bbootlegger\b | 20th-c. in this sense speaker-check |
+| BAN | \brhododendron laurel\b | rhododendron-laurel stacked plant noun speaker-check: say laurel (cove) or rhododendron alone |
 | BAN | \b(trauma|psycholog\w*|adrenalin\w*|hypothermia|subsonic|\becosystem\b|neurosis|shell shock|\bPTSD\b|self-esteem|\bmotivation\b|\bsynergy\b|infrastructure|dehumaniz\w*|\bdata\b|optimize\w*|socioeconomic|\bheritage\b|\btourism\b|vacationer|civil rights|race relations|\bdemographics\b)\b | modern clinical/business idiom speaker-check (Guide §5.2) |
 | BAN | \bdeadline\b | 1864 Andersonville / 1917 figurative; say the term, the sitting |
 | BAN | \bpercentage\b | say share, proportion |
@@ -144,6 +162,12 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | BAN | \b(the situation|the old economy|collective injury|half-life|hollow victory|\blegacy\b|the cost of keeping|the world has changed|things were changing|nothing would be the same)\b | thesis nouns and narrator clichés: Pass 2 deletes (Guide §4 Pass 4/4.4) |
 | BAN | \b(He could (feel|see|hear)|He felt|He saw|He heard|He noticed|He realized|There was a (chill|silence|weight|stillness)|A chill ran|The silence (was|felt)|It felt like|It seemed like|He was aware that)\b | eye-body tells and filter words (Guide §4 Pass 4/Pass 3) |
 | BAN | \b(Mr|Mrs|Ms|Dr|Col|Capt|Lt|Gen|Gov|No|St|vs|etc)\.\s+[A-Z0-9] | modern abbreviation/title forms; spell out Colonel, Captain, Judge, Number |
+| FLAG | \balders?\b | alder ecology check speaker-check: verify >5,000-ft Roan bald or open sunny bog; use laurel, hemlock, birch, spicebush, or creek willow in shaded coves |
+| FLAG | \b(?:said|asked|answered|spoke|went on|replied|added|read out|read aloud)\s+(?:evenly|flatly)\b | restraint-tag crutch evenly/flatly: cut adverb and let silence or hand business carry tone |
+| FLAG | \b(?:pinned|tucked|crossed|folded|patched|stacked|buttoned|darned|combed|tied)\b[^.!?,;\n]{0,25}\bneat\b | neat-padding tic Act 1 audit: cut neat or show physical precision |
+| FLAG | \bNot a (?:muscle|line)\b[^.!?]{0,40}\b(?:moved|hurried|stirred|twitched)\b | jaw-muscle stoicism cliché: replace with concrete hand or tool action |
+| FLAG | (?:\b[Aa] (?:[a-z-]+,?\s+){0,3}(?:man|woman|boy|girl|stranger|farmer|clerk|widow) of |\b(?:Joshua|Jacob|Margaret|Matthew|Caleb|Parrish|Harper|Tyler|Wiseman|Hawkins|Kerr|Vance|Lish|Amos)\s+was\s+)(?:fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy)(?:-[a-z]+)?\b | cast-sheet bare age R-1: replace with physical wear, gray hair, or years on ground |
+| FLAG | (?:^|[.!?]\s+)(?:Flat|Neat|Clean|Cleanly|Square|Up|Down|Out|In)\s+(?:it|they|he|she)\s+(?:shut|went|stepped|dropped|came|swung|turned|walked|rode)\b | ballad-inversion tic Act 1 audit: keep plain SVO order in action and crisis beats |
 | FLAG | \bmoonshiners?\b | moonshiner R-17 speaker-check: outside print only (E2, E3, newspapers); say blockader in mountain/county speech, illicit distiller in Bureau paper |
 | FLAG | \bmoonshine\b | moonshine-noun R-17 speaker-check: outside print only; say blockade whiskey, the whiskey, the run, or untaxed spirits |
 | FLAG | \b(thump keg|dunkin'? ?log)\b | verify before use (research R-2); if it holds, the opening scene |
@@ -156,6 +180,7 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | FLAG | [^—\n]{80,}[—–][^—\n]{80,} | em-dash overuse inside one line (budget ~6/1k narration words) |
 | FLAG | \b(the network|bureaucrac\w*|standoff|deadlock|stalemate|tipping point|check(ing)? on|handle it|figure it out|all is not lost|show(ing)? mercy|the greater good)\b | modern frame-words; see 2 |
 | FLAG | \bthe (whole|entire) (valley|cove|mountain) (held|seemed|felt)\b | community-as-chorus abstraction; give the specific porch instead |
+| NOTE | \b(?:said|asked|answered|spoke|went on|replied|added)\s+quietly\b | quiet-tag budget check: keep ≤2 per act only where volume drop is the physical action |
 | NOTE | Act [IV]+: THE RECKONING | every act title unique (canon 10) |
 | NOTE | \b\d+\b | numerals only in headings/ledgers/NOTES; spelled out in prose |
 | NOTE | \b1[6789]\d\d\b | every exact year needs a line in docs/period-audit.md |
@@ -185,6 +210,11 @@ Style Guide §5.3: **no misspellings.** Voice comes from structure. What to actu
   "It's not that I won't, it's that…"
 - **Biblical cadence available, dialect spelling not.** Psalter rhythm is authentic to a Scotch-Irish
   and Baptist mountain speech; eye dialect is a slur.
+- **Locative inversion yes; ballad/predicate inversion no (Act One Audit).** Natural locative staging
+  (`Across the counter stood three men`) grounds physical space cleanly; predicate-, adverb-, or
+  object-fronted inversions (`Flat it shut`, `Scratch went the lead pencil`, `Neither ear did he pick
+  up`, `Dry and bottom-up it went onto the shelf`) strain toward folk-ballad solemnity and weaken crisis
+  beats. Keep a plain SVO spine whenever action or emotion tightens.
 - **Never let a mountaineer speak an essay.** The outline's worst offenders, all to be rewritten:
   "You sold him to the government for money" · "That's not the same. Once you cross into murder,
   there's no coming back" · "Sometimes you can't stop what's coming. You just have to survive it" ·

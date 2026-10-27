@@ -22,6 +22,7 @@ OUT = ROOT / "dist" / "drive"
 
 DOC_TARGETS = [
     ("canon/canon-v1.md", "canon-v1", "Canon v1 — REVENUE"),
+    ("docs/author-style-guide.md", "author-style-guide", "Author Style & Craft Guide — Kevin Russell"),
     ("docs/act-1-beat-sheet.md", "act-1-beat-sheet", "Act One Beat Sheet (Chs. 1–8)"),
     ("docs/act-1-style-audit.md", "act-1-style-audit", "Act One Style Audit (Chs. 1–8)"),
     ("docs/period-audit.md", "period-audit", "Period & Historical Audit"),

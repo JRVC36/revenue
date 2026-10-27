@@ -1137,6 +1137,11 @@ subplots (historically Rutherford/McDowell, not Cranberry Twp), party stump spee
    subordinate, not by a mountaineer.
 7. **Numbers are spoken, not argued.** No character explains the tax rate. Somebody counts dollars.
 8. **First-Touch Physical Scale Rule (`AUTHOR`, 2026-10-27 — `in_scene_physical_scale`).** No glossary, front-matter chart, or authorial conversion note. Every period weight, measure, land/survey unit, proof term, and dollar sum must be anchored on its **first appearance** in plain physical scale: **body lift/weight** (`a 56-lb bushel; a two-man 112-lb two-bushel bag`), **household duration** (`a 7-lb half-peck poke = 3 days' cornbread for four people`), **visual physics** (`100 proof = half pure spirit, half water; 3-ft narrow gauge = rails one stride apart; Gunter's 66-ft chain = the breadth of a barn lot`), or **days of human sweat** (`75–90¢ for a 10-hour day swinging an axe, making $6 over a full week's labor and $24 a solid month's cash wages`).
+9. **Act One Style-Audit Guardrails (`AUTHOR`, 2026-10-27 — enforced across Acts Two & Three).**
+   - *No restraint-adverb crutches on speech verbs:* Ban `said/spoke evenly` and `said/spoke flatly` (`FLAG`); budget `said/asked quietly` at `≤2` per act (`NOTE`) only where dropping volume is the physical event.
+   - *Carpentry-modifier & stoic-jaw cap:* Keep `flat`, `clean`, `square`, and `neat` inside literal timber, iron, stone, and acoustics (`≤2–3` per chapter; never verb padding like `laid flat`, `pinned neat`, `crossed neat`, `spat clean`); ban `Not a muscle/line in his jaw/mouth moved`.
+   - *SVO spine over ballad inversions:* Allow natural locative staging (`Across the counter stood three men`), but ban predicate-, adverb-, or object-fronted inversions (`Flat it shut`, `Neither X did he Y`, `Up swung...`) in action and crisis scenes.
+   - *Strict observational horizon:* No off-stage tactical omniscience (`"Parrish had placed them there before six o'clock..."`), no narrator flash-forwards (`"while he lived"`), and stage physical sightlines/resting surfaces whenever a POV character reads another person's small-hand writing in live scene.
 
 ---
 
@@ -1177,8 +1182,10 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   (unincorporated border clearing 1 mi north of the Forge; no PO until May 1883, no town charter until 1885).
   Pre-1861 deeds in the family box carry **Burke** (pre-1833; Morganton records burned Apr 1865) or **Watauga**
   (1849–61; Boone deed books burned 23 Mar 1873); postwar filings (Margaret's 1866–68 separate-estate deed,
-  Joshua's mortgage) sit at **Bakersville**. Statesville is ~90 road miles across three county lines (**three
-  days each way on horseback**, R-13); Johnson City ~34 miles down the Doe River; Hampton railhead (22 Aug
+  Joshua's mortgage) sit at **Bakersville**. From **Elk Cove**, **Statesville** is **~90 wagon-miles** across
+  three county lines (**three days each way on horseback**, R-13; from **Bakersville**, 22 miles south down the
+  North Toe, county men reckon it at **~65–68 miles** when the river is down, keeping Ch. 3 and Ch. 8
+  consistent); Johnson City ~34 miles down the Doe River; Hampton railhead (22 Aug
   1881) **15.5 air / ~19.9 gorge miles** away, whistle blocked by Doe River Gorge, while 1880–81 black-powder
   blasting on Roan Mountain / Shell Creek / State Line Gap is 4–7 miles over the ridge.
 - **Sentence arithmetic — CLOSED (R-13).** Convicted at the term that opened **21 April 1879**, two years,
@@ -1256,13 +1263,16 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   inquiry (Act Three, arriving offstage in ch. 20), his answer (ch. 22), and the closing note "without
   adverse finding" (1882, the world of the epilogue). The windows follow the term calendar (R-13): the
   inquiry no earlier than the summer of 1881, the answer filed between the April and October sittings.
-- **The Caleb audit (R-8, updated R-11) — three planted facts, one per act, no statement.** (i) Act One, *What
-  a No Costs*: the ledger page with the boy's keeping-money, entered in Joshua's hand under a year that
-  predates the mortgage. (ii) Act Two (via Hoss Tyler's seized day book, R-11): Tyler's bound ledger lists a
-  **pair of boys' shoes** in a year Jacob's house had only one child of his own. (iii) Act Three, *The Mill
-  Sold*: the deed by which Joshua sells the mill reserves a right of way for "Caleb, my brother's son" — a
-  phrase that means nothing to the clerk and everything to the reader. If a reader assembles it before *The
-  Surrender*, the planting worked; if the narration ever explains it, cut the explanation, not the fact.
+- **The Caleb audit (R-8, updated R-11 & Act One Audit) — planted documentary/object facts only, zero narrator
+  resemblance hints.** (i) Act One, *What a No Costs* (Ch. 4): the stitched `1866–1869` keeping-money foolscap
+  (*To Jacob's house*) in Joshua's hand under years that predate the mortgage, alongside Ch. 8's **forty-cent
+  brass-pinned dark-blue wool shawl** untouched seventeen springs at the top of Margaret's chest. (ii) Act Two
+  (via Hoss Tyler's seized day book, R-11): Tyler's bound ledger lists a **pair of boys' shoes** in a year
+  Jacob's house had only one child of his own. (iii) Act Three, *The Mill Sold* (Ch. 27): the deed by which
+  Joshua sells the mill reserves a right of way for "Caleb, my brother's son" — a phrase that means nothing to
+  the clerk and everything to the reader. **Hard prose ban:** never compare Caleb's jaw, shoulders, wrists, gait,
+  or axe/tool-stroke to Joshua's in narration. If a reader assembles it before *The Surrender*, the planting
+  worked; if the narration ever explains or winks at it, cut the wink, not the fact.
 - **The epilogue's three errors are fixed, and they are the only errors allowed to persist** (R-12). The
   county history's wrong year is **1877**, always, in every draft; the report spells **Elisha Councill**;
   the dime novel's fourth chapter title is the sentence quoted in §1 and is never varied. If a revision
