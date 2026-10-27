@@ -1225,7 +1225,29 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   last autumn's `10 Nov 1877` Tyler receipt, the stitched **`1866`–`1869`** keeping-money sheet (*To Jacob's
   house*: Dec 4 yds gray jeans `$2.10`, Jan kip shoes `$1.60`, Sept slate/pencil/primer `40¢`, Nov cash keeping
   `$5.00` — **Caleb Clue #1**), and Joshua's thrice-folded **August 1865 Knoxville U.S. Army discharge** (unit
-  folded inward).
+  folded inward). In Ch. 5 (**Mon 11 Nov 1878**), before 13 cove men in Joshua's mill barn (**Old Amos
+  Councill**, **Rafe Winters**, **Boone Pritchard**, **Eben Gouge**, **Larkin Dugger**, **William Harper** with
+  sons **Luke** and **Thomas**), Harper speaks his single verbatim warning: *“Don’t fire another kettle this
+  winter, Jacob, or that man will take the roofs off men that never made a gallon.”* In Ch. 6 (**Sat 18 Jan
+  1879**), Sixth-District U.S. Gauger **Arthur Kerr** (Statesville) and hired hostler **Carson** gauge an
+  unstamped 3-gal jug behind Tyler's molasses cask at **`104 proof`** (`3.12` proof gal), and Parrish takes
+  Tyler's two calfskin ledgers (`1861–1871` and `1872–1879`) on a 10-day `§ 3163` receipt returnable **28 Jan**,
+  folding **Hosea Tyler's** witnessed foolscap protest inside the `1872–1879` flyleaf. In Ch. 7 (**Mon 3 – Tue
+  4 Mar 1879**), unseen in Tyler's back scale-room at `6:10 a.m.`, Joshua witnesses Parrish pay `$19.40` in
+  silver (36 halves, 4 quarters, 4 dimes: `19 Dec 1877` **Doctor Garland** night ride `$6.00`, `8 Apr` chilled
+  plow point `$1.40`, `10 Aug` bay mule half-share `$12.00`), Tyler write *“Settled in full, nineteen dollars
+  and forty cents, fourth of March, eighteen seventy-nine — by order of the agent. Hosea Tyler”* across
+  **`Folio 114`** before a U.S. Commissioner's subpoena re-impounds both ledgers for `21 Apr`, Matthew confirm
+  `Tue 4 Mar` on a cold still, and Parrish courteously refuse a written appointment paper before the carbine
+  shot cracks behind Harper's barn. In Ch. 8 (**Tue 4 Mar 1879**, Margaret POV), Margaret's locked cedar box
+  holds her stitched cipher household book, her father's **November 1854 Watauga County deed** (sole copy after
+  the `23 Mar 1873` Boone fire), and her **1868 Mitchell County `Art. X §6` separate-estate deed**; **Deputy
+  U.S. Marshal Hawkins** (Asheville) irons Jacob under `§§ 3258, 3266, 3281`; Bakersville appraiser **Abner
+  Vance**'s clerk lists **`One folded dark wool shawl, brass-pinned — forty cents`** (`Elsie's shawl`, struck
+  on Margaret's objection); Harper's ox-sled brings **Lish Councill (15)** dead under Margaret's white linen
+  sheet while Parrish enters **`"one boy, killed running at junction barn"`**; young **Thomas Harper (16)**
+  leads Matthew's riderless bay mule home at 4 p.m.; and four cut tacks hold the **Notice of Seizure** on
+  Margaret's barn doorpost naming her `40 acres` for **Statesville, third Monday of April, 1879**.
 - **Parrish's wound.** Hit in arm or leg (outline undecided) — pin side and limb; he is on the page
   afterward holding things differently.
 - **Two ambushes.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes. The killed

@@ -1,8 +1,8 @@
 # Act One Detailed Beat Sheet — *REVENUE* (`Chapters 1–8`)
 
 **Act Title:** ACT ONE: THE THRESHOLD (`September 1878 – 4 March 1879`, bridging into `21 April 1879`)
-**Status:** Complete scene-level blueprint synced to `canon/canon-v1.md` (`R-1` … `R-20`), `docs/period-audit.md`, and `manuscript/01-the-water-is-right.md` through `manuscript/07-the-store-debt.md` (**Chapters 1–7 DRAFTED**; Chapter 8 queued next).
-**Target Act Length:** ~25,000–28,000 plain-text words across 8 chapters (`7 Joshua POV` / `1 Margaret POV`).
+**Status:** **ACT ONE COMPLETE** — all 8 chapters (`manuscript/01-the-water-is-right.md` through `manuscript/08-the-cold-still.md`) drafted, linted (`0 BAN, 0 FLAG`), bimodal-verified (`med 11–12`), and synced to `canon/canon-v1.md` (`R-1` … `R-20`) and Google Drive.
+**Completed Act Length:** **24,240 plain-text words / 32,750 compiled words** across 8 chapters (`7 Joshua POV` / `1 Margaret POV`).
 
 ---
 
@@ -19,7 +19,7 @@ Every date below is checked against the real 1878–1879 perpetual calendar and 
 | **5** | *Keep Making It* | Joshua | **Mon, 11 Nov 1878** (day Joshua returns from paying Nov interest at Bakersville) | Cold November drizzle; hog-killing frost | **2,050w** *(drafted)* | Brothers' argument at the mill (`Joshua states the lienholder-consent bond bar once`, `R-6`); night meeting of 13 cove men in Joshua's mill barn (`no group name`, `R-14`); Jacob vetoes Caleb's rifle talk; **Harper speaks his single verbatim *don't* sentence (`R-11`)** and walks out with his sons. |
 | **6** | *Gauger's Work* | Joshua | **Mid-Jan 1879** (`Sat, 18 Jan 1879`) | Hard midwinter freeze; ice on wheel arms | **2,528w** *(drafted)* | Parrish axes poor brush stills; Jacob keeps his main 80-gal kettle inside **Margaret's barn (`Parcel B`)** with **Lish Councill (15)** watching off Beech Knob; at Tyler's junction store Parrish uses **`Rev. Stat. § 3163`** to take Tyler's bound ledgers for ten-day examination (finding Matthew's `$19.40` page); **Tyler writes the protest that authenticates his book (`R-11`)**. |
 | **7** | *The Store Debt* | Joshua | **Mon afternoon, 3 Mar – Tue dawn, 4 Mar 1879** | Late-winter thaw mud & river fog | **3,533w** *(drafted)* | **`R-10`'s three objects onstage at Tyler's dawn counter** (Joshua in back scale-room): Parrish settles **Folio 114** in silver (`"by order of the agent"` in Tyler's hand, ledger re-impounded for 21 Apr), confirms **Matthew's cold-still day (`Tuesday 4 March`)**, and courteously refuses a **written appointment paper**; posse trots ahead of Joshua; single rifle shot cracks behind Harper's barn. |
-| **8** | *The Cold Still* | **Margaret** | **Tue morning – dusk, 4 Mar 1879** | Cold wet fog lifting off Elk Cove | 4,100–4,400 | **First Margaret POV (`R-4`/`R-7`):** forty paces from kitchen to cold barn; Jacob arrested under `Rev. Stat. §§ 3258, 3266, 3281`; appraisers inventory barn & cabin (**Elsie's wool shawl listed at 40¢**, `R-8`, then struck); **Lish Councill (15)** brought up dead behind Harper's barn (`"a boy"` in Parrish's book, `R-10`); bay mule returns riderless; Treasury **Notice of Seizure** tacked to Margaret's barn door naming her 40 acres for **21 April 1879 at Statesville**. |
+| **8** | *The Cold Still* | **Margaret** | **Tue morning – dusk, 4 Mar 1879** | Cold wet fog lifting off Elk Cove | **3,373w** *(drafted)* | **First Margaret POV (`R-4`/`R-7`):** forty paces from kitchen to cold barn; Jacob arrested under `Rev. Stat. §§ 3258, 3266, 3281`; appraisers inventory barn & cabin (**Elsie's wool shawl listed at 40¢**, `R-8`, then struck); **Lish Councill (15)** brought up dead behind Harper's barn (`"one boy"` in Parrish's book, `R-10`/`R-19`); bay mule returns riderless; Treasury **Notice of Seizure** tacked to Margaret's barn door naming her 40 acres for **21 April 1879 at Statesville**. |
 
 *(Bridge to Act Two opener — **Ch. 9: The Term, 1879**, Joshua POV, **Monday, 21 April 1879**: Statesville rented courtroom; Judge Robert Paine Dick named on docket, never voiced; Jacob sentenced to the statutory two-year maximum [release fixed at **21 April 1881**]; copper sold for less than scrap; Margaret's real-estate forfeiture held open on claim/answer.)*
 
@@ -195,8 +195,8 @@ Every number, legal rule, and planted object across Chapters 1–8 must match th
 
 ---
 
-### Chapter 8 · *The Cold Still* (**Margaret POV** — First Margaret Chapter)
-*Tuesday morning to dusk, 4 March 1879 · Margaret's Freehold (`Parcel B`), Elk Cove · Target: ~4,250 words*
+### Chapter 8 · *The Cold Still* (**Margaret POV** — First Margaret Chapter — **DRAFTED** `manuscript/08-the-cold-still.md`)
+*Tuesday morning to dusk, 4 March 1879 · Margaret's Freehold (`Parcel B`), Elk Cove · 3,373 narration words, med 12, 0 BAN, 0 FLAG*
 *Core engine (`R-3`, `R-4`, `R-7`, `R-8`, `R-10`, `R-13`, `R-15`, `R-20`): Opens ten minutes before Parrish reaches the yard; locks what Margaret actually knew (`character-bible.md`); arrests Jacob on a cold still; appraises **Elsie's wool shawl at forty cents** (`R-8`); delivers Lish Councill's death and Parrish's `"a boy"` entry (`R-10`/`R-19`); leaves the riderless bay mule and the four-tack **Notice of Seizure** against Margaret's forty acres.*
 
 - **Pre-drafting Canon Lock (`character-bible.md` line 42 — *"Decide what she actually knew before drafting The Cold Still"*):**

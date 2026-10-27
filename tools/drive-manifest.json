@@ -19,14 +19,14 @@
   },
   "compiled": {
     "dist/revenue.html": {
-      "id": "1dQAwtdAca2iDsxQeJNASKSL2JDIZZqxDd3VdCwplLxA",
+      "id": "1kErIjfESXVN2_QPetvxYZERDX714qJ8TQ2PJKv7aeAo",
       "name": "REVENUE — Manuscript (Compiled)",
-      "url": "https://docs.google.com/document/d/1dQAwtdAca2iDsxQeJNASKSL2JDIZZqxDd3VdCwplLxA/edit"
+      "url": "https://docs.google.com/document/d/1kErIjfESXVN2_QPetvxYZERDX714qJ8TQ2PJKv7aeAo/edit"
     },
     "dist/revenue-audiobook.txt": {
-      "id": "1bGS6TxNQHzAy9rmKumlP2zJ1q5FZBUaD",
+      "id": "1r3EsHs3jW9lf3qkBS1MMhZRm3nInPhZt",
       "name": "REVENUE — Audiobook Script (TTS).txt",
-      "url": "https://drive.google.com/file/d/1bGS6TxNQHzAy9rmKumlP2zJ1q5FZBUaD/view"
+      "url": "https://drive.google.com/file/d/1r3EsHs3jW9lf3qkBS1MMhZRm3nInPhZt/view"
     }
   },
   "chapters": {
@@ -64,18 +64,23 @@
       "id": "1MNtDZXPoY12eozkbghoWE3XvgH8syWXNiptz9bxMtY8",
       "name": "Chapter 07 — The Store Debt",
       "url": "https://docs.google.com/document/d/1MNtDZXPoY12eozkbghoWE3XvgH8syWXNiptz9bxMtY8/edit"
+    },
+    "manuscript/08-the-cold-still.md": {
+      "id": "1jh4A3VpBXvjR-DMJJJOdU967Rf0aRqzj6o_RkE3Qm60",
+      "name": "Chapter 08 — The Cold Still",
+      "url": "https://docs.google.com/document/d/1jh4A3VpBXvjR-DMJJJOdU967Rf0aRqzj6o_RkE3Qm60/edit"
     }
   },
   "docs": {
     "canon/canon-v1.md": {
-      "id": "1TbDyNcqsyHEtH-YjoaetloWpi6vBONFF6TI9gpmjx-A",
+      "id": "1mSLK8HLnEAQtYXA7Y6gVv_IDAY4YH8XkYvtASXZbXSk",
       "name": "Canon v1 — REVENUE",
-      "url": "https://docs.google.com/document/d/1TbDyNcqsyHEtH-YjoaetloWpi6vBONFF6TI9gpmjx-A/edit"
+      "url": "https://docs.google.com/document/d/1mSLK8HLnEAQtYXA7Y6gVv_IDAY4YH8XkYvtASXZbXSk/edit"
     },
     "docs/act-1-beat-sheet.md": {
-      "id": "1ZJhg3D0oyc3VurAxqkAlgXXj_an2Iwtp9U8dG6Bsrw8",
+      "id": "1agSHvUXbFWMnbIwfc2DThdlthbe2dDHoz2JnzvLNWYs",
       "name": "Act One Beat Sheet (Chs. 1–8)",
-      "url": "https://docs.google.com/document/d/1ZJhg3D0oyc3VurAxqkAlgXXj_an2Iwtp9U8dG6Bsrw8/edit"
+      "url": "https://docs.google.com/document/d/1agSHvUXbFWMnbIwfc2DThdlthbe2dDHoz2JnzvLNWYs/edit"
     },
     "docs/period-audit.md": {
       "id": "1oEI8N6bvzbM0qaRx-oVMMzfvt5CCYtgkqaJy42cWgOE",

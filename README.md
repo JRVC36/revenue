@@ -3,7 +3,7 @@
 **A novel. Western North Carolina, 1878–1881.** The whiskey tax at ninety cents on the proof gallon, and
 the law that takes the land underneath the still. A railroad is coming the whole time and never shows up.
 
-Status: **drafting Act One (`01-the-water-is-right.md` through `07-the-store-debt.md` complete; detailed scene blueprint for Chapters 1–8 in `docs/act-1-beat-sheet.md`).** Working title `REVENUE` per the author's own outline; the subtitle is working.
+Status: **Act One complete (`01-the-water-is-right.md` through `08-the-cold-still.md` drafted, linted `0 BAN / 0 FLAG`, and mirrored to Google Drive; scene blueprint in `docs/act-1-beat-sheet.md`).** Working title `REVENUE` per the author's own outline; the subtitle is working.
 
 ---
 
