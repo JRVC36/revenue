@@ -146,6 +146,15 @@ knows what shape the book is in:
     admission, Joshua — who knows Tyler's foliation from fifteen years of settling mill-toll balances — sees
     the skipped folio number where Matthew's settled store account (`"by order of the agent"`, R-10) was left
     out of the public exhibit copy. Neither man speaks Matthew's name.
+19. **R-19 — *The Deposition* (Ch. 23) & *The Burning* (Ch. 14): Parrish's hired possemen lit Harper's barn
+    without orders, and Margaret trades her double-edged fire affidavit for `Elisha Councill`'s name in *E1*.**
+    Reconciles Ch. 14 with R-9 and the outline: Caleb's network stores whiskey under William Harper's barn
+    floor over his Act One *don't* (R-11), and Parrish's hired raid party staves in the kegs and fires the barn
+    without Parrish's order. In *The Deposition* (Ch. 23), Margaret requires Parrish to strike `"a boy"` and
+    write **`Elisha Councill`** in his Commissioner's report (*E1*, R-10/R-12), then swears one strictly true
+    sentence — Parrish stood in the road calling his hired men off and did not order the fire, which caught in
+    the split kegs of blockade whiskey stored on Harper's floor — saving Parrish's career with Washington while
+    putting sworn proof of stored spirits into the federal record against the cove.
 
 ## Editing workflow
 

@@ -303,12 +303,13 @@ Consequences, binding:
   authority in this district; or write that it was necessary, and admit in ink that the government destroyed
   property it was in the process of seizing. He writes the second one. `INVENT` the letter; the audit's row
   is what the letter has to be technically consistent with.
-- **A scene the outline does not have: the deposition.** To answer, he needs affidavits, and the one
-  affidavit that would save him is Margaret's — that the fire was not ordered, that the men were beyond him.
-  So the man taking her land has to ask her to protect his career, in a room, with a clerk. She gives him
-  the truth, because by then she has learned the truth is not on his side either, and the truth damages the
-  cove and him in the same breath. **Proposed as *The Deposition*, before the term** — `OPEN` for the author, but the
-  trial chapter is stronger with it planted.
+- **A scene the outline does not have: the deposition (RULED → R-19, *The Deposition*).** To answer
+  Washington, Parrish needs affidavits, and the one affidavit that saves him is Margaret's — that he stood in
+  the road calling his hired men off and did not order the fire, which caught in the split kegs of blockade
+  whiskey stored on Harper's floor. So the man taking her land has to ask her to protect his career, in a
+  room, with a clerk. She exacts `Elisha Councill`'s real name in his Commissioner's report first, then gives
+  him one strictly true sentence that saves him with Washington and puts sworn proof of stored spirits into
+  the federal record against the cove.
 - **The book's paper survives because of the audit.** His compelled report is the reason a written record of
   this hollow exists at all, which is the single best source available to the epilogue if Q-9 chooses
   diegetic print: a county history or a Commissioner's report that quotes a man trying to defend himself.
@@ -355,10 +356,11 @@ a paper with his name on it — a clerk's place, a deputy's start, anything. **G
   three asks must be legible as three *objects*: a line in a day book, a date spoken once and kept, and a
   letter of appointment that is never written. If a draft needs more, the fix is a different object, not a
   thought.
-- **The exchange this opens between Margaret and Parrish (at *The Deposition*, `OPEN`):** her affidavit about the
-  fire has a price, and it is not money. She will sign that the burning was not ordered if the boy's name goes
-  into the report **right** — the file calls him "a boy," the cove calls him Lish. An agent can do that, and it
-  costs him nothing he can be audited for. That is the moral trade of this book, and it is a spelling.
+- **The exchange this opens between Margaret and Parrish (RULED → R-19, *The Deposition*):** her affidavit
+  about the fire has a price, and it is not money. She signs that Parrish stood in the road and did not order
+  the burning only after the boy's name goes into the Commissioner's report **right** — the file calls him
+  `"a boy"`, the cove calls him Lish, and *E1* prints **`Elisha Councill`** because she made him spell it.
+  That is the moral trade of this book, and it is a spelling.
 
 ---
 
@@ -386,11 +388,12 @@ Consequences, binding:
   burning that turns the cove from evaders into murderers is done to **the one neighbor who was right in Act
   One** — which is how this book says what it has to say about being right: it is not a defense, it is only a
   forecast.
-- **Harper's knowledge is the forfeiture's second target and the easier case.** He is not the man with the
-  freehold; he is the old man who let a still be moved under his own roof-beam, which under *Stowell* is
-  "suffered and permitted" and under *Dobbins* does not even require knowledge. Parrish's file needs **two**
-  owners — Margaret, Harper — and gets an argument from each; and the cove, which cannot prosecute its own
-  neighbor for having been right, has no answer except fire.
+- **Harper's knowledge is the forfeiture's second target and the easier case (reconciled R-19).** He is not
+  the man with the separate estate; he is the neighbor whose floor Caleb's network used to store blockade
+  whiskey over his Act One *don't*, which under *Stowell* is "suffered and permitted." When Parrish raids that
+  storage barn with hired local possemen (*The Burning*, Ch. 14), his hired men stave in the kegs and set the
+  barn afire without Parrish's order — burning property on which the United States already held a claim, and
+  triggering Caleb's lethal answer in *First Blood* (Ch. 16).
 - **The punishment lands on the wrong person and the book refuses to point this out.** Caleb's arc (R-8) is a
   boy defending a household; Harper's is a man losing the barn he raised for having warned them. No speech for
   Harper. A doorway in *The Burning*, standing, with his sons — and one line in Act Four only if the pacing survives
@@ -714,6 +717,31 @@ onstage party politics).
 
 ---
 
+### R-19 · *The Deposition* (Ch. 23) & *The Burning* (Ch. 14): Parrish's hired possemen lit Harper's barn without orders, and Margaret trades her double-edged fire affidavit for `Elisha Councill`'s name in *E1*
+
+`AUTHOR` (2026-10-26), locking Scene Proposal 2 of 3 (`canon §12`, Ch. 23 *The Deposition* and harmonizing Ch. 14 *The Burning*).
+
+- **Harmonizing *The Burning* (Ch. 14) with R-9, R-11, and the outline.** Caleb's network stores untaxed whiskey
+  under William Harper's barn floor over Harper's Act One *"don't"* (R-11). When Parrish raids Harper's storage
+  barn in Act Two with hired local possemen, his men stave in the barrels and **set fire to the barn without
+  Parrish's order** (outline line 234; R-9). Harper loses the landmark barn he raised because the cove refused
+  his warning, Parrish inherits a Washington inquiry over why property under federal seizure claim burned on his
+  raid, and Caleb crosses into lethal retaliation in *First Blood* (Ch. 16). *(Replaces the stray summary phrase
+  "burned by the cove" that had entered §12 Ch. 14.)*
+- **Margaret's trade in *The Deposition* (Ch. 23, Margaret POV).** Between Jacob's release (21 April 1881) and
+  the October 1881 Statesville term, Parrish must answer the Bureau's audit (R-9) with an affidavit Washington
+  cannot dismiss as a deputy covering a superior. Sitting across from Margaret with a clerk, the man libeling
+  her forty acres has to ask her to save his appointment. Before signing a word, Margaret exacts one price:
+  Parrish must strike **`"a boy"`** from his compelled report to the Commissioner and enter **`Elisha
+  Councill`** (R-10, producing *E1*'s exact spelling in R-12).
+- **The double-edged truth.** Margaret then swears one strictly true sentence: **Parrish stood in the road
+  calling his hired men back and did not order the fire, which caught in the split kegs of blockade whiskey
+  stored on Harper's floor.** That single sentence exonerates Parrish from willful destruction with Washington
+  (`"closed without adverse finding"`, R-9) and simultaneously puts sworn proof of stored untaxed spirits on
+  Harper's connected premises into the federal record against the cove. Neither of them calls it a favor.
+
+---
+
 ## 12. Chapter map v1 — POV-tagged and dated (R-4, R-5, R-13)
 
 Twenty outline beats in, **28 chapters** out, numbered continuously across the book. Renumbered
@@ -744,7 +772,7 @@ this table can be reordered without breaking them.**
 | 11 | Margaret's Book | M | (new, R-3/R-7) | She reads the posted notices because the libel is against *her* tract. Her father's deed in the same box as her accounts. |
 | 12 | The Name | J | The Name | The cove learns who informed; Joshua is told; he does not say it. |
 | 13 | Johnson City | J | The Fall's aftermath | Matthew's injuries as objects and a doctor's sentence. The beating was Caleb's work too; Joshua looks at both boys and prices neither (R-8/R-10). |
-| 14 | The Burning | J | The Burning | **Harper's** barn — the storage ground — and the property the United States had a claim on, burned by the cove, over the objection of the man who said *don't*. Parrish did not order it (R-11). |
+| 14 | The Burning | J | The Burning | **Harper's** barn — where Caleb's network stored blockade whiskey over the objection of the man who said *don't* (R-11) — raided by Parrish's hired possemen, who stave in the kegs and set the barn afire without Parrish's order, burning property under federal seizure claim (R-9/R-19). |
 | 15 | The Missing Page | J | The Network Spreads | **RULED (R-18):** With Jacob in prison from the April 1879 term, Parrish turns the civil *in rem* libel onto Joshua's mortgaged farm (`Parcel A`: mill, water race, cart road) as *"premises connected therewith"* and examines Joshua over a certified exhibit transcript of Tyler's seized day book — where Joshua spots the skipped folio number omitting Matthew's settled store account (`"by order of the agent"`, R-10/R-11). |
 | 16 | First Blood | J | The First Blood | The deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
 | 17 | The Letters | J | Jacob's Letters + end of Act Two | Prison correspondence in two hands; the months counted in the ledger, not in thought. |
@@ -758,7 +786,7 @@ this table can be reordered without breaking them.**
 | 20 | The Return | J | Jacob's Release and Return | **Released 21 April 1881** on the two years counted from the April 1879 term. He comes home to a house that has become the site of a second case, and to a wife who has been running it. The law is not cruel; it is complete. |
 | 21 | The Ambush | J | The Ambush (partial) | *Best small scene available anywhere in the act:* a clerk writes "Whistlers" into a deposition and nobody in the room corrects him (R-14). | Parrish is hit; the horse goes down; the deputies return fire. Long sentence for the mountain, then four-word declaratives. The wound and the side are pinned. His reward is a letter, two chapters later. |
 | 22 | The Search | M | The Manhunt | The house on her freehold is searched; she asserts a standing the searchers must answer to. Offstage: the Department's first letter, seen as an envelope. |
-| 23 | The Deposition | M | (new, R-9 proposal) | **Parrish must ask Margaret to save him.** Her affidavit costs him the boy's name in his own report, and she takes the trade; one true sentence helps him and hurts the cove. |
+| 23 | The Deposition | M | (new, R-9 / **RULED R-19**) | **Parrish must ask Margaret to save him.** Before signing, she requires him to strike `"a boy"` and enter **`Elisha Councill`** in his Commissioner's report (*E1*); then she swears one true sentence — Parrish stood in the road calling his hired men off when the fire caught in the split kegs stored on Harper's floor — saving Parrish with Washington and putting sworn proof of stored spirits into the federal record against the cove. |
 | 24 | The Surrender | J | The Capture | Joshua says the name he has kept unspoken, out loud, as a piece of information. Caleb gives himself to the court, not to the agent. |
 | 25 | The Term, 1881 | J | (new, R-13) | **Statesville, term opened Monday 17 October 1881.** The circuit, the hotel rooms, the marshal's fees, and the fact that a trial in this district is a schedule before it is a judgment. |
 | 26 | Did She Know? | M | The Broader Tragedy / the trial | Stowell and Dobbins aimed at the woman with the deed; Joshua's tract argued in as "connected." The hinge is one sentence she decides whether to say. **Proposed, awaiting ruling:** a clerk's missing privy-examination certificate surfaces here (R-7). |
@@ -778,11 +806,11 @@ because her chapters carry the paperwork and run long. Measured at Pass 4, never
 **Word math for the pitch:** 28 chapters × 3,200–3,500 = 89,600–98,000 words — inside the 85,000–100,000
 target with no filler owed.
 
-**What is still contingent:** *The Missing Page* is **RULED (R-18)**; *The Deposition* (Ch. 23, Margaret's
-fire-affidavit trade for Lish's name) and *Did She Know?* (Ch. 26, the missing privy-examination certificate
-behind the burned courthouses) are **the two remaining scene proposals awaiting the author**; *The Term, 1879*
-and *The Term, 1881* exist because the rulings required them. Nothing else in this table depends on an
-unanswered question, so **Act One can be drafted now**.
+**What is still contingent:** *The Missing Page* (**R-18**) and *The Deposition* (**R-19**) are **RULED**;
+*Did She Know?* (Ch. 26, the missing privy-examination certificate behind the burned courthouses) is **the
+single remaining scene proposal awaiting the author**; *The Term, 1879* and *The Term, 1881* exist because
+the rulings required them. Nothing else in this table depends on an unanswered question, so **Act One can be
+drafted now**.
 
 
 ## 2. Timeline
@@ -1150,11 +1178,12 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   the public exhibit copy. Either entry moving in date, folio order, or wording shifts both Act Two and Act
   Three with it. Harper's *don't* is **one sentence, quoted back verbatim exactly once, in *The Burning*** —
   if a draft quotes it twice, cut the second.
-- **Lish Councill (R-10).** Fifteen, of North Fork, shot behind Harper's barn on the day Matthew named.
-  Always **Lish** in the cove's mouths, **"a boy"** in the government's paper; the deputy who fired is
-  numbered, never named; the file's error is corrected only if the trade at *The Deposition* is played. One death per
-  side in this book — his, then the deputy's — and his comes first, which is what makes Act Two's restraint
-  read as restraint rather than as authorial cowardice.
+- **Lish Councill (R-10, R-19).** Fifteen, of North Fork, shot behind Harper's barn on the day Matthew named.
+  Always **Lish** in the cove's mouths, **"a boy"** in the government's paper until Margaret forces Parrish to
+  strike `"a boy"` and spell **`Elisha Councill`** in his Commissioner's report (*E1*, R-12) in exchange for
+  her sworn fire affidavit in *The Deposition* (Ch. 23, R-19); the deputy who fired is numbered, never named.
+  One death per side in this book — his, then the deputy's — and his comes first, which is what makes Act
+  Two's restraint read as restraint rather than as authorial cowardice.
 - **War & 1868 bone structure — CLOSED (R-16).** Joshua enlisted Union in summer **1862** over State Line Gap
   and mustered out at **Knoxville in 1865** (do **not** invent a company letter or regiment number on the page;
   the real Mitchell County Unionist units organized 1863–64 after 1862 scout service). His discharge paper sits
@@ -1182,6 +1211,15 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 ---
 
 ## 11. Change log
+
+- **2026-10-26 — Scene Proposal 2 of 3 ruled → R-19 (*The Deposition*, Ch. 23, and *The Burning*, Ch. 14).**
+  Harmonized Ch. 14 across R-9, R-11, and the outline: Caleb's network stored blockade whiskey under William
+  Harper's barn floor over his Act One *"don't"*, and Parrish's hired possemen staved in the kegs and set the
+  barn afire without Parrish's order. Locked *The Deposition* (Ch. 23): Margaret requires Parrish to strike
+  `"a boy"` and write **`Elisha Councill`** in his Commissioner's report (*E1*, R-10/R-12) before swearing one
+  strictly true sentence — Parrish stood in the road calling his hired men off when the blaze caught in the
+  split kegs stored on Harper's floor — saving Parrish's career with Washington while putting sworn proof of
+  stored spirits into the federal record against the cove.
 
 - **2026-10-26 — Scene Proposal 1 of 3 ruled → R-18 (*The Missing Page*, Ch. 15).** After *The Burning* (Ch.
   14) — with Jacob already serving his two years from the April 1879 Statesville term (R-13) — Parrish turns

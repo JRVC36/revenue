@@ -165,10 +165,14 @@ burned. Both honest answers ruin him — *I did not order it* ends his authority
 the government destroyed property it was seizing — and he writes the second one in that same fair hand.
 The complaint closes without adverse finding, the promotion is a footnote, and the last thing he does in the
 book is shut a file.
-**The document he has to produce is a woman's word:** he needs an affidavit that the fire was not ordered,
-and the only person who can give it is Margaret, which is how he ends up asking the woman he is dispossessing
-to save his career (*The Deposition*, ch. 23). She tells the truth. It helps him, hurts the cove, and neither of them
-calls it a favor.
+**The document he has to produce is a woman's word (*The Deposition*, ch. 23, R-19):** he needs an affidavit
+that the fire at Harper's storage barn was not ordered by him, and the only witness whose oath Washington
+cannot dismiss as a deputy covering a superior is Margaret — which is how he ends up asking the woman he is
+dispossessing to save his career. Before signing, she makes him strike `"a boy"` from his Commissioner's
+report and spell **`Elisha Councill`** (*E1*, R-10/R-12); then she swears one true sentence — that Parrish
+stood in the road calling his hired possemen off when the blaze caught in the split kegs of blockade whiskey
+stored on Harper's floor. It saves him with Washington, puts sworn proof of stored spirits into the federal
+record against the cove, and neither of them calls it a favor.
 **The folio he leaves out (*The Missing Page*, ch. 15, R-18):** when he puts the *Stowell* "connected
 premises" question to Joshua over a certified exhibit transcript of Hoss Tyler's seized day book, he omits the
 single folio carrying Matthew's settled store account (`"by order of the agent"`, R-10/R-11) so an irregular
