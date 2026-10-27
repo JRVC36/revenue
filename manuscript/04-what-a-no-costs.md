@@ -76,7 +76,7 @@ Parrish did not blink or shift weight. “Every public miller in North Carolina 
 
 Joshua’s fingers stayed still on the cold iron wrench.
 
-“You think silence sits in the middle between your brother and the law,” Parrish said, wholly free of heat, stating a rule of measure as a surveyor reads a needle. “Before sixty-eight, silence did sit in the middle. Under the present statute it does not. This January the Supreme Court ruled flatly upon Section forty-four. An *in rem* forfeiture does not try the owner’s temper. It tries the ground used in the business.”
+“You think silence sits in the middle between your brother and the law,” Parrish said, wholly free of heat, stating a rule of measure as a surveyor reads a needle. “Before sixty-eight, silence did sit in the middle. Under the present statute it does not. This January the Supreme Court ruled flatly upon Section forty-four. A land forfeiture under that section does not try the owner’s temper. It tries the ground used in the business.”
 
 He turned his head two inches toward the open mill door. Beyond the sill the rutted track dropped past the white oak.
 
@@ -114,15 +114,15 @@ Inside the doorway he waited until the last iron shoe-click died out. Then he dr
 
 Wind off Big Yellow hummed dry through dead jimson stalks by the step. Inside, he shut the split-oak door and slid the wooden bolt home.
 
-Gray ash lay cold over last night’s hickory coals on the hearth. Beside the andirons sat a three-legged iron spider scraped bright with sand and one tin cup turned bottom-up on the clean hearthstone. Across the room the batten door to the inner chamber stood latched shut on its wooden pin as it stayed from frost to frost, leaving only his narrow cord-bed in the corner and one washed hickory shirt hanging flat from a locust peg. Only the small shelf-clock ticked high on the mantel board.
+Gray ash lay cold over last night’s hickory coals on the hearth. Beside the andirons sat a three-legged iron skillet scraped bright with sand and one tin cup turned bottom-up on the clean hearthstone. Across the room the batten door to the inner chamber stood latched shut on its wooden pin as it stayed from frost to frost, leaving only his narrow cord-bed in the corner and one washed hickory shirt hanging flat from a locust peg. Only the small shelf-clock ticked high on the mantel board.
 
 Alone in the low room, Joshua stood by the hearth post. Scrubbed poplar boards lay bare under his boots. Reaching behind the clock case, he lifted a flat brass key from its nail.
 
-Under the south window stood the small walnut table his father had brought over the Blue Ridge in a covered wagon forty years back. Joshua fitted the brass bit into the lock escutcheon. He turned it once until the spring bolt snapped back. He drew the deep drawer out into the light.
+Under the south window stood the small walnut table his father had brought over the Blue Ridge in a covered wagon forty years back. Joshua fitted the brass bit into the keyhole. He turned it once until the spring bolt snapped back. He drew the deep drawer out into the light.
 
 Right in front lay the tied oilskin pouch.
 
-He loosened the leather whang and counted every piece out onto the bare walnut top in neat, separate piles so no coin touched its neighbor. Thirty-six worn silver half-dollars stood stacked six high for eighteen dollars. Four silver quarters made nineteen. One creased five-dollar United States note brought the count to twenty-four dollars even. Every piece stood for white bread-meal struck level in a half-bushel tub four pounds at a grinding since dog days, hauled down rocky ruts behind the claybank mare and sold out at forty cents and fifty cents while town buyers pinched the flour between their thumbs.
+He loosened the leather string and counted every piece out onto the bare walnut top in neat, separate piles so no coin touched its neighbor. Thirty-six worn silver half-dollars stood stacked six high for eighteen dollars. Four silver quarters made nineteen. One creased five-dollar United States note brought the count to twenty-four dollars even. Every piece stood for white bread-meal struck level in a half-bushel tub four pounds at a grinding since dog days, hauled down rocky ruts behind the claybank mare and sold out at forty cents and fifty cents while town buyers pinched the flour between their thumbs.
 
 Three-line schedules sent to Bakersville bought that pile four times over in one winter.
 
@@ -143,7 +143,7 @@ Under the stitched foolscap leaf, rubbed soft as dressed buckskin along its thre
 
 For half a minute no sound moved in the shut room save a dry oak leaf sliding across the roof shakes overhead and the small brass pendulum swinging behind the glass door on the mantel.
 
-Joshua laid the gray flannel smooth over all three papers. He lifted none of them from its place. He swept the thirty-six half-dollars, the four quarters, and the five-dollar greenback back into the oilskin pouch, knotted the whang tight, and set the pouch squarely on top of the flannel. He pushed the walnut drawer shut and turned the brass key.
+Joshua laid the gray flannel smooth over all three papers. He lifted none of them from its place. He swept the thirty-six half-dollars, the four quarters, and the five-dollar greenback back into the oilskin pouch, knotted the leather string tight, and set the pouch squarely on top of the flannel. He pushed the walnut drawer shut and turned the brass key.
 
 Key hung back behind the clock, he unbolted his door and went down.
 
@@ -155,9 +155,9 @@ Joshua walked past the barred millhouse without stopping. Down the rutted bench 
 
 Joshua halted two paces uphill of the granite post on his own turf.
 
-Saturday work went brisk in the raw wind round Margaret’s lower barn. Caleb had thrown off his wool roundabout and stood in rolled shirt-sleeves at the chopping block, swinging a five-pound poll axe into seasoned chestnut bolts from the shoulder. His broad wrists dropped square on the helve with the exact unhurried snap Joshua brought down on an ash wedge at the stone crane. Every bolt split clean through the heart at one blow.
+Saturday work went brisk in the raw wind round Margaret’s lower barn. Caleb had thrown off his wool roundabout and stood in rolled shirt-sleeves at the chopping block, swinging a five-pound poll axe into seasoned chestnut bolts from the shoulder. His broad wrists dropped square on the helve with the exact unhurried snap Joshua brought down on an ash wedge at the millstone hoist. Every bolt split clean through the heart at one blow.
 
-Twenty feet lower, right beside the split-chestnut trough where Joshua’s cold tailrace splashed into the spring branch, Jacob knelt over an eighty-gallon mash barrel laid on its bilge. He poured a steaming bucket of scalding kettle water through the bung-hole, drove a wooden plug snug with his palm, and rolled the heavy oak staves hard back and forth over two peeled skids to sweeten the sour meal crust inside. Over by the corn-crib corner Matthew sat hunched on an upturned half-bushel tub beside the bay mule, scraping dried red turnpike clay off the welts of his brogans with an old case-knife.
+Twenty feet lower, right beside the split-chestnut trough where Joshua’s cold tailrace splashed into the spring branch, Jacob knelt over an eighty-gallon mash barrel laid on its side. He poured a steaming bucket of scalding kettle water through the bung-hole, drove a wooden plug snug with his palm, and rolled the heavy oak staves hard back and forth over two peeled skids to sweeten the sour meal crust inside. Over by the corn-crib corner Matthew sat hunched on an upturned half-bushel tub beside the bay mule, scraping dried red turnpike clay off the welts of his brogans with an old case-knife.
 
 Jacob straightened from the barrel and wiped wet ash off his wrist. “Fetch me that long white-oak scraper off the sill, Son, before this water chills.”
 

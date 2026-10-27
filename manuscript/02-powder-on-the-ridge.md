@@ -8,7 +8,7 @@ Down across the dark millrace a hound barked twice in Jacob’s yard. Nobody cal
 
 Joshua pulled on his brogans unlaced. He took his jeans coat off the peg. Drawing back the oak bolt, he stepped out onto the cold porch stones.
 
-White frost crusted the weeds along the garden palings. Down in the hollow the spillway water fell thin and steady into the tailrace pool, carrying a smell of bruised ragweed and wet chestnut leaves up the bank. Below Margaret’s silent roof no fire showed under the barn logs tonight. Jacob had drawn the embers out on Friday and left the worm dry while the boys pulled late fodder on the hillside. Nothing moved on the cart road. Nothing stirred up toward State Line Gap except the high stars over the black notch where the Elk ran north into Tennessee.
+White frost crusted the weeds along the garden palings. Down in the hollow the spillway water fell thin and steady into the tailrace pool, carrying a smell of bruised ragweed and wet chestnut leaves up the bank. Below Margaret’s silent roof no fire showed under the barn logs tonight. Jacob had raked the embers out on Friday and left the copper coil dry while the boys pulled late fodder on the hillside. Nothing moved on the cart road. Nothing stirred up toward State Line Gap except the high stars over the black notch where the Elk ran north into Tennessee.
 
 For five minutes Joshua stood with his thumb hooked over the porch post. Drops ticked slow off the waterwheel buckets in the dark. No third report came off the mountain. Thunder rolled down the balsams from peak to peak till Burke took it. Black powder tamped deep in drilled rock hit once against a man’s soles and stopped dead.
 
@@ -24,7 +24,7 @@ He set the cold punch on the chalk dot. Three blows drove the steel point halfwa
 
 Iron shoes clicked slow across the footbridge.
 
-Elihu Burleson rode up out of the laurel shade on his Roman-nosed sorrel mare, two tow sacks of black winter rye slung behind a worn blanket pad and his knees drawn high on short stirrups. At sixty-odd his shoulders bent forward like a scythe handle. Always before, his younger boy Tom walked behind the sorrel’s tail to lift the sacks down and save the old man’s back. Today the road behind the mare stood empty to the turn.
+Elihu Burleson, a neighbor from up North Fork Hollow who had brought his grain to Joshua’s stones since before the war, rode up out of the laurel shade on his Roman-nosed sorrel mare. Two tow sacks of black winter rye hung behind a worn blanket pad, his knees drawn high on short stirrups. At sixty-odd his shoulders bent forward like a scythe handle. Always before, his twenty-year-old younger boy Tom walked behind the sorrel’s tail to lift the sacks down and save his father’s back. Today the road behind the mare stood empty to the turn.
 
 Joshua leaned the sledge against the block. He wiped black scale from his palm. “Gate’s shut till ten, Elihu. I can run rye before dinner if you aren’t in a hurry for fine flour.”
 
@@ -62,55 +62,55 @@ Halfway up the pitch a sharp smell met him: bruised sassafras bark and fresh che
 
 Straight along the backbone of the divide, where mountain laurel and rhododendron had grown thick enough to turn a bear since his father’s time, an open lane six feet wide had been hacked clean to the leaf mold. Every sapling stood lopped a hand’s breadth above the moss on one slanting stroke of a heavy brush-hook. Clear sap beaded on the white stubs in the sun. South down that raw slot glinted the water of Elk River half a mile below; north lay the notch of State Line Gap, open like a rifle sight.
 
-Fifty yards ahead stood a three-legged ash tripod on gray hornblende rock.
+Fifty yards ahead stood a three-legged ash tripod on dark iron-streaked rock.
 
 Joshua halted the mare at the edge of the cut laurel. Both hands stayed quiet on the reins.
 
-Behind the tripod stood a lean, square-shouldered man of forty in laced calfskin ankle-boots and brown corduroy trousers tucked neat above the mud, turning a milled brass tangent screw beneath a leveled telescope tube. Red-ruled leather pages lay open in his left palm. Seventy feet ahead along the cleared crest knelt young Tom Burleson in the huckleberries with a short axe under his knee. Tom held the brass ring of a heavy steel chain taut against a cleft chestnut stake while a third man in a flannel overshirt plumbed a red-and-white range pole on the rise beyond.
+Behind the tripod stood a lean, square-shouldered man of forty in laced calfskin ankle-boots and brown corduroy trousers tucked neat above the mud, turning a small brass thumb-screw beneath a leveled telescope tube. Red-ruled leather pages lay open in his left palm. Seventy feet ahead along the cleared crest knelt young Tom Burleson in the huckleberries with a short axe under his knee. Tom held the brass ring of a heavy steel chain taut against a cleft chestnut stake while a third man in a flannel overshirt held a red-and-white sighting pole upright on the rise beyond.
 
 “Back a quarter-inch on the heel, Burleson,” the man at the brass glass called. His speech clipped hard off the tongue, northern and unhurried. “Hold steady there. Mark station.”
 
-Tom tapped a flat hub flush into the moss. Beside it he set a cleft chestnut stake on the slant. With red keel from his vest he lettered four marks down the wood.
+Tom tapped a flat wooden peg flush into the moss. Beside it he set a cleft chestnut stake on the slant. With red chalk from his vest he lettered four marks down the wood.
 
-Only when the forward poleman waved his hat and dropped behind the rise did the man in laced boots clamp his vertical circle. He turned toward the mare. Two fingers touched the brim of his slouch hat.
+Only when the forward poleman waved his hat and dropped behind the rise did the man in laced boots tighten the brass clamp on his glass. He turned toward the mare. Two fingers touched the brim of his slouch hat.
 
 “Morning,” the surveyor said.
 
 “Morning,” Joshua said. His eyes went down to the steel ribbon stretched across the crushed wintergreen between the tripod and Tom’s boot.
 
-Every corner Joshua had walked between Toe River and the Watauga line had been run with Gunter’s four-pole chain: sixty-six feet end to end, one hundred short iron links worn bright on stone, ten square chains to the acre to prove a fence. The chain lying across this ridge ran a full hundred feet in straight foot-long rods of stiff spring steel. Notched brass tabs marked every tenth link in the sun. No man measured acres with a hundred-foot chain. It measured stations and grade.
+Every corner Joshua had walked between Toe River and the Watauga line had been run with a country surveyor’s sixty-six-foot chain: one hundred short iron links worn bright on stone, ten square chains to the acre to prove a fence. The chain lying across this ridge ran a full hundred feet in straight foot-long rods of stiff spring steel. Notched brass tabs marked every tenth link in the sun. No man measured farm acres with a hundred-foot chain. It measured stations and grade.
 
-Tom Burleson stood up, wiping red keel dust onto his homespun thigh. His ears reddened under his cap. “Morning, Joshua. Pa get his rye ground?”
+Tom Burleson stood up, wiping red chalk dust onto his homespun thigh. His ears reddened under his cap. “Morning, Joshua. Pa get his rye ground?”
 
-“Took it home before noon yesterday,” Joshua said. He looked at the red marks lettered down the flat chestnut stake at Tom’s toe: a cross, a station mark, and *cut four* underlined twice above the bark. “Running a wagon turnpike?”
+“Took it home before noon yesterday,” Joshua said. He looked at the red marks lettered down the flat chestnut stake at Tom’s toe: a cross, a number mark, and *cut four* underlined twice above the bark. “Running a wagon turnpike?”
 
-“Three-foot gauge location line,” the northern man said pleasantly. He slid a brass dust-shutter closed over his eyepiece. “Hendrick. Out of Mauch Chunk, for Mister Pardee’s company down at the ore bank. We’re tying our preliminary bench levels from the Doe River narrows across the state divide into Cranberry Creek before snow shuts the gap.”
+“Three-foot gauge location line,” the northern man said pleasantly. He slid a brass dust-shutter closed over his eyepiece. “Hendrick. Out of Mauch Chunk, for Mister Pardee’s company down at the ore bank. We’re tying our preliminary levels from the Doe River narrows across the state divide into Cranberry Creek before snow shuts the gap.”
 
-Joshua looked once down the east pitch toward the cove ridges, then back at the chiseled cross cut clean into the hornblende stone beneath the brass plumb-bob. “Your line crosses two private grants south of that poplar.”
+Joshua looked once down the east pitch toward the cove ridges, then back at the chiseled cross cut clean into the dark rock beneath the brass plumb-bob. “Your line crosses two private grants south of that poplar.”
 
 “Preliminary stakes hurt no man’s timber,” Hendrick said, resting one forearm lightly across the telescope barrel. “Where the company doesn’t already hold mineral fee, right-of-way deeds wait till the directors file the narrow-gauge charter in the spring. Right now we’re finding whether three-foot iron can climb out of Tennessee at two parts in the hundred without doubling the hill.”
 
-Joshua studied the round silvered compass box sunk into the transit plate. Its blued needle stood unclamped. Hard against the west pin it quivered, nowhere near north.
+Joshua studied the round silvered compass box sunk into the brass plate. Its blued needle stood loose. Hard against the west pin it quivered, nowhere near north.
 
 Hendrick followed his look and let out a short dry breath. Reaching into his corduroy coat pocket, he drew out a round flat brass case the size of a turnip watch, flipped back the hinged lid, and knelt to set it edgewise on the gray outcrop three inches from the mare’s forehoof. Inside the glass ring hung a balanced steel needle on a horizontal pin. The instant the brass foot touched the ledge, the blued point dipped forty degrees straight down toward the sole of Joshua’s boot and stayed there trembling like a peeled switch over water.
 
-“Try running your Carolina land-compass over that,” Hendrick said. He snapped the lid shut and pocketed the case. “Magnetic iron all through this gneiss, pockets and float boulders half a mile off the main Cranberry vein, half of them polaric enough to pull a needle five degrees crooked between two chestnut trees. Compass work up here is guesswork. We turn every course by vernier backsight off true meridian stakes set down in the limestone valley.”
+“Try running your Carolina land-compass over that,” Hendrick said. He snapped the lid shut and pocketed the case. “Magnetic iron all through this ridge rock, pockets and float boulders half a mile off the main Cranberry vein, half of them strong enough to pull a needle five degrees crooked between two chestnut trees. Compass work up here is guesswork. We turn every angle by sighting straight back along staked line-posts set down in the limestone valley.”
 
 From three hundred yards down the western pitch came the sharp metallic *clink* of a striking hammer on drill steel. A pause followed. Steel scraped gritty stone on the quarter-turn, then *clink* again.
 
 “Road crew?” Joshua asked.
 
-“Two rock-men opening a sixty-foot contour trench on the company’s west spur,” Hendrick said. He opened his red-ruled book again. A lead pencil touched his lip. “Folks round the bloomery have scratched loose surface gravel for fifty years and called it a mountain of iron. Philadelphia won’t lay twenty miles of rail into these hills on forge talk. We drill down to solid wall-rock and blow clean benches with coarse powder before dark so the winter assays show true width.”
+“Two rock-men opening a sixty-foot trench along the side of the company’s west spur,” Hendrick said. He opened his red-ruled book again. A lead pencil touched his lip. “Folks round the bloomery have scratched loose surface gravel for fifty years and called it a mountain of iron. Philadelphia won’t lay twenty miles of rail into these hills on forge talk. We drill down to solid bedrock and blow clean benches with coarse powder before dark so the winter tests show true width.”
 
-Down through the thinned birch tops two men in leather aprons worked a five-foot octagon jumper-bar into a black ledge. One knelt with a tin water-cup and a long iron sludge-spoon to scrape gray stone mud from the hole; the other swung a double-jack hammer in steady slow time. Ten paces uphill in the shade sat a sheet-iron powder keg. Beside it on a dry tow sack lay a coil of white tarred safety fuse and a dull red copper funnel where no iron nail could strike fire.
+Down through the thinned birch tops two men in leather aprons worked a five-foot steel rock-drill into a black ledge. One knelt with a tin water-cup and a long iron spoon to scrape gray stone mud from the hole; the other swung a heavy two-handed hammer in steady slow time. Ten paces uphill in the shade sat a sheet-iron powder keg. Beside it on a dry tow sack lay a coil of white tarred safety fuse and a dull red copper funnel where no iron nail could strike fire.
 
-Tom Burleson stooped and took the rear brass handle of the hundred-foot chain. “Ready on the foresight, Mister Hendrick?”
+Tom Burleson stooped and took the rear brass handle of the hundred-foot chain. “Ready up ahead, Mister Hendrick?”
 
 “Pull taut,” Hendrick said. He touched his hat brim once more to Joshua. His eye went back to the brass tube.
 
-Joshua turned the claybank mare out of the cut lane into the uncut timber. Under the old white oaks no red keel marked the bark. No sight-line ran straight for sixty yards.
+Joshua turned the claybank mare out of the cut lane into the uncut timber. Under the old white oaks no red chalk marked the bark. No sight-line ran straight for sixty yards.
 
-By noon he found the bigger wind-thrown oak wedged solid across a mossy boulder bed below the bald, sawbuck-high off the wet ground and sound to the sap-ring. He tied the mare to a witch-hazel bush, spat on his palms, and notched out a four-foot bolt clear of knots before setting two dogwood gluts behind his poll axe to rive the heartwood clean along the medullary rays. Four broad slabs split off straight enough to plane by eye against his pine bucket-pattern, fragrant with sour tannin in the cold air.
+By noon he found the bigger wind-thrown oak wedged solid across a mossy boulder bed below the bald, waist-high off the wet ground and sound to the heart. He tied the mare to a witch-hazel bush, spat on his palms, and notched out a four-foot bolt clear of knots before setting two hardwood wedges behind his poll axe to split the heartwood clean with the grain. Four broad slabs came off straight enough to plane by eye against his pine bucket-pattern, sharp with sour oak smell in the cold air.
 
 ---
 
@@ -144,7 +144,7 @@ Caleb turned the stakes over once. Red clay tapped off their tips against his bo
 
 Joshua stood by his mare’s shoulder until the hickory load disappeared round the laurel bend. Then he led the claybank down the rocky pitch to the valley floor.
 
-Down at the tailrace bridge the sun had dropped behind Big Yellow, leaving cold blue shadow across the corn stubble while the upper chestnut tops still burned copper. Matthew had come up from the lower field with a split-oak bushel basket of late nubbins propped against his hip. Halfway across the planks he stood talking to Tom Burleson, who leaned on his long-handled brush-hook on his walk home up North Fork, trouser cuffs white with dry gneiss dust from the ledge.
+Down at the tailrace bridge the sun had dropped behind Big Yellow, leaving cold blue shadow across the corn stubble while the upper chestnut tops still burned copper. Matthew had come up from the lower field with a split-oak bushel basket of late nubbins propped against his hip. Halfway across the planks he stood talking to Tom Burleson, who leaned on his long-handled brush-hook on his walk home up North Fork, trouser cuffs white with dry rock dust from the ledge.
 
 As Joshua’s mare stepped onto the gravel approach, Tom dug two fingers into his vest pocket. He held out his open palm over the bridge rail.
 

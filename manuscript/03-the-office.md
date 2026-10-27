@@ -22,7 +22,7 @@ River fog hung thick over the bloomery dam, though the big undershot wheel was a
 
 First sun struck the high chestnut ridges as they dropped into the crooked valley of the North Toe.
 
-Teams were moving early on the county road. Out of a side hollow came two yoke of red steers hauling boxed sheet mica from the Clarissa pits toward the Marion railhead. Wire bound the pine crates tight. Loose muscovite flakes dusted the wagon bed and caught the low sun like fish scales in the frozen ruts. Half a mile lower an old man from Plumtree walked beside an ox-sled piled with dried apple quarters sewed up in tow sheets. Every driver lifted two fingers off whipstock or rein as Joshua and Harper passed. Nobody halted on an open bank to ask courthouse business.
+Teams were moving early on the county road. Out of a side hollow came two yoke of red steers hauling boxed sheet mica from the Clarissa pits toward the Marion railhead. Wire bound the pine crates tight. Loose mica flakes dusted the wagon bed and caught the low sun like fish scales in the frozen ruts. Half a mile lower an old man from Plumtree walked beside an ox-sled piled with dried apple quarters sewed up in tow sheets. Every driver lifted two fingers off whipstock or rein as Joshua and Harper passed. Nobody halted on an open bank to ask courthouse business.
 
 North of Ledger hill the road benched above a rocky bend of the river. Twenty acres of cleared south slope lay grown up shoulder-high in sassafras sprouts and blackberry briars behind a rotted chestnut worm-fence. Halfway up the brush stood a roofless stone chimney. Nailed to the roadside white oak hung a weathered pine board split down the grain, its black stenciled letters washed gray by seven winters since the sheriff cried the place off at the courthouse door for unpaid township land tax under the sixty-eight law.
 
@@ -42,9 +42,9 @@ By half past eleven six saddled horses and three mud-caked road mules stood tied
 
 Clear ditch water ran brisk beside the rough plank sidewalk on Water Street. Across the square two lean hogs rooted chestnut hulls under the brick pilasters of the portico while a deputy sheriff in mud-spattered boots tacked a stray-stock notice beside the double doors. Directly facing the courthouse stood a narrow two-story weatherboard house. Newly oiled horse-collars hung on pegs beside its lower doorway, sending the warm smell of bark-tanned sole leather, beeswax, and neat’s-foot oil clean across the street. Up the north gable climbed an unpainted outside pine stair to a four-panel door on the landing.
 
-Joshua tied the claybank at the end of the locust rail and loosened her girth one hole. Harper tied his brown mare beside Squire Wiseman’s roan, knocked red Ledger dust off his trouser cuffs with his hat brim, and nodded across at the brick portico.
+Joshua tied the claybank at the end of the locust rail and loosened her girth one hole. Harper tied his brown mare beside the roan of old Squire Wiseman, the Three Mile magistrate, knocked red Ledger dust off his trouser cuffs with his hat brim, and nodded across at the brick portico.
 
-“Ten minutes yet till the bell,” Harper said. “Come inside the hall while I get a gourd of well water and ask young McKinney whether my meadow deed got indexed.”
+“Ten minutes yet till the bell,” Harper said. “Come inside the hall while I get a gourd of well water and ask young McKinney, the register’s clerk, whether my meadow deed got indexed.”
 
 Cool lime-plaster shade met them inside the brick passage. Tax lists and administrator’s sale bills hung three deep on a slatted pine board beside the clerk’s door. Across the hall the register’s room stood open behind its waist-high oak rail, empty save for the freckled nineteen-year-old deputy clerk shelving mortgage bundles. On the high standing desk by the south window two heavy calfskin county volumes — *Deed Book C* and *Deed Book D* — still lay spread wide instead of racked in their slots. Between them sat a sheet of clean white blotting paper, black with reverse strokes of a fine steel pen that did not belong to the county inkpot.
 
@@ -92,7 +92,7 @@ Joshua’s right thumb stayed still on his hat brim. Three chairs along the wall
 
 Parrish turned three leaves to the second white slip.
 
-“Under Section twelve, no person shall use any still, boiler, or other vessel for distilling in any dwelling-house, or in any shed, yard, barn, or enclosure connected with a dwelling-house. Congress fixed the penalty at not less than five hundred dollars fine and imprisonment up to two years. Under Section forty-four, where untaxed spirits are run upon any tract, not only the copper, mash tubs, and work beasts on the ground are forfeited. All right, title, and interest in the lot or tract of land itself — and all premises connected therewith — forfeit in rem to the United States.”
+“Under Section twelve, no person shall use any still, boiler, or other vessel for distilling in any dwelling-house, or in any shed, yard, barn, or enclosure connected with a dwelling-house. Congress fixed the penalty at not less than five hundred dollars fine and imprisonment up to two years. Under Section forty-four, where untaxed spirits are run upon any tract, not only the copper, mash tubs, and work beasts on the ground are forfeited. All right, title, and interest in the lot or tract of land itself — and all premises connected therewith — are forfeited outright to the United States.”
 
 He closed the thick sheep board without a sound.
 
@@ -204,6 +204,6 @@ Past eleven o’clock Joshua led her into his dark mill-lot. He lifted the stiff
 
 Alone on the frost-stiff bank above his millpond, he checked the black water line by starlight. Twelve hours with the gate wedged shut had brought the pond level within an inch of the spill plank, four full grindings banked quiet against tomorrow’s toll.
 
-Down across the dark race, beyond the forked white oak and the knee-deep granite corner-stone where Hoss Tyler’s four-hundred-dollar mortgage stopped, a thin red seam of pine-knot fire glowed steady again beneath the sill logs of Margaret’s lower barn. Once, clear through the cold air, came the dull wooden thump of an oak bung driven home into a barrel stave. Faint on the freezing draft rose the sweet, heavy smell of scalded corn mash forty paces from her dark kitchen door. Every thread of overflow slipping past Joshua’s shut gate ran down the split chestnut trough across the line to keep his brother’s worm cold.
+Down across the dark race, beyond the forked white oak and the knee-deep granite corner-stone where Hoss Tyler’s four-hundred-dollar mortgage stopped, a thin red seam of pine-knot fire glowed steady again beneath the sill logs of Margaret’s lower barn. Once, clear through the cold air, came the dull wooden thump of an oak bung driven home into a barrel stave. Faint on the freezing draft rose the sweet, heavy smell of scalded corn mash forty paces from her dark kitchen door. Every thread of overflow slipping past Joshua’s shut gate ran down the split chestnut trough across the line to keep his brother’s copper coil cold.
 
 Six months and eleven days stood between midnight and the third Monday of April at Statesville. Joshua turned up the steep path to his bed without looking down at the fire a second time.
