@@ -19,14 +19,14 @@
   },
   "compiled": {
     "dist/revenue.html": {
-      "id": "1PlvMoBtYOPUZs19SZUp6uV-tyVTu3an5mL5P2ohKoUs",
+      "id": "1dQAwtdAca2iDsxQeJNASKSL2JDIZZqxDd3VdCwplLxA",
       "name": "REVENUE — Manuscript (Compiled)",
-      "url": "https://docs.google.com/document/d/1PlvMoBtYOPUZs19SZUp6uV-tyVTu3an5mL5P2ohKoUs/edit"
+      "url": "https://docs.google.com/document/d/1dQAwtdAca2iDsxQeJNASKSL2JDIZZqxDd3VdCwplLxA/edit"
     },
     "dist/revenue-audiobook.txt": {
-      "id": "1jXSrABGqnDEzkSqtqQyFTSD8BnnMYHEl",
+      "id": "1bGS6TxNQHzAy9rmKumlP2zJ1q5FZBUaD",
       "name": "REVENUE — Audiobook Script (TTS).txt",
-      "url": "https://drive.google.com/file/d/1jXSrABGqnDEzkSqtqQyFTSD8BnnMYHEl/view"
+      "url": "https://drive.google.com/file/d/1bGS6TxNQHzAy9rmKumlP2zJ1q5FZBUaD/view"
     }
   },
   "chapters": {
@@ -59,6 +59,11 @@
       "id": "1yhztwtBAM1KDE8IXA3y1w9HQPixf9jdHKeXU0mev3_A",
       "name": "Chapter 06 — Gauger’s Work",
       "url": "https://docs.google.com/document/d/1yhztwtBAM1KDE8IXA3y1w9HQPixf9jdHKeXU0mev3_A/edit"
+    },
+    "manuscript/07-the-store-debt.md": {
+      "id": "1MNtDZXPoY12eozkbghoWE3XvgH8syWXNiptz9bxMtY8",
+      "name": "Chapter 07 — The Store Debt",
+      "url": "https://docs.google.com/document/d/1MNtDZXPoY12eozkbghoWE3XvgH8syWXNiptz9bxMtY8/edit"
     }
   },
   "docs": {
@@ -68,9 +73,9 @@
       "url": "https://docs.google.com/document/d/1TbDyNcqsyHEtH-YjoaetloWpi6vBONFF6TI9gpmjx-A/edit"
     },
     "docs/act-1-beat-sheet.md": {
-      "id": "1VwpaA2gVWkg51LtR25IeMiV9WrvzOhlTXzXywlEZwgA",
+      "id": "1ZJhg3D0oyc3VurAxqkAlgXXj_an2Iwtp9U8dG6Bsrw8",
       "name": "Act One Beat Sheet (Chs. 1–8)",
-      "url": "https://docs.google.com/document/d/1VwpaA2gVWkg51LtR25IeMiV9WrvzOhlTXzXywlEZwgA/edit"
+      "url": "https://docs.google.com/document/d/1ZJhg3D0oyc3VurAxqkAlgXXj_an2Iwtp9U8dG6Bsrw8/edit"
     },
     "docs/period-audit.md": {
       "id": "1oEI8N6bvzbM0qaRx-oVMMzfvt5CCYtgkqaJy42cWgOE",
