@@ -791,7 +791,7 @@ this table can be reordered without breaking them.**
 | # | Chapter | POV | Beat | What changes practically |
 |---|---|---|---|---|
 | 1 | The Water Is Right | J | The World Before | The cove's economy in weights and a jug carried to Tyler's. The still seen working, from outside. R-4: we open on the corn, not on Jacob's hands. |
-| 2 | Powder on the Ridge | J | (new, R-2) | Grading heard at night; a federal transit on the next ridge. The second chain-and-book front planted before the first one is. |
+| 2 | Powder on the Ridge | J | (new, R-2) | Grading/prospect powder heard at night; Pardee's narrow-gauge/ore transit & 100-ft steel chain on the State Line Gap divide above Elk Park clearing. The second chain-and-book front planted before the first one is (`docs/act-1-beat-sheet.md`). |
 | 3 | The Office | J | The Arrival of the Excise | Parrish opens; calls on the judge, the sheriff, the leading men. Joshua and **Harper both attend** (R-11). |
 | 4 | What a No Costs | J | The Recruitment of Joshua | Parrish asks for names; Joshua refuses; the last page is his own mortgage and the cart road down onto his brother's wife's ground (R-6/R-7). In the same drawer: the keeping-money ledger line (R-8) and his 1865 Knoxville Union discharge paper (R-16), neither explained. |
 | 5 | Keep Making It | J | Jacob Understands + the cove's choice | The cove decides to continue and to not-know, at Joshua's mill. **Harper says *don't*** and is outvoted (R-11). |
@@ -1063,12 +1063,15 @@ imprisonment 6 months–2 years (Rev. Stat. § 3281; Act of 1875 § 16: up to $5
 forged or fraudulent bond: 1–5 years). `LEAD` **Check Q-5 of the audit:** whether a 2-year sentence is
 attainable in the Western District in 1879 for a first conviction, or whether Jacob needs two counts.
 
-**5.7 Enforcement machinery.** Commissioner of Internal Revenue (Raum, from Aug 1876); supervisors
-(per district; abolished 1883 by the Pendleton Civil Service Act `LEAD`); inspectors; gaugers;
-deputy marshals, hired by the marshal and paid per prisoner — the reason a posse looks like
-mercenaries `LEAD`. Removal of state prosecutions to federal court, and *Tennessee v. Davis* (1879),
-a moonshine seizure pulled into federal court `LEAD`. Whether troops could be called: see
-"The Army and Moonshiners in the Mountainous South" (Leavenworth thesis, ADA284658) `LEAD`.
+**5.7 Enforcement machinery.** Commissioner of Internal Revenue (Raum, from Aug 1876); supervisors of
+internal revenue (**abolished 15 Aug 1876, 19 Stat. 152**, transferring `Rev. Stat. § 3163` book-examination
+and summons powers directly to **internal revenue agents** employed by the Commissioner under **`Rev. Stat.
+§ 3152`** `VERIFIED`); Sixth Collection District of NC collector at Statesville (**Dr. John James Mott**,
+1872–82; appoints deputy collectors under `§ 3148`, never voiced); gaugers; deputy marshals, hired by the
+marshal and paid fees/mileage — the reason a posse looks like mercenaries `LEAD`. Removal of state prosecutions
+to federal court, and *Tennessee v. Davis* (1879), a revenue killing pulled into federal court `LEAD`. Whether
+troops could be called: see "The Army and Moonshiners in the Mountainous South" (Leavenworth thesis,
+ADA284658) `LEAD`.
 
 **5.8 The trade, on the page.** Corn meal kneaded to a stiff dough, soured in the barrel; fermented
 mash ("beer") run off; copper kettle, worm, wooden cooler; the **thump/dunkin' keg** — claimed

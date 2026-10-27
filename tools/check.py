@@ -248,7 +248,7 @@ def load_corpus(args):
             # Bibles and the style guide quote banned words on purpose — they are the rule
             # source, not the object of the check. Pass --meta to lint them anyway.
             for f in sorted(DOCS.glob("*.md")) + sorted((DOCS / "bibles").glob("*.md")):
-                if not args.meta and re.search(r"(bible|style-guide|period-audit|beta-reader|research-gaps|pitch-and-blurb)", f.name):
+                if not args.meta and re.search(r"(bible|style-guide|period-audit|beta-reader|research-gaps|pitch-and-blurb|beat-sheet)", f.name):
                     continue
                 files.append(f)
     out = []

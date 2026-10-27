@@ -39,9 +39,12 @@ because the notices are against her freehold — a woman who has spent her life 
 not reach a family is suddenly the defendant in a case about her own dirt.
 **Will not say:** that she knew before the raid. Under R-7 this is no longer atmosphere: *Stowell* protects
 an owner who did not know and *Dobbins* does not protect one who merely did not ask, so whether Margaret
-knew is the single fact the trial turns on and she is the only witness who can supply it. Decide what she
-actually knew **before** drafting *The Cold Still*; the answer determines whether Act One is dramatic irony or a
-woman making a calculation with her husband's freedom priced against forty acres.
+knew is the single fact the trial turns on and she is the only witness who can supply it. **Locked in
+`docs/act-1-beat-sheet.md` (Ch. 8, *The Cold Still*):** she knew everything a woman forty paces upwind knows
+by household arithmetic, meal weights, and singlings-sour laundry — and kept strict boundary discipline
+(never crossing the barn sill, never touching a jug, never executing a written lease or privy examination
+under N.C. Laws 1848–49 ch. 41), pricing her husband's trade against forty acres she believed `Art. X §6`
+put beyond reach until the federal *in rem* notice landed on her doorpost.
 **Signature action:** keeps the household's accounts in a book nobody else can read, and it turns out to
 be evidence.
 **Raised him (R-8).** She is the woman who took in her husband's nephew at five years old and did not
