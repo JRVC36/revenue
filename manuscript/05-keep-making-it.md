@@ -6,7 +6,7 @@ Under the low eaves of his drying shed Joshua unbuckled the wet leather saddleba
 
 Hoss Tyler’s brown ink had dried before noon: *Received of J. Brennan, twenty-four dollars lawful money, one year’s interest to November tenth, eighteen seventy-eight, upon deed of trust.*
 
-Nothing else lay in the pouch. Thirty-six silver halves, four quarters, and the worn five-dollar United States note had gone into Tyler’s iron safe beneath the walnut desk, leaving Joshua’s cabin drawer empty of coin until spring wagons came back over the mountain. Outside Tyler’s post-box at the forks, nailed fresh into the wet pine clapboards beside the Bakersville mail bill, two printed Treasury sheets had hung limp in the sleet, setting forth Section forty-four in black government type for any teamster who could spell it out.
+Nothing else lay in the pouch. Thirty-six silver halves, four quarters, and the worn five-dollar United States note had gone into Tyler’s iron safe beneath the walnut desk, leaving Joshua’s cabin drawer empty of coin until spring wagons came back over the mountain. Beside Tyler’s notice-board at the forks, nailed fresh into the wet pine clapboards next to the Bakersville stage bill, two printed Treasury sheets had hung limp in the sleet, setting forth Section forty-four in black government type for any teamster who could spell it out.
 
 Joshua rubbed the mare’s chilled back dry with a twist of oat straw, latched the stall bar, and walked down the slick bench path past the forked white oak.
 

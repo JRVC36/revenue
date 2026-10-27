@@ -44,7 +44,7 @@ Joshua gathered the mare’s rein. Step by step he led her down the frozen ruts 
 
 ---
 
-Outside Hoss Tyler’s porch a teenage livery boy in a blanket coat stamped his boots beside the pack-mule’s head. He blew hard into his cupped knuckles.
+Outside Hoss Tyler’s porch a half-grown livery boy in a blanket coat stamped his boots beside the pack-mule’s head. He blew hard into his cupped knuckles.
 
 Joshua tied the claybank mare at the far end of the rail and glanced once across the mule’s crupper. Lashed tight over the wooden pack-saddle with hemp rope lay a battered thirty-gallon copper still-cap. Heavy poll axes had beat forty pounds of sheet copper flat as a folded tin pan. Bright raw axe-cuts shone pink through old green crust along the spout collar. Sour mash ice still clung white to the dented rim.
 
@@ -82,7 +82,7 @@ Without lifting his nose from his red table book, the Statesville gauger poured 
 
 Carson shut his mouth. He spat into the sand box.
 
-Parrish stepped straight before Hoss Tyler’s slant-top desk and glanced up at the bare pine boards above the coffee drawers, where federal law required every merchant trading spirits under five gallons to tack a twenty-five-dollar annual Retail Liquor Dealer stamp. Five full weeks of a mountain axe-hand’s cash wages went into that single square of green paper.
+Parrish stepped straight before Hoss Tyler’s slant-top desk and glanced up at the bare pine boards above the coffee drawers, where federal law required every merchant trading spirits under five gallons to tack a twenty-five-dollar annual Retail Liquor Dealer stamp. Since New Year’s Day Washington redeemed every paper greenback dollar for dollar in gold coin, yet five full weeks of a mountain axe-hand’s cash wages still went into that single square of green paper.
 
 “No special-tax stamp hangs posted above your shelf, Mister Tyler,” Parrish said pleasantly. “And three gallons of untaxed blockade spirit sit behind your molasses cask.”
 
@@ -138,7 +138,7 @@ Carefully folding the foolscap protest once down the middle so neither signature
 
 Out on the frozen road iron mule-shoes clicked slow onto the gravel.
 
-Through the dusty sash rode nineteen-year-old Matthew on his bay mule out of Elk Cove. Tied by their hind feet to his front saddle-strings hung three prime winter muskrat pelts, stretched flat and dry on shaved willow hoops to trade for boot tallow and wrought nails.
+Through the dusty sash rode nineteen-year-old Matthew on his bay mule out of Elk Cove. Tied through the nose-slits to his front saddle-strings hung three prime winter muskrat pelts, cased stiff and flesh-out off their shingle boards to trade for boot tallow and wrought nails.
 
 Matthew swung down from the saddle. He looped his rope rein over the rail beside Joshua’s mare. At the second plank step William Parrish pulled the store door wide from inside.
 

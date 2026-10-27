@@ -1253,8 +1253,10 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   Vance**'s clerk lists **`One folded dark wool shawl, brass-pinned — forty cents`** (`Elsie's shawl`, struck
   on Margaret's objection); Harper's ox-sled brings **Lish Councill (15)** dead under Margaret's white linen
   sheet while Parrish enters **`"one boy, killed running at junction barn"`**; young **Thomas Harper (16)**
-  leads Matthew's riderless bay mule home at 4 p.m.; and four cut tacks hold the **Notice of Seizure** on
-  Margaret's barn doorpost naming her `40 acres` for **Statesville, third Monday of April, 1879**.
+  leads Matthew's riderless bay mule home at 4 p.m.; and four cut tacks hold the **Notice of Seizure**
+  (*United States against One Eighty-Gallon Copper Still and Forty Acres of Land*, demanding a **$250
+  cost-bond with two approved freeholder sureties**) on Margaret's barn doorpost naming her `40 acres` for
+  **Statesville, third Monday of April, 1879**.
 - **Parrish's wound.** Hit in arm or leg (outline undecided) — pin side and limb; he is on the page
   afterward holding things differently.
 - **Two ambushes.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes. The killed

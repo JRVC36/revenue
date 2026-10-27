@@ -46,7 +46,7 @@ Joshua unhooked the sack. “Your father hasn’t wagoned shelled corn to Morgan
 
 Matthew shut his mouth and took the lower corner. Together they hoisted the bag breast-high and poured the hard yellow kernels into the wide pine hopper above the millstones.
 
-North Carolina fixed a miller’s share by how close he set his stones. When Joshua lowered the upper granite stone almost touching the lower one to grind soft white meal for a woman’s bread pan, the law gave him one-eighth of the corn, seven pounds out of every fifty-six-pound bushel. When he turned the iron adjusting screw half a round to lift the upper stone the thickness of shoe leather and crack coarse chop for livestock, his toll dropped to one-fourteenth. Four pounds to the bushel fed hogs in December. Here at the end of three dry August weeks, with old corn scarce and new field ears still milky in the shuck, every farmer up Elk Cove who rode to Joshua’s door before breakfast asked for coarse chop. Nobody fattened hogs in August.
+North Carolina fixed a miller’s share by how close he set his stones. When Joshua lowered the upper French buhrstone almost touching the granite bedstone to grind soft white meal for a woman’s bread pan, the law gave him one-eighth of the corn, seven pounds out of every fifty-six-pound bushel. When he turned the iron adjusting screw half a round to lift the upper stone the thickness of shoe leather and crack coarse chop for livestock, his toll dropped to one-fourteenth. Four pounds to the bushel fed hogs in December. Here at the end of three dry August weeks, with old corn scarce and new field ears still milky in the shuck, every farmer up Elk Cove who rode to Joshua’s door before breakfast asked for coarse chop. Nobody fattened hogs in August.
 
 Joshua gave the iron screw its half-turn upward. He pulled the long wooden gate lever.
 
@@ -76,7 +76,7 @@ Caleb tied the last chop sack with twine. He did not lift it. Standing square be
 
 Joshua wiped chalk off his thumb onto his apron. “Say it.”
 
-“Spring behind Mother’s lower barn dropped to the width of a straw last night,” Caleb said. “Water coming out of the bank’s warm enough to wash hands in. Father’s got sixteen bushels of Tuesday’s mash standing ripe in the barrels right now. If he doesn’t boil half of it off before dark in this heat, the whole sixteen bushels sours to vinegar by morning.”
+“Spring behind Mother’s lower barn dropped to the width of a straw last night,” Caleb said. “Water coming out of the bank’s warm enough to wash hands in. Father stripped half of Tuesday’s sixteen bushels yesterday, and he’s got the doubling charge on the fire right now with the rest of the mash standing ripe in the tubs. If he loses this doubling run and can’t strip those tubs before morning in this heat, the whole sixteen bushels sours to vinegar.”
 
 Matthew stopped tying the bread poke at the door. He looked back at his uncle.
 
@@ -96,7 +96,7 @@ Joshua stood in the doorway until the two boys and their mules passed out of sig
 
 ---
 
-By half past eleven the sun stood brass-hot above Sugar Hollow. Not a cloud showed over Roan.
+Sunlight crept within two thumb-breadths of the chiseled noon-mark on Joshua’s south mill sill. Brass-hot glare stood straight above Sugar Hollow. Not a cloud showed over Roan.
 
 Before setting his stones for the Forge flour, Joshua weighed fifty pounds of white bread meal out of his own toll chest into a clean linen sack and swung it onto his shoulder. Refusing his brother his millpond did not mean leaving Margaret’s bread tray bare with two grown boys at her table.
 
@@ -118,7 +118,7 @@ In her early forties, lean-shouldered and dark-haired, she wore a faded blue apr
 
 Margaret did not test the meal today. Her eyes went once through the open breezeway toward the foot of the clearing forty paces below her kitchen step, where her lower log barn stood tucked under overhanging hemlocks and creek willows. Down the steep bank between the barn and the shallow creek, Caleb moved at a steady, heavy trot carrying two brimming oak water-buckets on a shoulder yoke.
 
-“We’re down to two quarts of coarse salt in the gourd,” Margaret said, neither looking at Joshua nor asking him for anything, “and not enough baking soda left to raise a pan of bread. Jacob’s had the fire under the kettle since ten. That laurel spring behind the logs barely wets the moss.”
+“We’re down to two quarts of coarse salt in the gourd,” Margaret said, neither looking at Joshua nor asking him for anything, “and not enough bread soda left to raise a pan of buttermilk pone. Jacob’s had the fire under the doubling charge since ten. That laurel spring behind the logs barely wets the moss.”
 
 “I’m riding down to Hoss Tyler’s before sundown for flat iron to mend my wheel rim,” Joshua said. “I can fetch salt on my credit.”
 
@@ -126,17 +126,17 @@ Margaret did not test the meal today. Her eyes went once through the open breeze
 
 Joshua took his wool hat off the peg. He walked down the garden path between Margaret’s pole beans and drought-wilted cabbages.
 
-Ten yards from the lower barn doorway the sharp tang of hot alcohol vapor met his face.
+Ten yards from the lower barn doorway the sharp tang of hot alcohol vapor and kiln-dried corn malt met his face.
 
-Joshua halted on the threshold with one palm against the hewn jamb. Inside the windowless room the heat struck like an open bake-oven. Sweat soaked Jacob’s hickory shirt black between the shoulder blades as he knelt by the stone firebox, raking burning sticks backward with an iron poker to keep the boiling mash from blowing the red-clay seal off the cap of the eighty-gallon copper kettle.
+Joshua halted on the threshold with one palm against the hewn jamb. Inside the windowless room the heat struck like an open bake-oven. Sweat soaked Jacob’s hickory shirt black between the shoulder blades as he knelt by the stone firebox, raking burning sticks backward with an iron poker to keep the boiling singlings from blowing the red-clay seal off the cap of the eighty-gallon copper kettle. Beside the warm brickwork stood a shallow pine box of shelled corn sprouting white root-tips under wet sacking for next week’s malt.
 
-Across the earthen floor stood the tall wooden cooling barrel where the coiled copper pipe ran down to condense the steam. Caleb had emptied two fresh buckets of creek water into the top, yet pale steam curled straight off the warm staves. Down at the bottom spout no cold, clear ribbon of whiskey ran into the jug. Instead, the hot copper pipe coughed and spat thin puffs of uncondensed white vapor between warm, cloudy drops that smelled rank of scalded meal. One stray spark from the firebox would flash that vapor to the roof.
+Across the earthen floor stood the tall wooden cooling barrel where the coiled copper pipe ran down to condense the steam. Caleb had emptied two fresh buckets of creek water into the top, yet pale steam curled straight off the warm staves. Down at the bottom spout no cold, clear ribbon of whiskey ran into the jug. Instead, the hot copper pipe coughed and spat thin puffs of uncondensed white vapor between warm, cloudy drops that smelled rank of scalded grain. One stray spark from the firebox would flash that vapor to the roof.
 
 Jacob looked round through the heat haze. His eyes met Joshua’s in the doorway.
 
 He did not stand up. Wiping sweat from his brow with a soot-streaked wrist, he turned back to the fire.
 
-“Caleb gave me your answer,” Jacob said. “Keep your pond for the Forge wagon. Draw the fire out, Caleb. We’ll let the kettle cool and bucket the whole sixteen bushels down the hog ditch before it bursts the staves.”
+“Caleb gave me your answer,” Jacob said. “Keep your pond for the Forge wagon. Draw the fire out, Caleb. We’ll let the kettle cool and bucket the ripe mash tubs down the hog ditch before they burst the staves.”
 
 Caleb set his empty oak buckets down. Wet knuckles hung raw and swollen at his sides. Without a word he reached for the iron ash-shovel.
 
@@ -168,7 +168,7 @@ Jacob held the vial an inch toward the sunny doorway. Then he poured the sample 
 
 Cold water spilled steady over the barrel lip and ran clear down Margaret’s stone ditch toward the sweet-flag.
 
-“Margaret wants four yards of heavy shirting,” Joshua said from the sill, “coarse salt, and baking soda. Tell Matthew to hitch his mule to the sled at three. I still need flat iron off Tyler’s rack.”
+“Margaret wants four yards of heavy shirting,” Joshua said from the sill, “coarse salt, and bread soda. Tell Matthew to hitch his mule to the sled at three. I still need flat iron off Tyler’s rack.”
 
 ---
 
@@ -200,9 +200,9 @@ Tyler pulled the corncob stopper from the first jug with his teeth. Spitting a s
 
 Over in the corner stood an empty forty-gallon valley whiskey barrel holding hickory axe handles now, a torn paper tax stamp glued gray across its side. Tyler hooked a thumb toward it and wiped his hands on his apron.
 
-“Town salesman out of Morganton tried to sell me stamped valley barrel whiskey Tuesday at a dollar eighty in silver,” Tyler said. “Smelled of scorched wood and rotten corn through the bung-hole. Good blockade whiskey pays its own freight on a mule, and a man knows whose grain went in it.”
+“Whiskey drummer out of Morganton tried to sell me stamped valley barrel whiskey Tuesday at a dollar eighty in silver,” Tyler said. “Smelled of scorched wood and rotten corn through the bung-hole. Good blockade whiskey pays its own freight on a mule, and a man knows whose grain went in it.”
 
-Jacob did not smile. “Fifty pounds of coarse Kanawha salt,” he said. “Four pounds of green coffee. Half a pound of baking soda. And Margaret says four yards of unbleached shirting if you’ve got the heavy Piedmont weave — none if it’s the thin.”
+Jacob did not smile. “Fifty pounds of coarse Kanawha salt,” he said. “Four pounds of green coffee. Half a pound of saleratus. And Margaret says four yards of unbleached shirting if you’ve got the heavy Piedmont weave — none if it’s the thin.”
 
 “Heavy bolt came off the Tennessee wagon Thursday,” Tyler said. Taking his brass-tipped yardstick from its cleat on the counter edge, he measured off four full yards thumb to nail, nicked the edge with his pocketknife, and ripped the stout cream cloth straight across. Over by the cold stove Matthew looked up from a pair of new calfskin boots hanging by their pull-straps from a rafter peg with the cash price penciled white on the sole.
 
@@ -216,7 +216,7 @@ Tyler looked once at Joshua over his steel spectacles, then down beneath the wal
 
 Tyler slid his spectacles down onto his nose and stepped to his thick calfskin-bound day book lying open beside the stoneware inkwell. Every page carried its folio number in brown ink at the upper corner in Tyler’s upright hand, with no blurs, no scratched-out lines, and no man’s debt trusted to his head past sundown.
 
-Turning first to Jacob’s page, Tyler credited four gallons of whiskey at two dollars and fifty cents in store trade. Beneath the August date he wrote the salt, coffee, baking soda, and four yards of shirting line by line until nineteen cents stood over to Jacob’s credit toward October. Flipping twelve pages back to Joshua’s mill account, he entered eighteen pounds of Cranberry flat iron against autumn grinding toll on Tyler’s own bread corn.
+Turning first to Jacob’s page, Tyler credited four gallons of whiskey at two dollars and fifty cents in store trade. Beneath the August date he wrote the salt, coffee, saleratus, and four yards of shirting line by line until nineteen cents stood over to Jacob’s credit toward October. Flipping twelve pages back to Joshua’s mill account, he entered eighteen pounds of Cranberry flat iron against autumn grinding toll on Tyler’s own bread corn.
 
 Before closing the heavy calfskin cover, Tyler turned toward the back of the book to lay blotting paper across a damp line.
 
@@ -238,7 +238,7 @@ Joshua carried the six-foot bar of flat iron up into his millhouse, stood it bes
 
 Sitting on his three-legged stool, Joshua opened his mill book under the lamp. First he checked the morning’s chop line. Then he turned to the back leaf where his cash debts stood alone.
 
-Everything inside Elk Cove ran round a circle small enough for one pack-mule to walk between breakfast and dark so long as trade stayed in cornmeal, whiskey jugs, and bar iron. Eight bushels of shelled corn hauled two days over Jonas Ridge to Morganton brought barely two dollars in small silver when valley merchants bought corn at all. Cracked coarse under Joshua’s lifted millstone and cooked slow in Jacob’s eighty-gallon kettle on Margaret’s forty acres, those eight bushels made twenty gallons of clear hundred-proof whiskey. Across Hoss Tyler’s counter that brought twelve dollars and fifty cents in salt, coffee, cloth, and forged iron without a single United States note crossing Cranberry Creek.
+Everything inside Elk Cove ran round a circle small enough for one pack-mule to walk between breakfast and dark so long as trade stayed in cornmeal, whiskey jugs, and bar iron. Sixteen bushels of shelled corn hauled two wagon-trips over Jonas Ridge to Morganton brought barely four dollars in small silver when valley merchants bought corn at all. Cracked coarse under Joshua’s lifted stone, malted with sprouted corn, and run twice through Jacob’s eighty-gallon kettle on Margaret’s forty acres, those sixteen bushels made twenty gallons of clear hundred-proof whiskey. Across Hoss Tyler’s counter that brought twelve dollars and fifty cents in salt, coffee, cloth, and forged iron without a single United States note crossing Cranberry Creek.
 
 On the back leaf stood the tenth of November and his mortgage interest. Twenty-four dollars in lawful money fell due at Bakersville upon the four hundred owing to Hoss Tyler against the eighty-six acres, the dam, the corn, and the road: more cash coin than a cove axe-hand cleared in a solid month of ten-hour days. No stoneware jug paid that line. Six silver dollars toward it had sat ready in those twelve bushels against his wall at noon, and now his pond lay a foot below the grinding mark while Margaret’s salt sack sat full in her kitchen.
 
@@ -248,6 +248,6 @@ Taking his wooden maul from the bench, he unbarred the side door and walked down
 
 Cold stars hung small above the black Tennessee ridge. Beside Joshua’s boot the four forked locust stakes stood planted across the boundary line, carrying his cold mill water straight over the granite post onto Margaret’s forty acres.
 
-Down the dark slope, forty paces below Margaret’s unlit kitchen window, a fresh red seam of pine-knot fire flared bright beneath the sill logs of her lower barn. Having got the salt jugs off before dark, Jacob had charged the eighty-gallon kettle a second time to save the rest of his sixteen ripe bushels before morning. Knock that slate plug back into the bank tonight, and eight bushels boiled dry into steam before midnight; leave it out, and Joshua’s water ran into his brother’s barn till sunup.
+Down the dark slope, forty paces below Margaret’s unlit kitchen window, a fresh red seam of pine-knot fire flared bright beneath the sill logs of her lower barn. Having got the doubling jugs off before dark, Jacob had charged the eighty-gallon kettle a second time to strip the rest of his ripe mash tubs into singlings before morning. Knock that slate plug back into the bank tonight, and eight bushels boiled dry into steam before midnight; leave it out, and Joshua’s water ran into his brother’s barn till sunup.
 
 Joshua rested the head of the wooden maul against the wet slate slab on the grass. Clear and cold in the starlight, his ditch water slid swift down the split-chestnut trough past the boundary stone toward the fire under Margaret’s eaves. Leaving the slab unmoved on the bank, he shouldered his maul and climbed the dark path to bed.

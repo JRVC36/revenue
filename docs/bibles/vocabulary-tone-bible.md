@@ -147,6 +147,7 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 ```lexicon
 | BAN | Internal Revenue Service\b|\bIRS\b | post-1913 name speaker-check: say the Department, the revenue |
 | BAN | \bbootlegger\b | 20th-c. in this sense speaker-check |
+| BAN | \b[Tt]eenage\w*\b|\b[Tt]een-age\w*\b | post-1911/1921 adjective/noun speaker-check: say half-grown, sixteen-year-old, stripling |
 | BAN | \brhododendron laurel\b | rhododendron-laurel stacked plant noun speaker-check: say laurel (cove) or rhododendron alone |
 | BAN | \b(trauma|psycholog\w*|adrenalin\w*|hypothermia|subsonic|\becosystem\b|neurosis|shell shock|\bPTSD\b|self-esteem|\bmotivation\b|\bsynergy\b|infrastructure|dehumaniz\w*|\bdata\b|optimize\w*|socioeconomic|\bheritage\b|\btourism\b|vacationer|civil rights|race relations|\bdemographics\b)\b | modern clinical/business idiom speaker-check (Guide §5.2) |
 | BAN | \bdeadline\b | 1864 Andersonville / 1917 figurative; say the term, the sitting |
@@ -162,7 +163,8 @@ follows this file (that is the point of keeping the rules here instead of in Pyt
 | BAN | \b(the situation|the old economy|collective injury|half-life|hollow victory|\blegacy\b|the cost of keeping|the world has changed|things were changing|nothing would be the same)\b | thesis nouns and narrator clichés: Pass 2 deletes (Guide §4 Pass 4/4.4) |
 | BAN | \b(He could (feel|see|hear)|He felt|He saw|He heard|He noticed|He realized|There was a (chill|silence|weight|stillness)|A chill ran|The silence (was|felt)|It felt like|It seemed like|He was aware that)\b | eye-body tells and filter words (Guide §4 Pass 4/Pass 3) |
 | BAN | \b(Mr|Mrs|Ms|Dr|Col|Capt|Lt|Gen|Gov|No|St|vs|etc)\.\s+[A-Z0-9] | modern abbreviation/title forms; spell out Colonel, Captain, Judge, Number |
-| FLAG | \balders?\b | alder ecology check speaker-check: verify >5,000-ft Roan bald or open sunny bog; use laurel, hemlock, birch, spicebush, or creek willow in shaded coves |
+| FLAG | \b[Aa]lders?\b | alder ecology check speaker-check: verify >5,000-ft Roan bald or open sunny bog; use laurel, hemlock, birch, spicebush, or creek willow in shaded coves |
+| FLAG | \b[Cc]ypress\b | Coastal Plain swamp wood check: mountain coopers use white oak, yellow poplar, or chestnut staves |
 | FLAG | \b(?:said|asked|answered|spoke|went on|replied|added|read out|read aloud)\s+(?:evenly|flatly)\b | restraint-tag crutch evenly/flatly: cut adverb and let silence or hand business carry tone |
 | FLAG | \b(?:pinned|tucked|crossed|folded|patched|stacked|buttoned|darned|combed|tied)\b[^.!?,;\n]{0,25}\bneat\b | neat-padding tic Act 1 audit: cut neat or show physical precision |
 | FLAG | \bNot a (?:muscle|line)\b[^.!?]{0,40}\b(?:moved|hurried|stirred|twitched)\b | jaw-muscle stoicism cliché: replace with concrete hand or tool action |

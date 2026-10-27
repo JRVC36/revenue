@@ -2,7 +2,7 @@
 
 Steel rang short and sharp against gray stone in the open mill loft. Outside the shutter, three days of warm March rain had turned Elk Cove Creek brown as steeped bark and sent six inches of white spill roaring over Joshua’s dam lip.
 
-Joshua knelt on a folded meal sack beside the upturned runner stone. Every ten strokes he shifted his flat two-pound steel pick a thumb’s breadth nearer the eye. Crisp sparks winked blue at each blow. Half a winter of grinding flint corn had worn the shallow diagonal channels slick across the hard grit-stone until kernels mashed warm instead of shearing clean. Score those edges sharp before spring plowing, and one water-turn cut twice the meal without heating the flour.
+Joshua knelt on a folded meal sack beside the upturned runner stone. Every ten strokes he shifted his flat two-pound steel pick a thumb’s breadth nearer the eye. Crisp sparks winked blue at each blow. Half a winter of grinding flint corn had worn the shallow diagonal channels slick across the banded French quartz until kernels mashed warm instead of shearing clean. Score those edges sharp before spring plowing, and one water-turn cut twice the meal without heating the flour.
 
 Across the four-foot circle knelt nineteen-year-old Matthew, Jacob and Margaret’s younger boy. With a stiff wild-turkey wing in his right fist, Matthew swept white stone-dust out of each fresh-pecked furrow onto a spread tow-cloth.
 
@@ -58,7 +58,7 @@ Folded across the back corner lay Matthew’s heavy double-knit winter mittens, 
 
 Joshua lifted both wool mittens in one broad palm. Outside the window, white frost already silvered the wet oak shingles of the wheel-shed. A mountain boy riding two miles down to the river turnpike at sundown and coming back up Elk Cove after dark never left thick wool mittens behind on a grain chest when March air bit raw against iron stirrups.
 
-Seven weeks to the day stood between tonight and the third Monday of April at Statesville. Six weeks back, on Tuesday the twenty-eighth of January, a revenue clerk from Bakersville had laid Hoss Tyler’s two calfskin ledgers back on the walnut desk unblotted and untorn, keeping Parrish’s ten-day statutory receipt to the hour. Ten winter nights those two books had lain open under a brass lamp in town. Joshua’s mill page sat near the middle; Matthew’s nineteen dollars and forty cents stood near the back.
+Seven weeks to the day stood between tonight and the third Monday of April at Statesville. Five weeks back, on Tuesday the twenty-eighth of January, a revenue clerk from Bakersville had laid Hoss Tyler’s two calfskin ledgers back on the walnut desk unblotted and untorn, keeping Parrish’s ten-day statutory receipt to the hour. Ten winter nights those two books had lain open under a brass lamp in town. Joshua’s mill page sat near the middle; Matthew’s nineteen dollars and forty cents stood near the back.
 
 Creek water roared steady over the dam outside. Joshua stood still beside the chest. Slowly he laid both walnut-dyed mittens side by side on the window-ledge near the oak door-bar, where hands coming home in the dark would touch them first. He pinched out his tallow dip between thumb and finger and dropped the heavy bar into its iron hooks.
 
@@ -156,7 +156,7 @@ Slowly Tyler took his hands off the leather. Without another word he closed the 
 
 The Deputy Marshal unrolled a square of black tarred oilcloth on the pine counter. He stacked both calfskin volumes inside. Buckling the leather straps tight, he stepped out onto the front porch to lash the parcel behind his saddle and pulled the door nearly shut behind him.
 
-Inside the quiet store Parrish unfastened the top frog of his wet cape. He clicked open his silver pocket watch under the brass lamp. Ten minutes past six.
+Inside the quiet store Parrish unfastened the top frog of his wet cape. He clicked open his silver pocket watch under the brass lamp. Ten minutes past six by Statesville time, eight minutes fast of Tyler’s sun-set wall clock ticking above the safe.
 
 “You asked that the warrant run this morning,” Parrish said, looking straight at Matthew now.
 

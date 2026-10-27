@@ -1,18 +1,18 @@
 ## Chapter 2: Powder on the Ridge
 
-Three nights after the first white frost on Roan, the iron latch on Joshua’s shutter jumped in its staple without a breath of wind in the hemlocks.
+Three evenings after the first white frost on Roan, the iron latch on Joshua’s shutter jumped in its staple without a breath of wind in the hemlocks.
 
-Joshua sat up on the rope bed. His bare heels met the cold puncheons. Overhead along the loft tie-beam, braided strings of seed corn rustled once in their dry shucks and went still. Through the open square of the south window every star above Grandfather stood hard and clean as a nailhead driven into new tin, no cloud bank along the Tennessee line, no late heat lightning down the Toe. Half a minute passed. Then a second thump came up through the sill timbers before the sound reached his ears, flat and short, like a green oak butt dropped off a bolster onto hard sod four miles north.
+Joshua paused on the edge of the rope bed with one brogan unlaced. His bare heel met the cold puncheons. Overhead along the loft tie-beam, braided strings of seed corn rustled once in their dry shucks and went still. Through the open square of the south window the first stars above Grandfather stood hard and clean as nailheads driven into new tin, no cloud bank along the Tennessee line, no late heat lightning down the Toe. Half a minute passed. Then a second thump came up through the sill timbers before the sound reached his ears, flat and short, like a green oak butt dropped off a bolster onto hard sod four miles north.
 
 Down across the dark millrace a hound barked twice in Jacob’s yard. Nobody called the dog in. The dogtrot stayed dark.
 
-Joshua pulled on his brogans unlaced. He took his jeans coat off the peg. Drawing back the oak bolt, he stepped out onto the cold porch stones.
+Joshua pulled the brogan back on unlaced. He took his jeans coat off the peg. Drawing back the oak bolt, he stepped out onto the cold porch stones.
 
-White frost crusted the weeds along the garden palings. Down in the hollow the spillway water fell thin and steady into the tailrace pool, carrying a smell of bruised ragweed and wet chestnut leaves up the bank. Below Margaret’s silent roof no fire showed under the barn logs tonight. Jacob had raked the embers out on Friday and left the copper coil dry while the boys pulled late fodder on the hillside. Nothing moved on the cart road. Nothing stirred up toward State Line Gap except the high stars over the black notch where the Elk ran north into Tennessee.
+White frost already crusted the weeds along the garden palings. Down in the hollow the spillway water fell thin and steady into the tailrace pool, carrying a smell of bruised ragweed and wet chestnut leaves up the bank. Below Margaret’s silent roof no fire showed under the barn logs tonight. Jacob had raked the embers out on Friday and left the copper coil dry while the boys pulled late fodder on the hillside. Nothing moved on the cart road. Nothing stirred up toward State Line Gap except the early stars over the black notch where the Elk ran north into Tennessee.
 
-For five minutes Joshua stood with his thumb hooked over the porch post. Drops ticked slow off the waterwheel buckets in the dark. No third report came off the mountain. Thunder rolled down the balsams from peak to peak till Burke took it. Black powder tamped deep in drilled rock hit once against a man’s soles and stopped dead.
+For five minutes Joshua stood with his thumb hooked over the porch post. Drops ticked slow off the waterwheel buckets in the dusk. No third report came off the mountain. Thunder rolled down the balsams from peak to peak till Burke took it. Black powder tamped deep in drilled rock hit once against a man’s soles and stopped dead.
 
-He went back inside. Dropping the bolt home, he blew on his cold knuckles. Then he pulled the quilt up to his chin.
+He went back inside. Dropping the bolt home, he blew on his cold knuckles and banked gray ash over his supper coals.
 
 ---
 
@@ -42,7 +42,7 @@ Joshua unhooked the rye sack. He set it upright beside the hopper. “Whose land
 
 “Company land round the ore bank first,” Elihu said. “Now they’re cutting north past the Elk Park deadening straight toward the Tennessee gap, following the water divide where the old path goes down to Shell Creek. Tom came home Sunday night with silver quarters jingling in his breeches pocket like shingle nails. Told me fifty cents a cord in store coffee at the Forge was an old man’s trade.”
 
-“They blasted Saturday after ten,” Joshua said.
+“They blasted Saturday right at dusk,” Joshua said.
 
 Elihu nodded once toward the northern sky. “Blew a ledge off the west spur above Cranberry Creek to try how deep the black ore runs under the slate. Shook two pewter plates off my chimney shelf. My wife got out of bed looking for storm clouds.” He rubbed the small of his back with both thumbs, then pointed his chin at the punched iron strap across Joshua’s anvil. “You mend that wheel before corn-shelling sets in, Joshua. Half the young ones up our branch talk about going over the gap if cash wages hold till frost.”
 
@@ -118,7 +118,7 @@ Mid-afternoon he came back down the steep Beech Creek pack-trace on foot. Behind
 
 Half a mile above Elk Cove, where the cattle path from North Fork crossed the laurel draw, Jacob’s pack-mare stood sideways in the trail cropping red maple leaves. Four bundles of bark-peeled dry hickory rode high on her wooden sawbuck.
 
-Caleb stepped out of the rhododendron thicket ten yards uphill. His ash stick stayed home today. Balanced in the crook of his left elbow rode his long percussion squirrel rifle with a greasy tow-cloth wrapped round the nipple against the damp. Across his right palm lay two flat cleft-chestnut stakes smeared bright at the points with red clay.
+Caleb stepped out of the rhododendron thicket ten yards uphill. His ash stick stayed home today. Balanced in the crook of his left elbow rode his long percussion deer rifle with a greasy tow-cloth wrapped round the nipple against the damp. Across his right palm lay two flat cleft-chestnut stakes smeared bright at the points with red clay.
 
 Joshua halted the claybank. Neither man spoke until Caleb came down the bank without sliding a pebble into the branch.
 

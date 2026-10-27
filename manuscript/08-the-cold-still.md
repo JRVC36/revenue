@@ -2,7 +2,7 @@
 
 Margaret Brennan raked red oak coals level across her stone hearth. She spread a gray cap of wood ash over the Dutch-oven lid so the corn pone inside would crust brown without scorching.
 
-White March fog pressed thick against the four-pane kitchen glass. She lifted her stoneware crock of rendered mutton tallow from the shelf. Its wire bail hooked onto her small brass steelyard. Four pounds even balanced the notch: thirty winter evenings of dipped rush-candles if nobody burned a wick past nine o’clock.
+White March fog pressed thick against the four-pane kitchen glass. She lifted her stoneware crock of rendered mutton tallow from the shelf. Its wire bail hooked onto her small brass steelyard. Four pounds even balanced the notch: thirty winter evenings of cotton-wicked tallow dips if nobody burned a light past nine o’clock.
 
 Margaret set the crock on her scoured poplar table. Wiping her fingers on her apron, she checked the room by what stood empty.
 
@@ -60,15 +60,15 @@ William Parrish lifted his wet slouch hat an inch toward the porch. “Good morn
 
 Jacob gave one short nod. Neither he nor Margaret looked down the grass path.
 
-Gauger Kerr dismounted with his brass-cornered case. Followed by the Deputy Marshal and the armed posseman, Kerr walked the forty paces down through the wet weeds and pulled the wooden peg from the white-oak barn door.
+Gauger Kerr dismounted with his brass-cornered case. Followed by the Deputy Marshal and the hired deputy, Kerr walked the forty paces down through the wet weeds and pulled the wooden peg from the white-oak barn door.
 
 Heavy split planks swung wide into the mist. Inside the dark bay brass clinked hollow against cold sheet copper. Wood scraped dry sour crust down the staves of empty tubs.
 
 Margaret did not stir from her upper step. Down by the chopping block Jacob stood quiet with his thumbs hooked at his belt, watching fog drift off the wet orchard limbs.
 
-Five minutes passed. The Deputy Marshal and Gauger Kerr stepped back out of the barn, dry hay-chaff clinging to their dark sleeves. Inside the barn behind them, the hired deputy lifted a heavy poll-axe. Iron bit loud through seasoned cypress wood. Blow after blow echoed dull up the slope. Six fermenting tubs split stave from hoop across the earthen floor.
+Five minutes passed. The Deputy Marshal and Gauger Kerr stepped back out of the barn, dry hay-chaff clinging to their dark sleeves. Inside the barn behind them, the hired deputy lifted a heavy poll-axe. Iron bit loud through seasoned white-oak staves. Blow after blow echoed dull up the slope. Six fermenting tubs split hoop from chime across the earthen floor.
 
-The Deputy Marshal walked up to the chopping block and unfolded a printed sheet. From his belt he unclipped a pair of hinged iron wrist-shackles.
+The Deputy Marshal walked up to the chopping block and unfolded a printed sheet. From his overcoat pocket he drew a pair of chain-linked iron handcuffs.
 
 “United States against Jacob Brennan,” the Deputy Marshal read out briskly. “Warrant upon oath under Sections thirty-two fifty-eight, thirty-two sixty-six, and thirty-two eighty-one of the Revised Statutes: having in custody one set-up eighty-gallon copper still unregistered with the Collector; using a distilling boiler inside a barn connected with a dwelling-house; and carrying on the business of a distiller without bond. Put out your wrists.”
 
@@ -138,7 +138,7 @@ Harper halted his steers in the middle of Margaret’s yard. He did not glance a
 
 Lying on his side in dry oat-straw was fifteen-year-old Lish Councill.
 
-Old Amos Councill’s grandson wore his dead father’s cut-down homespun jeans coat buttoned with horn disks to his thin throat. Between his narrow shoulder blades the gray wool stood soaked black and stiff. Around his neck on waxed hemp twine hung the hollowed gobbler wing-bone, unblown. Two bare chapped red wrists lay crossed still above split yarn mittens. Beside his knee stuck three wet shards of gray jug-stone coated with red lane mud.
+Old Amos Councill’s grandson wore his dead father’s cut-down homespun jeans coat buttoned with horn disks to his thin throat. A clean white kerchief passed beneath his narrow jaw and tied firm at the crown so the chin stayed set on the jolting sled. Between his shoulder blades the gray wool stood soaked black and stiff. Around his neck on waxed hemp twine hung the hollowed gobbler wing-bone, unblown. Two bare chapped red wrists lay crossed still above split yarn mittens. Beside his knee stuck three wet shards of gray jug-stone coated with red lane mud.
 
 Down by the chopping block Jacob lunged half a step against his chains. Before the Deputy Marshal’s hand reached his pistol holster, Joshua stepped hard across the grass and planted one broad palm against Jacob’s breastbone, holding his brother still with all his weight so no gun lifted in the yard.
 
@@ -146,7 +146,7 @@ Up on the porch Margaret made no sound. Neither hand went to her face.
 
 She turned back into her kitchen and crossed to the walnut press. Pulling open the deep bottom drawer, she lifted out her best sun-bleached white linen bed-sheet, woven tight on her own four-post loom and kept folded in sweet clover for sickness or burying. With the white linen across her arm, she walked down the wet steps, went past the revenue horses without looking up, and knelt in the mud beside Harper’s sled.
 
-Carefully she lifted the rough hemp sacking clear of Lish Councill’s cold cheek. Once she shook out the white sheet from crown to boot-heel. She tucked the hem smooth beneath the boy’s chin and folded both sides firm under his thin shoulders so coarse tow-cloth would not rub widow Sarah Councill’s child on the rocky two-mile pull up North Fork Hollow.
+Carefully she lifted the rough hemp sacking clear of Lish Councill’s cold cheek. Once she shook out the white sheet from crown to boot-heel. She tucked the hem smooth beneath the boy’s bound chin and folded both sides firm under his thin shoulders so neither sleet-damp nor coarse tow-cloth would strike widow Sarah Councill’s child before his mother washed him up North Fork Hollow.
 
 William Parrish walked slowly across the yard to the sled tailboard. Removing his slouch hat completely, he held it down against his wet cape.
 
@@ -196,13 +196,13 @@ Alone between the silent house and the creek, Margaret stepped off her porch. No
 
 Slowly she walked the forty paces down the frost-stiffened grass path. One boot-length short of her father’s barn doorsill she halted. Twenty winters her feet had kept that exact line.
 
-Inside the dark doorway lay shattered cypress staves, black brick, and sour puddles. Eye-high on the weathered white-oak doorpost, driven tight into her father’s timber with four bright cut-iron tacks, hung a broad white printed sheet.
+Inside the dark doorway lay shattered white-oak staves, black brick, and sour puddles. Eye-high on the weathered white-oak doorpost, driven tight into her father’s timber with four bright cut-iron tacks, hung a broad white printed sheet.
 
 Leaning close in the failing light, Margaret read every line under her breath.
 
-“United States Internal Revenue, Sixth Collection District of North Carolina — Notice of Seizure. Take notice that there has been seized this fourth day of March, eighteen seventy-nine, as forfeited to the United States under the Act of the twentieth of July, eighteen sixty-eight, one eighty-gallon copper still, one worm, six mash tubs, and all that certain lot, tract, or parcel of land containing forty acres, more or less, situate on Elk Cove Creek in Cranberry Township, County of Mitchell, State of North Carolina, together with the log barn, outbuildings, ways, waters, and premises connected therewith; and all persons claiming any right, title, or interest in said real estate or personalty are commanded to appear and make due answer and cost-bond before the Circuit Court of the United States for the Western District of North Carolina at Statesville on the third Monday of April, eighteen seventy-nine, or suffer default, condemnation, and public sale.”
+“United States Internal Revenue, Sixth Collection District of North Carolina — Notice of Seizure, United States against One Eighty-Gallon Copper Still and Forty Acres of Land. Take notice that there has been seized this fourth day of March, eighteen seventy-nine, as forfeited to the United States under the Act of the twentieth of July, eighteen sixty-eight, one eighty-gallon copper still, one worm, six mash tubs, and all that certain lot, tract, or parcel of land containing forty acres, more or less, situate on Elk Cove Creek in Cranberry Township, County of Mitchell, State of North Carolina, together with the log barn, outbuildings, ways, waters, and premises connected therewith; and all persons claiming any right, title, or interest in said real estate or personalty are commanded to appear, file sworn claim, and give cost-bond in the sum of two hundred and fifty dollars with two approved freeholder sureties before the Circuit Court of the United States for the Western District of North Carolina at Statesville on the third Monday of April, eighteen seventy-nine, or suffer default, condemnation, and public sale.”
 
-Ninety wagon-miles led down the mountains to Statesville, three full days in the saddle each way across three county lines. Answering took a clerk’s cost-bond in silver coin, with forty acres resting on one folded Watauga sheet upstairs that no burned courthouse could replace.
+Ninety wagon-miles led down the mountains to Statesville, three full days in the saddle each way across three county lines. Before a married woman could even open her mouth in that courtroom, Washington demanded a two-hundred-and-fifty-dollar cost-bond signed by two unmortgaged landowners, with forty acres resting on one folded Watauga sheet upstairs that no burned courthouse could replace.
 
 Margaret pulled none of the four bright tacks out of the oak. Standing still in the cold grass, she read the printed sheet a second time from top line to signature until every statute date, boundary word, and April Monday sat whole inside her head.
 
