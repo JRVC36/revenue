@@ -24,6 +24,7 @@ DOC_TARGETS = [
     ("canon/canon-v1.md", "canon-v1", "Canon v1 — REVENUE"),
     ("docs/author-style-guide.md", "author-style-guide", "Author Style & Craft Guide — Kevin Russell"),
     ("docs/act-1-beat-sheet.md", "act-1-beat-sheet", "Act One Beat Sheet (Chs. 1–8)"),
+    ("docs/act-2-beat-sheet.md", "act-2-beat-sheet", "Act Two Detailed Outline (Chs. 9–17)"),
     ("docs/act-1-style-audit.md", "act-1-style-audit", "Act One Style Audit (Chs. 1–8)"),
     ("docs/period-audit.md", "period-audit", "Period & Historical Audit"),
     ("docs/research-gaps-and-questions.md", "research-gaps-and-questions", "Research Gaps & Rulings Log"),
