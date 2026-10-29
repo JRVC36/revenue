@@ -291,7 +291,7 @@ Consequences, binding:
 *R-9 `AUTHOR` (2026-10-26) — Parrish's cost is an audit: his victory is a complaint he has to answer.**
 After the ambush the Department writes to him. Not to congratulate him — to ask, in the flat language of a
 bureau that spent 1875–76 cleaning out the Whiskey Ring and had abolished the offending supervisors'
-patronage power in 1883, why a raid was fought with hired local men, and why a barn was burned that the
+patronage power in 1876 (`19 Stat. 152`), why a raid was fought with hired local men, and why a barn was burned that the
 United States had a claim on. `LEAD` on the reform context (§5, audit §3).
 
 Why this is the right cost and not a subplot: under R-4 we are never inside him, so a cost that is
@@ -306,10 +306,11 @@ Consequences, binding:
   property it was in the process of seizing. He writes the second one. `INVENT` the letter; the audit's row
   is what the letter has to be technically consistent with.
 - **A scene the outline does not have: the deposition (RULED → R-19, *The Deposition*).** To answer
-  Washington, Parrish needs affidavits, and the one affidavit that saves him is Margaret's — that he stood in
-  the road calling his hired men off and did not order the fire, which caught in the split kegs of blockade
-  whiskey stored on Harper's floor. So the man taking her land has to ask her to protect his career, in a
-  room, with a clerk. She exacts `Elisha Councill`'s real name in his Commissioner's report first, then gives
+  Washington, Parrish needs affidavits; Margaret's evidence may help save him. She can swear only to what she
+  saw and heard: no order to set the barn alight was given within her hearing, and Parrish called his men
+  back as the split kegs caught. She cannot attest to a private instruction outside that exchange (R-21). So
+  the man taking her land has to ask her to protect his career, in a room, with a clerk. She exacts
+  `Elisha Councill`'s real name in his Commissioner's report first, then gives
   him one strictly true sentence that saves him with Washington and puts sworn proof of stored spirits into
   the federal record against the cove.
 - **The book's paper survives because of the audit.** His compelled report is the reason a written record of
@@ -359,8 +360,10 @@ a paper with his name on it — a clerk's place, a deputy's start, anything. **G
   letter of appointment that is never written. If a draft needs more, the fix is a different object, not a
   thought.
 - **The exchange this opens between Margaret and Parrish (RULED → R-19, *The Deposition*):** her affidavit
-  about the fire has a price, and it is not money. She signs that Parrish stood in the road and did not order
-  the burning only after the boy's name goes into the Commissioner's report **right** — the file calls him
+  about the fire has a price, and it is not money. She testifies only to what she saw and heard: no order to
+  fire the barn was given within her hearing, and Parrish called his men back as the split kegs caught. She
+  cannot testify to a private order she did not hear (R-21). She gives that account only after the boy's name
+  goes into the Commissioner's report **right** — the file calls him
   `"a boy"`, the cove calls him Lish, and *E1* prints **`Elisha Councill`** because she made him spell it.
   That is the moral trade of this book, and it is a spelling.
 
@@ -395,7 +398,7 @@ Consequences, binding:
   whiskey over his Act One *don't*, which under *Stowell* is "suffered and permitted." When Parrish raids that
   storage barn with hired local possemen (*The Burning*, Ch. 14), his hired men stave in the kegs and set the
   barn afire without Parrish's order — burning property on which the United States already held a claim, and
-  triggering Caleb's lethal answer in *First Blood* (Ch. 16).
+  followed by the lethal road encounter in *First Blood* (Ch. 16); Joshua does not see who fired (R-21).
 - **The punishment lands on the wrong person and the book refuses to point this out.** Caleb's arc (R-8) is a
   boy defending a household; Harper's is a man losing the barn he raised for having warned them. No speech for
   Harper. A doorway in *The Burning*, standing, with his sons — and one line in Act Four only if the pacing survives
@@ -485,10 +488,11 @@ but the book skips it / a special commission sitting in the mountains).
   *The Surrender* — he comes home to a house that has become the site of a second case and to a wife who has
   been running it, and then watches his nephew's trial from the gallery of a man who has already sat in that
   room. The outline put the release after the capture; the statute said otherwise, and the statute wins.
-- **The one line in the outline to fix.** "He has about a year left in prison" → **"a year and more"** if the
-  chapter sits in the winter of 1879–80, or **"not half a year out"** if it sits in late 1880. Pin the
-  chapter's month first, then write the line. Do not write "about a year" and hope.
-- **Judge Robert Paine Dick is named, seated, and never given an invented word.** He held that bench from 1872
+- **Sentence arithmetic after R-21.** On **21 January 1880**, fifteen calendar months remain. On **11 December
+  1880**, four months and ten days remain; on **31 December**, **111 days** remain. Chapter 17 is fixed on
+  11 December for its closing letter and handoff; do not reuse the source outline's "about a year" or the
+  superseded end-of-year figure.
+- **Judge Robert Paine Dick is named on the docket, never given invented words or acts.** He held that bench from 1872
   to 1898: a Unionist who left the bench when the war came, sat in the Confederates' legislature afterward, was
   barred from the 1870 general assembly by the ironclad oath, and was put on the federal bench by Grant — the
   living proof of the claim Act One is about. He is in the book the way the rest of the machinery is: **in the
@@ -715,8 +719,9 @@ onstage party politics).
      so Parrish's pre-allowance settlement with an informant never enters the court file (and never reaches
      Washington's eyes before R-9's audit).
 - **Silence rule:** Neither Joshua nor Parrish says Matthew's name in the room. Joshua reads the gap in the
-  folio sequence the way a miller reads a short weight, and walks out knowing both what his nephew cost and
-  what the agent is hiding from his own Department.
+  folio sequence the way a miller reads a short weight. Joshua already witnessed the payment in Ch. 7; here he
+  sees the omission and may infer its significance. A certified selection's gap alone does not prove fraud, and
+  the POV cannot know Parrish's private motive (R-21).
 
 ---
 
@@ -728,8 +733,9 @@ onstage party politics).
   under William Harper's barn floor over Harper's Act One *"don't"* (R-11). When Parrish raids Harper's storage
   barn in Act Two with hired local possemen, his men stave in the barrels and **set fire to the barn without
   Parrish's order** (outline line 234; R-9). Harper loses the landmark barn he raised because the cove refused
-  his warning, Parrish inherits a Washington inquiry over why property under federal seizure claim burned on his
-  raid, and Caleb crosses into lethal retaliation in *First Blood* (Ch. 16). *(Replaces the stray summary phrase
+  his warning, Parrish later faces a Washington inquiry over why property under federal seizure claim burned on
+  his raid, and the road encounter in *First Blood* (Ch. 16) turns lethal. Joshua does not see the shooter
+  (R-21). *(Replaces the stray summary phrase
   "burned by the cove" that had entered §12 Ch. 14.)*
 - **Margaret's trade in *The Deposition* (Ch. 23, Margaret POV).** Between Jacob's release (21 April 1881) and
   the October 1881 Statesville term, Parrish must answer the Bureau's audit (R-9) with an affidavit Washington
@@ -737,11 +743,12 @@ onstage party politics).
   her forty acres has to ask her to save his appointment. Before signing a word, Margaret exacts one price:
   Parrish must strike **`"a boy"`** from his compelled report to the Commissioner and enter **`Elisha
   Councill`** (R-10, producing *E1*'s exact spelling in R-12).
-- **The double-edged truth.** Margaret then swears one strictly true sentence: **Parrish stood in the road
-  calling his hired men back and did not order the fire, which caught in the split kegs of blockade whiskey
-  stored on Harper's floor.** That single sentence exonerates Parrish from willful destruction with Washington
-  (`"closed without adverse finding"`, R-9) and simultaneously puts sworn proof of stored untaxed spirits on
-  Harper's connected premises into the federal record against the cove. Neither of them calls it a favor.
+- **The double-edged truth.** As an authorial fact, Parrish did not order the fire. Margaret's single sworn
+  sentence is confined to what she saw and heard: **during the exchange she witnessed, he gave no order to set
+  a fire and stood in the road calling his hired men back as it caught in the split kegs on Harper's floor.**
+  She cannot testify about a private instruction outside her hearing (R-21). Her account helps clear Parrish
+  with Washington (`"closed without adverse finding"`, R-9) while putting proof of stored untaxed spirits on
+  Harper's premises into the federal record against the cove. Neither of them calls it a favor.
 
 ---
 
@@ -778,7 +785,44 @@ contingent scene proposals in `canon §12`.**
 
 ---
 
-## 12. Chapter map v1 — POV-tagged and dated (R-4, R-5, R-13)
+### R-21 · The accepted Act Two sequence, the written name, and the turn into Act Three
+
+`AUTHOR` (2026-10-29): the author accepted the Act Two outline and its proposed reconciliation of the
+chapter map and older timeline. `docs/act-2-beat-sheet.md` is the detailed blueprint; §12 and §2 below
+are the canonical sequence. Story dates and fictional events are `INVENT`, even when their weekdays are
+calendar-checked. Accepting the outline does **not** verify historical law, medical practice, prison rules,
+prices, or court procedure: the research gates in the outline remain open before prose.
+
+- **Order and dates.** Jacob's conviction remains **21 April 1879** and his release **21 April 1881** (R-13).
+  *The Name* is **12–13 November 1879**; the Johnson City journey and beating are **13–17 November 1879**;
+  Harper's barn burns **17 November 1879**. The examination follows the fire, and the deputy is killed on
+  **22 January 1880**. This supersedes the former §2 placement of the disclosure in mid-1880 and the beating
+  in late 1880. The beating comes **before** the fire; the fire comes **before** the deputy's death (R-19).
+- **A name given, not spoken.** Joshua witnessed Matthew's bargain in Chapter 7; he does not first learn it
+  from the later missing folio. In Chapter 12, to divert suspicion from an innocent person, he writes
+  **Matthew** on his mill tally board for Caleb and wipes it away. Joshua gives Caleb the name without saying
+  it aloud; Chapter 24 retains his first spoken identification of Matthew as the informer after the bargain.
+  Joshua has already said Matthew's name before learning the truth, in Chapters 1 and 7; the later silence is
+  about the disclosure, not a lifelong ban on the name. Rumor, Joshua's eyewitness knowledge, Matthew's
+  admission, and Parrish's omitted folio are distinct sources of knowledge.
+- **Consequences and sightlines.** In Chapter 13 Matthew is beaten and warned away; the planned injuries are
+  a broken **left forearm** and **two right ribs**. In Chapter 14 the hired men deliberately set Harper's barn
+  alight without Parrish's order. Margaret is present for what she later describes; she cannot testify from
+  knowledge of a private instruction she did not hear. In Chapter 16 Joshua hears a shot and sees the deputy
+  fall but cannot identify the shooter. Caleb's presence does not prove that he fired.
+- **The 1880 hinge.** *The Letters* begins at the shooting's aftermath and carries the reader to **11 December
+  1880**; Chapter 18 begins in the direct handoff from that ending, so **Act Three starts in December 1880**,
+  not January 1881. On 11 December Jacob has four calendar months and ten days until release; on 31 December he
+  has **111 days**, under four months. Jacob returns after his release and **before** the 1881 Parrish ambush.
+- **Accepted fictional account.** For drafting continuity, the outline has Joshua pay **$18 of the $24**
+  interest due 10 November 1879, leaving **$6**; if no intervening payment occurs, the 1880 interest brings the
+  balance to **$30**, and a **$10** payment leaves **$20**, with the **$400 principal unchanged**. Do not add
+  fees, compounding, or automatic foreclosure. The instrument, partial-payment practice, sale and bond procedure,
+  and period medicine remain research gates, not historical claims established by this ruling.
+
+---
+
+## 12. Chapter map v1 — POV-tagged and dated (R-4, R-5, R-13, R-21)
 
 Twenty outline beats in, **28 chapters** out, numbered continuously across the book. Renumbered
 2026-10-26 when R-13 fixed the two term dates and moved *The Return* ahead of the surrender: Jacob is out
@@ -786,7 +830,7 @@ of prison six months before his nephew walks into court, and the book is better 
 "J" = Joshua, "M" = Margaret. **Cross-references in this file are by title from now on, not by number, so
 this table can be reordered without breaking them.**
 
-**ACT ONE: THE THRESHOLD** · summer 1878 – February 1879
+**ACT ONE: THE THRESHOLD** · late August 1878 – 4 March 1879
 
 | # | Chapter | POV | Beat | What changes practically |
 |---|---|---|---|---|
@@ -799,31 +843,31 @@ this table can be reordered without breaking them.**
 | 7 | The Store Debt | J | The Temptation | **R-10's three asks in one chapter:** the day-book line, the date, the appointment not given. |
 | 8 | The Cold Still | M | End of Act One | The raid runs on Matthew's day; the still is cold; **Lish Councill is shot behind Harper's barn**; then the notice, naming the property and her interest (R-10/R-7). Ends unanswered. |
 
-**ACT TWO: THE WEIGHT OF IT** · March 1879 – December 1880
+**ACT TWO: THE WEIGHT OF IT** · 18 April 1879 – 11 December 1880 (R-21)
+
+| # | Chapter | POV | Date | What changes practically |
+|---|---|---|---|---|
+| 9 | The Term, 1879 | J | 18–26 Apr 1879 | At Statesville on **21 Apr**, Jacob is convicted and sentenced to two years; Margaret's separate land claim remains contested. The apparatus sale is distinct from the land case; its procedure and timing require research. Joshua returns to Caleb's request for another grinding. |
+| 10 | The Empty Year | J | Apr–11 Nov 1879 | Joshua grinds; Caleb's loose network keeps working. Harper reluctantly permits temporary storage, and Joshua's 10 Nov interest payment leaves six dollars unpaid (R-21; mortgage terms remain a research gate). |
+| 11 | Margaret's Book | M | 11–12 Nov 1879 | Margaret addresses the boundary survey and keeps control of her papers. A personal letter tells her Matthew is alive. Caleb asks to see it. |
+| 12 | The Name | J | 12–13 Nov 1879 | To deflect suspicion from an innocent person, Joshua writes **Matthew** on the mill tally board for Caleb and wipes it away; he does not say the name aloud (R-21). |
+| 13 | Johnson City | J | 13–17 Nov 1879 | Joshua rides with Caleb and three companions. Matthew admits giving the day; Caleb and his companions beat him, breaking his left forearm and two right ribs. Joshua intervenes; Caleb warns Matthew away. The return takes two days. |
+| 14 | The Burning | J | 17 Nov 1879 | On their return, Parrish's hired men find the kegs, stave them, and deliberately fire Harper's barn **without Parrish's order** (R-19); Margaret is present for what she can later testify to. |
+| 15 | The Missing Page | J | Nov 1879–22 Jan 1880 | After the fire Parrish examines Joshua about the connected mill tract. In a certified selection from Tyler's day book, Joshua sees **Folio 114** omitted; he already witnessed Matthew's bargain in Ch. 7 (R-18/R-21). |
+| 16 | First Blood | J | 22 Jan 1880 | A deputy is shot and dies; Joshua tries to help and does not see who fired. Caleb appears with a rifle; Joshua does not volunteer his presence to arriving riders (R-21). |
+| 17 | The Letters | J | 22 Jan–11 Dec 1880 | After the road death and the passage of seasons, Jacob's correspondence urges the boys to stop. Joshua opens the door and accompanies armed Caleb; the next chapter follows immediately. |
+
+**ACT THREE: THE RECKONING** · 11 December 1880 – November 1881
 
 | # | Chapter | POV | Beat | What changes practically |
 |---|---|---|---|---|
-| 9 | The Term, 1879 | J | (new, R-13) | **Statesville, term opened Monday 21 April 1879.** Jacob convicted; the statutory two years; the still sold for less than the iron was worth. A rented room — the United States had no courthouse in Asheville until 1892. Joshua watches the arithmetic be done in a language he half reads. |
-| 10 | The Empty Year | J | The Empty Year | Harvest without a distiller; the term list as the cove's almanac. "A year and more," never "about a year" (R-13). |
-| 11 | Margaret's Book | M | (new, R-3/R-7) | She reads the posted notices because the libel is against *her* tract. Her father's deed in the same box as her accounts. |
-| 12 | The Name | J | The Name | The cove learns who informed; Joshua is told; he does not say it. |
-| 13 | Johnson City | J | The Fall's aftermath | Matthew's injuries as objects and a doctor's sentence. The beating was Caleb's work too; Joshua looks at both boys and prices neither (R-8/R-10). |
-| 14 | The Burning | J | The Burning | **Harper's** barn — where Caleb's network stored blockade whiskey over the objection of the man who said *don't* (R-11) — raided by Parrish's hired possemen, who stave in the kegs and set the barn afire without Parrish's order, burning property under federal seizure claim (R-9/R-19). |
-| 15 | The Missing Page | J | The Network Spreads | **RULED (R-18):** With Jacob in prison from the April 1879 term, Parrish turns the civil *in rem* libel onto Joshua's mortgaged farm (`Parcel A`: mill, water race, cart road) as *"premises connected therewith"* and examines Joshua over a certified exhibit transcript of Tyler's seized day book — where Joshua spots the skipped folio number omitting Matthew's settled store account (`"by order of the agent"`, R-10/R-11). |
-| 16 | First Blood | J | The First Blood | The deputy is killed. The cove's war becomes the crime the Bureau was built to answer. |
-| 17 | The Letters | J | Jacob's Letters + end of Act Two | Prison correspondence in two hands; the months counted in the ledger, not in thought. |
-
-**ACT THREE: THE RECKONING** · January 1881 – November 1881
-
-| # | Chapter | POV | Beat | What changes practically |
-|---|---|---|---|---|
-| 18 | "We End It." | J | The Plan / Caleb's line | Caleb organizes; Joshua watches and does not stop him. |
+| 18 | "We End It." | J | The Plan / Caleb's line | Begins at the direct December 1880 handoff from Ch. 17: Caleb organizes; Joshua watches and does not stop him (R-21). |
 | 19 | The Warning | J | The Network Spreads | The nod as policy — and no banner, no oath, no minutes: the only minutes that exist are the agent's (R-14). Joshua is complicit in something he can price. |
 | 20 | The Return | J | Jacob's Release and Return | **Released 21 April 1881** on the two years counted from the April 1879 term. He comes home to a house that has become the site of a second case, and to a wife who has been running it. The law is not cruel; it is complete. |
-| 21 | The Ambush | J | The Ambush (partial) | *Best small scene available anywhere in the act:* a clerk writes "Whistlers" into a deposition and nobody in the room corrects him (R-14). | Parrish is hit; the horse goes down; the deputies return fire. Long sentence for the mountain, then four-word declaratives. The wound and the side are pinned. His reward is a letter, two chapters later. |
+| 21 | The Ambush | J | The Ambush (partial) | After Jacob returns, Parrish is hit; the horse goes down and the deputies return fire. A clerk writes "Whistlers" into a deposition and nobody corrects him (R-14). Pin the wound and side. |
 | 22 | The Search | M | The Manhunt | The house on her freehold is searched; she asserts a standing the searchers must answer to. Offstage: the Department's first letter, seen as an envelope. |
-| 23 | The Deposition | M | (new, R-9 / **RULED R-19**) | **Parrish must ask Margaret to save him.** Before signing, she requires him to strike `"a boy"` and enter **`Elisha Councill`** in his Commissioner's report (*E1*); then she swears one true sentence — Parrish stood in the road calling his hired men off when the fire caught in the split kegs stored on Harper's floor — saving Parrish with Washington and putting sworn proof of stored spirits into the federal record against the cove. |
-| 24 | The Surrender | J | The Capture | Joshua says the name he has kept unspoken, out loud, as a piece of information. Caleb gives himself to the court, not to the agent. |
+| 23 | The Deposition | M | (new, R-9 / **RULED R-19**) | **Parrish must ask Margaret to save him.** Before signing, she requires him to strike `"a boy"` and enter **`Elisha Councill`** in his Commissioner's report (*E1*); she then swears only to what she saw and heard: Parrish gave no fire-setting order within her hearing and called his hired men back as the split kegs caught. She cannot attest to a private instruction outside her hearing (R-21). Her account helps save Parrish with Washington while putting proof of stored spirits into the federal record against the cove. |
+| 24 | The Surrender | J | The Capture | Joshua identifies Matthew aloud as the informer after giving Caleb the name in writing in Ch. 12 (R-21). Caleb gives himself to the court, not to the agent. |
 | 25 | The Term, 1881 | J | (new, R-13) | **Statesville, term opened Monday 17 October 1881.** The circuit, the hotel rooms, the marshal's fees, and the fact that a trial in this district is a schedule before it is a judgment. |
 | 26 | Did She Know? | M | The Broader Tragedy / the trial | **RULED (R-20):** In Statesville (Judge Dick named, never voiced), Margaret lays down her folded pre-1861 Watauga deed (sole copy after the 1873 Boone fire, R-15) and stands on `Art. X §6`, N.C. Laws 1848–49 ch. 41, and *Scott v. Battle*, 85 N.C. 184 (1881) — no certified privy examination exists giving Jacob or any man an interest in her barn. In her one spoken sentence on knowledge she refuses to clear `Parcel B` by naming Caleb or Joshua, stalling the decree into *E1*'s `"the tract remains in contest"` (R-12) while mortgage and defense costs force Joshua to sell `Parcel A` in Ch. 27. |
 | 27 | The Mill Sold | J | Joshua's End | He sells and leaves; a father leaving the son he raised as his brother's, and neither of them says so (R-8). The only Brennan who dies where the streets have names. |
@@ -842,42 +886,50 @@ because her chapters carry the paperwork and run long. Measured at Pass 4, never
 **Word math for the pitch:** 28 chapters × 3,200–3,500 = 89,600–98,000 words — inside the 85,000–100,000
 target with no filler owed.
 
-**Scene-level status (ALL THREE SCENE PROPOSALS RULED):** *The Missing Page* (**R-18**), *The Deposition*
-(**R-19**), and *Did She Know?* (**R-20**) are all **RULED**, alongside *The Term, 1879* and *The Term,
-1881* (**R-13**). **All 28 chapters in Acts One, Two, and Three plus *E1–E3* now have locked structural beats.**
+**Scene-level status:** *The Missing Page* (**R-18**), *The Deposition* (**R-19**), and *Did She Know?*
+(**R-20**) remain ruled. The author accepted the Act Two outline and its chronology as **R-21**; its period
+research gates remain open. All 28 chapters plus *E1–E3* retain their locked structural beats.
 
 
 ## 2. Timeline
 
-Real dates are what the fiction is measured against. Everything in the right column is fiction.
+Real dates are what the fiction is measured against. Story dates in the right column are fictional,
+author-approved choices (R-21), not reports of real events. Unverified period mechanics remain research gates.
 
 | Date | World (real, `LEAD` unless noted) | *REVENUE* |
 |---|---|---|
-| Jul 1 1862 | First federal tax on distilled spirits, 20¢/proof gal | — |
-| Jul 20 1868 | Act barring stills in or near dwellings; distiller's bond and owner-in-fee rules; forfeiture regime `LEAD` | The law Jacob has never obeyed |
-| Jun 4 1872 | NC split into Eastern/Western Districts; Robert P. Dick appointed WDNC judge `LEAD` | Dick sits on Jacob's case |
-| Aug 1872 | Informer moieties repealed; shares become discretionary payments of the Commissioner `LEAD` | The machinery that decides whether Matthew is paid |
-| May 1875 | Whiskey Ring broken (Bristow); distillery raids 10–13 May `LEAD` | Why Washington now wants a man in the mountains who is *not* on the take |
-| Mar 3 1875 | Rate fixed at 90¢/proof gal (until Aug 27 1894) `LEAD` | The exact number in every assessment |
-| Aug 1876 | Green B. Raum Commissioner of Internal Revenue `LEAD` | Parrish's mandate |
-| Summer 1878 | The cove; Jacob's still; barter at Hoss Tyler's | **Act One opens** |
-| Autumn 1878 | Raum-era crackdown in western NC ("moonshine war") `LEAD` | Parrish arrives in the town below the gap |
-| Winter 1878–79 | Raids on unconnected stills; two arrests | The standoff; the boy on the ridge |
-| Spring 1879 | — | Parrish turns to Matthew; the raids; Jacob arrested |
-| **21 Apr 1879** | WDNC term **opens at Statesville** (3rd Monday in April) → R-13 | **Jacob convicted, two years:** U.S. v. Brennan. His release date is fixed now — 21 Apr 1881. |
-| Late 1879 / early 1880 | — | Harper's barn burned |
-| Sept 1880 | ET&WNC construction under way in earnest `LEAD`, dates contested | Blasting heard from the cove; men leave for the grade |
-| Early 1880 | — | The deputy ambushed on the road ("First Blood") |
-| Mid 1880 | — | Joshua tells Caleb the informant's name |
-| Late 1880 | — | The ride to Johnson City; Matthew beaten, exiled; Act Two closes on the ridge |
-| 1880–81 | Garfield assassinated 2 Jul 1881; Arthur succeeds `LEAD` | Act Three: the ambush on Parrish (summer 1881), the manhunt, the deposition |
-| Aug 25 1881 | Redmond tried in Charlotte (8 liquor counts, 2 conspiracy counts; 10 yrs Auburn; $2,600) `LEAD` | The template for Caleb's case — see §6 |
-| 22 Aug 1881 | Track to Hampton, TN complete `LEAD` | The steel is now a day's walk away |
-| **17 Oct 1881** | WDNC autumn term opens at Statesville (R-13) | **Caleb tried** on the liquor counts, as Redmond was tried in August; convicted, two years, fine |
-| **Nov 1881** | — | The mill sold; Joshua leaves; a blast from the far side of the ridge. **End of the fiction's present tense (R-5).** |
-| **21 Apr 1881** | Two years, counted to the day (R-13) | **Jacob released.** He comes home mid-ambush, to a cove that kept on without him and a wife who has run the place |
-| Mid-June 1882 | ET&WNC reaches Elk Park `LEAD` | **Outside the fiction's present tense. Under R-5 the train never appears; this date may only be reached by a printed document (Q-9), or spoken of as a rumor of spring.** |
-| 3 Jul 1882 | Line opens to Cranberry; iron moves; company town begins | The world the tax could not reach is reached anyway |
+| 1 Jul 1862 | First federal tax on distilled spirits, 20¢/proof gal | — |
+| 20 Jul 1868 | Act regulating stills, bonds, and forfeiture `LEAD` | The law Jacob has not obeyed |
+| 4 Jun 1872 | North Carolina divided into Eastern and Western Districts; Robert P. Dick appointed WDNC judge `LEAD` | Dick is named on the docket, never given invented words or acts |
+| 1 Aug 1872 | Informer moieties repealed; later payments discretionary `LEAD` | The machinery that decides whether Matthew is paid |
+| 3 Mar 1875 | Rate fixed at 90¢/proof gal until 27 Aug 1894 `LEAD` | The rate throughout the novel |
+| May 1875 | Whiskey Ring broken; distillery raids `LEAD` | Why Washington wants an agent who is not on the take |
+| Aug 1876 | Green B. Raum commissioner; supervisors abolished 15 Aug 1876 (`19 Stat. 152`) | Parrish's mandate |
+| Late Aug 1878 | — | **Act One opens:** Joshua diverts water across the boundary to save Jacob's run |
+| Oct–Nov 1878 | Raum-era crackdown in western NC `LEAD` | Parrish arrives; Joshua refuses him; Harper warns the cove |
+| Jan 1879 | — | Parrish raids smaller stills and takes Tyler's books for examination |
+| **3–4 Mar 1879** | — | Matthew gives the cold-still day; Jacob is arrested; **Lish Councill is killed**; Margaret's land is named in the notice. Act One ends. |
+| 6 Mar 1879 | ET&WNC three-foot-gauge re-charter `LEAD` | — |
+| **18–26 Apr 1879** | WDNC spring term opens at Statesville **Mon 21 Apr** | **Ch. 9:** Joshua and Margaret travel; Jacob is convicted on **21 Apr**, sentenced to two years, and scheduled for release **21 Apr 1881**. Margaret's separate claim remains contested. |
+| Apr–10 Nov 1879 | — | **Ch. 10:** the cove reorganizes work; Harper reluctantly shelters kegs. On **10 Nov**, Joshua pays $18 of $24 interest, leaving $6, subject to the mortgage research gate. |
+| **11–12 Nov 1879** | — | **Chs. 10–11:** boundary measurement; Margaret keeps her papers and receives Matthew's personal letter. |
+| **12–13 Nov 1879** | — | **Ch. 12:** Joshua writes Matthew's name for Caleb, then erases it, without speaking it. |
+| **13–17 Nov 1879** | — | **Ch. 13:** the journey to Johnson City, Matthew's admission, beating and warning away, and the two-day return. |
+| **17 Nov 1879** | — | **Ch. 14:** hired men burn Harper's barn without Parrish's order; Margaret witnesses the observable exchange. |
+| Nov 1879–Jan 1880 | — | **Ch. 15:** Parrish turns toward Joshua's tract; Joshua sees Folio 114 omitted from a certified selection. |
+| **22 Jan 1880** | — | **Chs. 16–17:** a deputy is killed; Joshua helps him but does not see who fired and does not disclose Caleb's presence to the approaching riders. |
+| Sept 1880 | ET&WNC construction under way in earnest `LEAD`, dates contested | Blasting and grade work approach as permitted by R-2 and R-5 |
+| **10 Nov 1880** | — | **Ch. 17:** $24 new interest plus $6 carried from 1879 is $30; a $10 payment leaves $20, with $400 principal unchanged. The mortgage mechanism requires research. |
+| **11 Dec 1880** | — | **Ch. 17 ends / Ch. 18 begins:** Jacob's letter asks the boys to stop; Joshua opens the door and goes with Caleb. Jacob has four months and ten days to release. |
+| **21 Apr 1881** | Two years counted from conviction (R-13) | **Jacob is released and returns home before the Parrish ambush.** |
+| Summer 1881 | — | The planned ambush wounds Parrish; the manhunt and Bureau inquiry follow |
+| 2 Jul 1881 | Garfield shot; Arthur succeeds after Garfield's death in September `LEAD` | — |
+| 22 Aug 1881 | Track to Hampton, Tennessee, complete `LEAD` | The steel approaches; no train is seen or heard in the cove (R-5) |
+| 25 Aug 1881 | Redmond tried in Charlotte (eight liquor counts and two conspiracy counts; ten years Auburn; $2,600) `LEAD` | A template for Caleb's case, not a fictionalized appearance |
+| **17 Oct 1881** | WDNC autumn term opens at Statesville (R-13) | **Caleb is tried** on the liquor counts; convicted, two years and a fine |
+| **Nov 1881** | — | The mill is sold; Joshua leaves; a blast sounds from the far side of the ridge. **End of the fiction's present tense.** |
+| Mid-Jun 1882 | ET&WNC reaches Elk Park `LEAD` | Outside the fiction's present tense; reachable only in a printed document or as a rumor |
+| 3 Jul 1882 | Line opens to Cranberry `LEAD` | The world the tax could not reach is reached anyway |
 | 1895 | — | `INVENT` Jacob dies, never having distilled again |
 
 ---
@@ -925,7 +977,8 @@ Real dates are what the fiction is measured against. Everything in the right col
   - Cove to the **ET&WNC railhead at Hampton, TN** (22 Aug 1881): **15.5 air / ~19.9 rail miles** through
     **Doe River Gorge**; active 1880–81 black-powder grading on Roan Mountain / Shell Creek / State Line Gap:
     **4–7 miles across the state-line ridge, audible at night** (`LEAD`, R-2/R-5).
-  - Cove to **Elizabethton / Johnson City, TN**: **~20 / ~34 miles — a day to a day and a half** (`LEAD`).
+  - Cove to **Elizabethton / Johnson City, TN**: **~20 / ~34 miles** (`LEAD`); the November 1879
+    Johnson City journey is allotted **two days each way** (R-21).
   - Cove to **Morganton** (Burke County seat, eastern wagon market): **~45 wagon miles — two days by wagon**
     (`LEAD`).
   - Cove to **Statesville** (Iredell County, WDNC federal court): **~90 road miles (65.4 air) across three
@@ -941,11 +994,10 @@ Ages are **as of the year the outline first sets them**, and are fixed by **R-6*
 outline's contradiction — Joshua 45 but "older brother" of a Jacob aged "45–50" — resolved in favor of the
 birth order. **Joshua is the elder: b. ~1828, 50 in 1878. Jacob b. ~1833, 45 in 1878.**
 
-**JACOB BRENNAN** — b. ~1833, so **45** in 1878 (R-6). Younger brother. Distiller on his elder brother's
-ground, which is the whole of his legal exposure and none of his self-image. Not a criminal in his own eyes
-and not a political animal. Competence shown only through the still: water, drainage, the placing of a
-garden. Engine consequence: the apparatus and his body are the libel's subject matter, but **the land is his
-wife's** (R-7) — the forfeiture falls on the one parcel that was always meant to be beyond him, which is
+**JACOB BRENNAN** — b. ~1833, so **45** in 1878 (R-6). Younger brother. Distiller on his wife's freehold adjoining his elder brother's
+mortgaged farm. Not a criminal in his own eyes and not a political animal. Competence shown through the still:
+water, drainage, the placing of a garden. The criminal case names Jacob; the separate civil libel reaches
+the apparatus and **his wife's land** (R-7) — the forfeiture falls on the one parcel that was always meant to be beyond him, which is
 why his calm in Act One reads, in hindsight, as a man protected by a marriage he never thanks.
 **RULED Q-13 → R-16 (`INVENT` grounded in `LEAD`):** stayed on the mountain in **1862–65** — cutting and
 hauling around Cranberry Forge to stay off the early conscript lists and lying out in the laurel when the Home
@@ -965,23 +1017,24 @@ stands on the total absence of any certified privy examination giving Jacob or a
 tract remains in contest"` (R-12).
 
 **MATTHEW BRENNAN** — 19 in 1878 (b. ~1859), Jacob's son, raised as Caleb's brother (R-8). Informs; is
-exiled; is beaten to broken ribs and a broken arm in Johnson City; never returns. **RULED Q-7 → R-10: three
-asks — the store debt (paid to Tyler, not to him), the day of the raid (a boy dies anyway), a written
-appointment (refused, courteously).** He is "paid" months late by a Treasury order that goes back uncashed,
+beaten in Johnson City, breaking his left forearm and two right ribs, and is warned away (R-21); never returns.
+**RULED Q-7 → R-10: three asks — the store debt (paid to Tyler, not to him), the day of the raid (a boy dies
+anyway), a written appointment (refused, courteously).** He is "paid" months late by a Treasury order that goes back uncashed,
 marked *person unknown*. No interiority, ever: his motive is three objects, not a thought.
 
 **CALEB BRENNAN** — 21 in 1878 (b. ~1857). **RULED Q-5 → R-8: Joshua's firstborn, raised as Jacob's
 son**, which keeps every outline label literally true — a Brennan, a nephew, "Father." Heir to his father's
 mortgaged farm and to Margaret's freehold, and to neither. Arc: hothead → organizer of the warning system →
-the man who decides that the burning of Harper's barn is a line crossed → the beating at Johnson City (his
-brother's work, and his) → ambush → fugitive → conviction → the mountain's own celebrity, which arrives
-through print (see the Redmond template, §5). Never told, never told twice: see §10's Caleb audit.
+beating Matthew in Johnson City → Harper's barn burns → the deputy is killed on the road → fugitive →
+conviction → the mountain's own celebrity through print (R-21; see the Redmond template, §5). Joshua does not
+see who fired the fatal shot. Never tell Caleb's parentage in prose: see §10's Caleb audit.
 
 **JOSHUA BRENNAN** — b. ~1828, so **50** in 1878 (R-6). Elder brother, heir to the farm, and the mortgagor
 of it: the fee the government can reach is his (R-3 + R-6). Miller and trader. Refuses to inform in
-Act One, refuses Caleb's intelligence request in Act Two, tells Caleb the informant's name anyway,
-shelters the fugitive, sells out and leaves. **The only man standing in both worlds and the only
-character who knows the informant's name and must decide whether to say it.** **Spine POV, ~80% — ruled
+Act One, refuses Caleb's intelligence request in Act Two, then writes Matthew's name for Caleb to stop a
+wrong accusation; he erases it without speaking it (R-21). He shelters the fugitive, sells out and leaves.
+**The man standing in both worlds, and an eyewitness to Matthew's bargain, must decide what to disclose.**
+**Spine POV, ~80% — ruled
 Q-1 → R-4.** Under **R-8**, the father of the boy in his brother's house — the one fact about Joshua the book
 must make legible without ever once stating it. And under **R-16**, a **Union veteran (1862–65)** who walked
 over State Line Gap the summer Elsie died and mustered out at Knoxville (unit unnamed on the page): the United
@@ -1006,7 +1059,7 @@ betray the cove. He keeps a book.
 junction road. **RULED Q-8 → R-11: he attends the Act One meeting and says *don't*, and is outvoted** — so
 the Act Two burning is done to the one neighbor who was right, and Lish Councill is killed on his ground. His
 knowledge is the forfeiture's easier case (*Stowell*: suffered and permitted; *Dobbins*: knowledge not
-required), and the cove cannot answer a man who was right except with fire. He gets no speech. He gets a
+required), and the man who was right loses his barn to the hired raid party. He gets no speech. He gets a
 doorway and his sons standing in it.
 
 **THE COVE.** `INVENT` ~12 distilling families; **Lish (Elisha) Councill, 15**, of North Fork, killed in the
@@ -1160,7 +1213,7 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 | Q-7 | Matthew's motive, concretely — and does he ever get paid? | ✅ RULED 2026-10-26 → **R-10**: the store, the day, the paper — granted, granted, refused; paid months late by an order returned "person unknown." It also pre-decides half of Q-8 (Tyler's day book is the exhibit) |
 | Q-8 | Promote Hoss Tyler and put Harper in the Act One meeting? | ✅ RULED 2026-10-26 → **R-11**: both promoted; Tyler a creditor, not a Judas — his own protest authenticates the day book; Harper says *don't* at the cove meeting and loses his barn for having been right |
 | Q-9 | Frame or no frame for the epilogue? | ✅ RULED 2026-10-26 → **R-12**: diegetic print only, three artifacts (report / county history / dime-novel title page), no author's note, no in-book accuracy apology; title-page date stays 1878–1881 |
-| Q-10 | Which federal court sits where, on what term date, in 1879? | ✅ RULED 2026-10-26 → **R-13**: the Circuit Court at Statesville, terms the 3rd Monday in April and October — Jacob convicted 21 Apr 1879 (released 21 Apr 1881), Caleb tried 17 Oct 1881; Judge Dick named, seated, never voiced |
+| Q-10 | Which federal court sits where, on what term date, in 1879? | ✅ RULED 2026-10-26 → **R-13**: the Circuit Court at Statesville, terms the 3rd Monday in April and October — Jacob convicted 21 Apr 1879 (released 21 Apr 1881), Caleb tried 17 Oct 1881; Judge Dick named on the docket, never voiced or given invented acts |
 | Q-11 | Is "Whistlers" sourced or invented-and-owned? | ✅ RULED 2026-10-26 → **R-14**: owned as invention, and print-only — the Bureau, the county paper and the dime novel say it; the hollow never does |
 | Q-12 | Which county is the cove — Watauga, Mitchell, or Caldwell? | ✅ RULED 2026-10-26 → **R-15**: near **Cranberry Forge / Elk Park** = **`Cranberry Township, Mitchell County`** in 1878–81 (seat **Bakersville**; *not* Burke, which lost this ground in 1833, though Burke and Watauga head the older burned-courthouse deeds in the family box) |
 | Q-13 | Reconstruction in or out? | ✅ RULED 2026-10-26 → **R-16**: in as bone structure, objects only — Joshua fought for the Union (1862–65, Knoxville discharge; same summer as the 1862 liquor tax), Jacob stayed on the mountain raising Caleb, and the 1868 Constitution is both the feared tax-roll regime and Margaret's separate-estate shield; zero party speeches, no Klan subplot |
@@ -1168,13 +1221,15 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 
 ---
 
-## 10. Continuity anchors (linter-enforced; `tools/check.py`)
+## 10. Continuity anchors (manually audited; selected checks in `tools/check.py`)
 
 - **Ages (R-6).** Joshua 50 (1878) · Jacob 45 · Margaret 40s · Matthew 19 · Caleb 21 · Parrish 35–40 ·
   Harper 60 (1879). `tools/check.py` compares any parenthetical age in the manuscript against this list.
-- **Injury sides.** Matthew: broken ribs — *which side*; broken arm — *which*. Once set, never vary.
-- **Seasons elapsed.** Act One summer 1878 → autumn 1878 → winter 1878–79 → spring 1879. Act Two
-  "empty year" 1879–80. Act Three 1880–**1881** (R-5: the present tense stops in autumn 1881; 1882 is
+- **Injury sides (R-21).** Matthew: **two right ribs** and **left forearm** broken in the November 1879
+  Johnson City beating. Keep sides consistent; verify diagnosis and period treatment before prose.
+- **Seasons elapsed.** Act One late summer 1878 → autumn 1878 → winter 1878–79 → spring 1879. Act Two
+  "empty year" 1879–80. Act Three begins **11 December 1880** and runs through **1881** (R-21; R-5: the
+  present tense stops in autumn 1881; 1882 is
   reachable only by report or by a printed epilogue).
 - **Jurisdiction, deed trail, and distances — CLOSED (R-15).** In 1878–1881 the hollow sits in **`Cranberry
   Township, Mitchell County`** (seat **Bakersville**, one full day / ~22 road miles down the North Toe), above
@@ -1185,13 +1240,14 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   Joshua's mortgage) sit at **Bakersville**. From **Elk Cove**, **Statesville** is **~90 wagon-miles** across
   three county lines (**three days each way on horseback**, R-13; from **Bakersville**, 22 miles south down the
   North Toe, county men reckon it at **~65–68 miles** when the river is down, keeping Ch. 3 and Ch. 8
-  consistent); Johnson City ~34 miles down the Doe River; Hampton railhead (22 Aug
+  consistent); Johnson City ~34 miles down the Doe River (**allow two days each way for the November 1879
+  journey**, R-21); Hampton railhead (22 Aug
   1881) **15.5 air / ~19.9 gorge miles** away, whistle blocked by Doe River Gorge, while 1880–81 black-powder
   blasting on Roan Mountain / Shell Creek / State Line Gap is 4–7 miles over the ridge.
-- **Sentence arithmetic — CLOSED (R-13).** Convicted at the term that opened **21 April 1879**, two years,
-  so released **21 April 1881**. At the end of 1880 he has **four months and ten days** left; in January 1880,
-  fifteen. Any line about his time must match the month of its chapter (and see R-13's fix to the outline's
-  "about a year").
+- **Sentence arithmetic — CLOSED (R-13/R-21).** Convicted **21 April 1879**, released **21 April 1881**.
+  On **21 January 1880** fifteen calendar months remain; on **11 December 1880**, four months and ten days;
+  on **31 December 1880**, **111 days** remain, under four months. Do not use the old end-of-year figure or
+  the source outline's "about a year."
 - **The term calendar is load-bearing (R-13).** Terms opened at Statesville the third Monday in April and
   October. Fixed here: **21 Apr 1879** (Jacob convicted), **17 Oct 1881** (Caleb tried). No verdict, notice,
   deed or filing may be dated on a day the court was not sitting, and nothing in the cove's planning language
@@ -1259,18 +1315,19 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   **Statesville, third Monday of April, 1879**.
 - **Parrish's wound.** Hit in arm or leg (outline undecided) — pin side and limb; he is on the page
   afterward holding things differently.
-- **Two ambushes.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes. The killed
+- **Two violent encounters.** Act Two's deputy and Act Three's Parrish must differ in texture or one goes. The killed
   deputy is **not** named Burns (real 1874 killing, WDNC — cite him, do not reuse him: R-9).
-- **Parrish's correspondence (R-9).** Three documents, dated, in the same hand: the Department's letter of
-  inquiry (Act Three, arriving offstage in ch. 20), his answer (ch. 22), and the closing note "without
-  adverse finding" (1882, the world of the epilogue). The windows follow the term calendar (R-13): the
-  inquiry no earlier than the summer of 1881, the answer filed between the April and October sittings.
+- **Parrish's correspondence (R-9/R-21).** Three documents, dated, in the same hand: the Department's letter
+  of inquiry **after the 1881 ambush in Ch. 21** (visible as an envelope in Ch. 22), his answer between the
+  April and October sittings, and the closing note "without adverse finding" in 1882. Do not place the inquiry
+  in Ch. 20 at Jacob's April return or after the separate 1880 deputy killing.
 - **The Caleb audit (R-8, updated R-11 & Act One Audit) — planted documentary/object facts only, zero narrator
   resemblance hints.** (i) Act One, *What a No Costs* (Ch. 4): the stitched `1866–1869` keeping-money foolscap
   (*To Jacob's house*) in Joshua's hand under years that predate the mortgage, alongside Ch. 8's **forty-cent
   brass-pinned dark-blue wool shawl** untouched seventeen springs at the top of Margaret's chest. (ii) Act Two
-  (via Hoss Tyler's seized day book, R-11): Tyler's bound ledger lists a **pair of boys' shoes** in a year
-  Jacob's house had only one child of his own. (iii) Act Three, *The Mill Sold* (Ch. 27): the deed by which
+  (via Hoss Tyler's seized 1861–71 day book, R-11/R-21): a **pair of boys' shoes for Caleb** is charged to
+  Joshua's account in **1864**, when Jacob had only one child of his own. A charge to the account does not
+  place Joshua at the store while he is away at war. (iii) Act Three, *The Mill Sold* (Ch. 27): the deed by which
   Joshua sells the mill reserves a right of way for "Caleb, my brother's son" — a phrase that means nothing to
   the clerk and everything to the reader. **Hard prose ban:** never compare Caleb's jaw, shoulders, wrists, gait,
   or axe/tool-stroke to Joshua's in narration. If a reader assembles it before *The Surrender*, the planting
@@ -1330,6 +1387,11 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
 
 ## 11. Change log
 
+- **2026-10-29 — Act Two outline accepted → R-21.** Reconciled the chapter map and master timeline: the
+  written disclosure and Johnson City beating precede Harper's 17 Nov 1879 fire; the deputy dies 22 Jan 1880;
+  Ch. 17 hands directly into Ch. 18 on 11 Dec 1880. Corrected release-date arithmetic and the Act Three start,
+  set Matthew's injury sides, and preserved all legal, prison, and medical research gates.
+
 - **2026-10-27 — Act One Senior Copyedit & Continuity Pass (`manuscript/01..08.md`, `tools/compile.py`).**
   Standardized Act One to closed CMOS em dashes (`—`, `CMOS §6.85`), Merriam-Webster compound spelling, and
   `CMOS §§8.19–8.33, 8.80` title/statute capitalization (`section forty-four`, `article ten, section six`,
@@ -1355,9 +1417,9 @@ Kevin rules each in chat. Each ruling moves from here to §1 as `AUTHOR` and out
   Harper's barn floor over his Act One *"don't"*, and Parrish's hired possemen staved in the kegs and set the
   barn afire without Parrish's order. Locked *The Deposition* (Ch. 23): Margaret requires Parrish to strike
   `"a boy"` and write **`Elisha Councill`** in his Commissioner's report (*E1*, R-10/R-12) before swearing one
-  strictly true sentence — Parrish stood in the road calling his hired men off when the blaze caught in the
-  split kegs stored on Harper's floor — saving Parrish's career with Washington while putting sworn proof of
-  stored spirits into the federal record against the cove.
+  strictly true sentence limited to what she saw and heard: no fire-setting order within her hearing and
+  Parrish calling his hired men back as the split kegs caught — saving Parrish's career with Washington while
+  putting proof of stored spirits into the federal record against the cove (R-21).
 
 - **2026-10-26 — Scene Proposal 1 of 3 ruled → R-18 (*The Missing Page*, Ch. 15).** After *The Burning* (Ch.
   14) — with Jacob already serving his two years from the April 1879 Statesville term (R-13) — Parrish turns

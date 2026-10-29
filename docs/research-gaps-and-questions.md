@@ -4,7 +4,9 @@
 `Rough Research`, `What was daily life like in north western NC in 1...`
 **Cross-checked against:** `Books/Appalachian Drama/` (The Bound Tree: `appalachian-drama.md`,
 `period-audit.md`, the four bibles), for house conventions.
-**Date:** 2026-10-26 · **Status:** questions for the author, not edits.
+**Date:** 2026-10-26 · **Status:** historical questions and research leads, not current canon. Author
+rulings are recorded in `canon/canon-v1.md` (now through R-21); specific research gates remain open in
+`docs/act-2-beat-sheet.md`. Earlier proposals in this document are not requests to reopen settled decisions.
 
 ---
 
@@ -565,11 +567,11 @@ to blame for it. Do you want it?
 ### Continuity / housekeeping (fix while you're in there)
 - **Joshua (45) is "Jacob's older brother" while Jacob is 45–50.** Ages must separate.
 - Margaret is 40s in 1879 and "now old and worn" in 1881.
-- "Jacob is sentenced to **two years**" and later "with **about a year left**" in "late 1880" —
-  arithmetic checks only if he was sentenced in mid-1878, which the plot contradicts (spring 1879
-  betrayal). Fix against R2's term calendar.
-- **Two ambushes**: Act Two's deputy ambush ("First Blood") and Act Three's Parrish ambush. If both
-  stay, they need different texture; if one goes, Act Two loses its turn.
+- **Sentence arithmetic — RULED R-13/R-21:** Jacob is convicted 21 April 1879 and released 21 April 1881.
+  On 11 December 1880 four calendar months and ten days remain; on 31 December, 111 days. The source
+  outline's "about a year" does not fit that late-1880 date; see canon §10.
+- **Two violent encounters — RULED R-21:** the deputy dies on 22 January 1880 and Joshua does not see the
+  shooter; the separately planned ambush on Parrish follows Jacob's return in 1881. Give them different texture.
 - Two Act headings are identical (§Q8).
 - Hedge quantifiers throughout ("maybe a dozen families," "probably working on a railroad," "he has
   one or two with him," "or... it's left unsaid," "There are different ways this could play out").

@@ -1,6 +1,6 @@
 # Character Bible — *REVENUE*
 
-**Status: v1.0 — locked through R-20 & updated post–Act One Style Audit.** Companion to `canon/canon-v1.md` §4. Ages, dates, and relationships are
+**Status: v1.1 — locked through R-21 & updated post–Act One Style Audit.** Companion to `canon/canon-v1.md` §4. Ages, dates, and relationships are
 recorded there and are authoritative; this file is for interior material — what a person wants, what a
 person will not say, and what their hands do.
 
@@ -19,9 +19,9 @@ independence, he wants the cove's consent.
 **Will not say:** that he knows the still's location is itself the offense, and chose it anyway.
 **Signature action:** fixes something that is not broken before he leaves a room.
 **Engine hook (§canon R-3 + R-6 + R-7):** he owns nothing the libel can reach, which is why he is calm in
-Act One. The tract in the libel is **his wife's** — and the encumbered farm next door is his elder brother's. Every scene of his should still have the ground
-under it — literally — but the ground belongs to Joshua, and that is the fact Jacob never says out loud
-because saying it would mean admitting the cost of his own competence falls on somebody else.
+Act One. The tract in the libel is **his wife's**; the encumbered farm next door is his elder brother's.
+Every scene of his should still have the ground under it, but the cost falls on both Margaret and Joshua—a
+fact Jacob never says out loud because it would mean admitting that his own competence costs somebody else.
 **Legal fact he cannot use:** he cannot register. Bond approval required an owner in fee *unencumbered*,
 and where there was a lien, every lienholder had to consent in writing — so the only lawful road ran
 through the mortgage holder's signature. One flat line from the miller in Act One, then never explained.
@@ -87,7 +87,12 @@ is less than what a season's corn brings. That is period-exact, it is funnier, a
 about a debt at Tyler's book; he asks that the raid be set on a day he names; he asks for a written
 appointment of any kind. Two are given, the third is declined courteously, and the day he picked gets a
 fifteen-year-old shot behind Harper's barn. He is never again the boy who wanted out; he is the man whose
-name appears in three documents and in no conversation.
+name appears in documents; Joshua writes it for Caleb in Ch. 12 and does not identify Matthew aloud as the
+informer until Ch. 24 (R-21). Joshua has spoken the name before he knows about the bargain.
+**Act Two continuity (R-21):** the Johnson City beating occurs **13–17 November 1879**, before Harper's
+fire; Matthew's injuries are a broken **left forearm** and **two right ribs**. A personal letter to Margaret
+is not his later uncashed Treasury order. Period treatment remains to be verified.
+
 **How to write a motive with no interiority (R-4 says he never gets a head):** three objects, no thoughts. A
 line in a day book in Tyler's own hand (`"by order of the agent"`, R-10/R-11 — omitted from Parrish's public
 exhibit transcript in *The Missing Page*, R-18). A date said once, in the store, and kept exactly. A letter
@@ -104,10 +109,10 @@ nothing — the outline already has "he doesn't argue, but he doesn't agree eith
 beat and refuse the interior gloss after it.
 **Signature action:** cleans a weapon while other men talk; the talking decides nothing, the cleaning
 decides everything.
-**Arc problem to solve:** as outlined he is a hothead who learns nothing. Fix by making him the one who
-*does* learn — who builds the warning system, who forbids killing Matthew and keeps that promise, and
-who then breaks his own rule at the barn fire. The tragedy is not rage. It is a competent man arriving
-at the wrong conclusion by a sound path.
+**Arc (R-21):** he builds the warning system and, after Joshua writes Matthew's name, rides to Johnson City
+in **13–17 November 1879**, where he beats Matthew and warns him away. Harper's barn burns on **17 November**;
+the deputy dies on **22 January 1880**. Joshua sees Caleb with a rifle afterward but not the shooter. Caleb
+does not become a cove-appointed executioner, and the tragedy is not reduced to a temper.
 **Ruled (canon R-8): he is Joshua's son, given to Jacob's house in 1862 when Joshua enlisted.** Every
 outline label stays literally true — a Brennan, a nephew, "Father" — and the reason he has more at stake
 than the man whose name is on the still is that he is heir to two properties and to neither.
@@ -150,9 +155,10 @@ Tennessee and served three years in the **Union** army, mustering out at **Knoxv
 the page). Congress enacted the distilled-spirits tax that same summer to pay his army. Seventeen years later
 the United States comes for his deed under the law that fed him, and he never once says so — his folded 1865
 discharge sits beside the mortgage receipt in *What a No Costs* and does all the talking.
-**Spine POV, ~80% (ruled: canon R-4).** He can enter both worlds, he is the only one who knows the
-informant's name and must decide whether to say it, his refusal is the book's thesis, and his
-compromise — sheltering Caleb — is the book's fall. His "gradual education" is the discovery engine the
+**Spine POV, ~80% (ruled: canon R-4).** He can enter both worlds and witnessed the informant's bargain.
+In Ch. 12 he writes Matthew's name for Caleb and wipes it away; he does not identify Matthew aloud as the
+informer until Ch. 24 (R-21). Before learning the bargain, he had already spoken Matthew's name in Act One.
+His refusal is the book's thesis, and his compromise — sheltering Caleb — is the book's fall. His "gradual education" is the discovery engine the
 Style Guide §2.1 requires, and Jacob's and Caleb's do not have one.
 **What that costs him on the page:** he is the POV, so the book's one unaffordable sentence is his — the
 reader must not be allowed to hear him call what he does *reasonable*.
@@ -170,7 +176,7 @@ wanted it personally, and he will not examine that.
 **Signature action:** writes in a fair hand while a man is talking about his livelihood; the
 book-closing; he never takes notes on a man's face.
 **Reasonable-antagonist discipline (§1.3):** he is courteous, patient, and correct within his
-institution. He does not burn the barn. He also does not stop them, and the missing written order is
+institution. He does not order the fire; he calls the men back but fails to stop them (R-19/R-21), and the missing written order is
 the most eloquent page in Act Two.
 **His cost (ruled: canon R-9) is that the order becomes an exhibit in his own defense.** The Department
 writes to ask why a raid was fought with hired men and why a barn the United States had a claim on was
@@ -178,14 +184,13 @@ burned. Both honest answers ruin him — *I did not order it* ends his authority
 the government destroyed property it was seizing — and he writes the second one in that same fair hand.
 The complaint closes without adverse finding, the promotion is a footnote, and the last thing he does in the
 book is shut a file.
-**The document he has to produce is a woman's word (*The Deposition*, ch. 23, R-19):** he needs an affidavit
-that the fire at Harper's storage barn was not ordered by him, and the only witness whose oath Washington
-cannot dismiss as a deputy covering a superior is Margaret — which is how he ends up asking the woman he is
-dispossessing to save his career. Before signing, she makes him strike `"a boy"` from his Commissioner's
-report and spell **`Elisha Councill`** (*E1*, R-10/R-12); then she swears one true sentence — that Parrish
-stood in the road calling his hired possemen off when the blaze caught in the split kegs of blockade whiskey
-stored on Harper's floor. It saves him with Washington, puts sworn proof of stored spirits into the federal
-record against the cove, and neither of them calls it a favor.
+**The document he has to produce is a woman's word (*The Deposition*, ch. 23, R-19/R-21):** he asks
+Margaret for an affidavit about the fire, and she limits it to what she saw and heard. Within her hearing,
+Parrish gave no order to set the barn alight; she saw him in the road calling his hired men back as the split
+kegs caught. She cannot testify to a private instruction outside that exchange. Before signing, she makes him
+strike `"a boy"` from his Commissioner's report and spell **`Elisha Councill`** (*E1*, R-10/R-12); her account
+helps save him with Washington and puts proof of stored spirits into the federal record against the cove.
+Neither of them calls it a favor. The form and legal effect of her affidavit remain a research gate.
 **The folio he leaves out (*The Missing Page*, ch. 15, R-18):** when he puts the *Stowell* "connected
 premises" question to Joshua over a certified exhibit transcript of Hoss Tyler's seized day book, he omits the
 single folio carrying Matthew's settled store account (`"by order of the agent"`, R-10/R-11) so an irregular

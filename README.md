@@ -3,7 +3,7 @@
 **A novel. Western North Carolina, 1878–1881.** The whiskey tax at ninety cents on the proof gallon, and
 the law that takes the land underneath the still. A railroad is coming the whole time and never shows up.
 
-Status: **Act One complete & line-edited (`01-the-water-is-right.md` through `08-the-cold-still.md` drafted, style-audited in `docs/act-1-style-audit.md`, linted `0 BAN / 0 FLAG`, and mirrored to Google Drive; scene blueprint in `docs/act-1-beat-sheet.md`).** Working title `REVENUE` per the author's own outline; the subtitle is working.
+Status: **Act One complete and line-edited** (`manuscript/01..08.md`); its blueprint is in `docs/act-1-beat-sheet.md`. **Act Two's detailed outline is author-approved** (`docs/act-2-beat-sheet.md`, R-21); its historical research gates remain open and its prose has not yet been drafted. Git is canonical and project documents are mirrored to Google Drive. Working title `REVENUE`; the subtitle is working.
 
 ---
 
@@ -22,6 +22,7 @@ canon/
                                   voice rules, the blocked-question list, continuity anchors
 docs/
   act-1-beat-sheet.md             detailed scene-by-scene blueprint for Act One (Chapters 1–8)
+  act-2-beat-sheet.md             author-approved outline and research gates for Act Two (Chapters 9–17)
   act-1-style-audit.md            prose-level historical-fiction style audit & change logs (Chs. 1–8)
   author-style-guide.md           standing craft rules (verbatim from Drive; repo copy wins)
   outline-v1-verbatim.md          the outline as written in Drive, unaltered, with line numbers
@@ -154,9 +155,9 @@ knows what shape the book is in:
     floor over his Act One *don't* (R-11), and Parrish's hired raid party staves in the kegs and fires the barn
     without Parrish's order. In *The Deposition* (Ch. 23), Margaret requires Parrish to strike `"a boy"` and
     write **`Elisha Councill`** in his Commissioner's report (*E1*, R-10/R-12), then swears one strictly true
-    sentence — Parrish stood in the road calling his hired men off and did not order the fire, which caught in
-    the split kegs of blockade whiskey stored on Harper's floor — saving Parrish's career with Washington while
-    putting sworn proof of stored spirits into the federal record against the cove.
+    sentence about what she witnessed — Parrish gave no order to fire the barn within her hearing and called
+    his hired men back as the split kegs caught — helping save his career while putting proof of stored spirits
+    into the federal record against the cove. She cannot testify to a private order she did not hear (R-21).
 20. **R-20 — *Did She Know?* (Ch. 26): Margaret's unburned Watauga deed and the absence of any certified privy
     examination stall `Parcel B` into `"the tract remains in contest"` (*E1*).** At the October 1881 Statesville
     sitting (Judge Robert P. Dick named, never voiced, R-13), Margaret produces her folded pre-1861 Watauga
@@ -168,6 +169,13 @@ knows what shape the book is in:
     (`"the tract remains in contest"` in Parrish's 1882 report, R-12), while mortgage and defense costs force
     Joshua to sell the mill (`Parcel A`) in Ch. 27 (*The Mill Sold*). **Closes all three `canon §12` scene
     proposals.**
+
+21. **R-21 — Act Two's chronology and written disclosure are accepted.** In November 1879 Joshua writes
+    Matthew's name for Caleb but does not identify him aloud as the informer until Chapter 24. The Johnson
+    City beating precedes Harper's **17 November 1879** fire; the deputy dies **22 January 1880**, and Joshua
+    does not see who fired. Chapter 17 hands directly into Chapter 18 on **11 December 1880**; Jacob returns
+    after his **21 April 1881** release and before the later ambush. These are fictional story dates, not
+    verified history; legal, prison, medical, and mortgage research remains open.
 
 ## Editing workflow
 

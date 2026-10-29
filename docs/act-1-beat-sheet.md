@@ -1,7 +1,7 @@
 # Act One Detailed Beat Sheet — *REVENUE* (`Chapters 1–8`)
 
-**Act Title:** ACT ONE: THE THRESHOLD (`September 1878 – 4 March 1879`, bridging into `21 April 1879`)
-**Status:** **ACT ONE COMPLETE** — all 8 chapters (`manuscript/01-the-water-is-right.md` through `manuscript/08-the-cold-still.md`) drafted, linted (`0 BAN, 0 FLAG`), bimodal-verified (`med 11–12`), and synced to `canon/canon-v1.md` (`R-1` … `R-20`) and Google Drive.
+**Act Title:** ACT ONE: THE THRESHOLD (`late August 1878 – 4 March 1879`, bridging into `21 April 1879`)
+**Status:** **ACT ONE COMPLETE** — all 8 chapters (`manuscript/01-the-water-is-right.md` through `manuscript/08-the-cold-still.md`) drafted, linted (`0 BAN, 0 FLAG`), bimodal-verified (`med 11–12`), and synced to `canon/canon-v1.md` (through R-21) and Google Drive.
 **Completed Act Length:** **24,240 plain-text words / 32,750 compiled words** across 8 chapters (`7 Joshua POV` / `1 Margaret POV`).
 
 ---
@@ -21,7 +21,7 @@ Every date below is checked against the real 1878–1879 perpetual calendar and 
 | **7** | *The Store Debt* | Joshua | **Mon afternoon, 3 Mar – Tue dawn, 4 Mar 1879** | Late-winter thaw mud & river fog | **3,533w** *(drafted)* | **`R-10`'s three objects onstage at Tyler's dawn counter** (Joshua in back scale-room): Parrish settles **Folio 114** in silver (`"by order of the agent"` in Tyler's hand, ledger re-impounded for 21 Apr), confirms **Matthew's cold-still day (`Tuesday 4 March`)**, and courteously refuses a **written appointment paper**; posse trots ahead of Joshua; single rifle shot cracks behind Harper's barn. |
 | **8** | *The Cold Still* | **Margaret** | **Tue morning – dusk, 4 Mar 1879** | Cold wet fog lifting off Elk Cove | **3,373w** *(drafted)* | **First Margaret POV (`R-4`/`R-7`):** forty paces from kitchen to cold barn; Jacob arrested under `Rev. Stat. §§ 3258, 3266, 3281`; appraisers inventory barn & cabin (**Elsie's wool shawl listed at 40¢**, `R-8`, then struck); **Lish Councill (15)** brought up dead behind Harper's barn (`"one boy"` in Parrish's book, `R-10`/`R-19`); bay mule returns riderless; Treasury **Notice of Seizure** tacked to Margaret's barn door naming her 40 acres for **21 April 1879 at Statesville**. |
 
-*(Bridge to Act Two opener — **Ch. 9: The Term, 1879**, Joshua POV, **Monday, 21 April 1879**: Statesville rented courtroom; Judge Robert Paine Dick named on docket, never voiced; Jacob sentenced to the statutory two-year maximum [release fixed at **21 April 1881**]; copper sold for less than scrap; Margaret's real-estate forfeiture held open on claim/answer.)*
+*(Bridge to Act Two opener — **Ch. 9: The Term, 1879**, Joshua POV, **18–26 April 1879**: Statesville rented courtroom; Jacob convicted **Monday, 21 April**, with release fixed at **21 April 1881**; Judge Robert Paine Dick named on the docket, never voiced or given invented acts. Margaret's real-estate claim remains contested. The apparatus sale is separate, with timing and procedure still to be verified; see `docs/act-2-beat-sheet.md` and R-21.)*
 
 ---
 

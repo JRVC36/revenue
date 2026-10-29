@@ -2,7 +2,7 @@
 
 ## THE WEIGHT OF IT · Chapters 9–17
 
-**Status:** Draft for author review, not a new ruling or finished prose. It follows the chapter order and locked decisions in `canon/canon-v1.md` §12 and R-1–R-20. Scene business, dates other than the fixed court and release dates, proposed dialogue, and working figures below are **fictional planning choices**, not verified historical facts or changes to canon.
+**Status:** **Author-approved Act Two outline** (2026-10-29), recorded in `canon/canon-v1.md` as **R-21**. This is a drafting blueprint, not finished prose. The accepted scene dates and story details are fictional choices; approval does not establish historical law, prices, medicine, prison practice, or procedure. The research gates below remain open.
 
 **Act question:** After Jacob is taken, how much can Joshua do to keep a family and a cove alive before the same acts make him answerable for what they do?
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 1. Working calendar and momentum chain
+## 1. Accepted story calendar and momentum chain
 
-The weekdays below have been calculated. All specific scene dates except the April 1879 conviction and April 1881 release are proposed for this draft, not historical findings. Travel must take the time shown: roughly three days each way to Statesville and roughly two each way between the cove and Johnson City. The 1880 shooting follows the 1879 fire.
+The weekdays below have been calculated. The dates are **author-approved fictional story dates**, not historical findings; the court and release dates remain fixed by R-13. Travel takes roughly three days each way to Statesville and roughly two each way between the cove and Johnson City. The 1880 shooting follows the 1879 fire.
 
-| Ch. | Title and POV | Proposed time | Irreversible change | Open ending → next chapter |
+| Ch. | Title and POV | Accepted story dates | Irreversible change | Open ending → next chapter |
 |---|---|---|---|---|
-| 9 | *The Term, 1879* — Joshua | 18–26 Apr 1879; conviction **Mon 21 Apr** | Jacob is sentenced; Margaret's separate land claim is lodged; the copper is sold separately from the still-contested land. | Caleb brings corn for a new run. Joshua has his hand on the mill gate; Chapter 10 begins with what he does with it. |
+| 9 | *The Term, 1879* — Joshua | 18–26 Apr 1879; conviction **Mon 21 Apr** | Jacob is sentenced; Margaret's separate land claim is lodged; the planned copper sale is separate from the still-contested land and subject to the procedure research gate. | Caleb brings corn for a new run. Joshua has his hand on the mill gate; Chapter 10 begins with what he does with it. |
 | 10 | *The Empty Year* — Joshua | Apr–11 Nov 1879 | Caleb's dispersed work and a cash shortage pull Joshua and Harper into new exposure. | A chain is stretched across Margaret's corner and the man holding the stake asks for her. Chapter 11 begins as she reaches him. |
 | 11 | *Margaret's Book* — Margaret | 11–12 Nov 1879 | Margaret keeps control of her title papers and household account; a letter gives her proof Matthew is alive. | Caleb asks to see the letter in her hand, with Joshua at the gate. Chapter 12 opens in that same encounter. |
 | 12 | *The Name* — Joshua | 12–13 Nov 1879 | To turn suspicion from an innocent man, Joshua gives Caleb Matthew's name without speaking it. | Caleb calls for horses. Joshua takes up his own bridle; Chapter 13 opens with the ride he chooses to join. |
@@ -28,14 +28,21 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 | 14 | *The Burning* — Joshua | 17 Nov 1879 | Hired men set Harper's barn alight without Parrish's order; its stored spirits and the barn are lost. | Parrish places Joshua's road and mill under question. Chapter 15 opens at the wreck with that demand still in Joshua's hand. |
 | 15 | *The Missing Page* — Joshua | Nov 1879–22 Jan 1880 | Parrish builds the connected-premises case against Parcel A; Joshua sees Folio 114 omitted from a certified selection. | Caleb rides out armed; a deputy is coming up the road. Joshua turns his mare after them. Chapter 16 takes up the converging movements. |
 | 16 | *First Blood* — Joshua | 22 Jan 1880 | A deputy is shot and dies; Joshua helps him but cannot say who fired. | Hooves approach as Caleb appears below the road. Joshua steps between the riders and the bank. Chapter 17 opens before they meet. |
-| 17 | *The Letters* — Joshua | Jan–11 Dec 1880 | Joshua withholds Caleb's presence; the debt deepens; Jacob's written request to stop arrives too late to undo the death. | Caleb takes up his rifle and asks Joshua to come look at a road. Joshua lifts the door bar. Chapter 18 follows them, and Caleb's “We end it” belongs there. |
+| 17 | *The Letters* — Joshua | 22 Jan–11 Dec 1880 | Joshua withholds Caleb's presence; the debt deepens; Jacob's written request to stop arrives too late to undo the death. | Caleb takes up his rifle and asks Joshua to come look at a road. Joshua lifts the door bar. Chapter 18 follows them, and Caleb's “We end it” belongs there. |
 
-### Two existing chronology conflicts
+### Resolved chronology and sentence arithmetic (R-21)
 
-1. The older chronological summary in `canon/canon-v1.md` §2 places the deputy's death in early 1880, Joshua's disclosure in mid-1880, and the Johnson City beating in late 1880. The same canon's chapter map places *The Name* and *Johnson City* in Chapters 12–13, **before** *The Burning* and *First Blood* in Chapters 14 and 16; R-19 also makes the burning precede the killing. This outline follows the **chapter map and R-19**, putting the disclosure and beating in November 1879. The §2 dates cannot all coexist with that order. **This is a proposed reconciliation, not an authorized canon change**; resolve it before drafting those chapters.
-2. Canon says Joshua tells Caleb the informant's name, while the Chapter 12 map says Joshua does not **say** it and Chapter 24 reserves an utterance of the name. Here Joshua writes it briefly on his mill tally board, then erases it. Caleb learns the name from him; Joshua has not spoken it. The choice is provisional and preserves the visible cost of telling. If the author intends an oral disclosure in Act Two instead, that conflicts with the later silence and needs a ruling before prose.
+The author accepted the chapter-map order: Joshua's written disclosure and the Johnson City beating occur
+in **November 1879**, before Harper's **17 November 1879** fire; the deputy is killed on **22 January 1880**.
+The former mid-/late-1880 placements have been removed from the master timeline. Joshua writes Matthew's
+name for Caleb and erases it in Chapter 12; he does not identify Matthew aloud as the informer until Chapter 24.
+He has spoken Matthew's name in Chapters 1 and 7 before witnessing the bargain; the silence concerns the
+identity of the informer, not every use of the name.
 
-**Sentence arithmetic:** The locked release is 21 April 1881. On 21 January 1880 it is fifteen calendar months away. On **11 December 1880** it is four calendar months and ten days away. On **31 December 1880** it is **111 days** away, under four months; the older canon phrase “at the end of 1880 … four months and ten days” is incorrect. Do not repeat it in the manuscript; a future approved canon correction should distinguish the two dates.
+The ending of Chapter 17 hands directly to Chapter 18 on **11 December 1880**, making that date the start of
+Act Three. Jacob's release remains **21 April 1881**, before the later ambush. From 21 January 1880 that is
+fifteen calendar months; from 11 December 1880 it is four months and ten days; from **31 December 1880 it is
+111 days**, under four months. The end-of-year arithmetic has been corrected in canon and the period audit.
 
 ---
 
@@ -43,17 +50,17 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 ### Chapter 9 · *The Term, 1879* — Joshua
 
-**Working span:** Friday 18–Saturday 26 April 1879, including the Statesville term opening on Monday the twenty-first.
+**Story span:** Friday 18–Saturday 26 April 1879, including the Statesville term opening on Monday the twenty-first.
 **Target:** 3,500–3,900 words.
 **Dramatic question:** Can Joshua bring Jacob home and keep Margaret's land from being sold in the same trip?
 
 **1. Price the road before taking it.** Margaret has read the notice on her barn. She and Joshua prepare for three days to Statesville and three back: horse feed, lodging, a little food that will not spoil, and the cost of being absent at planting time. Margaret carries her father's irreplaceable Watauga deed and her recorded Mitchell deed in an oilskin wrapping; Joshua does not take them from her. Caleb stays to keep the animals and the water going. Matthew's peg and the bay mule are present facts, not a new mystery. Joshua says nothing about what he heard at Tyler's.
 
-**2. The cost bond and the two cases.** Before or at the sitting, Margaret lodges a sworn claim to her forty acres and supplies the two qualifying freeholder sureties demanded by the notice. Harper is a proposed surety; the other is a qualifying neighbor to be identified only after the necessary property and procedure are checked. A **$250 cost bond is an obligation secured by sureties, not $250 in cash handed to a clerk**. The claim keeps the land issue in litigation; it does not make her safe. Stage her signing and her keeping hold of the original deed. Joshua can witness the labor without doing it for her. The claim, bond, and any acceptance remain subject to the research gate below.
+**2. The cost bond and the two cases.** Before or at the sitting, Margaret lodges a sworn claim to her forty acres and supplies the two qualifying freeholder sureties demanded by the notice. Harper is the intended surety, subject to confirming his qualifications; the other is a qualifying neighbor to be identified only after the necessary property and procedure are checked. A **$250 cost bond is an obligation secured by sureties, not $250 in cash handed to a clerk**. The claim keeps the land issue in litigation; it does not make her safe. Stage her signing and her keeping hold of the original deed. Joshua can witness the labor without doing it for her. The claim, bond, and any acceptance remain subject to the research gate below.
 
 **3. A room on the term list.** Joshua sees Jacob brought into the rented Statesville courtroom. The docket identifies the court and judge; no invented words or actions are assigned to the real Judge Dick. The cold kettle, the seized apparatus, and Tyler's books do their different jobs as evidence. Hoss protests the taking and identifies his own entries; he is neither a paid informant nor a man who chooses what the court will make of his book. Jacob is convicted and sentenced to two years **on 21 April 1879**. The criminal judgment against him is not a judgment that automatically disposes of Margaret's separate civil claim.
 
-**4. A shoe entry; a sale.** When Tyler and a clerk have the older book open for an intelligible reason, Joshua stands close enough to read it on a well-lit table. A proposed bare entry in Tyler's hand charges Joshua's account in **1864** for one pair of boys' shoes for Caleb. Joshua was away at war; a charge to his account does not put him at the store that day. No one explains the entry, compares the men, or joins it to the keeping-money sheet from Chapter 4. Separately from the unresolved land case, the seized apparatus is brought to sale during the term **only if research supports that timing**. Joshua watches it fetch less than the iron he knows how to price. No speculative court procedure or bid is to be passed off as verified.
+**4. A shoe entry; a sale.** When Tyler and a clerk have the older book open for an intelligible reason, Joshua stands close enough to read it on a well-lit table. A bare entry in Tyler's hand charges Joshua's account in **1864** for one pair of boys' shoes for Caleb. Joshua was away at war; a charge to his account does not put him at the store that day. No one explains the entry, compares the men, or joins it to the keeping-money sheet from Chapter 4. Separately from the unresolved land case, the seized apparatus is brought to sale during the term **only if research supports that timing**. Joshua watches it fetch less than the iron he knows how to price. No speculative court procedure or bid is to be passed off as verified.
 
 **5. The return and the ask.** They ride home without Jacob. Margaret brings her deeds back. At the mill, Caleb waits with two neighbors' corn, ready for a run elsewhere. He asks Joshua to grind it before day. Joshua can sell his time for cash work he needs, or open the water for this load.
 
@@ -63,7 +70,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 ### Chapter 10 · *The Empty Year* — Joshua
 
-**Working span:** Begins at Chapter 9's gate, April; carries through the 1879 harvest and 11 November.
+**Story span:** Begins at Chapter 9's gate, April; carries through the 1879 harvest and 11 November.
 **Target:** 3,200–3,500 words.
 **Dramatic question:** Can the cove replace Jacob's labor without putting another person's house in its path?
 
@@ -73,7 +80,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 **3. Harper's floor.** Caleb's people need temporary dry storage. Harper objects, consistent with his warning and the boy killed behind his barn. A load is nevertheless left there; Harper discovers it and demands it be removed. Bad roads and the needs of neighbors give him a hard choice rather than a change of personality. For a limited time he allows the kegs to remain under loose boards in a dry part of the storage barn. He has seen them and can demand their removal; he is not made a distiller or an enthusiastic organizer. Joshua knows enough to help remove them and leaves the decision for later. The kegs are still there when the raid comes.
 
-**4. A creditor's arithmetic.** On **10 November 1879**, Joshua brings Tyler **$18** toward the annual **$24** interest due on the unchanged **$400** principal. Six dollars remains unpaid. This is a proposed transaction, not an automatic foreclosure or a new lien; verify the instrument's terms before drafting. Tyler records the part payment in a current account sheet, not in either older book that was impounded. He will still sell food and collect debts. Show what Joshua has given up to bring the eighteen dollars and what the six would buy or how long it would take to earn.
+**4. A creditor's arithmetic.** On **10 November 1879**, Joshua brings Tyler **$18** toward the annual **$24** interest due on the unchanged **$400** principal. Six dollars remains unpaid. This is an accepted fictional transaction, not an automatic foreclosure or a new lien; verify the instrument's terms before drafting. Tyler records the part payment in a current account sheet, not in either older book that was impounded. He will still sell food and collect debts. Show what Joshua has given up to bring the eighteen dollars and what the six would buy or how long it would take to earn.
 
 **5. The chain at the corner.** The next day Joshua sees a man with a land chain at the shared granite corner, working from the description of Margaret's tract. His companion has come to identify its boundary for the pending case. They have not yet added Joshua's property to the libel. The man at the corner asks for Margaret rather than letting Joshua identify her land for her.
 
@@ -83,7 +90,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 ### Chapter 11 · *Margaret's Book* — Margaret
 
-**Working span:** 11–12 November 1879, beginning at the boundary.
+**Story span:** 11–12 November 1879, beginning at the boundary.
 **Target:** 3,500–3,900 words.
 **Dramatic question:** What must Margaret reveal to defend her land, and what can she keep for the people living on it?
 
@@ -103,7 +110,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 ### Chapter 12 · *The Name* — Joshua
 
-**Working span:** 12–13 November 1879; begins in Margaret's yard.
+**Story span:** 12–13 November 1879; begins in Margaret's yard.
 **Target:** 3,200–3,500 words.
 **Dramatic question:** Can Joshua prevent another innocent person from being harmed without putting Matthew in Caleb's path?
 
@@ -123,7 +130,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 ### Chapter 13 · *Johnson City* — Joshua
 
-**Working span:** 13–17 November 1879; two days out, a confrontation and care, then two days back.
+**Story span:** 13–17 November 1879; two days out, a confrontation and care, then two days back.
 **Target:** 3,500–3,900 words.
 **Dramatic question:** Will the family find Matthew in time to hear him, and can Joshua keep him alive after they do?
 
@@ -133,7 +140,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 **3. Ask; answer; strike.** Caleb asks about the day. Matthew admits he gave it and says the furnace was to be cold. His words can carry both the practical bargain and what he left out; do not put an explanation of his motives inside his head. Caleb hits him. The others restrain Matthew or prevent flight; the beating is not made gentle and is not justified as a verdict. Joshua intervenes and separates them before they kill him. Caleb is responsible for blows he lands, not absolved because another man was also there.
 
-**4. Care, threat, and departure.** An invented, unnamed town doctor examines Matthew and identifies a **broken left forearm and two broken right ribs**—proposed injury sides, to remain consistent if approved. Research the treatment before describing it; do not turn a splint into a modern procedure or promise the absence of internal injury. Joshua pays a tangible doctor's fee. Caleb warns Matthew not to return to the cove; Matthew leaves the encounter alive, without an assigned destination or a narrator's prophecy about his life. The later uncashed Treasury order is a separate document, months after his departure from the novel, and is not shown or invented here.
+**4. Care, threat, and departure.** An invented, unnamed town doctor examines Matthew and identifies a **broken left forearm and two broken right ribs**—the accepted injury sides, to remain consistent. Research the treatment before describing it; do not turn a splint into a modern procedure or promise the absence of internal injury. Joshua pays a tangible doctor's fee. Caleb warns Matthew not to return to the cove; Matthew leaves the encounter alive, without an assigned destination or a narrator's prophecy about his life. The later uncashed Treasury order is a separate document, months after his departure from the novel, and is not shown or invented here.
 
 **5. The junction on the way home.** The return takes its own two days. Joshua and Caleb approach Harper's junction in daylight on Monday. From a credible distance they can identify Parrish's bay and a party of riders near the gate, and Margaret, who came for the exchange arranged in Chapter 11, at Harper's doorway. The stored kegs have not yet been carried out in Joshua's sight.
 
@@ -143,7 +150,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 ### Chapter 14 · *The Burning* — Joshua
 
-**Working span:** Monday 17 November 1879, beginning at Harper's gate.
+**Story span:** Monday 17 November 1879, beginning at Harper's gate.
 **Target:** 3,500–3,900 words.
 **Dramatic question:** Can Harper keep his barn after agreeing to shelter the cove's kegs for one more stretch of bad road?
 
@@ -155,7 +162,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 **4. One sentence returned.** The Harpers can save animals and a few things, not the barn. In Harper's hearing, Luke gives Caleb his father's earlier warning exactly once, without an added speech: “Don’t fire another kettle this winter, Jacob, or that man will take the roofs off men that never made a gallon.” Harper stands in the doorway with his sons. No one supplies an “I told you so.” The kegs' presence is a fact about the cove's choice as well as a fact Parrish can use.
 
-**5. A question after the fire.** Parrish has lost property he claimed and has had to call his own men back. He does not turn into a man who enjoys the loss. At the edge of the wreck, he asks Joshua about the mill, the water, and the road that connect it to Margaret's barn; a written request or summons follows in a form the historical check can support. The proposal does not assert that Parcel A has already been condemned.
+**5. A question after the fire.** Parrish has lost property he claimed and has had to call his own men back. He does not turn into a man who enjoys the loss. At the edge of the wreck, he asks Joshua about the mill, the water, and the road that connect it to Margaret's barn; a written request or summons follows in a form the historical check can support. The scene does not assert that Parcel A has already been condemned.
 
 **Ending — the investigation changes direction:** The demand names or describes Joshua's mill tract. He takes the paper while Harper's barn is still burning down. **Next chapter:** start with Joshua at the wreck, reading or hearing the demand; then let the interval required to assemble the examination pass on the page.
 
@@ -163,7 +170,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 ### Chapter 15 · *The Missing Page* — Joshua
 
-**Working span:** The evening of the fire, then winter through 22 January 1880.
+**Story span:** The evening of the fire, then winter through 22 January 1880.
 **Target:** 3,200–3,600 words.
 **Dramatic question:** Can Joshua answer the questions that protect his own title without giving the government the knowledge it needs?
 
@@ -183,7 +190,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 ### Chapter 16 · *First Blood* — Joshua
 
-**Working span:** 22 January 1880, beginning on the road out of Chapter 15.
+**Story span:** 22 January 1880, beginning on the road out of Chapter 15.
 **Target:** 3,000–3,400 words.
 **Dramatic question:** Can Joshua reach the deputy before Caleb's armed pursuit becomes a killing?
 
@@ -201,7 +208,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 ### Chapter 17 · *The Letters* — Joshua
 
-**Working span:** Immediately after the shooting, then the marked passage to 11 December 1880.
+**Story span:** Immediately after the shooting, then the marked passage to 11 December 1880.
 **Target:** 3,200–3,600 words.
 **Dramatic question:** Once Joshua has withheld what he saw of Caleb, can Jacob's written plea still turn either of them away from the next violence?
 
@@ -209,7 +216,7 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 **2. The seasons have passed.** Carry the reader from January to the following winter through changed work, crops, and a few dated obligations, not a montage that pretends a week is ten months. The killing brings official attention and practical caution; do not promise an army, invent the outcome of an investigation, or bring forward the Bureau's separate inquiry into Parrish, which belongs after the 1881 ambush. No one has been proved to be the shooter on Joshua's sightline. No extra death or arrest is required to establish pressure.
 
-**3. Two interest dates.** On **10 November 1880**, another **$24** annual interest comes due. If the proposed **$6** from 1879 remains unpaid and no other payment intervenes, the outstanding interest is **$30**, separate from the **$400 principal**. A proposed **$10** part payment leaves **$20** of interest, without adding invented fees or compounding. Hoss may demand the remainder but does not automatically take the mill. Verify the mortgage terms and period treatment of arrears before putting any consequence on the page. The numbers exist to show what Joshua can no longer spend on food, counsel, or the farm.
+**3. Two interest dates.** On **10 November 1880**, another **$24** annual interest comes due. With the **$6** from 1879 unpaid and no other payment intervening, the outstanding interest is **$30**, separate from the **$400 principal**. A **$10** part payment leaves **$20** of interest, without adding invented fees or compounding. Hoss may demand the remainder but does not automatically take the mill. Verify the mortgage terms and period treatment of arrears before putting any consequence on the page. The numbers exist to show what Joshua can no longer spend on food, counsel, or the farm.
 
 **4. Two hands.** An earlier letter from Margaret informed Jacob that a deputy had been killed; she did not name a shooter. Margaret receives Jacob's answer and chooses to read the relevant part to Joshua and Caleb. Jacob asks that the boys stop before another killing. Margaret has begun her reply in her own hand; the reader can see two people's handwriting and what each chooses to include. Her private cipher household book remains private—Joshua is not suddenly able to read it. No sympathetic guard, secret smuggling route, prison name, or precise correspondence rule is asserted until researched. On **11 December 1880**, four months and ten days remain to the locked 21 April 1881 release; a date on the correspondence or household calendar can carry that without a narrator's lecture.
 
@@ -223,23 +230,23 @@ The weekdays below have been calculated. All specific scene dates except the Apr
 
 - **Chapter 8 → Chapter 9:** Jacob was taken on 4 March 1879; the seized kettle was cold; Lish Councill was shot behind Harper's barn; Matthew's bay mule came home without him; Margaret's posted notice names her forty acres and the $250 cost bond. Jacob's trial does not itself decide the land libel.
 - **Joshua's knowledge:** He directly heard Matthew give the day and ask for a commission and heard Tyler read the debt settlement in Chapter 7. He does not need a new informant to tell him Matthew's role. Chapter 12 makes him choose whether to share that knowledge; Chapter 15 shows him a later omission, not the original bargain.
-- **Caleb's family clue:** The 1864 shoe entry is a proposed Act Two instance of the locked Tyler-book clue. It connects to Joshua's 1866–69 keeping-money sheet and the shawl only in the reader's hands. Do not explain Caleb's parentage, name it in dialogue, or use resemblance as a hint.
-- **Matthew:** The three asks remain debt paid, day granted, appointment refused. The letter to Margaret is personal, not a Treasury order. His injuries have proposed **left forearm / right ribs**; keep the sides stable if adopted. No narrated knowledge of where he goes after the Johnson City encounter.
+- **Caleb's family clue:** The 1864 shoe entry is the accepted Act Two instance of the locked Tyler-book clue. It connects to Joshua's 1866–69 keeping-money sheet and the shawl only in the reader's hands. Do not explain Caleb's parentage, name it in dialogue, or use resemblance as a hint.
+- **Matthew:** The three asks remain debt paid, day granted, appointment refused. The letter to Margaret is personal, not a Treasury order. His injuries are **left forearm / right ribs**; keep the sides stable. No narrated knowledge of where he goes after the Johnson City encounter.
 - **Harper:** His warning is returned verbatim once in *The Burning*. He sees the kegs and gives limited, pressured permission to leave them temporarily; he does not become a distiller. The stored kegs are under the boards before the search and on the barn floor when broken and burned. Margaret is physically present for the relevant exchange; her later affidavit may report her observation, not private orders she could not hear.
 - **Parrish:** Courteous and exact; never granted interiority. His men set the fire without his order and he calls them back. The land case can turn to Joshua's tract without claiming an instant forfeiture. The **Bureau inquiry into Parrish comes after the 1881 ambush**, not after the 1880 deputy's death. The 1882 report remains an epilogue document.
 - **Violence:** Lish first; one fictional deputy next. No one else dies in Act Two. Joshua does not see who fires at the deputy. The chaotic shooting must be staged differently from the later planned attack on Parrish. The fictional deputy is not Burns.
-- **Debt:** The $18/$6 and $10/$20 transactions are draft proposals only. If kept, a ledger must carry the unpaid six forward; principal remains $400 unless an actual payment changes it. Do not treat the $250 bond as money spent or infer foreclosure from missed interest alone.
+- **Debt:** The accepted fictional payments are **$18 of the $24** due on 10 November 1879, leaving **$6** unpaid; on 10 November 1880, another **$24** brings interest owed to **$30**, and a **$10** part payment leaves **$20**. The **$400 principal** is unchanged. No fees, compounding, or automatic foreclosure are assumed; the mortgage terms remain a research gate. Do not treat the $250 bond as money spent.
 - **Place and sightline:** Elk Cove to Bakersville is about 22 road miles; Statesville is about 90 wagon miles and three days each way; Johnson City is about 34 miles, with two days each way allowed here. Harper's junction is near Tyler's store, not within sight of Bakersville. Reading a small hand requires a supported surface, light, and an earned distance.
 - **Language and approach:** No eye dialect; the family's work vocabulary and mountain `blockader`/`blockade whiskey` register follow R-17. No cove organization name, oath, or minutes. No train is seen anywhere in the novel. Powder, survey work, jobs, and goods may convey the approaching line without inventing an unverified construction date.
-- **Chapter-end discipline:** Each final beat leaves one concrete action or choice uncompleted; its next chapter pays that action before expanding the story. These are proposed stopping points, not mandatory final sentences. Cut any closing paragraph that explains the moral after the physical action has landed.
+- **Chapter-end discipline:** Each final beat leaves one concrete action or choice uncompleted; its next chapter pays that action before expanding the story. These are accepted structural stopping points, not mandatory final sentences. Cut any closing paragraph that explains the moral after the physical action has landed.
 
 ---
 
 ## 4. Research gates before prose
 
 1. **Federal claim, cost bond, sureties, and sale:** Verify the actual Western District forfeiture procedure, whether and when a claimant filed a bond of this form, what made two sureties acceptable, and how the copper could be condemned and sold while Margaret's land remained contested. Chapter 8 already prints the notice; do not invent additional legal guarantees to repair an unverified form.
-2. **Tyler's books and certified selections:** Confirm how a merchant's books and protest could be compelled, authenticated, copied, and used in this court. Confirm the form and authority of the proposed examination and any amendment reaching Parcel A. The skipped selection is not, by itself, proof of fraud.
+2. **Tyler's books and certified selections:** Confirm how a merchant's books and protest could be compelled, authenticated, copied, and used in this court. Confirm the form and authority of the planned examination and any amendment reaching Parcel A. The skipped selection is not, by itself, proof of fraud.
 3. **Harper's raid and fire:** Check the seizure authority and any pre-fire claim to the barn and its contents. Preserve the ruled fact that hired men deliberately set the fire without Parrish's order; give Margaret a credible, strictly observed basis for her later account. Do not certify that she knows what was said before she arrived.
 4. **Prison and letters:** Identify a defensible place of confinement and verify 1879–81 correspondence, transport, and release practice before naming them or describing censorship, smuggling, or labor. Until then use ordinary physical letters without asserting a mechanism.
-5. **Mortgage, prices, work, and medicine:** Check the proposed partial payments against the deed's terms; research a credible auction comparison, Johnson City employment, the doctor's fee and treatment, and any new tools or materials in the year used. Verify new dollar amounts and measures on first touch with household or labor scale.
-6. **Existing canon conflicts:** Secure approval for the Chapter 12–16 chronology and the written-name reconciliation above before promoting them into canon. Correct the end-of-1880 sentence arithmetic when canon is next updated; the fixed release date is unchanged.
+5. **Mortgage, prices, work, and medicine:** Check the planned partial payments against the deed's terms; research a credible auction comparison, Johnson City employment, the doctor's fee and treatment, and any new tools or materials in the year used. Verify new dollar amounts and measures on first touch with household or labor scale.
+6. **Resolved canon conflicts:** The Chapter 12–16 chronology, written-name reconciliation, Act Three handoff, and corrected sentence arithmetic are now recorded in R-21. Keep later drafting aligned with that ruling; the separate historical research questions above remain open.
